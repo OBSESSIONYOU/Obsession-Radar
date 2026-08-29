@@ -14,6 +14,8 @@
     sourceHealth: defaultSourceHealth(),
     paperStatus: "",
     candidatesExpanded: false,
+    candidateSourceFilter: [],
+    candidateSort: "score",
     aiApiConfig: aiApiConfigApi.loadAiApiConfig(),
     apiSettingsOpen: false,
     apiTesting: false,
@@ -76,6 +78,7 @@
     topicResults: document.querySelector("#topicResults"),
     recommendations: document.querySelector("#recommendations"),
     candidateToggleButton: document.querySelector("#candidateToggleButton"),
+    candidateFilters: document.querySelector("#candidateFilters"),
     paperStatus: document.querySelector("#paperStatus"),
     papers: document.querySelector("#papers"),
     libraryTabs: document.querySelector("#libraryTabs"),
@@ -101,6 +104,8 @@
   elements.exportReadingButton.addEventListener("click", downloadReadingMarkdown);
   elements.exportBibtexButton.addEventListener("click", downloadBibtex);
   elements.candidateToggleButton.addEventListener("click", toggleCandidates);
+  elements.candidateFilters.addEventListener("click", handleCandidateFilterClick);
+  elements.candidateFilters.addEventListener("change", handleCandidateSortChange);
   elements.papers.addEventListener("click", handlePaperAction);
   elements.libraryTabs.addEventListener("click", handleLibraryView);
   elements.paperLibrary.addEventListener("click", handleLibraryAction);
@@ -206,7 +211,7 @@
     const paperStories = [...arxivResult.stories, ...semanticScholarResult.stories];
     const paperRadar = arxivResult.error && semanticScholarResult.error
       ? previousPaperRadar
-      : window.RadarCore.buildPaperRadar(paperStories);
+      : window.RadarCore.buildPaperRadar(paperStories.map(window.RadarCore.enrichPaperStory));
     state.paperStatus = paperStatusFromResults([arxivResult, semanticScholarResult], paperRadar === previousPaperRadar);
     const mainStories = [...hnResult.stories, ...githubResult.stories];
     if (!mainStories.length && !paperStories.length) {
@@ -233,7 +238,7 @@
       error.startsWith("arXiv:") || error.startsWith("Semantic Scholar:")
     );
     const paperRadar = paperStories.length || !paperSourceFailed
-      ? window.RadarCore.buildFocusedPaperRadar(paperStories, { topic, aiOnly: false })
+      ? window.RadarCore.buildFocusedPaperRadar(paperStories.map(window.RadarCore.enrichPaperStory), { topic, aiOnly: false })
       : previousPaperRadar;
     state.paperStatus = paperStatusFromResults(
       (topicResult.results || []).filter((result) => result.source === "arXiv" || result.source === "Semantic Scholar"),
@@ -543,9 +548,11 @@
 
   function renderCandidates() {
     const candidates = state.radar.candidates || [];
+    renderCandidateFilters(candidates);
+    const filtered = applyCandidateFilterAndSort(candidates);
     const visibleCandidates = state.candidatesExpanded
-      ? candidates
-      : candidates.slice(0, INITIAL_VISIBLE_CANDIDATES);
+      ? filtered
+      : filtered.slice(0, INITIAL_VISIBLE_CANDIDATES);
     elements.candidates.innerHTML = visibleCandidates
       .map(
         (story, index) => `
@@ -561,10 +568,64 @@
         `,
       )
       .join("");
-    elements.candidateToggleButton.hidden = candidates.length <= INITIAL_VISIBLE_CANDIDATES;
+    elements.candidateToggleButton.hidden = filtered.length <= INITIAL_VISIBLE_CANDIDATES;
     elements.candidateToggleButton.textContent = state.candidatesExpanded
       ? "收起候选"
-      : `展开全部候选（共 ${candidates.length} 条）`;
+      : `展开全部候选（共 ${filtered.length} 条）`;
+  }
+
+  function renderCandidateFilters(candidates) {
+    if (!elements.candidateFilters) return;
+    const sources = [...new Set(candidates.map((candidate) => candidate.source).filter(Boolean))];
+    const activeSources = state.candidateSourceFilter.filter((source) => sources.includes(source));
+    elements.candidateFilters.innerHTML = `
+      ${sources
+        .map(
+          (source) => `
+            <label><input type="checkbox" data-candidate-source="${escapeAttr(source)}" ${activeSources.includes(source) ? "checked" : " "} />${escapeHtml(source)}</label>
+          `,
+        )
+        .join("")}
+      <label>排序
+        <select data-candidate-sort aria-label="候选排序">
+          <option value="score" ${state.candidateSort === "score" ? "selected" : ""}>分数</option>
+          <option value="time" ${state.candidateSort === "time" ? "selected" : ""}>最新</option>
+          <option value="engagement" ${state.candidateSort === "engagement" ? "selected" : ""}>热度</option>
+        </select>
+      </label>
+    `;
+  }
+
+  function applyCandidateFilterAndSort(candidates) {
+    let result = candidates;
+    if (state.candidateSourceFilter.length) {
+      result = result.filter((candidate) => state.candidateSourceFilter.includes(candidate.source));
+    }
+    if (state.candidateSort === "time") {
+      result = [...result].sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+    } else if (state.candidateSort === "engagement") {
+      result = [...result].sort(
+        (a, b) => (b.points || b.stars || b.citations || 0) - (a.points || a.stars || a.citations || 0),
+      );
+    }
+    return result;
+  }
+
+  function handleCandidateFilterClick(event) {
+    const checkbox = event.target.closest("[data-candidate-source]");
+    if (!checkbox) return;
+    const source = checkbox.dataset.candidateSource;
+    state.candidateSourceFilter = checkbox.checked
+      ? [...state.candidateSourceFilter, source]
+      : state.candidateSourceFilter.filter((item) => item !== source);
+    renderCandidates();
+  }
+
+  function handleCandidateSortChange(event) {
+    const select = event.target.closest("[data-candidate-sort]");
+    if (!select) return;
+    state.candidateSort = select.value;
+    renderCandidates();
   }
 
   function renderPapers() {
@@ -587,10 +648,17 @@
               <span>${escapeHtml(formatAuthors(paper.authors))}</span>
               <span>${escapeHtml(formatCategories(paper.categories))}</span>
               <span>${paper.score || 0} 分</span>
+              ${paper.readingAdvice ? `<span>${escapeHtml(paper.readingAdvice)}</span>` : ""}
             </div>
+            ${paper.methodHint || paper.datasetHint ? `
+            <div class="story-meta">
+              ${paper.methodHint ? `<span><span class="intro-label">方法：</span>${escapeHtml(paper.methodHint)}</span>` : ""}
+              ${paper.datasetHint ? `<span><span class="intro-label">数据集：</span>${escapeHtml(paper.datasetHint)}</span>` : ""}
+            </div>` : ""}
             <div class="paper-actions">
               <a href="${escapeAttr(paper.url)}" target="_blank" rel="noreferrer">${escapeHtml(paper.source || "Paper")}</a>
               <a href="${escapeAttr(paper.pdfUrl || paper.url)}" target="_blank" rel="noreferrer">PDF</a>
+              ${paper.codeUrl ? `<a href="${escapeAttr(paper.codeUrl)}" target="_blank" rel="noreferrer">代码</a>` : ""}
               <a href="${escapeAttr(paper.googleScholarUrl || window.RadarCore.googleScholarSearchUrlFor(paper))}" target="_blank" rel="noreferrer">Google Scholar</a>
               ${paperActionButtons(paper)}
             </div>

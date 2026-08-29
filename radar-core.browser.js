@@ -939,6 +939,57 @@
     ].filter(Boolean).join(" "));
   }
 
+  const METHOD_HINT_PATTERNS = [
+    /(?:we|this (?:paper|work)) (?:propose|present|introduce|develop)[^.]*?\b(?:the )?([A-Z][\w-]*(?: [A-Z][\w-]*){0,3})/i,
+    /(?:a|an|new) ([A-Z][\w-]*(?:-[A-Z][\w-]*)*) (?:method|framework|approach|model|architecture|algorithm)/,
+  ];
+  const DATASET_HINT_PATTERN =
+    /\b([A-Z][\w-]*(?:\s+[A-Z][\w-]*){0,2})\s+(?:datasets?|benchmarks?|corpus(?:es)?|suite)\b/;
+
+  const DATASET_HINT_STOP_WORDS = new Set([
+    "a", "an", "the", "we", "our", "this", "new", "large", "small", "public",
+    "existing", "novel", "two", "three", "several", "benchmark", "dataset",
+  ]);
+
+  function extractMethodHint(abstract) {
+    const text = normalizeText(abstract);
+    for (const pattern of METHOD_HINT_PATTERNS) {
+      const match = text.match(pattern);
+      if (match && match[1] && match[1].length > 2) return match[1].trim();
+    }
+    return "";
+  }
+
+  function extractDatasetHint(abstract) {
+    const match = normalizeText(abstract).match(DATASET_HINT_PATTERN);
+    if (!match) return "";
+    const hint = (match[1] || match[2] || "").trim();
+    // Reject stop-word captures like "A dataset" that carry no real name.
+    if (!hint || hint.split(/\s+/).every((word) => DATASET_HINT_STOP_WORDS.has(word.toLowerCase()))) {
+      return "";
+    }
+    return hint;
+  }
+
+  // Rule-based reading advice so the daily report works without any AI key.
+  function readingAdviceFor(paper) {
+    const citations = paper.citations ?? paper.citationCount ?? 0;
+    const abstractLength = normalizeText(paper.abstract || "").length;
+    if (paper.codeUrl && abstractLength > 200) return "适合精读";
+    if (paper.score >= 120 || citations >= 50 || (paper.codeUrl && abstractLength > 80)) return "适合精读";
+    if (paper.score >= 60 || abstractLength > 120) return "值得浏览";
+    return "关注动向";
+  }
+
+  function enrichPaperStory(paper) {
+    return {
+      ...paper,
+      methodHint: paper.methodHint || extractMethodHint(paper.abstract),
+      datasetHint: paper.datasetHint || extractDatasetHint(paper.abstract),
+      readingAdvice: paper.readingAdvice || readingAdviceFor(paper),
+    };
+  }
+
   function decodeHtmlEntities(value) {
     return String(value || "")
       .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(Number.parseInt(hex, 16)))
@@ -980,6 +1031,10 @@
     githubRepoToStory,
     arxivPaperToStory,
     semanticScholarPaperToStory,
+    enrichPaperStory,
+    extractMethodHint,
+    extractDatasetHint,
+    readingAdviceFor,
     googleScholarSearchUrlFor,
   };
 })(window);

@@ -120,6 +120,25 @@ test("buildDailyRadar without sourceQuota keeps legacy behavior", () => {
   assert.equal(radar.candidates.length, 2);
 });
 
+test("enrichPaperStory adds reading advice and abstract hints", () => {
+  const paper = {
+    id: "arxiv:2401.9v1",
+    title: "GRPO: Group relative policy optimization",
+    url: "https://arxiv.org/abs/2401.9v1",
+    source: "arXiv",
+    score: 150,
+    createdAt: new Date().toISOString(),
+    abstract:
+      "We propose GRPO-Online, a new method for reinforcement learning. We evaluate on the MATH dataset and release code.",
+    matchedQueries: ["LLM"],
+  };
+  const enriched = RadarCore.enrichPaperStory(paper);
+  assert.equal(enriched.readingAdvice, "适合精读");
+  assert.ok(enriched.methodHint.length > 0, "expected a method hint");
+  assert.match(enriched.datasetHint, /MATH/i);
+  assert.equal(RadarCore.enrichPaperStory({ abstract: "", score: 0 }).readingAdvice, "关注动向");
+});
+
 test("toMarkdown renders a report with title and links", () => {
   const radar = RadarCore.buildDailyRadar([hnStory(), githubStory()]);
   const markdown = RadarCore.toMarkdown(radar);

@@ -24,6 +24,21 @@ const HN_HITS_PER_QUERY = 30;
 
 const USER_AGENT = "obsession-radar/1.0";
 
+const startedAt = new Date();
+
+function writeLastRun(ok, message) {
+  const payload = {
+    startedAt: startedAt.toISOString(),
+    finishedAt: new Date().toISOString(),
+    ok,
+    exitCode: ok ? 0 : 1,
+    message,
+  };
+  const json = JSON.stringify(payload, null, 2);
+  writeFileSync("last-run.json", json + "\n", "utf8");
+  writeFileSync("last-run-data.js", "window.AGENTS_RADAR_LITE_LAST_RUN = " + json + ";\n", "utf8");
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -126,6 +141,50 @@ const SEMANTIC_SCHOLAR_FIELDS = [
   "fieldsOfStudy",
 ].join(",");
 
+const CODE_LOOKUP_LIMIT = 12;
+
+// Look up a code repository for the top-ranked papers so the daily report can
+// show "适合精读" advice and code links. Runs at most once per paper per day;
+// failures are silently ignored (advice falls back to abstract-only rules).
+async function attachCodeLinks(paperStories) {
+  const candidates = [...paperStories].sort(
+    (a, b) => (b.citations ?? 0) - (a.citations ?? 0),
+  );
+  for (const paper of candidates.slice(0, CODE_LOOKUP_LIMIT)) {
+    const title = String(paper.title || "").trim();
+    if (!title) continue;
+    try {
+      const url =
+        "https://api.github.com/search/repositories" +
+        `?q=${encodeURIComponent(title.slice(0, 100))}&sort=stars&order=desc&per_page=1`;
+      const payload = await fetchJson(url, {
+        Accept: "application/vnd.github+json",
+        "User-Agent": USER_AGENT,
+      });
+      const repo = (payload.items || [])[0];
+      if (repo && titleSimilarity(repo.name, title) > 0.3) {
+        paper.codeUrl = repo.html_url;
+      }
+      await sleep(1200);
+    } catch {
+      // Rate limits or no match: leave the paper without a code link.
+    }
+  }
+}
+
+function titleSimilarity(repoName, paperTitle) {
+  const normalize = (value) =>
+    String(value || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+  const repoWords = new Set(normalize(repoName).split(" "));
+  const paperWords = normalize(paperTitle).split(" ").filter(Boolean);
+  if (!paperWords.length || !repoWords.size) return 0;
+  const hits = paperWords.filter((word) => repoWords.has(word)).length;
+  return hits / paperWords.length;
+}
+
 async function fetchSemanticScholarPapers(query, label, limit) {
   const url =
     "https://api.semanticscholar.org/graph/v1/paper/search" +
@@ -192,6 +251,7 @@ async function collectStories() {
 
   const mainStories = settled.flatMap((result) => result.stories);
   const paperStories = [...arxivStories, ...semanticScholarStories];
+  await attachCodeLinks(paperStories);
 
   return { mainStories, paperStories, errors: [...errors, ...paperErrors] };
 }
@@ -261,20 +321,20 @@ function paperRadarMissingPapers(payload) {
 
 async function main() {
   console.log("[run-demo] fetching sources...");
-  const { mainStories, paperStories, errors } = await collectStories();
-  console.log(`[run-demo] main=${mainStories.length} papers=${paperStories.length} errors=${errors.length}`);
-
-  const radar = RadarCore.buildDailyRadar([...mainStories, ...paperStories], {
-    sourceQuota: RadarCore.DEFAULT_SOURCE_QUOTA,
-  });
-  const paperRadar = RadarCore.buildPaperRadar(paperStories);
-
-  backupExistingOutputs();
-  let payload;
   try {
-    payload = writeOutputs(radar, paperRadar);
+    const { mainStories, paperStories, errors } = await collectStories();
+    console.log(`[run-demo] main=${mainStories.length} papers=${paperStories.length} errors=${errors.length}`);
+
+    const radar = RadarCore.buildDailyRadar([...mainStories, ...paperStories], {
+      sourceQuota: RadarCore.DEFAULT_SOURCE_QUOTA,
+    });
+    const paperRadar = RadarCore.buildPaperRadar(paperStories.map(RadarCore.enrichPaperStory));
+
+    backupExistingOutputs();
+    const payload = writeOutputs(radar, paperRadar);
     const stats = validateOutputs(payload);
     removeBackups();
+    writeLastRun(true, "Daily radar updated successfully.");
     console.log(
       `[run-demo] ok: main ${stats.mainCandidates}/${stats.mainRecommendations}, papers ${stats.paperCandidates}/${payload.paperRadar.recommendations.length}`,
     );
@@ -283,11 +343,8 @@ async function main() {
     }
   } catch (error) {
     restoreBackups();
+    writeLastRun(false, `Daily radar update failed: ${error.message || error}`);
     throw error;
-  }
-
-  if (!mainStories.length && !paperStories.length) {
-    throw new Error("all sources failed");
   }
 }
 

@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daily-radar.json daily-radar.md demo-data.js last-run-data.js
+          git add daily-radar.json daily-radar.md demo-data.js last-run.json last-run-data.js
           if git diff --cached --quiet; then
             echo "No data changes; skipping commit."
           else
