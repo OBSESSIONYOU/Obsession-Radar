@@ -1,0 +1,45 @@
+name: Daily Radar Update
+
+# Runs the Node daily update in CI so the data files stay fresh without the
+# local Windows scheduled task. Updated data files are committed back to main;
+# if the repo is connected to Cloudflare Pages via Git integration the push
+# also triggers a redeploy.
+on:
+  schedule:
+    - cron: "30 0 * * *" # 08:30 北京时间
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-radar-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run daily radar update
+        env:
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+        run: node run-demo.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily-radar.json daily-radar.md demo-data.js last-run-data.js
+          if git diff --cached --quiet; then
+            echo "No data changes; skipping commit."
+          else
+            git commit -m "chore: daily radar update $(date -u +%F)"
+            git push
+          fi

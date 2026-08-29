@@ -209,11 +209,15 @@
       : window.RadarCore.buildPaperRadar(paperStories);
     state.paperStatus = paperStatusFromResults([arxivResult, semanticScholarResult], paperRadar === previousPaperRadar);
     const mainStories = [...hnResult.stories, ...githubResult.stories];
-    if (!mainStories.length) {
-      throw new Error("HN 和 GitHub 主要来源暂时都失败，已保留上次日报，可稍后再试。");
+    if (!mainStories.length && !paperStories.length) {
+      throw new Error("四个来源暂时都失败，已保留上次日报，可稍后再试。");
     }
+    // Keep the main board alive from whichever sources succeeded; paper
+    // stories join the candidate pool under the shared source quota.
     const radar = {
-      ...window.RadarCore.buildDailyRadar(mainStories),
+      ...window.RadarCore.buildDailyRadar([...mainStories, ...paperStories], {
+        sourceQuota: window.RadarCore.DEFAULT_SOURCE_QUOTA,
+      }),
       paperRadar,
     };
     state.radar = await enhanceRadarIfEnabled(radar);

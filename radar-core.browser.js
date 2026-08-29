@@ -248,7 +248,7 @@
         reason: reasonFor(story, now),
       }))
       .sort((a, b) => b.score - a.score || (b.points || 0) - (a.points || 0));
-    const candidates = selectDailyCandidates(ranked, candidateLimit, now);
+    const candidates = selectDailyCandidates(ranked, candidateLimit, now, options.sourceQuota);
     return {
       generatedAt: now.toISOString(),
       totalFetched: stories.length,
@@ -258,7 +258,8 @@
     };
   }
 
-  function selectDailyCandidates(ranked, limit, now) {
+  function selectDailyCandidates(ranked, limit, now, sourceQuota) {
+    if (sourceQuota) return selectWithSourceQuota(ranked, limit, sourceQuota);
     const recentHn = ranked.filter((story) => isRecentHnStory(story, now));
     const hasGithub = ranked.some((story) => story.source === "GitHub");
     if (!hasGithub || !recentHn.length) return ranked.slice(0, limit);
@@ -266,6 +267,26 @@
     const desiredHn = Math.min(Math.floor(limit / 3), recentHn.length);
     const githubLimit = Math.max(0, limit - desiredHn);
     return selectWithGithubLimit(ranked, limit, githubLimit);
+  }
+
+  function selectWithSourceQuota(stories, limit, sourceQuota) {
+    const selected = [];
+    const selectedIds = new Set();
+    for (const [source, quota] of Object.entries(sourceQuota || {})) {
+      const pool = stories.filter((story) => story.source === source);
+      for (const story of pool.slice(0, quota)) {
+        selected.push(story);
+        selectedIds.add(story.id);
+      }
+    }
+    for (const story of stories) {
+      if (selected.length >= limit) break;
+      if (selectedIds.has(story.id)) continue;
+      selected.push(story);
+      selectedIds.add(story.id);
+    }
+    if (selected.length > limit) selected.length = limit;
+    return selected.sort((a, b) => stories.indexOf(a) - stories.indexOf(b));
   }
 
   function selectDailyRecommendations(candidates, limit, now) {
@@ -931,6 +952,12 @@
   }
 
   global.RadarCore = {
+    DEFAULT_SOURCE_QUOTA: {
+      "Hacker News": 10,
+      GitHub: 12,
+      arXiv: 4,
+      "Semantic Scholar": 4,
+    },
     AI_QUERIES,
     GITHUB_AI_QUERIES,
     PAPER_QUERIES,

@@ -264,7 +264,9 @@ async function main() {
   const { mainStories, paperStories, errors } = await collectStories();
   console.log(`[run-demo] main=${mainStories.length} papers=${paperStories.length} errors=${errors.length}`);
 
-  const radar = RadarCore.buildDailyRadar(mainStories);
+  const radar = RadarCore.buildDailyRadar([...mainStories, ...paperStories], {
+    sourceQuota: RadarCore.DEFAULT_SOURCE_QUOTA,
+  });
   const paperRadar = RadarCore.buildPaperRadar(paperStories);
 
   backupExistingOutputs();
