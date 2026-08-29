@@ -1,0 +1,6 @@
+logs/
+.cloudflare-pages/
+node_modules/
+*.bak
+.DS_Store
+Thumbs.db

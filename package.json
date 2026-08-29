@@ -1,0 +1,14 @@
+{
+  "name": "obsession-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "你的电气科研与技术雷达：HN / GitHub / arXiv / Semantic Scholar 每日雷达",
+  "scripts": {
+    "update": "node run-demo.mjs",
+    "test": "node --test ./arxiv-atom.test.mjs ./radar-core.test.mjs ./proxies.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
