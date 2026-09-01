@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-08-31T05:59:34.573Z
-Fetched: 205 links | Unique: 162 | Candidates: 30
+Generated: 2026-09-01T05:32:25.122Z
+Fetched: 288 links | Unique: 218 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [LoRA: Low-Rank Adaptation of Large Language Models](https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092)
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：LoRA: Low-Rank Adaptation of Large Language Models相关内容，聚焦大语言模型、Computer Science、International Conference on Learning Representations、机器学习、OpenAI相关背景、功能和讨论点。
-   - Score: 33345 | Points: 22403 | Comments: 3130
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - Semantic Scholar: https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092
+1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
+   - Score: 488 | Points: 239114 | Comments: 38185
+   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
+   - GitHub: https://github.com/NousResearch/hermes-agent
 
-2. [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5)
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Chain of Thought Prompting Elicits Reasoning in Large Language Models相关内容，聚焦大语言模型、Computer Science、Neural Information Processing Systems、OpenAI相关背景、功能和讨论点。
-   - Score: 28040 | Points: 21433 | Comments: 1390
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - Semantic Scholar: https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5
+2. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+   - Score: 486 | Points: 202982 | Comments: 1118
+   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
+   - GitHub: https://github.com/n8n-io/n8n
 
-3. [Evaluating Large Language Models Trained on Code](https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evaluating Large Language Models Trained on Code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-   - Score: 17035 | Points: 11221 | Comments: 1686
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - Semantic Scholar: https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269
+3. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+   - Score: 481 | Points: 187043 | Comments: 529
+   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
+   - GitHub: https://github.com/Significant-Gravitas/AutoGPT
 
-4. [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb)
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models相关内容，关注成本结构、定价策略和实际落地收益。
-   - Score: 12844 | Points: 9039 | Comments: 997
+4. [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
+   - 内容介绍：这篇来自 codex-tool-reference.simonw.chatgpt.site 的帖子主要介绍了：ChatGPT Work Tool and Skill Reference相关内容，聚焦Codex、OpenAI相关背景、功能和讨论点。
+   - Score: 408 | Points: 206 | Comments: 53
    - Why: high HN points, active discussion, matched multiple AI queries
-   - Semantic Scholar: https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb
+   - HN: https://news.ycombinator.com/item?id=49510000
 
-5. [Large Language Models are Zero-Shot Reasoners](https://www.semanticscholar.org/paper/e7ad08848d5d7c5c47673ffe0da06af443643bda)
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Large Language Models are Zero-Shot Reasoners相关内容，聚焦大语言模型、Computer Science、Neural Information Processing Systems、提示词工程相关背景、功能和讨论点。
-   - Score: 10335 | Points: 7880 | Comments: 507
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - Semantic Scholar: https://www.semanticscholar.org/paper/e7ad08848d5d7c5c47673ffe0da06af443643bda
+5. [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
+   - 内容介绍：这篇来自 usealmanac.com 的帖子主要介绍了：Almanac (YC S26) – AI that knows your company相关内容，聚焦大语言模型、人工智能、AI Agent、AI agents相关背景、功能和讨论点。
+   - Score: 241 | Points: 51 | Comments: 45
+   - Why: active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=49511007
 
 ## 30-Link Candidate Pool
 
-1. [LoRA: Low-Rank Adaptation of Large Language Models](https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092) - 33345 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：LoRA: Low-Rank Adaptation of Large Language Models相关内容，聚焦大语言模型、Computer Science、International Conference on Learning Representations、机器学习、OpenAI相关背景、功能和讨论点。
-2. [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5) - 28040 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Chain of Thought Prompting Elicits Reasoning in Large Language Models相关内容，聚焦大语言模型、Computer Science、Neural Information Processing Systems、OpenAI相关背景、功能和讨论点。
-3. [Evaluating Large Language Models Trained on Code](https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269) - 17035 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evaluating Large Language Models Trained on Code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-4. [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb) - 12844 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models相关内容，关注成本结构、定价策略和实际落地收益。
-5. [Large Language Models are Zero-Shot Reasoners](https://www.semanticscholar.org/paper/e7ad08848d5d7c5c47673ffe0da06af443643bda) - 10335 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Large Language Models are Zero-Shot Reasoners相关内容，聚焦大语言模型、Computer Science、Neural Information Processing Systems、提示词工程相关背景、功能和讨论点。
-6. [ChatGPT for good? On opportunities and challenges of large language models for education](https://www.semanticscholar.org/paper/a98862ffe4c18634a67a3df8a965a35e5e0d7ec8) - 8949 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：ChatGPT for good? On opportunities and challenges of large language models for education相关内容，聚焦大语言模型、Learning and Individual Differences、人工智能、OpenAI相关背景、功能和讨论点。
-7. [Program Synthesis with Large Language Models](https://www.semanticscholar.org/paper/a38e0f993e4805ba8a9beae4c275c91ffcec01df) - 6642 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Program Synthesis with Large Language Models相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-8. [Large language models encode clinical knowledge](https://www.semanticscholar.org/paper/6052486bc9144dc1730c12bf35323af3792a1fd0) - 6448 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Large language models encode clinical knowledge相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-9. [A Survey of Large Language Models](https://www.semanticscholar.org/paper/36709000a9272e941338244ef80ff5ab1dd2bba1) - 6270 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：A Survey of Large Language Models相关内容，说明复现现象、影响范围和排查线索。
-10. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://www.semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5) - 5233 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for Large Language Models: A Survey相关内容，聚焦大语言模型、Computer Science、arXiv.org、RAG相关背景、功能和讨论点。
-11. [Evaluating Object Hallucination in Large Vision-Language Models](https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773) - 2940 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evaluating Object Hallucination in Large Vision-Language Models相关内容，说明复现现象、影响范围和排查线索。
-12. [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff) - 1027 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-13. [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504) - 776 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Claude Session URL appended to commit messages and PR descriptions by default相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。
-14. [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e) - 532 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-15. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://www.semanticscholar.org/paper/a66055e694725605f36b0eca9c7daa9631761876) - 323 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-16. [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) - 212 pts
-   - 内容介绍：这篇来自 sander.ai 的帖子主要介绍了：Continuous Diffusion Language Models (CDLM's)相关内容，聚焦大语言模型、人工智能相关背景、功能和讨论点。
-17. [Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting](https://www.semanticscholar.org/paper/d9a69d44841044a12bc72df848cd94b78524ed84) - 191 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-18. [I am no longer letting Claude Code add itself as Co-author in my commits](https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/) - 184 pts
-   - 内容介绍：这篇来自 igupta.in 的帖子主要介绍了：I am no longer letting Claude Code add itself as Co-author in my commits相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-19. [Show HN: Academa – Long-form STEM lecture videos generated by LLMs](https://academa.ai/) - 160 pts
-   - 内容介绍：这篇来自 academa.ai 的帖子主要介绍了：Academa – Long-form STEM lecture videos generated by LLMs相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-20. [Show HN: Cogram Studio – CAD and BIM workspace for humans and agents](https://studio.cogram.com/) - 156 pts
-   - 内容介绍：这篇来自 studio.cogram.com 的帖子主要介绍了：Cogram Studio – CAD and BIM workspace for humans and agents相关内容，关注成本结构、定价策略和实际落地收益。
-21. [Which AI Do You Think Will Have the Greatest Impact on the World?](https://news.ycombinator.com/item?id=49504949) - 137 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Which AI Do You Think Will Have the Greatest Impact on the World?相关内容，聚焦RAG、人工智能、提示词工程、OpenAI、Anthropic、Claude、Gemini相关背景、功能和讨论点。
-22. [Show HN: Skills MCP](https://news.ycombinator.com/item?id=49501178) - 134 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Skills MCP相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-23. [Show HN: MaCcyP – coding agents push text to a clipboard manager's Agents view](https://github.com/harleensahni/MaCcyP) - 123 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：MaCcyP – coding agents push text to a clipboard manager's Agents view相关内容，聚焦浏览器自动化、网页操作和编程代理。
-24. [ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT](https://arxiv.org/abs/2608.28455v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-25. [Fine-Tuning Multimodal Vision-Language Models for Brain CT Diagnosis via a Triple-Branch Framework](https://www.semanticscholar.org/paper/8c47e94a804f80c70d0bc5add76f803f2405d6ce) - 110 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，聚焦Multimodal、2025 2nd International Conference on Digital Image Processing and Computer Applications (DIPCA)、大语言模型、提示词工程、AI 安全相关背景、功能和讨论点。
-26. [Cursor launches Origin code hosting platform as GitHub outage exposes opening](https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race) - 109 pts
-   - 内容介绍：这篇来自 venturebeat.com 的帖子主要介绍了：Cursor launches Origin code hosting platform as GitHub outage exposes opening相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-27. [Ask HN: What do your job interviews look like? (August 2026)](https://news.ycombinator.com/item?id=49505033) - 105 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：What do your job interviews look like? (August 2026)相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-28. [CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents](https://arxiv.org/abs/2608.28389v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-29. [On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces](https://arxiv.org/abs/2608.28497v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces相关内容，聚焦浏览器自动化、网页操作和编程代理。
-30. [Prove2Me: An Open Collaborative Platform for Scaling Math Formalization](https://arxiv.org/abs/2608.28433v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Prove2Me: An Open Collaborative Platform for Scaling Math Formalization相关内容，聚焦浏览器自动化、网页操作和编程代理。
+1. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 488 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
+2. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 486 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+3. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 481 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+4. [huggingface/transformers](https://github.com/huggingface/transformers) - 476 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+5. [langgenius/dify](https://github.com/langgenius/dify) - 472 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+6. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 471 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+7. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 465 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+8. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 462 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+9. [ollama/ollama](https://github.com/ollama/ollama) - 462 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+10. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 460 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+11. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 460 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+12. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 459 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+13. [microsoft/markitdown](https://github.com/microsoft/markitdown) - 456 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+14. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 456 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+15. [lobehub/lobehub](https://github.com/lobehub/lobehub) - 455 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+16. [ruvnet/RuView](https://github.com/ruvnet/RuView) - 454 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+17. [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/) - 408 pts
+   - 内容介绍：这篇来自 codex-tool-reference.simonw.chatgpt.site 的帖子主要介绍了：ChatGPT Work Tool and Skill Reference相关内容，聚焦Codex、OpenAI相关背景、功能和讨论点。
+18. [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/) - 241 pts
+   - 内容介绍：这篇来自 usealmanac.com 的帖子主要介绍了：Almanac (YC S26) – AI that knows your company相关内容，聚焦大语言模型、人工智能、AI Agent、AI agents相关背景、功能和讨论点。
+19. [Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents](https://arxiv.org/abs/2608.31076v1) - 174 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+20. [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow) - 167 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Hebbian Robotics (YC S26) – Build scalable robotics data pipelines相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
+21. [Show HN: Decispher – persistent engineering context and memory for coding agents](https://news.ycombinator.com/item?id=49509142) - 159 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Decispher – persistent engineering context and memory for coding agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+22. [Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs](https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/) - 142 pts
+   - 内容介绍：这篇来自 247wallst.com 的帖子主要介绍了：Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+23. [Ask HN: Who is using coding agents for memory optimization?](https://news.ycombinator.com/item?id=49515320) - 131 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Who is using coding agents for memory optimization?相关内容，聚焦浏览器自动化、网页操作和编程代理。
+24. [LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering](https://arxiv.org/abs/2608.31102v1) - 119 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，讨论 AI 编程工具的使用体验、限制和工作流变化。
+25. [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](https://arxiv.org/abs/2608.31082v1) - 118 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data相关内容，关注成本结构、定价策略和实际落地收益。
+26. [LOCI: A Locator-Critic with Refinement Loop](https://arxiv.org/abs/2608.30959v1) - 116 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：LOCI: A Locator-Critic with Refinement Loop相关内容，说明复现现象、影响范围和排查线索。
+27. [ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa) - 107 pts
+   - 内容介绍：这篇来自 theverge.com 的帖子主要介绍了：ChatGPT to face tougher regulation in the EU相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+28. [Celeris-1 Magnus: Fast hybrid diffusion model for agentic work](https://celeris.ai/celeris-1-magnus) - 100 pts
+   - 内容介绍：这篇来自 celeris.ai 的帖子主要介绍了：Celeris-1 Magnus: Fast hybrid diffusion model for agentic work相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
+29. [Running a personal AI agent on an old Android phone instead of a server](https://medium.com/@fsaint/the-best-home-for-your-agent-is-in-your-junk-drawer-3afe0b0976e8) - 97 pts
+   - 内容介绍：这篇来自 medium.com 的帖子主要介绍了：Running a personal AI agent on an old Android phone instead of a server相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
+30. [Claude Code now appends a link to a Claude session in every commit](https://news.ycombinator.com/item?id=49515667) - 96 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Claude Code now appends a link to a Claude session in every commit相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
 
 ## Research Papers
 
-1. [On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces](https://arxiv.org/abs/2608.28497v1)
+1. [Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents](https://arxiv.org/abs/2608.31076v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Xuehai Wang, Haowei Qin, Tongxin Liu, Junkai Li, Buqiang Xu, Jintian Zhang, Yijun Chen, Zirui Xue, Shumin Deng
+   - Categories: cs.CL, cs.AI, cs.IR, cs.LG, cs.MA, cs.SE
+   - Score: 246 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2608.31076v1
+   - PDF: https://arxiv.org/pdf/2608.31076v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Learning%20to%20Evaluate%20Before%20Improving%3A%20Automatic%20Rubric%20Induction%20for%20Automatic%20Research%20Agents
+
+2. [LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering](https://arxiv.org/abs/2608.31102v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。
-   - Authors: Ahmed Hereiz, Yingzhe Lyu, Hao Li, Bram Adams, Ahmed E. Hassan
-   - Categories: cs.SE, cs.AI
-   - Score: 205 | Why: fresh paper, matched AI agent, matched AI coding, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2608.28497v1
-   - PDF: https://arxiv.org/pdf/2608.28497v1
-   - Google Scholar: https://scholar.google.com/scholar?q=On%20the%20Maintenance%20and%20Co-evolution%20of%20Agent%20Plugins%3A%20An%20Empirical%20Study%20of%20Claude%20Code%20Plugin%20Marketplaces
+   - Authors: Gopi Krishnan Rajbahadur, Amir M. Ebrahimi, Boyuan Chen, Ahmed E. Hassan
+   - Categories: cs.SE, cs.AI, cs.LG
+   - Score: 229 | Why: fresh paper, matched LLM, matched AI coding, matched AI safety, CS AI category
+   - arXiv: https://arxiv.org/abs/2608.31102v1
+   - PDF: https://arxiv.org/pdf/2608.31102v1
+   - Google Scholar: https://scholar.google.com/scholar?q=LLM%20Post-Training%20as%20Brownfield%20Maintenance%3A%20An%20Industrial%20Perspective%20on%20Dataware%20Engineering
 
-2. [NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry](https://arxiv.org/abs/2608.28481v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Samuel Xiao, Judy Song, Rory Hu, Ziliang Zong
-   - Categories: cs.CL, cs.AI
-   - Score: 205 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2608.28481v1
-   - PDF: https://arxiv.org/pdf/2608.28481v1
-   - Google Scholar: https://scholar.google.com/scholar?q=NL2AGBench%3A%20Benchmarking%20LLM%20Auto-Formalization%20for%20AlphaGeometry
-
-3. [ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT](https://arxiv.org/abs/2608.28455v1)
+3. [BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing](https://arxiv.org/abs/2608.31105v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Huseyin Umut Isik, Mehmet Alp Ozaydin, Sila Kurugol, Şeyda Ertekin
-   - Categories: cs.CV, cs.AI
-   - Score: 205 | Why: fresh paper, matched RAG, matched LLM, matched Multimodal, matched AI safety
-   - arXiv: https://arxiv.org/abs/2608.28455v1
-   - PDF: https://arxiv.org/pdf/2608.28455v1
-   - Google Scholar: https://scholar.google.com/scholar?q=ARC-CT%3A%20Anatomy-Routed%20Contrastive%20Vision-Language%20Learning%20for%203D%20Chest%20CT
+   - Authors: Adrians Skapars, Edoardo Manino
+   - Categories: cs.AI, cs.CL
+   - Score: 222 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2608.31105v1
+   - PDF: https://arxiv.org/pdf/2608.31105v1
+   - Google Scholar: https://scholar.google.com/scholar?q=BLOOM-WILT%3A%20Logit%20Tilting%20for%20Behaviour%20Elicitation%20in%20Automated%20LLM%20Auditing
 
-4. [Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)
+4. [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](https://arxiv.org/abs/2608.31082v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Chengpiao Huang, Kaizheng Wang
-   - Categories: stat.ME, cs.AI, cs.LG, stat.ML
-   - Score: 202 | Why: fresh paper, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2608.28576v1
-   - PDF: https://arxiv.org/pdf/2608.28576v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Learning%20a%20Size-Weight%20Frontier%20for%20Synthetic-Augmented%20Inference
+   - Authors: Milad Rezaei Hajidehi, Qitong Wang, Stratos Idreos
+   - Categories: cs.AI, cs.CL, cs.DB
+   - Score: 222 | Why: fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category
+   - arXiv: https://arxiv.org/abs/2608.31082v1
+   - PDF: https://arxiv.org/pdf/2608.31082v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Token-Efficient%20Data%20Reasoning%20Agents%20via%20Adaptive%20Structuring%20of%20Unstructured%20Data
 
-5. [How Proper Scoring Rules Shape LLM Forecasting](https://arxiv.org/abs/2608.28482v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Benjamin Turtel, Paul Wilczewski, Kris Skotheim, Ville A. Satopää, Philip E. Tetlock
-   - Categories: cs.LG, cs.AI
-   - Score: 202 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2608.28482v1
-   - PDF: https://arxiv.org/pdf/2608.28482v1
-   - Google Scholar: https://scholar.google.com/scholar?q=How%20Proper%20Scoring%20Rules%20Shape%20LLM%20Forecasting
+5. [Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models](https://arxiv.org/abs/2608.30751v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。
+   - Authors: Ashwin Nedungadi, Stefan Oehmcke, Stefan Lüdtke
+   - Categories: cs.AI, cs.CV
+   - Score: 221 | Why: fresh paper, matched LLM, matched AI coding, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2608.30751v1
+   - PDF: https://arxiv.org/pdf/2608.30751v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Autoregressive%20Mosaics%3A%20Probing%202D%20Spatial%20Reasoning%20in%20Text-Only%20Language%20Models
 
