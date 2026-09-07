@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-09-06T05:00:18.835Z
-Fetched: 274 links | Unique: 212 | Candidates: 30
+Generated: 2026-09-07T05:08:14.888Z
+Fetched: 292 links | Unique: 211 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：LLMs as a Cognitive Virus相关内容，聚焦大语言模型相关背景、功能和讨论点。
-   - Score: 722 | Points: 223 | Comments: 177
+1. [Evaluating Object Hallucination in Large Vision-Language Models](https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evaluating Object Hallucination in Large Vision-Language Models相关内容，说明复现现象、影响范围和排查线索。
+   - Score: 2958 | Points: 1933 | Comments: 283
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773
+
+2. [An Alien Mind](https://openai.com/index/an-alien-mind/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：An Alien Mind相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 1227 | Points: 367 | Comments: 321
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=49580164
+   - HN: https://news.ycombinator.com/item?id=49588080
 
-2. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-   - Score: 484 | Points: 203493 | Comments: 1168
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/n8n-io/n8n
+3. [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+   - Score: 1034 | Points: 686 | Comments: 67
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff
 
-3. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-   - Score: 481 | Points: 187163 | Comments: 573
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/Significant-Gravitas/AutoGPT
+4. [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+   - Score: 539 | Points: 241 | Comments: 80
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e
 
-4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+5. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-   - Score: 480 | Points: 242090 | Comments: 40135
+   - Score: 488 | Points: 242654 | Comments: 40449
    - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
    - GitHub: https://github.com/NousResearch/hermes-agent
 
-5. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-   - 内容介绍：这篇来自 openai.robocurve.org 的帖子主要介绍了：GPT-6 Astra on robot arms相关内容，聚焦OpenAI相关背景、功能和讨论点。
-   - Score: 317 | Points: 106 | Comments: 60
-   - Why: high HN points, active discussion, fresh today
-   - HN: https://news.ycombinator.com/item?id=49582582
-
 ## 30-Link Candidate Pool
 
-1. [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344) - 722 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：LLMs as a Cognitive Virus相关内容，聚焦大语言模型相关背景、功能和讨论点。
-2. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 484 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-3. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 481 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 480 pts
+1. [Evaluating Object Hallucination in Large Vision-Language Models](https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773) - 2958 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evaluating Object Hallucination in Large Vision-Language Models相关内容，说明复现现象、影响范围和排查线索。
+2. [An Alien Mind](https://openai.com/index/an-alien-mind/) - 1227 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：An Alien Mind相关内容，聚焦OpenAI相关背景、功能和讨论点。
+3. [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff) - 1034 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+4. [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e) - 539 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+5. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-5. [huggingface/transformers](https://github.com/huggingface/transformers) - 473 pts
+6. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 484 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+7. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 483 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+8. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+9. [langgenius/dify](https://github.com/langgenius/dify) - 472 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+10. [microsoft/markitdown](https://github.com/microsoft/markitdown) - 468 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+11. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 468 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+12. [huggingface/transformers](https://github.com/huggingface/transformers) - 466 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-6. [langgenius/dify](https://github.com/langgenius/dify) - 470 pts
+13. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 465 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-7. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 467 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-8. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 467 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-9. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 464 pts
+14. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 463 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-10. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 461 pts
+15. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 461 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-11. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 455 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-12. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 455 pts
+16. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 458 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-13. [lobehub/lobehub](https://github.com/lobehub/lobehub) - 455 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-14. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - 452 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-15. [f/prompts.chat](https://github.com/f/prompts.chat) - 451 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-16. [ruvnet/RuView](https://github.com/ruvnet/RuView) - 447 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-17. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - 446 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-18. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) - 317 pts
-   - 内容介绍：这篇来自 openai.robocurve.org 的帖子主要介绍了：GPT-6 Astra on robot arms相关内容，聚焦OpenAI相关背景、功能和讨论点。
-19. [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory) - 201 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：OKF Agent Memory – Git-native persistent memory for AI 编程 agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
-20. [How do you filter noise from signal in programming resources?](https://news.ycombinator.com/item?id=49580521) - 129 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：How do you filter noise from signal in programming resources?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-21. [Show HN: ChatPanel Now Available on Firefox](https://chatpanel.net/) - 129 pts
-   - 内容介绍：这篇来自 chatpanel.net 的帖子主要介绍了：ChatPanel Now Available on Firefox相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-22. [Show HN: Phntm-ONE: I built a local AI desk assistant](https://www.phntmcore.com/) - 120 pts
-   - 内容介绍：这篇来自 phntmcore.com 的帖子主要介绍了：Phntm-ONE: I built a local AI desk assistant相关内容，聚焦大语言模型、人工智能、RAG、Anthropic、Claude、MCP相关背景、功能和讨论点。
-23. [Title: A local signed notebook for AI agents, with CLI and MCP interfaces](https://github.com/davidnichols-ops/aafp-commons) - 113 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Title: A local signed notebook for AI agents, with CLI and MCP interfaces相关内容，聚焦AI agents、人工智能、AI Agent、MCP、RAG相关背景、功能和讨论点。
-24. [ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval](https://arxiv.org/abs/2609.01865v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval相关内容，聚焦浏览器自动化、网页操作和编程代理。
-25. [Show HN: Fast Cut Video tool for cutting video for Agents](https://github.com/modecir/fast-cutvid) - 104 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Fast Cut Video tool for cutting video for Agents相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-26. [Routed: Local, zero-token hybrid router for AI agent skills (<20ms)](https://github.com/bshea-1/Routed) - 100 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Routed: Local, zero-token hybrid router for AI agent skills (<20ms)相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
-27. [Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](https://arxiv.org/abs/2609.01601v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-28. [AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores](https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd) - 96 pts
-   - 内容介绍：这篇来自 tomshardware.com 的帖子主要介绍了：AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores相关内容，聚焦MCP、人工智能相关背景、功能和讨论点。
-29. [Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning](https://arxiv.org/abs/2609.04183v1) - 84 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-30. [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](https://arxiv.org/abs/2609.04172v1) - 84 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，聚焦大语言模型、cs.AI、cs.CL、人工智能、提示词工程、AI 安全相关背景、功能和讨论点。
+17. [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai) - 408 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Research acceleration: The view inside OpenAI相关内容，聚焦OpenAI相关背景、功能和讨论点。
+18. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://www.semanticscholar.org/paper/a66055e694725605f36b0eca9c7daa9631761876) - 328 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
+19. [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/) - 211 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：How we monitor internal coding agents for misalignment相关内容，聚焦浏览器自动化、网页操作和编程代理。
+20. [Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies](https://github.com/nafeeur/MaskShift) - 171 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：MaskShift – a maximalist coding agent with zero NPM dependencies相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+21. [I track LLM API prices daily, found a 33x cost gap in the same model](https://news.ycombinator.com/item?id=49586810) - 159 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：I track LLM API prices daily, found a 33x cost gap in the same model相关内容，关注成本结构、定价策略和实际落地收益。
+22. [Tell HN: Anthropic should make Claude the Author and me the Co-Author](https://news.ycombinator.com/item?id=49593777) - 131 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: Anthropic should make Claude the Author and me the Co-Author相关内容，说明复现现象、影响范围和排查线索。
+23. [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](https://arxiv.org/abs/2609.05385v1) - 126 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence相关内容，聚焦大语言模型、cs.AI、人工智能、AI Agent、提示词工程、Anthropic、Claude、Gemini、AI 安全相关背景、功能和讨论点。
+24. [ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo](https://github.com/redhat-et/ripwire) - 125 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo相关内容，聚焦浏览器自动化、网页操作和编程代理。
+25. [Ask HN: Those still optimistic about a career in software – why?](https://news.ycombinator.com/item?id=49593185) - 117 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Those still optimistic about a career in software – why?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+26. [Substrate-Aware AI Agents: Execution Context as a First-Class Input](https://arxiv.org/abs/2609.05232v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Substrate-Aware AI Agents: Execution Context as a First-Class Input相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+27. [Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes](https://github.com/manuelschipper/mdmanager) - 110 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes相关内容，聚焦AI agents、人工智能、AI Agent、Anthropic、Claude相关背景、功能和讨论点。
+28. [Cutting (Claude Code) token spend on dynamic workflows 80%](https://news.ycombinator.com/item?id=49587379) - 110 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Cutting (Claude Code) token spend on dynamic workflows 80%相关内容，说明复现现象、影响范围和排查线索。
+29. [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](https://arxiv.org/abs/2609.05314v1) - 98 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+30. [RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](https://arxiv.org/abs/2609.05324v1) - 98 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
 
 ## Research Papers
 
-1. [Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](https://arxiv.org/abs/2609.04108v1)
+1. [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](https://arxiv.org/abs/2609.05339v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Boyan Li, Bingsen Chen, Chenghao Yang, Ping Nie, Chen Zhao, Xi Ye
-   - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 213 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.04108v1
-   - PDF: https://arxiv.org/pdf/2609.04108v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Sequential%20Beats%20Joint%3A%20On%20the%20Interplay%20between%20On-Policy%20Distillation%20and%20RLVR
+   - Authors: Ankit Goyal, Jaideep Ray
+   - Categories: cs.AI, cs.CL, cs.IR
+   - Score: 214 | Why: fresh paper, matched RAG, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.05339v1
+   - PDF: https://arxiv.org/pdf/2609.05339v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Does%20Your%20Agent's%20Memory%20Survive%20a%20Model%20Upgrade%3F%20A%20Controlled%20Study%20of%20Memory%20Portability
 
-2. [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](https://arxiv.org/abs/2609.04094v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
-   - Authors: Shubham Gandhi, Saurabh Goyal, Kiran Kate, Yara Rizk
-   - Categories: cs.AI, cs.LG, cs.SE
-   - Score: 213 | Why: fresh paper, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.04094v1
-   - PDF: https://arxiv.org/pdf/2609.04094v1
-   - Google Scholar: https://scholar.google.com/scholar?q=DRACO%3A%20Fine-Grained%20Credit%20Assignment%20with%20Dynamic%20Rubrics%20for%20Long-Horizon%20Agent%20Training
+2. [Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions](https://arxiv.org/abs/2609.05334v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Mahadev Sunil Kumar, Bhavika Gondi, Desaisetty Venkata Satya Sai Swapnith, Gangireddy Rahul Jogi, Sudheesh Manalil, Arnab Raha, Amitava Mukherjee, Parthasarathy Seethapathy, G. Gopakumar
+   - Categories: cs.CV, cs.AI, cs.LG
+   - Score: 214 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.05334v1
+   - PDF: https://arxiv.org/pdf/2609.05334v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Lightweight%20Vision%20Transformer%20Compression%20for%20On-Device%20Plant%20Disease%20Detection%20in%20Resource-Constrained%20Agricultural%20Field%20Conditions
 
-3. [Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO](https://arxiv.org/abs/2609.03941v1)
+3. [What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies](https://arxiv.org/abs/2609.05376v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Hyun Bin Park, Du-Seong Chang
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 212 | Why: fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.03941v1
-   - PDF: https://arxiv.org/pdf/2609.03941v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Headroom-Drift%20Replay%3A%20A%20Primitive%20for%20Principled%20Replay%20Control%20in%20GRPO
+   - Authors: Vivek Chavan, Pengtao Xie, Yahuan Shi, Oliver Heimann, Kevin Haninger, Jörg Krüger
+   - Categories: cs.RO, cs.AI, cs.CV
+   - Score: 206 | Why: fresh paper, matched Multimodal, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.05376v1
+   - PDF: https://arxiv.org/pdf/2609.05376v1
+   - Google Scholar: https://scholar.google.com/scholar?q=What%20Matters%2C%20When%3F%20Diagnosing%20and%20Improving%20Conditional%20Visual%20Grounding%20in%20Visuomotor%20Imitation%20Policies
 
-4. [Enhancing Financial Question Answering: A Novel Benchmark Dataset of Banks' financial statements](https://arxiv.org/abs/2609.03654v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Arianna Miola, Bruno Spaccavento, Lorenzo Silotto, Marco Bianchetti, Luca Cagliero
-   - Categories: cs.CL, cs.AI, cs.CE, cs.IR
-   - Score: 212 | Why: fresh paper, matched RAG, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.03654v1
-   - PDF: https://arxiv.org/pdf/2609.03654v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Enhancing%20Financial%20Question%20Answering%3A%20A%20Novel%20Benchmark%20Dataset%20of%20Banks'%20financial%20statements
+4. [The History Is the Detector: Executing CVE Patch History, End-to-End](https://arxiv.org/abs/2609.05335v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Qiushi Wu, Kevin Eykholt, Youngja Park, Xiaokui Shu, Dhilung Kirat, Douglas Lee Schales, Ian Molloy
+   - Categories: cs.CR, cs.AI, cs.SE
+   - Score: 206 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.05335v1
+   - PDF: https://arxiv.org/pdf/2609.05335v1
+   - Google Scholar: https://scholar.google.com/scholar?q=The%20History%20Is%20the%20Detector%3A%20Executing%20CVE%20Patch%20History%2C%20End-to-End
 
-5. [ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval](https://arxiv.org/abs/2609.01865v1)
+5. [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](https://arxiv.org/abs/2609.05314v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Aaryan Kapoor, Md Abdullah Al Hafiz Khan
-   - Categories: cs.SE, cs.AI, cs.CL, cs.IR
-   - Score: 207 | Why: matched RAG, matched AI agent, matched AI coding, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.01865v1
-   - PDF: https://arxiv.org/pdf/2609.01865v1
-   - Google Scholar: https://scholar.google.com/scholar?q=ExecRetrieval%3A%20Measuring%20the%20Functional-Correctness%20Gap%20in%20Code-Embedding%20Retrieval
+   - Authors: Alexander Neubauer, Tianzhen Hong, Han Li, Mengbo Yu, Amin Darbandi, Yannick Fürst, Martin Kriegel
+   - Categories: cs.AI, cs.CL, eess.SY
+   - Score: 206 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.05314v1
+   - PDF: https://arxiv.org/pdf/2609.05314v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Large%20Language%20Models%20for%20HVAC%20Operations%20in%20Building%20Energy%20Systems%3A%20A%20Critical%20Review%20of%20Methods%2C%20Applications%2C%20and%20Deployment%20Readiness
 
