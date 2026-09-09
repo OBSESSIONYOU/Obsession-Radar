@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-09-08T05:08:24.337Z
-Fetched: 127 links | Unique: 97 | Candidates: 30
+Generated: 2026-09-09T05:04:16.347Z
+Fetched: 200 links | Unique: 167 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233)
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: OpenAI brings back 5 hour limit for plus and business standard users相关内容，聚焦大语言模型、OpenAI相关背景、功能和讨论点。
-   - Score: 513 | Points: 124 | Comments: 134
+1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：On the Navier–Stokes Millennium Prize Problem相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 3892 | Points: 1199 | Comments: 1032
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49613262
+
+2. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+   - 内容介绍：这篇来自 ai.meta.com 的帖子主要介绍了：Muse – Meta’s personal AI agent相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
+   - Score: 1536 | Points: 400 | Comments: 420
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49600233
+   - HN: https://news.ycombinator.com/item?id=49615537
 
-2. [Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
-   - 内容介绍：这篇来自 businessinsider.com 的帖子主要介绍了：Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-   - Score: 299 | Points: 37 | Comments: 95
-   - Why: active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49594189
+3. [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：ChatGPT Images 2.5相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 1278 | Points: 293 | Comments: 376
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49614720
 
-3. [Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models](https://github.com/oooscoos/Benzi)
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Benzi – Code Intelligence Infrastructure for Frontier AI Models相关内容，聚焦浏览器自动化、网页操作和编程代理。
-   - Score: 163 | Points: 3 | Comments: 0
-   - Why: matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49599867
+4. [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+   - 内容介绍：这篇来自 techcrunch.com 的帖子主要介绍了：OpenAI fought dirty on career-making math problem相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 367 | Points: 161 | Comments: 59
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49615926
 
-4. [Ask HN: Anyone else feeling uneasy with the latest developments in AI?](https://news.ycombinator.com/item?id=49605395)
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Anyone else feeling uneasy with the latest developments in AI?相关内容，聚焦generative AI、人工智能、OpenAI、AI 安全、RAG相关背景、功能和讨论点。
-   - Score: 130 | Points: 5 | Comments: 6
-   - Why: matched multiple AI queries, fresh today
-   - HN: https://news.ycombinator.com/item?id=49605395
-
-5. [The smallest edge AI device for local LLMs](https://tiiny.ai/)
-   - 内容介绍：这篇来自 tiiny.ai 的帖子主要介绍了：The smallest edge AI device for local LLMs相关内容，聚焦大语言模型、人工智能相关背景、功能和讨论点。
-   - Score: 122 | Points: 21 | Comments: 17
-   - Why: matched multiple AI queries, fresh today
-   - HN: https://news.ycombinator.com/item?id=49603011
+5. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/)
+   - 内容介绍：这篇来自 ishamf.dev 的帖子主要介绍了：LLM Attention Visualization相关内容，聚焦大语言模型相关背景、功能和讨论点。
+   - Score: 260 | Points: 147 | Comments: 23
+   - Why: high HN points
+   - HN: https://news.ycombinator.com/item?id=49613068
 
 ## 30-Link Candidate Pool
 
-1. [Tell HN: OpenAI brings back 5 hour limit for plus and business standard users](https://news.ycombinator.com/item?id=49600233) - 513 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: OpenAI brings back 5 hour limit for plus and business standard users相关内容，聚焦大语言模型、OpenAI相关背景、功能和讨论点。
-2. [Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9) - 299 pts
-   - 内容介绍：这篇来自 businessinsider.com 的帖子主要介绍了：Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-3. [Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models](https://github.com/oooscoos/Benzi) - 163 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Benzi – Code Intelligence Infrastructure for Frontier AI Models相关内容，聚焦浏览器自动化、网页操作和编程代理。
-4. [Ask HN: Anyone else feeling uneasy with the latest developments in AI?](https://news.ycombinator.com/item?id=49605395) - 130 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Anyone else feeling uneasy with the latest developments in AI?相关内容，聚焦generative AI、人工智能、OpenAI、AI 安全、RAG相关背景、功能和讨论点。
-5. [The smallest edge AI device for local LLMs](https://tiiny.ai/) - 122 pts
-   - 内容介绍：这篇来自 tiiny.ai 的帖子主要介绍了：The smallest edge AI device for local LLMs相关内容，聚焦大语言模型、人工智能相关背景、功能和讨论点。
-6. [The VMs Powering Mobile Agents (Instinct, Claude Code)](https://rohanadwankar.github.io/posts/platforms.html) - 117 pts
-   - 内容介绍：这篇来自 rohanadwankar.github.io 的帖子主要介绍了：The VMs Powering Mobile Agents (Instinct, Claude Code)相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-7. [Show HN: Archprint, infer architecture lint rules from your repo's import graph](https://github.com/Tommkruix/archprint) - 116 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Archprint, infer architecture lint rules from your repo's import graph相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-8. [Secure temporary file sharing for AI agents and humans](https://github.com/aispace-sh/aispace-client) - 111 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Secure temporary file sharing for AI agents and humans相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
-9. [Show HN: Vertumnus – printable posters of farmers' market produce seasonality](https://vertumnus.fyi) - 107 pts
-   - 内容介绍：这篇来自 vertumnus.fyi 的帖子主要介绍了：Vertumnus – printable posters of farmers' market produce seasonality相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-10. [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/) - 106 pts
-   - 内容介绍：这篇来自 danluu.com 的帖子主要介绍了：How well do agents use test/verification techniques?相关内容，聚焦RAG、AI Agent相关背景、功能和讨论点。
-11. [Show HN: Send flowers from your AI agent and make your mum happy](https://news.ycombinator.com/item?id=49599559) - 104 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Send flowers from your AI agent and make your mum happy相关内容，聚焦AI agents、人工智能、AI Agent、MCP相关背景、功能和讨论点。
-12. [Show HN: Pod – A review site for dev tools where the reviewers are AI agents](https://askpod.ai/) - 98 pts
-   - 内容介绍：这篇来自 askpod.ai 的帖子主要介绍了：Pod – A review site for dev tools where the reviewers are AI agents相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-13. [Ask HN: How do you keep AI coding agents in sync with a changing Figma file?](https://news.ycombinator.com/item?id=49595961) - 96 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：How do you keep AI 编程 agents in sync with a changing Figma file?相关内容，聚焦浏览器自动化、网页操作和编程代理。
-14. [El Yayster – a resident LLM that inhabits Emacs](https://github.com/yayster/yayster.el) - 95 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：El Yayster – a resident LLM that inhabits Emacs相关内容，聚焦大语言模型相关背景、功能和讨论点。
-15. [My business partner sent a 5K vibe-coded PR that he didn't even test](https://ycj.bearblog.dev/ai-again/) - 89 pts
-   - 内容介绍：这篇来自 ycj.bearblog.dev 的帖子主要介绍了：My business partner sent a 5K vibe-coded PR that he didn't even test相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-16. [Ask HN: Best Platforms to Orchestrate Agents](https://news.ycombinator.com/item?id=49605756) - 86 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Best Platforms to Orchestrate Agents相关内容，说明复现现象、影响范围和排查线索。
-17. [I killed every houseplant I owned, so I built an app to stop doing that](https://news.ycombinator.com/item?id=49604776) - 85 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：I killed every houseplant I owned, so I built an app to stop doing that相关内容，说明复现现象、影响范围和排查线索。
-18. [What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies](https://arxiv.org/abs/2609.05376v1) - 84 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies相关内容，聚焦Multimodal、cs.RO、cs.AI、cs.CV、人工智能、机器学习相关背景、功能和讨论点。
-19. [RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](https://arxiv.org/abs/2609.05324v1) - 84 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-20. [The robots.txt user-agent lines that do not name what they look like](https://ai-visibility.lastminutedealshq.com/robots-txt-user-agent-tokens) - 81 pts
-   - 内容介绍：这篇来自 ai-visibility.lastminutedealshq.com 的帖子主要介绍了：The robots.txt user-agent lines that do not name what they look like相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-21. [Show HN: Froogle – a search engine portal in one HTML file](https://news.ycombinator.com/item?id=49604846) - 80 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Froogle – a search engine portal in one HTML file相关内容，聚焦大语言模型、人工智能、RAG相关背景、功能和讨论点。
-22. [Claude Code fable 5.1 is seriously flawed](https://lance.black) - 77 pts
-   - 内容介绍：这篇来自 lance.black 的帖子主要介绍了：Claude Code fable 5.1 is seriously flawed相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-23. [Show HN: Zero downtime embedding model upgrades](https://github.com/arnsri33/embedflow) - 75 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Zero downtime embedding model upgrades相关内容，关注成本结构、定价策略和实际落地收益。
-24. [Show HN: Inbundly – Google Inbox-style bundles for Gmail (open-source)](https://benoror.bearblog.dev/bringing-google-inboxs-bundles-back-to-gmail/) - 75 pts
-   - 内容介绍：这篇来自 benoror.bearblog.dev 的帖子主要介绍了：Inbundly – Google Inbox-style bundles for Gmail (开源)相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-25. [Claude Code injects a system reminder to replace attribution guidance](https://news.ycombinator.com/item?id=49598498) - 75 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Claude Code injects a system reminder to replace attribution guidance相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-26. [Quire – humans and AI agents editing local Markdown together](https://github.com/heetdalsania/quire) - 74 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Quire – humans and AI agents editing local Markdown together相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-27. [Lightpanda Session Bridge – Hand real logins to headless AI agents](https://github.com/Raknaos/lightpanda-session-bridge) - 74 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Lightpanda Session Bridge – Hand real logins to headless AI agents相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-28. [Show HN: A local visual tool cli/mcp for agents to propose architecture changes](https://github.com/luiscleto/WorkBraid) - 74 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：A local visual tool cli/mcp for agents to propose architecture changes相关内容，聚焦AI agents、人工智能、AI Agent、MCP相关背景、功能和讨论点。
-29. [Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](https://arxiv.org/abs/2609.05401v1) - 56 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models相关内容，聚焦Multimodal、cs.RO、cs.CL、大语言模型相关背景、功能和讨论点。
-30. [Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks](https://arxiv.org/abs/2609.05388v1) - 56 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 3892 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：On the Navier–Stokes Millennium Prize Problem相关内容，聚焦OpenAI相关背景、功能和讨论点。
+2. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) - 1536 pts
+   - 内容介绍：这篇来自 ai.meta.com 的帖子主要介绍了：Muse – Meta’s personal AI agent相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
+3. [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) - 1278 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：ChatGPT Images 2.5相关内容，聚焦OpenAI相关背景、功能和讨论点。
+4. [OpenAI fought dirty on career-making math problem](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) - 367 pts
+   - 内容介绍：这篇来自 techcrunch.com 的帖子主要介绍了：OpenAI fought dirty on career-making math problem相关内容，聚焦OpenAI相关背景、功能和讨论点。
+5. [Show HN: LLM Attention Visualization](https://ishamf.dev/p/llm-attention-visualizer/) - 260 pts
+   - 内容介绍：这篇来自 ishamf.dev 的帖子主要介绍了：LLM Attention Visualization相关内容，聚焦大语言模型相关背景、功能和讨论点。
+6. [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843) - 213 pts
+   - 内容介绍：这篇来自 twitter.com 的帖子主要介绍了：AI Responsibility – OpenAI and Anthropic相关内容，聚焦OpenAI、人工智能、Anthropic相关背景、功能和讨论点。
+7. [Do you think it happened? Research stolen from their Codex private chats](https://www.reddit.com/r/codex/s/psWHRr9864) - 168 pts
+   - 内容介绍：这篇来自 reddit.com 的帖子主要介绍了：Do you think it happened? Research stolen from their Codex private chats相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+8. [Scanning the Harness: An Empirical Study of Supply-Chain Defects in AI Coding-Agent Configurations](https://arxiv.org/abs/2609.07360v1) - 154 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Scanning the Harness: An Empirical Study of Supply-Chain Defects in AI 编程-Agent Configurations相关内容，聚焦浏览器自动化、网页操作和编程代理。
+9. [Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics](https://arxiv.org/abs/2609.09070v1) - 134 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics相关内容，聚焦AI 安全、cs.CL、cs.AI、cs.HC、人工智能、大语言模型、Anthropic、Claude相关背景、功能和讨论点。
+10. [ex-OpenAI Researcher Quits Anthropic over AI Safety Fears](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628) - 121 pts
+   - 内容介绍：这篇来自 wsj.com 的帖子主要介绍了：ex-OpenAI Researcher Quits Anthropic over AI Safety Fears相关内容，聚焦OpenAI、人工智能、Anthropic、AI 安全相关背景、功能和讨论点。
+11. [ExecCritic: Learn to Test, Test to Improve for Coding Agents](https://arxiv.org/abs/2609.09133v1) - 121 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：ExecCritic: Learn to Test, Test to Improve for Coding Agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+12. [Why human syntax breaks LLMs (and how to fix agentic coding)](https://news.ycombinator.com/item?id=49609821) - 119 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Why human syntax breaks LLMs (and how to fix agentic coding)相关内容，聚焦浏览器自动化、网页操作和编程代理。
+13. [Omni Interaction Agent Technical Report](https://arxiv.org/abs/2609.08977v1) - 118 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Omni Interaction Agent Technical Report相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
+14. [Noēsis: Deterministic-First Retrieval with Two-Tier Context Hydration for Factuality-Critical Queries on Small Local Models](https://arxiv.org/abs/2609.07663v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Noēsis: Deterministic-First Retrieval with Two-Tier Context Hydration for Factuality-Critical Queries on Small Local Models相关内容，关注成本结构、定价策略和实际落地收益。
+15. [CodeTD: Topology of Attention Detects Hallucinations in Code LLMs](https://arxiv.org/abs/2609.07779v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：CodeTD: Topology of Attention Detects Hallucinations in Code LLMs相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+16. [Codex silently begs agents to make arbitrary web requests](https://spader.zone/wtf/) - 110 pts
+   - 内容介绍：这篇来自 spader.zone 的帖子主要介绍了：Codex silently begs agents to make arbitrary web requests相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+17. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1) - 107 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Procedural Graphs: Self-Evolving Execution Structures for LLM Agents相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.MA、人工智能、AI Agent相关背景、功能和讨论点。
+18. [MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.09115v1) - 107 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents相关内容，聚焦大语言模型、cs.AI、cs.SE、人工智能、AI Agent、AI 安全相关背景、功能和讨论点。
+19. [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v1) - 107 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+20. [Time-Varying Data as Sheaves: an Invitation to Narratives](https://arxiv.org/abs/2609.09056v1) - 106 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Time-Varying Data as Sheaves: an Invitation to Narratives相关内容，聚焦AI Agent、cs.AI、cs.MA、eess.SY、math.CT、人工智能相关背景、功能和讨论点。
+21. [GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting](https://arxiv.org/abs/2609.09082v1) - 106 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+22. [Show HN: Routi Bot – AI bots with their own desktops on your Mac](https://github.com/narralabs/routi/) - 105 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦OpenAI、人工智能、Anthropic、Claude、DeepSeek相关背景、功能和讨论点。
+23. [Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](https://arxiv.org/abs/2609.09030v1) - 105 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.IT、cs.LG、人工智能相关背景、功能和讨论点。
+24. [AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://arxiv.org/abs/2609.08936v1) - 104 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：AuK Technical Report: An 开源 Foundational Model for Speech Generation and Editing相关内容，关注成本结构、定价策略和实际落地收益。
+25. [Meta Just Launched Muse](https://news.ycombinator.com/item?id=49617166) - 103 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦OpenAI、Anthropic、Claude、Anthropic Claude相关背景、功能和讨论点。
+26. [Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems](https://arxiv.org/abs/2609.08887v1) - 103 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems相关内容，聚焦RAG、cs.IR、cs.CL、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。
+27. [Show HN: Blackholes – A macOS workspace for coding agents](https://blackholes.dev) - 100 pts
+   - 内容介绍：这篇来自 blackholes.dev 的帖子主要介绍了：Blackholes – A macOS workspace for coding agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+28. [Meta launches Muse, a personal AI agent](https://apps.apple.com/us/app/muse-from-meta/id6760173601) - 99 pts
+   - 内容介绍：这篇来自 apps.apple.com 的帖子主要介绍了：Meta launches Muse, a personal AI agent相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
+29. [Controversy over OpenAI's Maths Breakthrough](https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy/) - 98 pts
+   - 内容介绍：这篇来自 scientificamerican.com 的帖子主要介绍了：Controversy over OpenAI's Maths Breakthrough相关内容，聚焦OpenAI相关背景、功能和讨论点。
+30. [Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI](https://sparrow2.tavuslabs.org/) - 98 pts
+   - 内容介绍：这篇来自 sparrow2.tavuslabs.org 的帖子主要介绍了：Sparrow-2 – Noise cancellation isn't designed for conversational AI相关内容，聚焦AI agents、人工智能、AI Agent、Codex相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies](https://arxiv.org/abs/2609.05376v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Vivek Chavan, Pengtao Xie, Yahuan Shi, Oliver Heimann, Kevin Haninger, Jörg Krüger
-   - Categories: cs.RO, cs.AI, cs.CV
-   - Score: 198 | Why: matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.05376v1
-   - PDF: https://arxiv.org/pdf/2609.05376v1
-   - Google Scholar: https://scholar.google.com/scholar?q=What%20Matters%2C%20When%3F%20Diagnosing%20and%20Improving%20Conditional%20Visual%20Grounding%20in%20Visuomotor%20Imitation%20Policies
+1. [ExecCritic: Learn to Test, Test to Improve for Coding Agents](https://arxiv.org/abs/2609.09133v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Leitian Tao, Baolin Peng, Haorui Wang, Hang Wang, Hao Cheng, Wenlin Yao, Qianhui Wu, Tao Ge, Sharon Li, Jianfeng Gao
+   - Categories: cs.AI, cs.CL, cs.SE
+   - Score: 230 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.09133v1
+   - PDF: https://arxiv.org/pdf/2609.09133v1
+   - Google Scholar: https://scholar.google.com/scholar?q=ExecCritic%3A%20Learn%20to%20Test%2C%20Test%20to%20Improve%20for%20Coding%20Agents
 
-2. [RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?](https://arxiv.org/abs/2609.05324v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Zhenxuan Fan, Bo Zhang, Yutong Lin, Yuqian Yuan, Juekai Lin, Liang Liang, Zhuoyi Huang, Wenqiao Zhang, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang
-   - Categories: cs.RO, cs.AI, cs.CV
-   - Score: 197 | Why: matched AI agent, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.05324v1
-   - PDF: https://arxiv.org/pdf/2609.05324v1
-   - Google Scholar: https://scholar.google.com/scholar?q=RoboSPA%3A%20Can%20VLA%20Models%20Go%20Beyond%20Simple%20Scenes%20and%20Short-Horizon%20Tasks%3F
+2. [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Yuqiao Tan, Shizhu He, Jun Zhao, Kang Liu
+   - Categories: cs.AI, cs.CL, cs.LG
+   - Score: 230 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.09113v1
+   - PDF: https://arxiv.org/pdf/2609.09113v1
+   - Google Scholar: https://scholar.google.com/scholar?q=SAEScientist-Bench%3A%20Can%20AI%20Agents%20Conduct%20Autonomous%20SAE%20Interpretability%20Research%3F
 
-3. [SMILE: Self-Explainable Multimodal Information Bottleneck for Medical Diagnosis](https://arxiv.org/abs/2609.05174v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Yuqing Yang, Alexander Schmatz, Zhaozhao Ma, Changkyu Choi, Robert Jenssen, Shujian Yu
-   - Categories: cs.CV, cs.LG
-   - Score: 180 | Why: matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.05174v1
-   - PDF: https://arxiv.org/pdf/2609.05174v1
-   - Google Scholar: https://scholar.google.com/scholar?q=SMILE%3A%20Self-Explainable%20Multimodal%20Information%20Bottleneck%20for%20Medical%20Diagnosis
+3. [Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](https://arxiv.org/abs/2609.09030v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Mar Gonzàlez I Català, Haitz Sáez de Ocáriz Borde, Davide Murari, Carola-Bibiane Schönlieb, Pietro Liò, George Montañez
+   - Categories: cs.AI, cs.CL, cs.IT, cs.LG
+   - Score: 230 | Why: fresh paper, matched LLM, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.09030v1
+   - PDF: https://arxiv.org/pdf/2609.09030v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Answer-Distribution%20Trajectories%3A%20A%20Stochastic-Dynamics%20View%20of%20LLM%20Reasoning
 
-4. [Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks](https://arxiv.org/abs/2609.05388v1)
+4. [CodeTD: Topology of Attention Detects Hallucinations in Code LLMs](https://arxiv.org/abs/2609.07779v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。
+   - Authors: Daria Voronkova, Ilya Trofimov, Anton Dmitriev, Eduard Tulchinskii, Evgeny Burnaev, Serguei Barannikov
+   - Categories: cs.SE, cs.AI, cs.CL, cs.LG
+   - Score: 225 | Why: fresh paper, matched LLM, matched AI coding, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.07779v1
+   - PDF: https://arxiv.org/pdf/2609.07779v1
+   - Google Scholar: https://scholar.google.com/scholar?q=CodeTD%3A%20Topology%20of%20Attention%20Detects%20Hallucinations%20in%20Code%20LLMs
+
+5. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Homayoun Afshari, Pietro Basci, Alessandro Russo, Lia Morra
-   - Categories: cs.CV
-   - Score: 173 | Why: matched RAG, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.05388v1
-   - PDF: https://arxiv.org/pdf/2609.05388v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Think-Verify-Revise%3A%20Neuro-Symbolic%20Visual%20Reasoning%20with%20Vision-Language%20Models%20and%20Dynamic%20Logic%20Tensor%20Networks
-
-5. [Cross-Domain Tracker Adaptation Without Target-Domain Labels via Vision-Language Agents](https://arxiv.org/abs/2609.05239v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Daniel Davila, Ravikumar Balakrishnan, Mike Cochran
-   - Categories: cs.CV
-   - Score: 173 | Why: matched LLM, matched AI agent, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.05239v1
-   - PDF: https://arxiv.org/pdf/2609.05239v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Cross-Domain%20Tracker%20Adaptation%20Without%20Target-Domain%20Labels%20via%20Vision-Language%20Agents
+   - Authors: Yuxing Lu, Yicheng Chen, Shanchan Wu, Sercan Ö. Arık
+   - Categories: cs.AI, cs.CL, cs.MA
+   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.09153v1
+   - PDF: https://arxiv.org/pdf/2609.09153v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Procedural%20Graphs%3A%20Self-Evolving%20Execution%20Structures%20for%20LLM%20Agents
 
