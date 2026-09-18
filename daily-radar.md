@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-09-17T05:12:50.644Z
-Fetched: 331 links | Unique: 245 | Candidates: 30
+Generated: 2026-09-18T05:05:26.983Z
+Fetched: 260 links | Unique: 214 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [OpenAI expands ChatGPT ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/)
-   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：OpenAI expands ChatGPT ads with Sponsored Agents相关内容，聚焦OpenAI、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 646 | Points: 153 | Comments: 172
+1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://www.semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks相关内容，说明复现现象、影响范围和排查线索。
+   - Score: 25114 | Points: 18350 | Comments: 1648
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49727041
+   - Semantic Scholar: https://www.semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31
 
-2. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-   - Score: 490 | Points: 246267 | Comments: 43634
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/NousResearch/hermes-agent
+2. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://www.semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for Large Language Models: A Survey相关内容，聚焦RAG、Computer Science、arXiv.org、大语言模型相关背景、功能和讨论点。
+   - Score: 5381 | Points: 4090 | Comments: 259
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5
 
-3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-   - Score: 487 | Points: 260486 | Comments: 219
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/affaan-m/ECC
+3. [Astra for Law](https://openai.com/index/astra-for-law/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Astra for Law相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 1556 | Points: 403 | Comments: 438
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49745940
 
-4. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-   - Score: 487 | Points: 204703 | Comments: 1181
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/n8n-io/n8n
+4. [RAGAs: Automated Evaluation of Retrieval Augmented Generation](https://www.semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b927772)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：RAGAs: Automated Evaluation of Retrieval Augmented Generation相关内容，聚焦RAG、Computer Science、Conference of the European Chapter of the Association for Computational Linguistics、大语言模型相关背景、功能和讨论点。
+   - Score: 1454 | Points: 1036 | Comments: 86
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b927772
 
-5. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Breaking the 1.58-bit Barrier for Ternary LLMs相关内容，聚焦大语言模型相关背景、功能和讨论点。
-   - Score: 292 | Points: 171 | Comments: 22
-   - Why: high HN points
-   - HN: https://news.ycombinator.com/item?id=49732931
+5. [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://www.semanticscholar.org/paper/ab15463babf98fffc6f683fe2026de0725b5e1a9)
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for AI-Generated Content: A Survey相关内容，关注成本结构、定价策略和实际落地收益。
+   - Score: 946 | Points: 713 | Comments: 29
+   - Why: high HN points, matched multiple AI queries
+   - Semantic Scholar: https://www.semanticscholar.org/paper/ab15463babf98fffc6f683fe2026de0725b5e1a9
 
 ## 30-Link Candidate Pool
 
-1. [OpenAI expands ChatGPT ads with Sponsored Agents](https://openai.com/index/reimagining-advertising-with-ai/) - 646 pts
-   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：OpenAI expands ChatGPT ads with Sponsored Agents相关内容，聚焦OpenAI、人工智能、AI Agent相关背景、功能和讨论点。
-2. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 490 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-3. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 487 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-4. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 487 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-6. [huggingface/transformers](https://github.com/huggingface/transformers) - 477 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-7. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-8. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 467 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-9. [ollama/ollama](https://github.com/ollama/ollama) - 466 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-10. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 461 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-11. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 460 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-12. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 455 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-13. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 455 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-14. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - 454 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-15. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 453 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-16. [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - 452 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-17. [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - 450 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-18. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) - 292 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Breaking the 1.58-bit Barrier for Ternary LLMs相关内容，聚焦大语言模型相关背景、功能和讨论点。
-19. [OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html) - 273 pts
-   - 内容介绍：这篇来自 nytimes.com 的帖子主要介绍了：OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior相关内容，聚焦OpenAI相关背景、功能和讨论点。
-20. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) - 175 pts
-   - 内容介绍：这篇来自 zartbot.github.io 的帖子主要介绍了：DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression相关内容，聚焦大语言模型、DeepSeek相关背景、功能和讨论点。
-21. [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app) - 166 pts
-   - 内容介绍：这篇来自 seasonmap.app 的帖子主要介绍了：SeasonMap – when to travel where? visualized with climate data相关内容，关注成本结构、定价策略和实际落地收益。
-22. [Show HN: Give your AI agents access to WhatsApp](https://news.ycombinator.com/item?id=49728159) - 164 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Give your AI agents access to WhatsApp相关内容，聚焦AI agents、人工智能、AI Agent、MCP相关背景、功能和讨论点。
-23. [Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint](https://opendocbot.com/) - 151 pts
-   - 内容介绍：这篇来自 opendocbot.com 的帖子主要介绍了：OpenDocBot – bring your own model to Word, Excel and PowerPoint相关内容，聚焦浏览器自动化、网页操作和编程代理。
-24. [Show HN: Texio, reliable Markdown operations for shell scripts and AI agents](https://github.com/Allra-Fintech/texio) - 141 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Texio, reliable Markdown operations for shell scripts and AI agents相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-25. [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](https://arxiv.org/abs/2609.19124v1) - 135 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Flag Game: A Toy Model for Mechanistic Swarm Interpretability相关内容，聚焦AI Agent、cs.AI、cond-mat.dis-nn、cond-mat.stat-mech、cs.MA、physics.soc-ph、人工智能、AI 安全相关背景、功能和讨论点。
-26. [Show HN: Blue – open-source governance for coding agents](https://bluee.sh/) - 133 pts
-   - 内容介绍：这篇来自 bluee.sh 的帖子主要介绍了：Blue – 开源 governance for coding agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
-27. [Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v1) - 131 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-28. [My website charged AI agents a penny per page. I watched Claude pay it](https://suganthan.com/blog/x402-pay-per-crawl/) - 121 pts
-   - 内容介绍：这篇来自 suganthan.com 的帖子主要介绍了：My website charged AI agents a penny per page. I watched Claude pay it相关内容，聚焦AI agents、人工智能、AI Agent、Anthropic、Claude相关背景、功能和讨论点。
-29. [In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138v1) - 121 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：In-Context Robot Learning with VLM Agents相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-30. [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models](https://arxiv.org/abs/2609.19113v1) - 120 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models相关内容，关注成本结构、定价策略和实际落地收益。
+1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://www.semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31) - 25114 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks相关内容，说明复现现象、影响范围和排查线索。
+2. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://www.semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5) - 5381 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for Large Language Models: A Survey相关内容，聚焦RAG、Computer Science、arXiv.org、大语言模型相关背景、功能和讨论点。
+3. [Astra for Law](https://openai.com/index/astra-for-law/) - 1556 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Astra for Law相关内容，聚焦OpenAI相关背景、功能和讨论点。
+4. [RAGAs: Automated Evaluation of Retrieval Augmented Generation](https://www.semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b927772) - 1454 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：RAGAs: Automated Evaluation of Retrieval Augmented Generation相关内容，聚焦RAG、Computer Science、Conference of the European Chapter of the Association for Computational Linguistics、大语言模型相关背景、功能和讨论点。
+5. [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://www.semanticscholar.org/paper/ab15463babf98fffc6f683fe2026de0725b5e1a9) - 946 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Retrieval-Augmented Generation for AI-Generated Content: A Survey相关内容，关注成本结构、定价策略和实际落地收益。
+6. [Benchmarking Retrieval-Augmented Generation for Medicine](https://www.semanticscholar.org/paper/b798cf6af813638fab09a8af6ad0f3df6c241485) - 932 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Benchmarking Retrieval-Augmented Generation for Medicine相关内容，聚焦RAG、Computer Science、Annual Meeting of the Association for Computational Linguistics、大语言模型、提示词工程、OpenAI相关背景、功能和讨论点。
+7. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) - 924 pts
+   - 内容介绍：这篇来自 bend-lang.com 的帖子主要介绍了：Bend – A language that blocks AI mistakes via proof, on CPU and GPU相关内容，讨论股权安排、AI 收益分享和政策影响。
+8. [AI safety is mostly a sex cult](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q) - 920 pts
+   - 内容介绍：这篇来自 skywriter.blue 的帖子主要介绍了：AI safety is mostly a sex cult相关内容，聚焦AI 安全、人工智能相关背景、功能和讨论点。
+9. [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://www.semanticscholar.org/paper/1ea143c34b9bc359780f79ba4d68dee68bcc1129) - 764 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：LightRAG: Simple and Fast Retrieval-Augmented Generation相关内容，聚焦RAG、Computer Science、Conference on Empirical Methods in Natural Language Processing、大语言模型相关背景、功能和讨论点。
+10. [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://www.semanticscholar.org/paper/ba7952e7c4fb891c36980ca19f94251257da6eb7) - 634 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG相关内容，聚焦RAG、Computer Science、arXiv.org、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。
+11. [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://www.semanticscholar.org/paper/a41d4a3b005c8ec4f821e6ee96672d930ca9596c) - 592 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+12. [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](https://www.semanticscholar.org/paper/f4e06256ab07727ff4e0465deea83fcf45012354) - 585 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models相关内容，聚焦RAG、Computer Science、USENIX Security Symposium、大语言模型相关背景、功能和讨论点。
+13. [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](https://www.semanticscholar.org/paper/4e71624e90960cb003e311a0fe3b8be4c2863239) - 546 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries相关内容，聚焦RAG、Computer Science、arXiv.org、大语言模型、OpenAI相关背景、功能和讨论点。
+14. [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049) - 323 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Skillsync (YC W26) – AI chat sessions made portable across agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+15. [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) - 302 pts
+   - 内容介绍：这篇来自 hacktron.ai 的帖子主要介绍了：Hacking OpenAI相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+16. [OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance](https://asiaai.fyi/openai-misalignment-framework-global-governance/) - 297 pts
+   - 内容介绍：这篇来自 asiaai.fyi 的帖子主要介绍了：OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+17. [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842) - 275 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data相关内容，聚焦大语言模型相关背景、功能和讨论点。
+18. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) - 267 pts
+   - 内容介绍：这篇来自 sockpuppet.org 的帖子主要介绍了：How to Write with an LLM相关内容，聚焦大语言模型相关背景、功能和讨论点。
+19. [LLM Classification Is Feature Engineering](https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/) - 188 pts
+   - 内容介绍：这篇来自 minimallysufficient.com 的帖子主要介绍了：LLM Classification Is Feature Engineering相关内容，聚焦大语言模型相关背景、功能和讨论点。
+20. [Show HN: MCPJam - the first testing & evaluations platform for MCP servers](https://www.mcpjam.com) - 161 pts
+   - 内容介绍：这篇来自 mcpjam.com 的帖子主要介绍了：MCPJam - the first testing & evaluations platform for MCP servers相关内容，说明复现现象、影响范围和排查线索。
+21. [PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows](https://www.semanticscholar.org/paper/8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8) - 155 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦 MCP 服务部署、测试、监控和商店发布。
+22. [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](https://arxiv.org/abs/2609.20822v1) - 149 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation相关内容，聚焦浏览器自动化、网页操作和编程代理。
+23. [Show HN: Die With Me – Claude and Codex rate limits as AIM away messages](https://diewithme.co/join) - 144 pts
+   - 内容介绍：这篇来自 diewithme.co 的帖子主要介绍了：Die With Me – Claude and Codex rate limits as AIM away messages相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+24. [Show HN: Timeline, a team project planner with a fast canvas Gantt view](https://github.com/vakahnke/Timeline) - 135 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Timeline, a team project planner with a fast canvas Gantt view相关内容，说明复现现象、影响范围和排查线索。
+25. [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804v1) - 135 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：An Empirical Study of Harness Design for Coding Agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+26. [Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation](https://arxiv.org/abs/2609.20758v1) - 135 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation相关内容，聚焦AI Agent、stat.ML、cs.AI、cs.LG、stat.AP、stat.ME、人工智能、AI 安全相关背景、功能和讨论点。
+27. [SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation](https://www.semanticscholar.org/paper/ea693001245ba993cbd4387f21b41958a0948746) - 130 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation相关内容，关注成本结构、定价策略和实际落地收益。
+28. [Show HN: Craigslist for agent skills, curated by a human](https://skillbay.sh/) - 127 pts
+   - 内容介绍：这篇来自 skillbay.sh 的帖子主要介绍了：Craigslist for agent skills, curated by a human相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
+29. [Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)](https://www.semanticscholar.org/paper/cf50519715f25b57b96c923feb7672ef611cb7cf) - 127 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)相关内容，关注成本结构、定价策略和实际落地收益。
+30. [Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1) - 121 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Quantifying Overclaiming Propensity in Frontier LLM Agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
 
 ## Research Papers
 
-1. [Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Girish A. Koushik, Diptesh Kanojia, Helen Treharne
-   - Categories: cs.CV, cs.AI, cs.CL, cs.LG
-   - Score: 238 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.18860v1
-   - PDF: https://arxiv.org/pdf/2609.18860v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Decodable%20but%20Misrouted%3A%20Sparse%20Features%20Uncover%20a%20Readout%20Gap%20in%20Vision-Language%20Models%20for%20Harmful%20Meme%20Detection
+1. [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Run-Ze Fan, Zihao Zhang, Simin Ma, Yebowen Hu, Shouju Wang, Kaiqiang Song, Fei Liu, Hamed Zamani, Xiaoyang Wang
+   - Categories: cs.AI, cs.CL, cs.LG, cs.SE
+   - Score: 238 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
+   - arXiv: https://arxiv.org/abs/2609.20804v1
+   - PDF: https://arxiv.org/pdf/2609.20804v1
+   - Google Scholar: https://scholar.google.com/scholar?q=An%20Empirical%20Study%20of%20Harness%20Design%20for%20Coding%20Agents
 
-2. [A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144v1)
+2. [Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction](https://arxiv.org/abs/2609.19615v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin
-   - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 230 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.19144v1
-   - PDF: https://arxiv.org/pdf/2609.19144v1
-   - Google Scholar: https://scholar.google.com/scholar?q=A%20Zeroth-Order%20Paradigm%20for%20LLM%20Preference%20Alignment
+   - Authors: Yuanzhe Jia, Ali Anaissi
+   - Categories: cs.CL, cs.AI, cs.IR, cs.SE
+   - Score: 233 | Why: fresh paper, matched RAG, matched LLM, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.19615v1
+   - PDF: https://arxiv.org/pdf/2609.19615v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Semantic%20Layer%20Induction%20from%20Raw%20Telemetry%20via%20Hierarchical%20LLM%20and%20RAG%20Abstraction
 
-3. [MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education](https://arxiv.org/abs/2609.19088v1)
+3. [Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](https://arxiv.org/abs/2609.20822v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Bingxin Xu, Yuzhang Shang, Zhen Dong, Emilio Ferrara
+   - Categories: cs.RO, cs.AI, cs.CL, cs.CV
+   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
+   - arXiv: https://arxiv.org/abs/2609.20822v1
+   - PDF: https://arxiv.org/pdf/2609.20822v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Coding%20Agents%20with%20an%20Obstacle-Aware%20Harness%20for%20Safe%20Robot%20Manipulation
+
+4. [Paint-Anything: Unified Any-Color Control for Image Generation and Editing](https://arxiv.org/abs/2609.20816v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Luyao Zhu, Xun Wei Yee, Wei Li, Mun Thye Mak, Wee Siong Ng
-   - Categories: cs.AI, cs.CL, cs.CV
-   - Score: 230 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.19088v1
-   - PDF: https://arxiv.org/pdf/2609.19088v1
-   - Google Scholar: https://scholar.google.com/scholar?q=MUSE%3A%20Benchmarking%20Large%20Vision-Language%20Models%20on%20Multi-Modal%20Understanding%20in%20Situated%20Education
+   - Authors: Ji Xie, Dewei Zhou, Xinyu Huang, Zhennan Chen, Xun Wang
+   - Categories: cs.CV, cs.AI, cs.LG
+   - Score: 230 | Why: fresh paper, matched LLM, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.20816v1
+   - PDF: https://arxiv.org/pdf/2609.20816v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Paint-Anything%3A%20Unified%20Any-Color%20Control%20for%20Image%20Generation%20and%20Editing
 
-4. [Higher-order pruning of experts in mixture-of-experts language models](https://arxiv.org/abs/2609.18916v1)
+5. [Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Alex M. Tseng, Prannay Kaul, Luca Zancato, Wei Xia, Stefano Soatto
-   - Categories: cs.LG, cs.AI
-   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.18916v1
-   - PDF: https://arxiv.org/pdf/2609.18916v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Higher-order%20pruning%20of%20experts%20in%20mixture-of-experts%20language%20models
-
-5. [ReFigBench: Benchmarking Scientific Figure Reconstruction as Editable PowerPoint Artifacts](https://arxiv.org/abs/2609.18844v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Liyang Fan, Chi Wei, Yitai Li, Xinping Bi, Guhong Chen, Chenghao Sun, Haoxiang Yang, Qingwen Li, Kai Yan, Hong Li, Bo Li
-   - Categories: cs.CL, cs.CV
-   - Score: 222 | Why: fresh paper, matched AI agent, matched AI coding, matched Multimodal, CS AI category
-   - arXiv: https://arxiv.org/abs/2609.18844v1
-   - PDF: https://arxiv.org/pdf/2609.18844v1
-   - Google Scholar: https://scholar.google.com/scholar?q=ReFigBench%3A%20Benchmarking%20Scientific%20Figure%20Reconstruction%20as%20Editable%20PowerPoint%20Artifacts
+   - Authors: Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo, Saskia Helbling, Alberto Tosato, Mohamed Amine Merzouk, Nouha Dziri, Gauthier Gidel, Tommaso Tosato
+   - Categories: cs.SE, cs.AI, cs.LG
+   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
+   - arXiv: https://arxiv.org/abs/2609.20812v1
+   - PDF: https://arxiv.org/pdf/2609.20812v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Quantifying%20Overclaiming%20Propensity%20in%20Frontier%20LLM%20Agents
 
