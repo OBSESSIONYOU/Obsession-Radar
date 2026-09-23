@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-09-22T05:17:53.869Z
-Fetched: 310 links | Unique: 239 | Candidates: 30
+Generated: 2026-09-23T05:03:46.784Z
+Fetched: 311 links | Unique: 227 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [M5 Ultra Mac Studio Review](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
-   - 内容介绍：这篇来自 macstories.net 的帖子主要介绍了：M5 Ultra Mac Studio Review相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 901 | Points: 237 | Comments: 238
+1. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+   - 内容介绍：这篇来自 anthropic.com 的帖子主要介绍了：Claude Opus 5.5相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。
+   - Score: 3709 | Points: 1357 | Comments: 869
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49787313
+   - HN: https://news.ycombinator.com/item?id=49803892
 
-2. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
-   - 内容介绍：这篇来自 linear.app 的帖子主要介绍了：AI 编程 has made CI a bottleneck, so we reworked ours to keep up相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-   - Score: 703 | Points: 179 | Comments: 185
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49792067
+2. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT-6 Sol and Luna相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 3163 | Points: 1349 | Comments: 656
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49805509
 
-3. [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/)
-   - 内容介绍：这篇来自 forbes.com 的帖子主要介绍了：Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 593 | Points: 144 | Comments: 152
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49789982
+3. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+   - 内容介绍：这篇来自 cryptocellar.org 的帖子主要介绍了：OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 1625 | Points: 609 | Comments: 373
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49801324
 
-4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+4. [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+   - 内容介绍：这篇来自 arcturus-labs.com 的帖子主要介绍了：OpenAI is well positioned to fast-follow Jev相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 825 | Points: 275 | Comments: 199
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49802161
+
+5. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-   - Score: 490 | Points: 247832 | Comments: 43598
+   - Score: 490 | Points: 248155 | Comments: 44142
    - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
    - GitHub: https://github.com/NousResearch/hermes-agent
 
-5. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-   - Score: 488 | Points: 205636 | Comments: 1186
-   - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
-   - GitHub: https://github.com/n8n-io/n8n
-
 ## 30-Link Candidate Pool
 
-1. [M5 Ultra Mac Studio Review](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/) - 901 pts
-   - 内容介绍：这篇来自 macstories.net 的帖子主要介绍了：M5 Ultra Mac Studio Review相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-2. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) - 703 pts
-   - 内容介绍：这篇来自 linear.app 的帖子主要介绍了：AI 编程 has made CI a bottleneck, so we reworked ours to keep up相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-3. [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/) - 593 pts
-   - 内容介绍：这篇来自 forbes.com 的帖子主要介绍了：Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 490 pts
+1. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 3709 pts
+   - 内容介绍：这篇来自 anthropic.com 的帖子主要介绍了：Claude Opus 5.5相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。
+2. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 3163 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT-6 Sol and Luna相关内容，聚焦OpenAI相关背景、功能和讨论点。
+3. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) - 1625 pts
+   - 内容介绍：这篇来自 cryptocellar.org 的帖子主要介绍了：OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005相关内容，聚焦OpenAI相关背景、功能和讨论点。
+4. [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/) - 825 pts
+   - 内容介绍：这篇来自 arcturus-labs.com 的帖子主要介绍了：OpenAI is well positioned to fast-follow Jev相关内容，聚焦OpenAI相关背景、功能和讨论点。
+5. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 490 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-5. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
+6. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 487 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-6. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
+7. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 482 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-7. [huggingface/transformers](https://github.com/huggingface/transformers) - 476 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-8. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-9. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 470 pts
+8. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 478 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+9. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
 10. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 470 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-11. [ollama/ollama](https://github.com/ollama/ollama) - 462 pts
+11. [ollama/ollama](https://github.com/ollama/ollama) - 466 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-12. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 461 pts
+12. [Unreal Agent](https://unreallabs.ai/blog/unreal-agent/) - 463 pts
+   - 内容介绍：这篇来自 unreallabs.ai 的帖子主要介绍了：Unreal Agent相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
+13. [huggingface/transformers](https://github.com/huggingface/transformers) - 462 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+14. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 461 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-13. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 461 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-14. [microsoft/markitdown](https://github.com/microsoft/markitdown) - 455 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-15. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 455 pts
+15. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 461 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-16. [Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai/) - 264 pts
-   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Advisory Group on Mathematics and Artificial Intelligence相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-17. [Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge) - 174 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Foremerge – Catch intent conflicts between parallel coding agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
-18. [The End Of Upward Mobility – AI is coming for the meritocracy](https://www.noemamag.com/the-end-of-upward-mobility/) - 162 pts
-   - 内容介绍：这篇来自 noemamag.com 的帖子主要介绍了：The End Of Upward Mobility – AI is coming for the meritocracy相关内容，聚焦AI 编程、人工智能相关背景、功能和讨论点。
-19. [PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows](https://www.semanticscholar.org/paper/8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8) - 157 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦 MCP 服务部署、测试、监控和商店发布。
-20. [Show HN: Praxos – Multiplayer AI](https://www.praxos.ai/) - 150 pts
-   - 内容介绍：这篇来自 praxos.ai 的帖子主要介绍了：Praxos – Multiplayer AI相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-21. [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](https://arxiv.org/abs/2609.24890v1) - 147 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：OSWorld-Pro: Process-based Evaluation for Computer Use Agents相关内容，讨论股权安排、AI 收益分享和政策影响。
-22. [Ask HN: Dead Internet](https://news.ycombinator.com/item?id=49793764) - 145 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Dead Internet相关内容，聚焦generative AI、人工智能、大语言模型、AI Agent、AI agents、RAG相关背景、功能和讨论点。
-23. [Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development](https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving) - 137 pts
-   - 内容介绍：这篇来自 tomshardware.com 的帖子主要介绍了：Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development相关内容，聚焦OpenAI、人工智能、Anthropic、MCP相关背景、功能和讨论点。
-24. [DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security](https://arxiv.org/abs/2609.24662v1) - 129 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security相关内容，聚焦RAG、cs.AI、人工智能、大语言模型、AI Agent、OpenAI、Anthropic、DeepSeek相关背景、功能和讨论点。
-25. [UniK: Universal Knowledge Perception for Digital and Physical AI](https://arxiv.org/abs/2609.23971v1) - 126 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：UniK: Universal Knowledge Perception for Digital and Physical AI相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-26. [Harness-Zero: Harness Distillation via Agent-as-Harness](https://arxiv.org/abs/2609.24974v1) - 121 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，讨论 AI 编程工具的使用体验、限制和工作流变化。
-27. [Evolution of AI in Education: Agentic Workflows](https://www.semanticscholar.org/paper/f8acab9a1a16b7e7a0a2d4f288a0e9817f61e812) - 119 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evolution of AI in Education: Agentic Workflows相关内容，聚焦AI Agent、Computer Science、arXiv.org、人工智能、大语言模型相关背景、功能和讨论点。
-28. [XGrammar-2: Fast, Customizable Structured Generation for Tool Calling and Agents](https://blog.mlc.ai/2026/05/04/xgrammar-2-fast-customizable-structured-generation) - 114 pts
-   - 内容介绍：这篇来自 blog.mlc.ai 的帖子主要介绍了：XGrammar-2: Fast, Customizable Structured Generation for Tool Calling and Agents相关内容，聚焦generative AI、人工智能、AI Agent、AI agents、RAG相关背景、功能和讨论点。
-29. [ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows](https://www.semanticscholar.org/paper/d3dc789db41b8f6b633bbac276559d0e53bc91e5) - 99 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows相关内容，说明复现现象、影响范围和排查线索。
-30. [AI Agents and Agentic Systems: Redefining Global it Management](https://www.semanticscholar.org/paper/7c26f028e67cb4614c189279e9a3afabc192dab6) - 96 pts
-   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：AI Agents and Agentic Systems: Redefining Global it Management相关内容，聚焦AI Agent、Journal of Global Information Technology Management、人工智能、大语言模型相关背景、功能和讨论点。
+16. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 459 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+17. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 459 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+18. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 458 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+19. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 457 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+20. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - 455 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+21. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 454 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+22. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 381 pts
+   - 内容介绍：这篇来自 anthropic.com 的帖子主要介绍了：Claude Opus 5.5相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。
+23. [LLM Ass Bench](https://www.assbench.com/) - 306 pts
+   - 内容介绍：这篇来自 assbench.com 的帖子主要介绍了：LLM Ass Bench相关内容，聚焦大语言模型相关背景、功能和讨论点。
+24. [Writing Rust code that's fast by asking agents to make the code faster](https://minimaxir.com/2026/09/agentic-iteration/) - 275 pts
+   - 内容介绍：这篇来自 minimaxir.com 的帖子主要介绍了：Writing Rust code that's fast by asking agents to make the code faster相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+25. [People Training OpenAI's AI Fired for Using AI to Train the AI](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/) - 254 pts
+   - 内容介绍：这篇来自 404media.co 的帖子主要介绍了：People Training OpenAI's AI Fired for Using AI to Train the AI相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+26. [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/) - 254 pts
+   - 内容介绍：这篇来自 blog.google 的帖子主要介绍了：The new CC, an AI agent built for families相关内容，聚焦AI agents、人工智能、AI Agent、RAG相关背景、功能和讨论点。
+27. [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779v1) - 149 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
+28. [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://arxiv.org/abs/2609.26780v1) - 121 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue相关内容，说明复现现象、影响范围和排查线索。
+29. [Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models](https://arxiv.org/abs/2609.26637v1) - 118 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+30. [FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation](https://arxiv.org/abs/2609.26480v1) - 115 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation相关内容，关注成本结构、定价策略和实际落地收益。
 
 ## Research Papers
 
-1. [UniK: Universal Knowledge Perception for Digital and Physical AI](https://arxiv.org/abs/2609.23971v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Nirmit Desai, Kunal Sawarkar, Aditya Mahakali, Dongkon Lee, Kevin Park, Eric Song
-   - Categories: cs.AI, cs.CV, cs.IR, cs.LG
-   - Score: 233 | Why: fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category
-   - arXiv: https://arxiv.org/abs/2609.23971v1
-   - PDF: https://arxiv.org/pdf/2609.23971v1
-   - Google Scholar: https://scholar.google.com/scholar?q=UniK%3A%20Universal%20Knowledge%20Perception%20for%20Digital%20and%20Physical%20AI
-
-2. [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/abs/2609.24972v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Peng Xia, Rujun Han, Zifeng Wang, Yanfei Chen, Yufan Zhang, Yoonho Lee, Chengsong Huang, Han Yu, Zhongying CuiZhu, Yifei Ming, Huaxiu Yao, Burak Gokturk, Tomas Pfister, Chen-Yu Lee
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2609.24972v1
-   - PDF: https://arxiv.org/pdf/2609.24972v1
-   - Google Scholar: https://scholar.google.com/scholar?q=RRSI%3A%20Regularized%20Recursive%20Self-Improvement%20of%20Agent%20Harnesses
-
-3. [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](https://arxiv.org/abs/2609.24890v1)
+1. [SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue](https://arxiv.org/abs/2609.26780v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Zhilin Wang, Shaokun Zhang, Yifan Zhang, Hao Zhang, Jin Xu, Binfeng Xu, Jian Hu, Yunheng Zou, Karan Sapra, Andrew Tao, Jan Kautz, Yi Dong
-   - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 229 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2609.24890v1
-   - PDF: https://arxiv.org/pdf/2609.24890v1
-   - Google Scholar: https://scholar.google.com/scholar?q=OSWorld-Pro%3A%20Process-based%20Evaluation%20for%20Computer%20Use%20Agents
+   - Authors: Haobo Zheng, Tan Tang, Yan Chen, Weijie Wang, Yingcai Wu
+   - Categories: cs.CL, cs.AI, cs.IR, cs.LG
+   - Score: 238 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.26780v1
+   - PDF: https://arxiv.org/pdf/2609.26780v1
+   - Google Scholar: https://scholar.google.com/scholar?q=SpeakerMem-R1%3A%20Speaker-Centered%20Dual-Track%20Memory%20for%20Multi-Party%20Dialogue
 
-4. [onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](https://arxiv.org/abs/2609.24983v1)
+2. [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Trang Nguyen, Eulrang Cho, Bingqing Chen, Tim Dettmers
+   - Categories: cs.AI, cs.LG, cs.SE
+   - Score: 230 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.26779v1
+   - PDF: https://arxiv.org/pdf/2609.26779v1
+   - Google Scholar: https://scholar.google.com/scholar?q=CliffCompaction%3A%20Cost-Efficient%20Compaction%20for%20Long-Horizon%20Coding%20Agents
+
+3. [Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation](https://arxiv.org/abs/2609.26693v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Lei Yang, Mengyin Liu, Jia Wang, Hangyu Guo, Liang Zhao, Zheng Ge, Kang An, Binxing Jiao, Qi Han, Daxin Jiang, Siqi Shen, Xiangyu Zhang
-   - Categories: cs.CL, cs.HC, cs.LG
-   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2609.24983v1
-   - PDF: https://arxiv.org/pdf/2609.24983v1
-   - Google Scholar: https://scholar.google.com/scholar?q=onPanda%3A%20Efficient%20Annotation%20of%20On-Policy%20Alignment%20Data%20for%20LLMs%20and%20Agents%20via%20Token-Level%20Correction
+   - Authors: Lijuan Tang, Yuemeng Zheng
+   - Categories: cs.CL, cs.AI, cs.SE
+   - Score: 229 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.26693v1
+   - PDF: https://arxiv.org/pdf/2609.26693v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Measuring%20the%20Serving%20Stack%20Instead%20of%20the%20Model%3A%20Hidden%20Confounds%20in%20Local%20Tool-Use%20Evaluation
 
-5. [Harness-Zero: Harness Distillation via Agent-as-Harness](https://arxiv.org/abs/2609.24974v1)
+4. [SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving](https://arxiv.org/abs/2609.26777v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, Guojie Song
-   - Categories: cs.AI, cs.CL, cs.NE
-   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2609.24974v1
-   - PDF: https://arxiv.org/pdf/2609.24974v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Harness-Zero%3A%20Harness%20Distillation%20via%20Agent-as-Harness
+   - Authors: Jennifer Williams, Dave Farris, Jeff Farris, Jiantao Jiao
+   - Categories: cs.AI, cs.SE
+   - Score: 222 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.26777v1
+   - PDF: https://arxiv.org/pdf/2609.26777v1
+   - Google Scholar: https://scholar.google.com/scholar?q=SWE-Serve%3A%20Benchmarking%20Agentic%20Engineering%20For%20Production%20Inference%20Serving
+
+5. [Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](https://arxiv.org/abs/2609.26760v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Laizhen Li, Jiarui Li, Juanjuan Zhao, Kejiang Ye, Ye Li, Cheng-zhong Xu, Xitong Gao
+   - Categories: cs.AI, cs.SE
+   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2609.26760v1
+   - PDF: https://arxiv.org/pdf/2609.26760v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Grow%20the%20Harness%2C%20Not%20the%20Context%3A%20From%20Strategy-Free%20Scaffolds%20to%20Reusable%20Specialist%20Agents
 
