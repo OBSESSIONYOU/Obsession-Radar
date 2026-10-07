@@ -1,147 +1,147 @@
 # Obsession Radar
 
-Generated: 2026-10-06T06:47:16.892Z
-Fetched: 312 links | Unique: 226 | Candidates: 30
+Generated: 2026-10-07T06:21:45.948Z
+Fetched: 307 links | Unique: 228 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
-   - 内容介绍：这篇来自 vals.ai 的帖子主要介绍了：Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 884 | Points: 299 | Comments: 197
+1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Sharing AI progress in mathematics相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+   - Score: 2475 | Points: 728 | Comments: 659
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49970667
+   - HN: https://news.ycombinator.com/item?id=49984923
 
-2. [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/)
-   - 内容介绍：这篇来自 diff.wikimedia.org 的帖子主要介绍了：OpenAI "rogue" agent activities found on Wikimedia projects相关内容，聚焦OpenAI、AI Agent相关背景、功能和讨论点。
-   - Score: 792 | Points: 271 | Comments: 180
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=49968105
+2. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+   - 内容介绍：这篇来自 developers.openai.com 的帖子主要介绍了：Decisions API is in public beta相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 552 | Points: 228 | Comments: 104
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=49984025
 
 3. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-   - Score: 490 | Points: 251511 | Comments: 48089
+   - Score: 491 | Points: 251764 | Comments: 47748
    - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
    - GitHub: https://github.com/NousResearch/hermes-agent
 
 4. [n8n-io/n8n](https://github.com/n8n-io/n8n)
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-   - Score: 488 | Points: 206737 | Comments: 1139
+   - Score: 488 | Points: 206787 | Comments: 1149
    - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
    - GitHub: https://github.com/n8n-io/n8n
 
 5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-   - Score: 483 | Points: 187665 | Comments: 610
+   - Score: 482 | Points: 187678 | Comments: 609
    - Why: popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed
    - GitHub: https://github.com/Significant-Gravitas/AutoGPT
 
 ## 30-Link Candidate Pool
 
-1. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) - 884 pts
-   - 内容介绍：这篇来自 vals.ai 的帖子主要介绍了：Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-2. [OpenAI "rogue" agent activities found on Wikimedia projects](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) - 792 pts
-   - 内容介绍：这篇来自 diff.wikimedia.org 的帖子主要介绍了：OpenAI "rogue" agent activities found on Wikimedia projects相关内容，聚焦OpenAI、AI Agent相关背景、功能和讨论点。
-3. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 490 pts
+1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) - 2475 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Sharing AI progress in mathematics相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
+2. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) - 552 pts
+   - 内容介绍：这篇来自 developers.openai.com 的帖子主要介绍了：Decisions API is in public beta相关内容，聚焦OpenAI相关背景、功能和讨论点。
+3. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 491 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
 4. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
+5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 482 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-6. [huggingface/transformers](https://github.com/huggingface/transformers) - 478 pts
+6. [langgenius/dify](https://github.com/langgenius/dify) - 472 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+7. [ollama/ollama](https://github.com/ollama/ollama) - 469 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-7. [langgenius/dify](https://github.com/langgenius/dify) - 472 pts
+8. [huggingface/transformers](https://github.com/huggingface/transformers) - 468 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+9. [Claude Code’s suggested message feature: I think the real customer is the model](https://www.zohaib.cc/blog/smartest-claude-code-feature) - 466 pts
+   - 内容介绍：这篇来自 zohaib.cc 的帖子主要介绍了：Claude Code’s suggested message feature: I think the real customer is the model相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+10. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 464 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-8. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 471 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-9. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 466 pts
+11. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 462 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-10. [ollama/ollama](https://github.com/ollama/ollama) - 464 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-11. [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - 461 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：生成式 AI 相关开源项目，关注内容生成、应用构建和开发者工具。
-12. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 461 pts
+12. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 461 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+13. [vllm-project/vllm](https://github.com/vllm-project/vllm) - 459 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
-13. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 459 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-14. [ruvnet/RuView](https://github.com/ruvnet/RuView) - 456 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕主流大模型生态的项目，关注模型调用、应用开发和工作流集成。
+14. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 455 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
 15. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - 455 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-16. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 454 pts
+16. [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 454 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+17. [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 454 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-17. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - 453 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-18. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 452 pts
+18. [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - 449 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
+19. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - 448 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-19. [Accept 'bad things' in return for benefits of AI, says Sam Altman](https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks) - 380 pts
-   - 内容介绍：这篇来自 theguardian.com 的帖子主要介绍了：Accept 'bad things' in return for benefits of AI, says Sam Altman相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-20. [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance/) - 241 pts
-   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Our approach to EU text provenance rules相关内容，聚焦OpenAI相关背景、功能和讨论点。
-21. [Engineer says Claude Code has made his job "soul-sucking"](https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html) - 236 pts
-   - 内容介绍：这篇来自 techspot.com 的帖子主要介绍了：Engineer says Claude Code has made his job "soul-sucking"相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-22. [Learning to Read the Contextual Tokens in Diffusion Transformers](https://arxiv.org/abs/2610.06844v1) - 160 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Learning to Read the Contextual Tokens in Diffusion Transformers相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-23. [Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843v1) - 146 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Recursive Video In-Context Learning for Agentic Robot相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-24. [Show HN: Rashomon – An independent execution record for AI coding agents](https://github.com/altrace-dev-role/rashomon) - 136 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Rashomon – An independent execution record for AI 编程 agents相关内容，聚焦浏览器自动化、网页操作和编程代理。
-25. [Show HN: Self-bench – benchmark coding agents on real-world software](https://github.com/mupt-ai/self-bench) - 135 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Self-bench – benchmark coding agents on real-world software相关内容，聚焦浏览器自动化、网页操作和编程代理。
-26. [Show HN: Open-source iPhone app that streams Claude like the Siri app](https://github.com/unionst/swift-chat-ai-starter) - 128 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：开源 iPhone app that streams Claude like the Siri app相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-27. [Agentic-ZTA: A Multi-Agent Architecture for Autonomous Zero Trust Enforcement](https://arxiv.org/abs/2610.05782v1) - 126 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Agentic-ZTA: A Multi-Agent Architecture for Autonomous Zero Trust Enforcement相关内容，聚焦RAG、cs.AI、cs.CR、cs.ET、cs.LG、cs.MA、人工智能、AI Agent、提示词工程相关背景、功能和讨论点。
-28. [Orcah Studio: A local-first video agent that can search your videos](https://news.ycombinator.com/item?id=49970078) - 121 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Orcah Studio: A local-first video agent that can search your videos相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-29. [Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) - 120 pts
-   - 内容介绍：这篇来自 apps.apple.com 的帖子主要介绍了：生成式 UI 的开放标准 OpenUI，聚焦generative AI、人工智能、大语言模型、RAG、AI Agent、AI agents相关背景、功能和讨论点。
-30. [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1) - 118 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents相关内容，关注成本结构、定价策略和实际落地收益。
+20. [Tell HN: GitHub refuses to remove cracked copies of my software after a month](https://news.ycombinator.com/item?id=49982498) - 378 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: GitHub refuses to remove cracked copies of my software after a month相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+21. [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026) - 300 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Integer multiplication below n log n相关内容，聚焦OpenAI相关背景、功能和讨论点。
+22. [Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart) - 184 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：OpenChart – OSS TradingView alternative with your own AI agent相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+23. [South Korea says AI agents appear to have been used to hack the country's banks](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/) - 176 pts
+   - 内容介绍：这篇来自 reuters.com 的帖子主要介绍了：South Korea says AI agents appear to have been used to hack the country's banks相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
+24. [Show HN: Tofu – let your agent deploy full-stack apps](https://trytofu.ai) - 149 pts
+   - 内容介绍：这篇来自 trytofu.ai 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦浏览器自动化、网页操作和编程代理。
+25. [Ask HN: How would you feel if we nationalized Google?](https://news.ycombinator.com/item?id=49985180) - 132 pts
+   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：How would you feel if we nationalized Google?相关内容，聚焦大语言模型相关背景、功能和讨论点。
+26. [WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](https://arxiv.org/abs/2610.08720v1) - 132 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+27. [Show HN: Aether: Check and fix web accessibility issues from your coding agent](https://github.com/allchemylabs/aether-wcag-scanner) - 129 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，说明复现现象、影响范围和排查线索。
+28. [Tool-calling retrieval versus vector RAG for a small Greek--English knowledge base: accuracy and robustness to how users type Greek](https://arxiv.org/abs/2610.08205v1) - 122 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Tool-calling retrieval versus vector RAG for a small Greek--English knowledge base: accuracy and robustness to how users type Greek相关内容，关注成本结构、定价策略和实际落地收益。
+29. [WorldSonus: Bringing Sound to Worlds](https://arxiv.org/abs/2610.08760v1) - 119 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：WorldSonus: Bringing Sound to Worlds相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
+30. [RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems](https://arxiv.org/abs/2610.08571v1) - 115 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems相关内容，聚焦RAG、cs.CR、cs.AI、cs.LG、人工智能、机器学习、提示词工程相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [Learning to Read the Contextual Tokens in Diffusion Transformers](https://arxiv.org/abs/2610.06844v1)
+1. [Learning to Retrieve via Reinforcement Learning in Embedding Space](https://arxiv.org/abs/2610.07731v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik
-   - Categories: cs.CV, cs.AI, cs.GR, cs.LG
-   - Score: 230 | Why: fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2610.06844v1
-   - PDF: https://arxiv.org/pdf/2610.06844v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Learning%20to%20Read%20the%20Contextual%20Tokens%20in%20Diffusion%20Transformers
+   - Authors: Qi Liu, Fengming Liang, Yiqun Chen, Erhan Zhang, Jiaxin Mao
+   - Categories: cs.IR, cs.AI, cs.CL, cs.LG
+   - Score: 233 | Why: fresh paper, matched RAG, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.07731v1
+   - PDF: https://arxiv.org/pdf/2610.07731v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Learning%20to%20Retrieve%20via%20Reinforcement%20Learning%20in%20Embedding%20Space
 
-2. [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Haozhen Zhang, Haodong Yue, Quanyu Long, Jianzhu Bao, Qingyuan Liu, Tao Feng, Bohan Liu, Weida Liang, Wenya Wang
-   - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, matched Multimodal, CS AI category
-   - arXiv: https://arxiv.org/abs/2610.06830v1
-   - PDF: https://arxiv.org/pdf/2610.06830v1
-   - Google Scholar: https://scholar.google.com/scholar?q=MemPilot%3A%20Orchestrating%20On-Demand%20Multimodal%20Memory%20Curation%20for%20LLM%20Agents
-
-3. [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](https://arxiv.org/abs/2610.06829v1)
+2. [Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment](https://arxiv.org/abs/2610.08670v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
-   - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 230 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.06829v1
-   - PDF: https://arxiv.org/pdf/2610.06829v1
-   - Google Scholar: https://scholar.google.com/scholar?q=CLIFT%3A%20Conformal%20Self-Verification%20for%20Web%20Agent%20Training%20and%20Test-Time%20Scaling
+   - Authors: Orion Reblitz-Richardson
+   - Categories: cs.LG, cs.AI, cs.CL
+   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.08670v1
+   - PDF: https://arxiv.org/pdf/2610.08670v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Principled%20Under%20Pressure%3A%20Post-Training%20Decides%20Whether%20LLMs%20Act%20on%20Their%20Own%20Moral%20Judgment
 
-4. [Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs](https://arxiv.org/abs/2610.06703v1)
+3. [UNREAL: Unifying Retrieval and Long-Context with a Single Model](https://arxiv.org/abs/2610.08463v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Manousos Linardakis, Georgios Alexandridis
-   - Categories: cs.IR, cs.CL, cs.LG
+   - Authors: Edan Kinderman, Elad Hoffer, Yochai Blau, Brian Chmiel, Ron Banner, Daniel Soudry, Boris Ginsburg
+   - Categories: cs.CL, cs.IR, cs.LG
    - Score: 229 | Why: fresh paper, matched RAG, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.06703v1
-   - PDF: https://arxiv.org/pdf/2610.06703v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Reading%20the%20Mood%3A%20Emotion-Guided%20Book-to-Music%20Recommendation%20via%20CGANs%20and%20LLMs
+   - arXiv: https://arxiv.org/abs/2610.08463v1
+   - PDF: https://arxiv.org/pdf/2610.08463v1
+   - Google Scholar: https://scholar.google.com/scholar?q=UNREAL%3A%20Unifying%20Retrieval%20and%20Long-Context%20with%20a%20Single%20Model
 
-5. [Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model](https://arxiv.org/abs/2610.06817v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Sahil Mahendrakar
-   - Categories: cs.SD, cs.AI, cs.CL, cs.LG, eess.AS
-   - Score: 228 | Why: fresh paper, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.06817v1
-   - PDF: https://arxiv.org/pdf/2610.06817v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Paradee%3A%20Distilling%20Kokoro-82M%20into%20an%208M-Parameter%20Single-Voice%20Text-to-Speech%20Model
+4. [Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents](https://arxiv.org/abs/2610.08452v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Lasse B. Strand, Robert Jakob, Kevin O'Sullivan, Markus Kreft
+   - Categories: cs.CL, cs.IR, cs.LG
+   - Score: 229 | Why: fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category
+   - arXiv: https://arxiv.org/abs/2610.08452v1
+   - PDF: https://arxiv.org/pdf/2610.08452v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Agentic%20AutoRAG%3A%20RAG%20Pipeline%20Optimization%20through%20Reasoning-Driven%20Agents
+
+5. [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](https://arxiv.org/abs/2610.08773v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma, Nils Lukas
+   - Categories: cs.CL, cs.AI, cs.LG
+   - Score: 228 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.08773v1
+   - PDF: https://arxiv.org/pdf/2610.08773v1
+   - Google Scholar: https://scholar.google.com/scholar?q=AdvSim2Real%20%3A%20Training%20Web%20Agents%20Against%20Adaptive%20Prompt%20Injection%20in%20a%20Web%20World%20Model
 
