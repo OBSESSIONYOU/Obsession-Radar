@@ -1,6 +1,6 @@
 window.AGENTS_RADAR_LITE_LAST_RUN = {
-  "startedAt": "2026-10-18T05:00:55.251Z",
-  "finishedAt": "2026-10-18T05:01:26.214Z",
+  "startedAt": "2026-10-19T05:09:37.479Z",
+  "finishedAt": "2026-10-19T05:10:11.769Z",
   "ok": true,
   "exitCode": 0,
   "message": "Daily radar updated successfully."
