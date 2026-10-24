@@ -179,10 +179,14 @@ Get-Content .\logs\$(Get-Date -Format yyyy-MM-dd).log
 
 除官方 API 外，每日抓取还包含一组无 API 网页源（见 `web-sources.mjs`）：GitHub Trending、Hacker News 首页、HuggingFace 每日论文、量子位 RSS、Solidot RSS、papers.cool feed。这些源只读公开页面/RSS，带 UA 标识、顺序抓取并间隔 1.5 秒；每轮访问结果（成功/空/不可达）如实记录在 `daily-radar.json` 的 `coverage` 字段。测试用的页面快照在 `test-fixtures/web-sources/`，可用 `curl` 重新捕获。
 
+## 个性化推荐（本地 TF-IDF）
+
+「我的论文库」不只是收藏夹：`library-profile.browser.js` 会从库内论文的标题、介绍、笔记和分类构建 TF-IDF 兴趣画像（精读 > 收藏 > 已读加权），并在两处使用：一是 `scorePaper` 的个性化相关度加分（最高 +40 分，让「和你研究相关」的论文能压过泛泛的高引论文）；二是 AI 增强时把兴趣关键词和库内相关论文注入提示词，让生成的介绍和理由贴合你的研究方向。画像只在本浏览器计算，不上传、不写入日报。
+
 ## 验证
 
 ```powershell
-node --test .\web-sources.test.mjs .\arxiv-atom.test.mjs .\radar-core.test.mjs .\proxies.test.mjs
+node --test .\web-sources.test.mjs .\library-profile.test.mjs .\arxiv-atom.test.mjs .\radar-core.test.mjs .\proxies.test.mjs
 node --check .\run-demo.mjs .\web-sources.mjs .\radar-core.mjs .\radar-core.browser.js .\radar-fetchers.browser.js .\app.js
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\run-daily-radar.ps1 -WhatIf
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\sync-cloudflare-pages.ps1 -WhatIf

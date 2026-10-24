@@ -98,7 +98,7 @@
 
     try {
       const callAiCompletion = options.callAiCompletion || defaultCallAiCompletion;
-      const text = await callAiCompletion(normalized, enhancementPromptFor(radar, items));
+      const text = await callAiCompletion(normalized, enhancementPromptFor(radar, items, options.readerContext));
       if (!String(text || "").trim()) {
         return {
           ok: false,
@@ -262,8 +262,8 @@
       }));
   }
 
-  function enhancementPromptFor(radar, items) {
-    return JSON.stringify({
+  function enhancementPromptFor(radar, items, readerContext) {
+    const payload = {
       task: "为信息雷达推荐项生成更自然的中文内容介绍和简短推荐理由。",
       topic: radar?.topic || "默认 AI 雷达",
       rules: [
@@ -283,7 +283,15 @@
         ],
       },
       items,
-    });
+    };
+    if (readerContext && (readerContext.interestTerms?.length || readerContext.relatedByTitle)) {
+      payload.reader_context = {
+        note: "读者本人的论文库兴趣画像与相关收藏，介绍和理由可以自然地结合这些背景，但不要生硬罗列。",
+        interestTerms: readerContext.interestTerms || [],
+        relatedByTitle: readerContext.relatedByTitle || {},
+      };
+    }
+    return JSON.stringify(payload);
   }
 
   function parseEnhancementResponse(text) {
