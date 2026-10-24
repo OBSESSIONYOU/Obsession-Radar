@@ -1,0 +1,2477 @@
+{
+  "generatedAt": "2026-10-24T13:26:15.248Z",
+  "retentionDays": 30,
+  "timezone": "Asia/Shanghai",
+  "days": [
+    {
+      "date": "2026-09-25",
+      "generatedAt": "2026-09-25T05:16:18.807Z",
+      "totalFetched": 305,
+      "uniqueCount": 217,
+      "recommendations": [
+        {
+          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+          "url": "https://github.com/devdotfast/whiteboard",
+          "source": "Hacker News",
+          "score": 654,
+          "points": 244
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 248770
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 205905
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187538
+        },
+        {
+          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+          "url": "https://koi.rest",
+          "source": "Hacker News",
+          "score": 332,
+          "points": 155
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+          "url": "https://arxiv.org/abs/2609.30226v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
+          "url": "https://arxiv.org/abs/2609.29999v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "RAPID: Robot Agentic Programming from Demonstrations",
+          "url": "https://arxiv.org/abs/2609.30249v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+          "url": "https://arxiv.org/abs/2609.30238v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+          "url": "https://arxiv.org/abs/2609.30219v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-09-26",
+      "generatedAt": "2026-09-26T05:21:42.517Z",
+      "totalFetched": 307,
+      "uniqueCount": 228,
+      "recommendations": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
+          "source": "Hacker News",
+          "score": 932,
+          "points": 334
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 489,
+          "points": 249019
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 487,
+          "points": 206001
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187565
+        },
+        {
+          "title": "Yes, Claude can do nine loops",
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News",
+          "score": 320,
+          "points": 103
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+          "url": "https://arxiv.org/abs/2609.30226v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
+          "url": "https://arxiv.org/abs/2609.29999v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "RAPID: Robot Agentic Programming from Demonstrations",
+          "url": "https://arxiv.org/abs/2609.30249v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+          "url": "https://arxiv.org/abs/2609.30238v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+          "url": "https://arxiv.org/abs/2609.30219v1",
+          "source": "arXiv",
+          "score": 214
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-09-27",
+      "generatedAt": "2026-09-27T05:37:49.687Z",
+      "totalFetched": 283,
+      "uniqueCount": 212,
+      "recommendations": [
+        {
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "Hacker News",
+          "score": 567,
+          "points": 111
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 249279
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 484,
+          "points": 206073
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 475,
+          "points": 187583
+        },
+        {
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "source": "Hacker News",
+          "score": 302,
+          "points": 56
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+          "url": "https://arxiv.org/abs/2609.30226v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
+          "url": "https://arxiv.org/abs/2609.29999v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "RAPID: Robot Agentic Programming from Demonstrations",
+          "url": "https://arxiv.org/abs/2609.30249v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+          "url": "https://arxiv.org/abs/2609.30238v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+          "url": "https://arxiv.org/abs/2609.30219v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-09-28",
+      "generatedAt": "2026-09-28T05:45:42.434Z",
+      "totalFetched": 289,
+      "uniqueCount": 230,
+      "recommendations": [
+        {
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+          "source": "Hacker News",
+          "score": 2154,
+          "points": 610
+        },
+        {
+          "title": "There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "score": 1062,
+          "points": 353
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 249559
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "source": "GitHub",
+          "score": 488,
+          "points": 268528
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 487,
+          "points": 206151
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers",
+          "url": "https://arxiv.org/abs/2609.31403v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+          "url": "https://arxiv.org/abs/2609.31587v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "User Model Extraction via Belief Self-Distillation",
+          "url": "https://arxiv.org/abs/2609.31603v1",
+          "source": "arXiv",
+          "score": 205
+        },
+        {
+          "title": "From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training",
+          "url": "https://arxiv.org/abs/2609.31450v1",
+          "source": "arXiv",
+          "score": 205
+        },
+        {
+          "title": "ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs",
+          "url": "https://arxiv.org/abs/2609.31448v1",
+          "source": "arXiv",
+          "score": 205
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 12,
+        "arXiv": 4,
+        "Semantic Scholar": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-09-29",
+      "generatedAt": "2026-09-29T06:03:40.228Z",
+      "totalFetched": 336,
+      "uniqueCount": 248,
+      "recommendations": [
+        {
+          "title": "Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "source": "Hacker News",
+          "score": 1991,
+          "points": 704
+        },
+        {
+          "title": "Prompting Claude Opus 5.5",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+          "source": "Hacker News",
+          "score": 804,
+          "points": 201
+        },
+        {
+          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+          "url": "https://hn.watch/",
+          "source": "Hacker News",
+          "score": 509,
+          "points": 149
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 489,
+          "points": 249871
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206235
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+          "url": "https://arxiv.org/abs/2609.35760v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Do Coding Agents Reuse Existing Code or Reinvent the Wheel?",
+          "url": "https://arxiv.org/abs/2609.35357v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints",
+          "url": "https://arxiv.org/abs/2609.34179v1",
+          "source": "arXiv",
+          "score": 224
+        },
+        {
+          "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+          "url": "https://arxiv.org/abs/2609.35741v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
+          "url": "https://arxiv.org/abs/2609.35706v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-09-30",
+      "generatedAt": "2026-09-30T05:52:47.214Z",
+      "totalFetched": 310,
+      "uniqueCount": 245,
+      "recommendations": [
+        {
+          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+          "source": "Hacker News",
+          "score": 784,
+          "points": 211
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 250130
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206318
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187622
+        },
+        {
+          "title": "Ask HN: How do you handle hitting AI coding agent usage limits?",
+          "url": "https://news.ycombinator.com/item?id=49904074",
+          "source": "Hacker News",
+          "score": 171,
+          "points": 1
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+          "url": "https://arxiv.org/abs/2609.38155v1",
+          "source": "arXiv",
+          "score": 245
+        },
+        {
+          "title": "$S^3$: Spectral Null-Space Swap Makes Reasoning Models Efficient",
+          "url": "https://arxiv.org/abs/2609.37976v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+          "url": "https://arxiv.org/abs/2609.38142v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals",
+          "url": "https://arxiv.org/abs/2609.37993v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+          "url": "https://arxiv.org/abs/2609.38143v1",
+          "source": "arXiv",
+          "score": 226
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-01",
+      "generatedAt": "2026-10-01T06:26:18.880Z",
+      "totalFetched": 304,
+      "uniqueCount": 228,
+      "recommendations": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 250406
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 484,
+          "points": 206403
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187630
+        },
+        {
+          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "source": "Hacker News",
+          "score": 412,
+          "points": 144
+        },
+        {
+          "title": "Doing a Machine Learning PhD While Working in Japan",
+          "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+          "source": "Hacker News",
+          "score": 174,
+          "points": 79
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+          "url": "https://arxiv.org/abs/2609.40361v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Semifactual Credit-Augmented Policy Optimization",
+          "url": "https://arxiv.org/abs/2609.40360v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
+          "url": "https://arxiv.org/abs/2609.40322v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Scaling Laws for Looped Mixture of Experts",
+          "url": "https://arxiv.org/abs/2609.40316v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
+          "url": "https://arxiv.org/abs/2609.40284v1",
+          "source": "arXiv",
+          "score": 230
+        }
+      ],
+      "sourceMix": {
+        "GitHub": 16,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-02",
+      "generatedAt": "2026-10-02T06:04:41.070Z",
+      "totalFetched": 318,
+      "uniqueCount": 237,
+      "recommendations": [
+        {
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "source": "Hacker News",
+          "score": 653,
+          "points": 201
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 250653
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206479
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187653
+        },
+        {
+          "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+          "source": "Hacker News",
+          "score": 479,
+          "points": 176
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+          "url": "https://arxiv.org/abs/2610.02117v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+          "url": "https://arxiv.org/abs/2610.02201v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+          "url": "https://arxiv.org/abs/2610.02150v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.02039v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1",
+          "source": "arXiv",
+          "score": 229
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-03",
+      "generatedAt": "2026-10-03T05:38:42.150Z",
+      "totalFetched": 287,
+      "uniqueCount": 218,
+      "recommendations": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 250810
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 486,
+          "points": 206534
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 482,
+          "points": 187643
+        },
+        {
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://dwarfstar.sh/",
+          "source": "Hacker News",
+          "score": 398,
+          "points": 198
+        },
+        {
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "source": "Hacker News",
+          "score": 360,
+          "points": 91
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+          "url": "https://arxiv.org/abs/2610.02117v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+          "url": "https://arxiv.org/abs/2610.02201v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+          "url": "https://arxiv.org/abs/2610.02150v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.02039v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "GitHub": 16,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-04",
+      "generatedAt": "2026-10-04T06:13:59.175Z",
+      "totalFetched": 274,
+      "uniqueCount": 207,
+      "recommendations": [
+        {
+          "title": "I quit OpenAI because its culture is broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "source": "Hacker News",
+          "score": 1201,
+          "points": 152
+        },
+        {
+          "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+          "source": "Hacker News",
+          "score": 630,
+          "points": 202
+        },
+        {
+          "title": "Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+          "source": "Hacker News",
+          "score": 529,
+          "points": 98
+        },
+        {
+          "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News",
+          "score": 520,
+          "points": 410
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 251024
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+          "url": "https://arxiv.org/abs/2610.02117v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+          "url": "https://arxiv.org/abs/2610.02201v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+          "url": "https://arxiv.org/abs/2610.02150v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.02039v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "url": "https://arxiv.org/abs/2610.02202v1",
+          "source": "arXiv",
+          "score": 213
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-05",
+      "generatedAt": "2026-10-05T06:06:45.137Z",
+      "totalFetched": 272,
+      "uniqueCount": 205,
+      "recommendations": [
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 251268
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "source": "GitHub",
+          "score": 487,
+          "points": 273097
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 487,
+          "points": 206681
+        },
+        {
+          "title": "Homa: The end of TCP for AI clusters [video]",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "source": "Hacker News",
+          "score": 202,
+          "points": 67
+        },
+        {
+          "title": "Show HN: Agents Sleep Preventer – keep your Mac awake only while AI agents work",
+          "url": "https://github.com/CharlonTank/agents-sleep-preventer",
+          "source": "Hacker News",
+          "score": 129,
+          "points": 1
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+          "url": "https://arxiv.org/abs/2610.03713v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+          "url": "https://arxiv.org/abs/2610.03675v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+          "url": "https://arxiv.org/abs/2610.03651v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks",
+          "url": "https://arxiv.org/abs/2610.03585v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
+          "url": "https://arxiv.org/abs/2610.02150v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "GitHub": 16,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-06",
+      "generatedAt": "2026-10-06T06:47:16.892Z",
+      "totalFetched": 312,
+      "uniqueCount": 226,
+      "recommendations": [
+        {
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News",
+          "score": 884,
+          "points": 299
+        },
+        {
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+          "source": "Hacker News",
+          "score": 792,
+          "points": 271
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 251511
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206737
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187665
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+          "url": "https://arxiv.org/abs/2610.06844v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+          "url": "https://arxiv.org/abs/2610.06830v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+          "url": "https://arxiv.org/abs/2610.06829v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs",
+          "url": "https://arxiv.org/abs/2610.06703v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+          "url": "https://arxiv.org/abs/2610.06817v1",
+          "source": "arXiv",
+          "score": 228
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-07",
+      "generatedAt": "2026-10-07T06:21:45.948Z",
+      "totalFetched": 307,
+      "uniqueCount": 228,
+      "recommendations": [
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "source": "Hacker News",
+          "score": 2475,
+          "points": 728
+        },
+        {
+          "title": "Decisions API is in public beta",
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News",
+          "score": 552,
+          "points": 228
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 251764
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206787
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 482,
+          "points": 187678
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Learning to Retrieve via Reinforcement Learning in Embedding Space",
+          "url": "https://arxiv.org/abs/2610.07731v1",
+          "source": "arXiv",
+          "score": 233
+        },
+        {
+          "title": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
+          "url": "https://arxiv.org/abs/2610.08670v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
+          "url": "https://arxiv.org/abs/2610.08463v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
+          "url": "https://arxiv.org/abs/2610.08452v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+          "url": "https://arxiv.org/abs/2610.08773v1",
+          "source": "arXiv",
+          "score": 228
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-08",
+      "generatedAt": "2026-10-08T06:33:03.821Z",
+      "totalFetched": 308,
+      "uniqueCount": 232,
+      "recommendations": [
+        {
+          "title": "Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5",
+          "source": "Hacker News",
+          "score": 1928,
+          "points": 804
+        },
+        {
+          "title": "GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "source": "Hacker News",
+          "score": 1417,
+          "points": 580
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 252019
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206855
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187693
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
+          "url": "https://arxiv.org/abs/2610.10411v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Few Bits, One Law: Toward W2A4KV2",
+          "url": "https://arxiv.org/abs/2610.09202v1",
+          "source": "arXiv",
+          "score": 223
+        },
+        {
+          "title": "Large-scale Repository Engineering via Agent-Native Reusable Code Primitives",
+          "url": "https://arxiv.org/abs/2610.09079v1",
+          "source": "arXiv",
+          "score": 223
+        },
+        {
+          "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+          "url": "https://arxiv.org/abs/2610.10526v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+          "url": "https://arxiv.org/abs/2610.10513v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-09",
+      "generatedAt": "2026-10-09T06:34:54.205Z",
+      "totalFetched": 316,
+      "uniqueCount": 244,
+      "recommendations": [
+        {
+          "title": "OpenAI annualised revenues $20B less than previously signalled",
+          "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+          "source": "Hacker News",
+          "score": 1080,
+          "points": 381
+        },
+        {
+          "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "Hacker News",
+          "score": 544,
+          "points": 68
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 252100
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206760
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187487
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+          "url": "https://arxiv.org/abs/2610.12417v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Predicting Alignment Generalization with Value Representations",
+          "url": "https://arxiv.org/abs/2610.12410v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+          "url": "https://arxiv.org/abs/2610.12375v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+          "url": "https://arxiv.org/abs/2610.11899v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Evaluating Local Language Model Agents for Reproducible Data Engineering: An Empirical Software Engineering Study of Mobility Workflows",
+          "url": "https://arxiv.org/abs/2610.11482v1",
+          "source": "arXiv",
+          "score": 227
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-10",
+      "generatedAt": "2026-10-10T06:17:43.597Z",
+      "totalFetched": 296,
+      "uniqueCount": 224,
+      "recommendations": [
+        {
+          "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "source": "Hacker News",
+          "score": 922,
+          "points": 327
+        },
+        {
+          "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+          "source": "Hacker News",
+          "score": 915,
+          "points": 391
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 489,
+          "points": 252337
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206857
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187499
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+          "url": "https://arxiv.org/abs/2610.12417v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Predicting Alignment Generalization with Value Representations",
+          "url": "https://arxiv.org/abs/2610.12410v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+          "url": "https://arxiv.org/abs/2610.12375v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+          "url": "https://arxiv.org/abs/2610.11899v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "Evaluating Local Language Model Agents for Reproducible Data Engineering: An Empirical Software Engineering Study of Mobility Workflows",
+          "url": "https://arxiv.org/abs/2610.11482v1",
+          "source": "arXiv",
+          "score": 219
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-11",
+      "generatedAt": "2026-10-11T06:17:47.647Z",
+      "totalFetched": 275,
+      "uniqueCount": 202,
+      "recommendations": [
+        {
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "source": "Hacker News",
+          "score": 674,
+          "points": 275
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 489,
+          "points": 252600
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 206945
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 482,
+          "points": 187513
+        },
+        {
+          "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+          "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+          "source": "Hacker News",
+          "score": 406,
+          "points": 57
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+          "url": "https://arxiv.org/abs/2610.12417v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Predicting Alignment Generalization with Value Representations",
+          "url": "https://arxiv.org/abs/2610.12410v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+          "url": "https://arxiv.org/abs/2610.12375v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+          "url": "https://arxiv.org/abs/2610.11899v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Evaluating Local Language Model Agents for Reproducible Data Engineering: An Empirical Software Engineering Study of Mobility Workflows",
+          "url": "https://arxiv.org/abs/2610.11482v1",
+          "source": "arXiv",
+          "score": 211
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-12",
+      "generatedAt": "2026-10-12T06:24:07.799Z",
+      "totalFetched": 280,
+      "uniqueCount": 213,
+      "recommendations": [
+        {
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News",
+          "score": 1786,
+          "points": 388
+        },
+        {
+          "title": "From \"Ban It Till We Understand It\" to \"Resistance is Futile\": How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot",
+          "url": "https://www.semanticscholar.org/paper/a1f3a5f16faf9670f948f1e4e84d12f08dfe353b",
+          "source": "Semantic Scholar",
+          "score": 501,
+          "points": 306
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 252874
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 488,
+          "points": 207042
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187525
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+          "url": "https://arxiv.org/abs/2610.13935v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+          "url": "https://arxiv.org/abs/2610.13663v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+          "url": "https://arxiv.org/abs/2610.13128v1",
+          "source": "arXiv",
+          "score": 210
+        },
+        {
+          "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
+          "url": "https://arxiv.org/abs/2610.12995v1",
+          "source": "arXiv",
+          "score": 210
+        },
+        {
+          "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
+          "url": "https://arxiv.org/abs/2610.13783v1",
+          "source": "arXiv",
+          "score": 208
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "Semantic Scholar": 4,
+        "GitHub": 12,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-13",
+      "generatedAt": "2026-10-13T07:01:55.449Z",
+      "totalFetched": 279,
+      "uniqueCount": 213,
+      "recommendations": [
+        {
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://github.com/openai/codex/issues/48195",
+          "source": "Hacker News",
+          "score": 1314,
+          "points": 535
+        },
+        {
+          "title": "AI coding agents generate more code, but not more software",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "source": "Hacker News",
+          "score": 1148,
+          "points": 331
+        },
+        {
+          "title": "Just say no to OpenAI and Anthropic",
+          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+          "source": "Hacker News",
+          "score": 586,
+          "points": 157
+        },
+        {
+          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "source": "Hacker News",
+          "score": 494,
+          "points": 127
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 253239
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+          "url": "https://arxiv.org/abs/2610.13935v1",
+          "source": "arXiv",
+          "score": 205
+        },
+        {
+          "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
+          "url": "https://arxiv.org/abs/2610.13663v1",
+          "source": "arXiv",
+          "score": 205
+        },
+        {
+          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
+          "url": "https://arxiv.org/abs/2610.13128v1",
+          "source": "arXiv",
+          "score": 202
+        },
+        {
+          "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
+          "url": "https://arxiv.org/abs/2610.12995v1",
+          "source": "arXiv",
+          "score": 201
+        },
+        {
+          "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
+          "url": "https://arxiv.org/abs/2610.13783v1",
+          "source": "arXiv",
+          "score": 200
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-14",
+      "generatedAt": "2026-10-14T05:16:55.956Z",
+      "totalFetched": 301,
+      "uniqueCount": 218,
+      "recommendations": [
+        {
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "source": "Hacker News",
+          "score": 1626,
+          "points": 489
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 253551
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 487,
+          "points": 215524
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 486,
+          "points": 207299
+        },
+        {
+          "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+          "url": "https://pdftomp3.com/connect-ai/",
+          "source": "Hacker News",
+          "score": 419,
+          "points": 161
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+          "url": "https://arxiv.org/abs/2610.18868v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+          "url": "https://arxiv.org/abs/2610.18862v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Hybrid Reasoning Agents",
+          "url": "https://arxiv.org/abs/2610.18861v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "ChunkAct: Action Chunking for Agentic Robotics",
+          "url": "https://arxiv.org/abs/2610.18874v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Match the Canvas, Not Just the Answer: Predictability-Aware SFT for Diffusion Language Models",
+          "url": "https://arxiv.org/abs/2610.18001v1",
+          "source": "arXiv",
+          "score": 227
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-15",
+      "generatedAt": "2026-10-15T05:03:49.819Z",
+      "totalFetched": 320,
+      "uniqueCount": 238,
+      "recommendations": [
+        {
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "source": "Hacker News",
+          "score": 2233,
+          "points": 854
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 492,
+          "points": 248595
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 490,
+          "points": 253859
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 483,
+          "points": 187580
+        },
+        {
+          "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+          "url": "https://clova.email/",
+          "source": "Hacker News",
+          "score": 336,
+          "points": 95
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
+          "url": "https://arxiv.org/abs/2610.20538v1",
+          "source": "arXiv",
+          "score": 246
+        },
+        {
+          "title": "Cortex: Consolidating Context into Parametric Memory",
+          "url": "https://arxiv.org/abs/2610.20399v1",
+          "source": "arXiv",
+          "score": 234
+        },
+        {
+          "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
+          "url": "https://arxiv.org/abs/2610.20532v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+          "url": "https://arxiv.org/abs/2610.20576v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
+          "url": "https://arxiv.org/abs/2610.20461v1",
+          "source": "arXiv",
+          "score": 228
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-16",
+      "generatedAt": "2026-10-16T04:53:04.956Z",
+      "totalFetched": 329,
+      "uniqueCount": 258,
+      "recommendations": [
+        {
+          "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+          "url": "https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773",
+          "source": "Semantic Scholar",
+          "score": 3189,
+          "points": 2094
+        },
+        {
+          "title": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+          "url": "https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff",
+          "source": "Semantic Scholar",
+          "score": 1083,
+          "points": 723
+        },
+        {
+          "title": "VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks",
+          "url": "https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e",
+          "source": "Semantic Scholar",
+          "score": 621,
+          "points": 279
+        },
+        {
+          "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
+          "url": "https://www.semanticscholar.org/paper/6f0f0d9f29586344ae6403fe906c24e4f16eaed8",
+          "source": "Semantic Scholar",
+          "score": 617,
+          "points": 370
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 495,
+          "points": 275299
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "FDE-Gym: The Last Mile of AI Delivery",
+          "url": "https://arxiv.org/abs/2610.22350v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+          "url": "https://arxiv.org/abs/2610.22344v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.22234v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+          "url": "https://arxiv.org/abs/2610.22343v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+          "url": "https://arxiv.org/abs/2610.22372v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 4,
+        "GitHub": 12,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-17",
+      "generatedAt": "2026-10-17T04:55:47.070Z",
+      "totalFetched": 257,
+      "uniqueCount": 185,
+      "recommendations": [
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News",
+          "score": 1656,
+          "points": 770
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "source": "Hacker News",
+          "score": 1495,
+          "points": 445
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "source": "Hacker News",
+          "score": 1023,
+          "points": 280
+        },
+        {
+          "title": "Show HN: Gemini 4 Argon plays StarCraft",
+          "url": "https://starskirmish.com/bench/v0-2/",
+          "source": "Hacker News",
+          "score": 520,
+          "points": 201
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 497,
+          "points": 293580
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation",
+          "url": "https://www.semanticscholar.org/paper/ea693001245ba993cbd4387f21b41958a0948746",
+          "source": "Semantic Scholar",
+          "score": 105
+        },
+        {
+          "title": "Enhancing Medical AI Safety Through Multi-Agent Evaluation and Iterative Refinement",
+          "url": "https://www.semanticscholar.org/paper/3da31af50eb9081445bc0151acaafd09d431e836",
+          "source": "Semantic Scholar",
+          "score": 102
+        },
+        {
+          "title": "Bypassing Safety Alignment via API Design: A Systematic Risk Analysis of Response Prefill in LLM Systems",
+          "url": "https://www.semanticscholar.org/paper/24881b82821f08fd157f40513b071091cbc7b7de",
+          "source": "Semantic Scholar",
+          "score": 102
+        },
+        {
+          "title": "What Matters For Safety Alignment?",
+          "url": "https://www.semanticscholar.org/paper/63e4f788a3534734fbeb268409194cf261b59d45",
+          "source": "Semantic Scholar",
+          "score": 101
+        },
+        {
+          "title": "Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)",
+          "url": "https://www.semanticscholar.org/paper/cf50519715f25b57b96c923feb7672ef611cb7cf",
+          "source": "Semantic Scholar",
+          "score": 100
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "Semantic Scholar": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-18",
+      "generatedAt": "2026-10-18T05:01:26.210Z",
+      "totalFetched": 279,
+      "uniqueCount": 204,
+      "recommendations": [
+        {
+          "title": "OpenAI discloses four more rogue incidents",
+          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+          "source": "Hacker News",
+          "score": 530,
+          "points": 122
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 498,
+          "points": 310216
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 254733
+        },
+        {
+          "title": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "source": "GitHub",
+          "score": 482,
+          "points": 187630
+        },
+        {
+          "title": "Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News",
+          "score": 269,
+          "points": 110
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "FDE-Gym: The Last Mile of AI Delivery",
+          "url": "https://arxiv.org/abs/2610.22350v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+          "url": "https://arxiv.org/abs/2610.22344v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.22234v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+          "url": "https://arxiv.org/abs/2610.22343v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+          "url": "https://arxiv.org/abs/2610.22372v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-19",
+      "generatedAt": "2026-10-19T05:10:11.766Z",
+      "totalFetched": 266,
+      "uniqueCount": 207,
+      "recommendations": [
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News",
+          "score": 776,
+          "points": 296
+        },
+        {
+          "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News",
+          "score": 629,
+          "points": 158
+        },
+        {
+          "title": "Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News",
+          "score": 532,
+          "points": 135
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 500,
+          "points": 325327
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 254996
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+          "url": "https://arxiv.org/abs/2610.23847v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
+          "url": "https://arxiv.org/abs/2610.22511v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+          "url": "https://arxiv.org/abs/2610.23854v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+          "url": "https://arxiv.org/abs/2610.23845v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search",
+          "url": "https://arxiv.org/abs/2610.23709v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-20",
+      "generatedAt": "2026-10-20T05:10:41.848Z",
+      "totalFetched": 295,
+      "uniqueCount": 219,
+      "recommendations": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 501,
+          "points": 338977
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 491,
+          "points": 255328
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "source": "GitHub",
+          "score": 488,
+          "points": 284258
+        },
+        {
+          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "source": "Hacker News",
+          "score": 314,
+          "points": 166
+        },
+        {
+          "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+          "url": "https://3anddoneapp.com/try",
+          "source": "Hacker News",
+          "score": 289,
+          "points": 51
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+          "url": "https://arxiv.org/abs/2610.26860v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+          "url": "https://arxiv.org/abs/2610.26828v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+          "url": "https://arxiv.org/abs/2610.26817v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+          "url": "https://arxiv.org/abs/2610.26847v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+          "url": "https://arxiv.org/abs/2610.26826v1",
+          "source": "arXiv",
+          "score": 229
+        }
+      ],
+      "sourceMix": {
+        "GitHub": 16,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-21",
+      "generatedAt": "2026-10-21T05:12:22.542Z",
+      "totalFetched": 313,
+      "uniqueCount": 239,
+      "recommendations": [
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+          "source": "Semantic Scholar",
+          "score": 36522,
+          "points": 24566
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+          "source": "Semantic Scholar",
+          "score": 30080,
+          "points": 23059
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+          "source": "Semantic Scholar",
+          "score": 18607,
+          "points": 12275
+        },
+        {
+          "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
+          "source": "Semantic Scholar",
+          "score": 13511,
+          "points": 9561
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 502,
+          "points": 350021
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+          "url": "https://arxiv.org/abs/2610.28632v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Evolving Semantic Indexes for Generative Retrieval",
+          "url": "https://arxiv.org/abs/2610.28568v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "DISTRACT: Degradation-Indexed Study of Textual Reference Across Competing Targets",
+          "url": "https://arxiv.org/abs/2610.28419v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "From Tokens to Files: Multi-Granularity Detection and Localization of AI-Involved Code",
+          "url": "https://arxiv.org/abs/2610.27863v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
+          "url": "https://arxiv.org/abs/2610.28160v1",
+          "source": "arXiv",
+          "score": 224
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 4,
+        "GitHub": 12,
+        "Hacker News": 10,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-22",
+      "generatedAt": "2026-10-22T05:15:31.929Z",
+      "totalFetched": 304,
+      "uniqueCount": 208,
+      "recommendations": [
+        {
+          "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "source": "Hacker News",
+          "score": 723,
+          "points": 246
+        },
+        {
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "source": "Hacker News",
+          "score": 602,
+          "points": 268
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "source": "GitHub",
+          "score": 503,
+          "points": 359427
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub",
+          "score": 489,
+          "points": 256014
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "source": "GitHub",
+          "score": 486,
+          "points": 208269
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+          "url": "https://arxiv.org/abs/2610.30128v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
+          "url": "https://arxiv.org/abs/2610.30026v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+          "url": "https://arxiv.org/abs/2610.30125v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+          "url": "https://arxiv.org/abs/2610.30116v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+          "url": "https://arxiv.org/abs/2610.30108v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 10,
+        "GitHub": 16,
+        "arXiv": 4
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-23",
+      "generatedAt": "2026-10-23T05:16:03.552Z",
+      "totalFetched": 258,
+      "uniqueCount": 191,
+      "recommendations": [
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+          "source": "Semantic Scholar",
+          "score": 36752,
+          "points": 24737
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+          "source": "Semantic Scholar",
+          "score": 30223,
+          "points": 23175
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+          "source": "Semantic Scholar",
+          "score": 18679,
+          "points": 12332
+        },
+        {
+          "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
+          "source": "Semantic Scholar",
+          "score": 13555,
+          "points": 9597
+        },
+        {
+          "title": "Large Language Models are Zero-Shot Reasoners",
+          "url": "https://www.semanticscholar.org/paper/e7ad08848d5d7c5c47673ffe0da06af443643bda",
+          "source": "Semantic Scholar",
+          "score": 10870,
+          "points": 8318
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+          "source": "Semantic Scholar",
+          "score": 185
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+          "source": "Semantic Scholar",
+          "score": 175
+        },
+        {
+          "title": "Large language models encode clinical knowledge",
+          "url": "https://www.semanticscholar.org/paper/6052486bc9144dc1730c12bf35323af3792a1fd0",
+          "source": "Semantic Scholar",
+          "score": 169
+        },
+        {
+          "title": "Training Compute-Optimal Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/8342b592fe238f3d230e4959b06fd10153c45db1",
+          "source": "Semantic Scholar",
+          "score": 169
+        },
+        {
+          "title": "A Survey of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/36709000a9272e941338244ef80ff5ab1dd2bba1",
+          "source": "Semantic Scholar",
+          "score": 168
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 8,
+        "Hacker News": 10,
+        "GitHub": 12
+      },
+      "coverage": []
+    },
+    {
+      "date": "2026-10-24",
+      "generatedAt": "2026-10-24T12:50:31.871Z",
+      "totalFetched": 536,
+      "uniqueCount": 459,
+      "recommendations": [
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+          "source": "Semantic Scholar",
+          "score": 36815,
+          "points": 24781
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+          "source": "Semantic Scholar",
+          "score": 30255,
+          "points": 23203
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+          "source": "Semantic Scholar",
+          "score": 18726,
+          "points": 12358
+        },
+        {
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "source": "Hacker News",
+          "score": 2533,
+          "points": 932
+        },
+        {
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "source": "Hacker News",
+          "score": 2488,
+          "points": 952
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+          "url": "https://arxiv.org/abs/2610.31657v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.31478v1",
+          "source": "arXiv",
+          "score": 219
+        },
+        {
+          "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+          "url": "https://arxiv.org/abs/2610.31586v1",
+          "source": "arXiv",
+          "score": 218
+        },
+        {
+          "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+          "url": "https://arxiv.org/abs/2610.31624v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+          "url": "https://arxiv.org/abs/2610.31606v1",
+          "source": "arXiv",
+          "score": 212
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 3,
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (50 parsed)",
+          "found": 50
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (117 parsed)",
+          "found": 117
+        }
+      ]
+    }
+  ]
+}

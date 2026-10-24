@@ -21,6 +21,7 @@
     apiTesting: false,
     apiStatus: "",
     paperLibrary: paperLibraryApi.loadPaperLibrary(),
+    history: null,
     activeLibraryView: "queued",
     lastRun: window.AGENTS_RADAR_LITE_LAST_RUN || null,
     topicRadar: topicRadarApi.loadTopicRadarState(),
@@ -67,6 +68,9 @@
     sourceHealth: document.querySelector("#sourceHealth"),
     coverageList: document.querySelector("#coverageList"),
     coverageSummary: document.querySelector("#coverageSummary"),
+    historyDateSelect: document.querySelector("#historyDateSelect"),
+    historyDay: document.querySelector("#historyDay"),
+    historySummary: document.querySelector("#historySummary"),
     topicForm: document.querySelector("#topicForm"),
     topicInput: document.querySelector("#topicInput"),
     topicSourceHn: document.querySelector("#topicSourceHn"),
@@ -108,6 +112,11 @@
   elements.candidateToggleButton.addEventListener("click", toggleCandidates);
   elements.candidateFilters.addEventListener("click", handleCandidateFilterClick);
   elements.candidateFilters.addEventListener("change", handleCandidateSortChange);
+  if (elements.historyDateSelect) {
+    elements.historyDateSelect.addEventListener("change", (event) => {
+      renderHistoryDay(event.target.value);
+    });
+  }
   elements.papers.addEventListener("click", handlePaperAction);
   elements.libraryTabs.addEventListener("click", handleLibraryView);
   elements.paperLibrary.addEventListener("click", handleLibraryAction);
@@ -137,6 +146,7 @@
     setTopicSourceControls(state.topicPreview.sources);
   }
   syncPersonalRelevance();
+  loadHistory();
   loadLastRunStatus();
   render();
 
@@ -504,6 +514,55 @@
         return `<span class="source-pill ${className}" title="${escapeAttr(item.detail)}">${escapeHtml(item.label)} · ${escapeHtml(item.text)}</span>`;
       })
       .join("");
+  }
+
+  // ---- History lookback (history.json from scripts/build-history.mjs) ----
+
+  async function loadHistory() {
+    try {
+      const response = await fetch("./history.json", { cache: "no-store" });
+      if (!response.ok) return;
+      state.history = await response.json();
+      renderHistoryNav();
+    } catch {
+      // history.json is optional; the panel simply stays empty.
+    }
+  }
+
+  function renderHistoryNav() {
+    if (!elements.historyDateSelect || !state.history?.days?.length) return;
+    const days = [...state.history.days].reverse(); // newest first
+    elements.historyDateSelect.innerHTML = days
+      .map((day) => `<option value="${escapeAttr(day.date)}">${escapeHtml(day.date)}（${day.recommendations.length} 条推荐）</option>`)
+      .join("");
+    if (elements.historySummary) {
+      elements.historySummary.textContent = `共 ${days.length} 天归档（保留最近 ${state.history.retentionDays ?? 30} 天）`;
+    }
+    renderHistoryDay(days[0].date);
+  }
+
+  function renderHistoryDay(date) {
+    if (!elements.historyDay) return;
+    const day = (state.history?.days || []).find((entry) => entry.date === date);
+    if (!day) {
+      elements.historyDay.innerHTML = "<p class='status status-secondary'>该日没有归档数据。</p>";
+      return;
+    }
+    const recs = (day.recommendations || [])
+      .map((rec, index) => `
+        <div class="history-rec">
+          <span class="rank">#${index + 1}</span>
+          <a href="${escapeAttr(rec.url || "#")}" target="_blank" rel="noopener noreferrer">${escapeHtml(rec.title || "Untitled")}</a>
+          <span class="score">${escapeHtml(rec.source || "")} · ${Number(rec.score || 0)} 分</span>
+        </div>`)
+      .join("");
+    const mix = Object.entries(day.sourceMix || {})
+      .map(([source, count]) => `<span class="mix-pill">${escapeHtml(source)} ×${count}</span>`)
+      .join("");
+    elements.historyDay.innerHTML = `
+      <div class="history-mix">${mix || "<span class='status status-secondary'>无来源构成记录</span>"}</div>
+      ${recs || "<p class='status status-secondary'>该日没有推荐记录。</p>"}
+    `;
   }
 
   function renderCoverage() {
