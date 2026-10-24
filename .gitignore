@@ -4,3 +4,7 @@ node_modules/
 *.bak
 .DS_Store
 Thumbs.db
+
+# Local Python check artifacts
+__pycache__/
+*.py[cod]
