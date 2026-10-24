@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:26:15.248Z",
+  "generatedAt": "2026-10-24T14:12:03.162Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
@@ -2358,44 +2358,44 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T12:50:31.871Z",
-      "totalFetched": 536,
-      "uniqueCount": 459,
+      "generatedAt": "2026-10-24T13:09:18.374Z",
+      "totalFetched": 513,
+      "uniqueCount": 437,
       "recommendations": [
-        {
-          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
-          "source": "Semantic Scholar",
-          "score": 36815,
-          "points": 24781
-        },
-        {
-          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
-          "source": "Semantic Scholar",
-          "score": 30255,
-          "points": 23203
-        },
-        {
-          "title": "Evaluating Large Language Models Trained on Code",
-          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
-          "source": "Semantic Scholar",
-          "score": 18726,
-          "points": 12358
-        },
         {
           "title": "Today, we hacked what we'd set out to hack: the iPhone",
           "url": "https://blog.calif.io/p/iphone",
           "source": "Hacker News",
-          "score": 2533,
-          "points": 932
+          "score": 2558,
+          "points": 938
         },
         {
           "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
           "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
           "source": "Hacker News",
-          "score": 2488,
-          "points": 952
+          "score": 2513,
+          "points": 957
+        },
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "source": "Hacker News",
+          "score": 2216,
+          "points": 1420
+        },
+        {
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "source": "Hacker News",
+          "score": 1529,
+          "points": 810
+        },
+        {
+          "title": "Canadians are running out of time to oppose Bill C-22",
+          "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+          "source": "Hacker News",
+          "score": 1071,
+          "points": 437
         }
       ],
       "paperRecommendations": [
@@ -2424,21 +2424,21 @@
           "score": 212
         },
         {
-          "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
-          "url": "https://arxiv.org/abs/2610.31606v1",
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://arxiv.org/abs/2610.31670v1",
           "source": "arXiv",
-          "score": 212
+          "score": 211
         }
       ],
       "sourceMix": {
-        "Semantic Scholar": 3,
-        "Hacker News": 6,
+        "Hacker News": 8,
         "GitHub Trending": 6,
         "GitHub": 8,
         "HF Papers": 2,
         "arXiv": 3,
         "QbitAI": 1,
-        "papers.cool": 1
+        "papers.cool": 1,
+        "Solidot": 1
       },
       "coverage": [
         {

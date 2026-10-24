@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T13:09:18.374Z",
-  "totalFetched": 513,
-  "uniqueCount": 437,
+  "generatedAt": "2026-10-24T14:11:33.439Z",
+  "totalFetched": 511,
+  "uniqueCount": 436,
   "candidates": [
     {
       "id": "frontpage:hn:50211474",
@@ -9,13 +9,13 @@
       "url": "https://blog.calif.io/p/iphone",
       "hnUrl": "https://news.ycombinator.com/item?id=50211474",
       "source": "Hacker News",
-      "points": 938,
-      "comments": 608,
+      "points": 964,
+      "comments": 619,
       "createdAt": "2026-10-23T16:21:50",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2558,
+      "score": 2608,
       "intro": "这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -25,14 +25,14 @@
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "hnUrl": "https://news.ycombinator.com/item?id=50212065",
       "source": "Hacker News",
-      "points": 957,
-      "comments": 574,
+      "points": 977,
+      "comments": 584,
       "createdAt": "2026-10-23T16:59:08",
       "matchedQueries": [
         "front page",
         "AI"
       ],
-      "score": 2513,
+      "score": 2553,
       "intro": "这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
@@ -42,13 +42,13 @@
       "url": "https://edjefferson.com/localwiki/",
       "hnUrl": "https://news.ycombinator.com/item?id=50202285",
       "source": "Hacker News",
-      "points": 1420,
-      "comments": 237,
+      "points": 1438,
+      "comments": 238,
       "createdAt": "2026-10-22T23:01:18",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2216,
+      "score": 2239,
       "intro": "这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -58,13 +58,13 @@
       "url": "https://music.apple.com/this-url-doesnt-exist",
       "hnUrl": "https://news.ycombinator.com/item?id=50207910",
       "source": "Hacker News",
-      "points": 810,
-      "comments": 243,
+      "points": 821,
+      "comments": 246,
       "createdAt": "2026-10-23T12:28:47",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1529,
+      "score": 1549,
       "intro": "这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -74,13 +74,13 @@
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
       "hnUrl": "https://news.ycombinator.com/item?id=50202114",
       "source": "Hacker News",
-      "points": 437,
-      "comments": 231,
+      "points": 453,
+      "comments": 237,
       "createdAt": "2026-10-22T22:43:19",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1071,
+      "score": 1104,
       "intro": "这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -90,28 +90,65 @@
       "url": "https://block.xyz/dessa",
       "hnUrl": "https://news.ycombinator.com/item?id=50213925",
       "source": "Hacker News",
-      "points": 416,
-      "comments": 153,
+      "points": 423,
+      "comments": 159,
       "createdAt": "2026-10-23T19:09:54",
       "matchedQueries": [
         "front page"
       ],
-      "score": 870,
+      "score": 882,
       "intro": "这篇来自 block.xyz 的帖子主要介绍了：Dessa: Conversation Model trained only on speech相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50218633",
+      "source": "Hacker News",
+      "points": 318,
+      "comments": 90,
+      "author": "testing22321",
+      "createdAt": "2026-10-24T05:49:57Z",
+      "storyText": "",
+      "matchedQueries": [
+        "OpenAI",
+        "AI"
+      ],
+      "score": 638,
+      "intro": "这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50218633",
+      "source": "Hacker News",
+      "points": 318,
+      "comments": 90,
+      "createdAt": "2026-10-24T05:49:57",
+      "matchedQueries": [
+        "front page",
+        "AI",
+        "OpenAI"
+      ],
+      "score": 637,
+      "intro": "这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦front page、人工智能、OpenAI相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
       "id": "trending:github.com/luongnv89/claude-howto",
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "source": "GitHub Trending",
-      "points": 44191,
-      "comments": 5468,
-      "stars": 44191,
-      "forks": 5468,
+      "points": 44221,
+      "comments": 5473,
+      "stars": 44221,
+      "forks": 5473,
       "starsToday": 1053,
       "language": "Python",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.021Z",
       "pageDescription": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "githubTopics": [],
       "matchedQueries": [
@@ -129,13 +166,13 @@
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
-      "points": 43127,
-      "comments": 2693,
-      "stars": 43127,
-      "forks": 2693,
+      "points": 43242,
+      "comments": 2699,
+      "stars": 43242,
+      "forks": 2699,
       "starsToday": 2271,
       "language": "JavaScript",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.020Z",
       "pageDescription": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "githubTopics": [],
       "matchedQueries": [
@@ -147,33 +184,17 @@
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
-      "id": "frontpage:hn:50169499",
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50169499",
-      "source": "Hacker News",
-      "points": 328,
-      "comments": 79,
-      "createdAt": "2026-10-20T17:10:05",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 581,
-      "intro": "这篇来自 pudding.cool 的帖子主要介绍了：The Real Kevin Bacon相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
       "id": "trending:github.com/pbakaus/impeccable",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
-      "points": 85900,
-      "comments": 5138,
-      "stars": 85900,
-      "forks": 5138,
+      "points": 85951,
+      "comments": 5140,
+      "stars": 85951,
+      "forks": 5140,
       "starsToday": 541,
       "language": "Rust",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.021Z",
       "pageDescription": "The design language that makes your AI harness better at design.",
       "githubTopics": [],
       "matchedQueries": [
@@ -185,35 +206,17 @@
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
-      "id": "frontpage:hn:50218633",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50218633",
-      "source": "Hacker News",
-      "points": 277,
-      "comments": 79,
-      "createdAt": "2026-10-24T05:49:57",
-      "matchedQueries": [
-        "front page",
-        "AI",
-        "OpenAI"
-      ],
-      "score": 580,
-      "intro": "这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦front page、人工智能、OpenAI相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
       "id": "trending:github.com/Nutlope/hallmark",
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending",
-      "points": 31553,
-      "comments": 1627,
-      "stars": 31553,
-      "forks": 1627,
+      "points": 31616,
+      "comments": 1631,
+      "stars": 31616,
+      "forks": 1631,
       "starsToday": 567,
       "language": "CSS",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.020Z",
       "pageDescription": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "githubTopics": [],
       "matchedQueries": [
@@ -232,13 +235,13 @@
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending",
-      "points": 19153,
-      "comments": 1909,
-      "stars": 19153,
-      "forks": 1909,
+      "points": 19185,
+      "comments": 1911,
+      "stars": 19185,
+      "forks": 1911,
       "starsToday": 893,
       "language": "Rust",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.020Z",
       "pageDescription": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "githubTopics": [],
       "matchedQueries": [
@@ -255,13 +258,13 @@
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
       "source": "GitHub Trending",
-      "points": 107625,
-      "comments": 14779,
-      "stars": 107625,
-      "forks": 14779,
+      "points": 107679,
+      "comments": 14787,
+      "stars": 107679,
+      "forks": 14787,
       "starsToday": 38,
       "language": "TypeScript",
-      "createdAt": "2026-10-24T13:09:02.788Z",
+      "createdAt": "2026-10-24T14:11:12.021Z",
       "pageDescription": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "githubTopics": [],
       "matchedQueries": [
@@ -279,12 +282,12 @@
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 376009,
+      "points": 376292,
       "comments": 1223,
-      "stars": 376009,
-      "forks": 93977,
+      "stars": 376292,
+      "forks": 94053,
       "openIssues": 1223,
-      "createdAt": "2026-10-24T12:58:05Z",
+      "createdAt": "2026-10-24T14:10:57Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -346,12 +349,12 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 256679,
-      "comments": 50799,
-      "stars": 256679,
-      "forks": 56127,
-      "openIssues": 50799,
-      "createdAt": "2026-10-24T13:06:08Z",
+      "points": 256700,
+      "comments": 50806,
+      "stars": 256700,
+      "forks": 56134,
+      "openIssues": 50806,
+      "createdAt": "2026-10-24T14:10:41Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -399,11 +402,11 @@
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 208476,
-      "comments": 1219,
-      "stars": 208476,
-      "forks": 61221,
-      "openIssues": 1219,
+      "points": 208481,
+      "comments": 1220,
+      "stars": 208481,
+      "forks": 61223,
+      "openIssues": 1220,
       "createdAt": "2026-10-24T12:52:10Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
@@ -452,7 +455,7 @@
         "AI",
         "MCP"
       ],
-      "score": 488,
+      "score": 486,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -461,12 +464,12 @@
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 187725,
-      "comments": 735,
-      "stars": 187725,
+      "points": 187726,
+      "comments": 731,
+      "stars": 187726,
       "forks": 45894,
-      "openIssues": 735,
-      "createdAt": "2026-10-24T13:08:15Z",
+      "openIssues": 731,
+      "createdAt": "2026-10-24T13:57:00Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -509,12 +512,12 @@
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 159414,
-      "comments": 1178,
-      "stars": 159414,
-      "forks": 25191,
-      "openIssues": 1178,
-      "createdAt": "2026-10-24T12:43:07Z",
+      "points": 159418,
+      "comments": 1180,
+      "stars": 159418,
+      "forks": 25193,
+      "openIssues": 1180,
+      "createdAt": "2026-10-24T13:51:39Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -576,11 +579,11 @@
       "title": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 168061,
-      "comments": 994,
-      "stars": 168061,
-      "forks": 34959,
-      "openIssues": 994,
+      "points": 168065,
+      "comments": 995,
+      "stars": 168065,
+      "forks": 34960,
+      "openIssues": 995,
       "createdAt": "2026-10-24T09:24:46Z",
       "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
@@ -628,7 +631,7 @@
         "LLM",
         "DeepSeek"
       ],
-      "score": 471,
+      "score": 469,
       "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -637,12 +640,12 @@
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "points": 194831,
-      "comments": 663,
-      "stars": 194831,
-      "forks": 10279,
-      "openIssues": 663,
-      "createdAt": "2026-10-24T13:07:25Z",
+      "points": 194849,
+      "comments": 665,
+      "stars": 194849,
+      "forks": 10280,
+      "openIssues": 665,
+      "createdAt": "2026-10-24T13:53:08Z",
       "pageDescription": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "githubTopics": [
         "ai",
@@ -698,10 +701,10 @@
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub",
-      "points": 148356,
+      "points": 148364,
       "comments": 674,
-      "stars": 148356,
-      "forks": 24900,
+      "stars": 148364,
+      "forks": 24899,
       "openIssues": 674,
       "createdAt": "2026-10-24T08:27:54Z",
       "pageDescription": "The agent engineering platform.",
@@ -756,7 +759,7 @@
         "Anthropic",
         "Gemini"
       ],
-      "score": 463,
+      "score": 462,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -924,30 +927,28 @@
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/10/504734.html",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "id": "rss:qbitai:https://www.qbitai.com/2026/10/505032.html",
+      "title": "企业AI需要两个世界模型",
+      "url": "https://www.qbitai.com/2026/10/505032.html",
       "source": "QbitAI",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-10-21T11:30:59.000Z",
-      "pageDescription": "医疗AI质变时刻",
+      "createdAt": "2026-10-23T09:07:25.000Z",
+      "pageDescription": "特赞想让企业Agent真正懂业务",
       "categories": [
         "资讯",
-        "首页轮播",
-        "Agent",
-        "AI医疗",
-        "清华AIR"
+        "世界模型",
+        "特赞"
       ],
       "matchedQueries": [
         "资讯",
-        "首页轮播",
-        "Agent",
+        "世界模型",
+        "特赞",
         "AI",
         "AI agent"
       ],
       "score": 70,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院相关内容，聚焦资讯、首页轮播、Agent、人工智能、AI Agent相关背景、功能和讨论点。",
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：企业AI需要两个世界模型相关内容，聚焦资讯、世界模型、特赞、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -990,7 +991,7 @@
       "pageDescription": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册中的内容被用于个性化广告需要切断关联服务，方法是：Google 账号 —— 数据和隐私设置——个性化设置——搜索服务个性化——更多个性化智能服务——关联的内容应用，切断 Google Workspac",
       "categories": [],
       "matchedQueries": [],
-      "score": 43,
+      "score": 41,
       "intro": "这篇来自 solidot.org 的帖子主要介绍了：Google 修改隐私条款将 Gmail 和照片数据用于个性化广告相关内容，聚焦AI 信息雷达相关背景、功能和讨论点。",
       "reason": "fresh today"
     }
@@ -1002,13 +1003,13 @@
       "url": "https://blog.calif.io/p/iphone",
       "hnUrl": "https://news.ycombinator.com/item?id=50211474",
       "source": "Hacker News",
-      "points": 938,
-      "comments": 608,
+      "points": 964,
+      "comments": 619,
       "createdAt": "2026-10-23T16:21:50",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2558,
+      "score": 2608,
       "intro": "这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -1018,14 +1019,14 @@
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "hnUrl": "https://news.ycombinator.com/item?id=50212065",
       "source": "Hacker News",
-      "points": 957,
-      "comments": 574,
+      "points": 977,
+      "comments": 584,
       "createdAt": "2026-10-23T16:59:08",
       "matchedQueries": [
         "front page",
         "AI"
       ],
-      "score": 2513,
+      "score": 2553,
       "intro": "这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
@@ -1035,13 +1036,13 @@
       "url": "https://edjefferson.com/localwiki/",
       "hnUrl": "https://news.ycombinator.com/item?id=50202285",
       "source": "Hacker News",
-      "points": 1420,
-      "comments": 237,
+      "points": 1438,
+      "comments": 238,
       "createdAt": "2026-10-22T23:01:18",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2216,
+      "score": 2239,
       "intro": "这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -1051,13 +1052,13 @@
       "url": "https://music.apple.com/this-url-doesnt-exist",
       "hnUrl": "https://news.ycombinator.com/item?id=50207910",
       "source": "Hacker News",
-      "points": 810,
-      "comments": 243,
+      "points": 821,
+      "comments": 246,
       "createdAt": "2026-10-23T12:28:47",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1529,
+      "score": 1549,
       "intro": "这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
@@ -1067,19 +1068,19 @@
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
       "hnUrl": "https://news.ycombinator.com/item?id=50202114",
       "source": "Hacker News",
-      "points": 437,
-      "comments": 231,
+      "points": 453,
+      "comments": 237,
       "createdAt": "2026-10-22T22:43:19",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1071,
+      "score": 1104,
       "intro": "这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-10-24T13:09:18.352Z",
+    "generatedAt": "2026-10-24T14:11:33.416Z",
     "totalFetched": 222,
     "uniqueCount": 164,
     "candidates": [
@@ -1117,7 +1118,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 219,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1197,47 +1198,9 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 217,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2610.31624v1",
-        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-        "url": "https://arxiv.org/abs/2610.31624v1",
-        "pdfUrl": "https://arxiv.org/pdf/2610.31624v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Barış Alparslan",
-          "Sandy Tanwisuth",
-          "Caleb Petterson"
-        ],
-        "categories": [
-          "cs.LG",
-          "cs.AI"
-        ],
-        "createdAt": "2026-10-22T17:44:41Z",
-        "updatedAt": "2026-10-22T17:44:41Z",
-        "abstract": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
-        "pageDescription": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
-        "matchedQueries": [
-          "LLM",
-          "cs.LG",
-          "cs.AI",
-          "AI",
-          "AI agent",
-          "prompt engineering",
-          "AI safety"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=Questioning%20Instrumental%20Convergence%20in%20RLVR%3A%20Checkpoint%20Evidence%20from%20OLMo-3",
-        "methodHint": "",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 212,
-        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
       {
         "id": "arxiv:2610.31670v1",
@@ -1318,44 +1281,41 @@
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
       {
-        "id": "arxiv:2610.31650v1",
-        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-        "url": "https://arxiv.org/abs/2610.31650v1",
-        "pdfUrl": "https://arxiv.org/pdf/2610.31650v1",
+        "id": "arxiv:2610.31624v1",
+        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+        "url": "https://arxiv.org/abs/2610.31624v1",
+        "pdfUrl": "https://arxiv.org/pdf/2610.31624v1",
         "source": "arXiv",
         "points": 0,
         "comments": 0,
         "authors": [
-          "Qijin Zhang",
-          "Hanzhen Wang",
-          "Yuehan Zhao",
-          "Haoyu Dai",
-          "Yao Shu",
-          "Zhongxiang Dai",
-          "Shuang Qiu"
+          "Barış Alparslan",
+          "Sandy Tanwisuth",
+          "Caleb Petterson"
         ],
         "categories": [
-          "cs.AI",
-          "cs.LG"
+          "cs.LG",
+          "cs.AI"
         ],
-        "createdAt": "2026-10-22T17:57:04Z",
-        "updatedAt": "2026-10-22T17:57:04Z",
-        "abstract": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical evidence omission and determines the minimum observed failure cardinality, including failures with full evidence and cases with no observed failure after exhaustive testing. An independent audit tool tests whether agents seek missing facts and then withhold prohibited actions while completing permissible tasks. The benchmark reveals substantial variation across the ten models in omission robustness, evidence acquisition, and appropriate action. Resistance to missing evidence does not necessarily translate into useful recovery. Recovery access reduces unsafe execution for all ten models, but agents differ in whether they actively obtain the missing facts and use them to act appropriately in both worlds.",
-        "pageDescription": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical evidence omission and determines the minimum observed failure cardinality, including failures with full evidence and cases with no observed failure after exhaustive testing. An independent audit tool tests whether agents seek missing facts and then withhold prohibited actions while completing permissible tasks. The benchmark reveals substantial variation across the ten models in omission robustness, evidence acquisition, and appropriate action. Resistance to missing evidence does not necessarily translate into useful recovery. Recovery access reduces unsafe execution for all ten models, but agents differ in whether they actively obtain the missing facts and use them to act appropriately in both worlds.",
+        "createdAt": "2026-10-22T17:44:41Z",
+        "updatedAt": "2026-10-22T17:44:41Z",
+        "abstract": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
+        "pageDescription": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
         "matchedQueries": [
           "LLM",
-          "cs.AI",
           "cs.LG",
+          "cs.AI",
           "AI",
           "AI agent",
+          "prompt engineering",
           "AI safety"
         ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=EpiSEM-Bench%3A%20Evaluating%20Safety%20and%20Evidence%20Recovery%20in%20LLM%20Agents%20under%20Missing%20Evidence",
-        "methodHint": "bench",
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=Questioning%20Instrumental%20Convergence%20in%20RLVR%3A%20Checkpoint%20Evidence%20from%20OLMo-3",
+        "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
         "score": 211,
-        "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
+        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
       {
@@ -1441,6 +1401,47 @@
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
       {
+        "id": "arxiv:2610.31650v1",
+        "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+        "url": "https://arxiv.org/abs/2610.31650v1",
+        "pdfUrl": "https://arxiv.org/pdf/2610.31650v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Qijin Zhang",
+          "Hanzhen Wang",
+          "Yuehan Zhao",
+          "Haoyu Dai",
+          "Yao Shu",
+          "Zhongxiang Dai",
+          "Shuang Qiu"
+        ],
+        "categories": [
+          "cs.AI",
+          "cs.LG"
+        ],
+        "createdAt": "2026-10-22T17:57:04Z",
+        "updatedAt": "2026-10-22T17:57:04Z",
+        "abstract": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical evidence omission and determines the minimum observed failure cardinality, including failures with full evidence and cases with no observed failure after exhaustive testing. An independent audit tool tests whether agents seek missing facts and then withhold prohibited actions while completing permissible tasks. The benchmark reveals substantial variation across the ten models in omission robustness, evidence acquisition, and appropriate action. Resistance to missing evidence does not necessarily translate into useful recovery. Recovery access reduces unsafe execution for all ten models, but agents differ in whether they actively obtain the missing facts and use them to act appropriately in both worlds.",
+        "pageDescription": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution, safety boundaries, and evidence recovery in LLM agents under missing evidence. It contains 300 matched unsafe/safe task pairs across six domains. By systematically suppressing critical facts, the benchmark measures unsafe execution under critical evidence omission and determines the minimum observed failure cardinality, including failures with full evidence and cases with no observed failure after exhaustive testing. An independent audit tool tests whether agents seek missing facts and then withhold prohibited actions while completing permissible tasks. The benchmark reveals substantial variation across the ten models in omission robustness, evidence acquisition, and appropriate action. Resistance to missing evidence does not necessarily translate into useful recovery. Recovery access reduces unsafe execution for all ten models, but agents differ in whether they actively obtain the missing facts and use them to act appropriately in both worlds.",
+        "matchedQueries": [
+          "LLM",
+          "cs.AI",
+          "cs.LG",
+          "AI",
+          "AI agent",
+          "AI safety"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=EpiSEM-Bench%3A%20Evaluating%20Safety%20and%20Evidence%20Recovery%20in%20LLM%20Agents%20under%20Missing%20Evidence",
+        "methodHint": "bench",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 210,
+        "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
+        "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
+      },
+      {
         "id": "arxiv:2610.30705v1",
         "title": "ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling",
         "url": "https://arxiv.org/abs/2610.30705v1",
@@ -1483,6 +1484,45 @@
         "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
       },
       {
+        "id": "arxiv:2610.30611v1",
+        "title": "Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference",
+        "url": "https://arxiv.org/abs/2610.30611v1",
+        "pdfUrl": "https://arxiv.org/pdf/2610.30611v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Amirhossein Aghaei",
+          "Liangyan Li",
+          "Shiyi Yang",
+          "Shaohua Wang",
+          "Yan Wang"
+        ],
+        "categories": [
+          "cs.AI",
+          "cs.IR"
+        ],
+        "createdAt": "2026-10-22T02:20:21Z",
+        "updatedAt": "2026-10-22T02:20:21Z",
+        "abstract": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often produce semantically plausible but structurally ungrounded reasoning, especially under incomplete observations. We propose Structure-Grounded Uncertainty Reduction (SGUR), a training-free framework that complements token-level generation with active uncertainty reduction over structured hypothesis spaces. SGUR represents incomplete observations as a query graph and aligns them with candidate hypothesis graphs through a prior-weighted partial graph matching mechanism, where database-derived empirical priors assign greater importance to decision-relevant relations rather than treating all graph edges uniformly. The resulting inference state is iteratively refined by an active information-gain strategy that selects the next most informative node to query, systematically pruning the candidate space. We instantiate SGUR on a challenging PrimeKG-derived sequential medical diagnosis benchmark, demonstrating that structural grounding can partially substitute for model scale: starting from only two observed symptoms, SGUR achieves 92.5% Hit@3, outperforming the strongest Graph-RAG baseline by 9.4 percentage points while using approximately 5x fewer tokens. Notably, SGUR enables smaller backbone models to match or exceed the performance of models up to 10x larger, suggesting that structural grounding provides a more robust and efficient paradigm for scaling agent performance than relying exclusively on increasing model size.",
+        "pageDescription": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often produce semantically plausible but structurally ungrounded reasoning, especially under incomplete observations. We propose Structure-Grounded Uncertainty Reduction (SGUR), a training-free framework that complements token-level generation with active uncertainty reduction over structured hypothesis spaces. SGUR represents incomplete observations as a query graph and aligns them with candidate hypothesis graphs through a prior-weighted partial graph matching mechanism, where database-derived empirical priors assign greater importance to decision-relevant relations rather than treating all graph edges uniformly. The resulting inference state is iteratively refined by an active information-gain strategy that selects the next most informative node to query, systematically pruning the candidate space. We instantiate SGUR on a challenging PrimeKG-derived sequential medical diagnosis benchmark, demonstrating that structural grounding can partially substitute for model scale: starting from only two observed symptoms, SGUR achieves 92.5% Hit@3, outperforming the strongest Graph-RAG baseline by 9.4 percentage points while using approximately 5x fewer tokens. Notably, SGUR enables smaller backbone models to match or exceed the performance of models up to 10x larger, suggesting that structural grounding provides a more robust and efficient paradigm for scaling agent performance than relying exclusively on increasing model size.",
+        "matchedQueries": [
+          "RAG",
+          "cs.AI",
+          "cs.IR",
+          "AI",
+          "LLM",
+          "AI agent"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=Better%20Reasoning%2C%20Not%20Just%20Bigger%20Models%3A%20A%20Structure-Grounded%20Framework%20for%20Efficient%20and%20Reliable%20Inference",
+        "methodHint": "Structure-Grounded Uncertainty Reduction",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 206,
+        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
+        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+      },
+      {
         "id": "arxiv:2610.31483v1",
         "title": "Training Small Language Models for Transferable Tool Selection",
         "url": "https://arxiv.org/abs/2610.31483v1",
@@ -1521,48 +1561,9 @@
         "methodHint": "Qwen3-8B",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 206,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2610.30611v1",
-        "title": "Better Reasoning, Not Just Bigger Models: A Structure-Grounded Framework for Efficient and Reliable Inference",
-        "url": "https://arxiv.org/abs/2610.30611v1",
-        "pdfUrl": "https://arxiv.org/pdf/2610.30611v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Amirhossein Aghaei",
-          "Liangyan Li",
-          "Shiyi Yang",
-          "Shaohua Wang",
-          "Yan Wang"
-        ],
-        "categories": [
-          "cs.AI",
-          "cs.IR"
-        ],
-        "createdAt": "2026-10-22T02:20:21Z",
-        "updatedAt": "2026-10-22T02:20:21Z",
-        "abstract": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often produce semantically plausible but structurally ungrounded reasoning, especially under incomplete observations. We propose Structure-Grounded Uncertainty Reduction (SGUR), a training-free framework that complements token-level generation with active uncertainty reduction over structured hypothesis spaces. SGUR represents incomplete observations as a query graph and aligns them with candidate hypothesis graphs through a prior-weighted partial graph matching mechanism, where database-derived empirical priors assign greater importance to decision-relevant relations rather than treating all graph edges uniformly. The resulting inference state is iteratively refined by an active information-gain strategy that selects the next most informative node to query, systematically pruning the candidate space. We instantiate SGUR on a challenging PrimeKG-derived sequential medical diagnosis benchmark, demonstrating that structural grounding can partially substitute for model scale: starting from only two observed symptoms, SGUR achieves 92.5% Hit@3, outperforming the strongest Graph-RAG baseline by 9.4 percentage points while using approximately 5x fewer tokens. Notably, SGUR enables smaller backbone models to match or exceed the performance of models up to 10x larger, suggesting that structural grounding provides a more robust and efficient paradigm for scaling agent performance than relying exclusively on increasing model size.",
-        "pageDescription": "Scaling large language models has substantially improved linguistic fluency, yet reliable autonomous agents require more than fluent generation. In multi-turn inference, current agentic systems often produce semantically plausible but structurally ungrounded reasoning, especially under incomplete observations. We propose Structure-Grounded Uncertainty Reduction (SGUR), a training-free framework that complements token-level generation with active uncertainty reduction over structured hypothesis spaces. SGUR represents incomplete observations as a query graph and aligns them with candidate hypothesis graphs through a prior-weighted partial graph matching mechanism, where database-derived empirical priors assign greater importance to decision-relevant relations rather than treating all graph edges uniformly. The resulting inference state is iteratively refined by an active information-gain strategy that selects the next most informative node to query, systematically pruning the candidate space. We instantiate SGUR on a challenging PrimeKG-derived sequential medical diagnosis benchmark, demonstrating that structural grounding can partially substitute for model scale: starting from only two observed symptoms, SGUR achieves 92.5% Hit@3, outperforming the strongest Graph-RAG baseline by 9.4 percentage points while using approximately 5x fewer tokens. Notably, SGUR enables smaller backbone models to match or exceed the performance of models up to 10x larger, suggesting that structural grounding provides a more robust and efficient paradigm for scaling agent performance than relying exclusively on increasing model size.",
-        "matchedQueries": [
-          "RAG",
-          "cs.AI",
-          "cs.IR",
-          "AI",
-          "LLM",
-          "AI agent"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=Better%20Reasoning%2C%20Not%20Just%20Bigger%20Models%3A%20A%20Structure-Grounded%20Framework%20for%20Efficient%20and%20Reliable%20Inference",
-        "methodHint": "Structure-Grounded Uncertainty Reduction",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 206,
-        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
       },
       {
         "id": "arxiv:2610.30485v1",
@@ -1714,7 +1715,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 219,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1794,47 +1795,9 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 217,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2610.31624v1",
-        "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-        "url": "https://arxiv.org/abs/2610.31624v1",
-        "pdfUrl": "https://arxiv.org/pdf/2610.31624v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Barış Alparslan",
-          "Sandy Tanwisuth",
-          "Caleb Petterson"
-        ],
-        "categories": [
-          "cs.LG",
-          "cs.AI"
-        ],
-        "createdAt": "2026-10-22T17:44:41Z",
-        "updatedAt": "2026-10-22T17:44:41Z",
-        "abstract": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
-        "pageDescription": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance to oversight which poses an important threat to the society. For LLMs, reinforcement learning is the first stage of post-training that directly optimizes behavior against an objective; therefore, it is the stage where convergent instrumental behavior, on IC grounds, likely to appear. Does reinforcement learning with verifiable rewards (RLVR) make a model more likely to express instrumental-convergence behavior, or does this depend on the training regime, evaluation frame, and stage of post-training? We study this question as a checkpoint-conditioned behavioral trajectory rather than as a single before/after safety score. Using InstrumentalEval, we evaluate OLMo-3-7B-Think across SFT, DPO, 13 intermediate RLVR checkpoints, and the final RLVR model. The trajectory is nonmonotonic: instrumental rate rises from 25.0% at SFT to 46.1% near RLVR step 200, then falls to 11.8% at the final checkpoint. Paired item-level tests and step-wise regression support the final SFT-to-RLVR reduction. Prompt framing does not explain this pattern: a harmful-prompt indicator combined with other framing effects explains only 15% of within-checkpoint score variance on average, and Iterative Null-space Projection (INLP) removes a detectable framing direction without changing the SFT-to-final-RLVR gap. Together with preliminary 32B endpoint results (35.53% SFT to 22.37% RLVR final), these findings indicate that RLVR does not monotonically increase instrumental behavior in this setting: the rate rises early, then falls below the SFT baseline. The result is specific to this model family and benchmark, and judge agreement is moderate, so absolute rates should be read cautiously.",
-        "matchedQueries": [
-          "LLM",
-          "cs.LG",
-          "cs.AI",
-          "AI",
-          "AI agent",
-          "prompt engineering",
-          "AI safety"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=Questioning%20Instrumental%20Convergence%20in%20RLVR%3A%20Checkpoint%20Evidence%20from%20OLMo-3",
-        "methodHint": "",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 212,
-        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
       {
         "id": "arxiv:2610.31670v1",
@@ -1875,6 +1838,44 @@
         "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
+      },
+      {
+        "id": "arxiv:2610.31656v1",
+        "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.31656v1",
+        "pdfUrl": "https://arxiv.org/pdf/2610.31656v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Ali Najar",
+          "Hosein Hasani",
+          "Amir Kooshan Fattah",
+          "Yasamin Rajabi",
+          "Mahdieh Soleymani Baghshah"
+        ],
+        "categories": [
+          "cs.LG",
+          "cs.AI"
+        ],
+        "createdAt": "2026-10-22T17:58:27Z",
+        "updatedAt": "2026-10-22T17:58:27Z",
+        "abstract": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation phase into two temporal scales: a causal neural memory performs fine-grained within-episode adaptation with linear sequence complexity, while compact episode-level summaries support long-range cross-episode task inference without attending over the full interaction history. Moreover, equipping agents with neural memory provides sufficient expressive capacity and test-time training capability, enabling effective adaptation to unseen held-out tasks and task families at meta-test time. On unseen held-out Meta-World ML10/45 test environments, METTA achieves a success rate over $50\\%$ while maintaining a low training budget and short wall-clock time. On long-context sparse-reward PointMaze tasks, it outperforms transformer-based baselines by exhibiting more structured exploration behavior. These results show that METTA provides an efficient path toward more adaptive and scalable long-context meta-RL.",
+        "pageDescription": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation cost. In this work, we propose Memory-Enhanced Test-Time Adaptation (METTA) for meta-reinforcement learning. It decomposes the fast adaptation phase into two temporal scales: a causal neural memory performs fine-grained within-episode adaptation with linear sequence complexity, while compact episode-level summaries support long-range cross-episode task inference without attending over the full interaction history. Moreover, equipping agents with neural memory provides sufficient expressive capacity and test-time training capability, enabling effective adaptation to unseen held-out tasks and task families at meta-test time. On unseen held-out Meta-World ML10/45 test environments, METTA achieves a success rate over $50\\%$ while maintaining a low training budget and short wall-clock time. On long-context sparse-reward PointMaze tasks, it outperforms transformer-based baselines by exhibiting more structured exploration behavior. These results show that METTA provides an efficient path toward more adaptive and scalable long-context meta-RL.",
+        "matchedQueries": [
+          "AI agent",
+          "cs.LG",
+          "cs.AI",
+          "AI",
+          "machine learning"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=METTA%3A%20Memory-Enhanced%20Test-Time%20Adaptation%20for%20Meta-Reinforcement%20Learning",
+        "methodHint": "Memory-Enhanced Test-Time Adaptation",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 211,
+        "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
+        "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       }
     ]
   },
@@ -1884,7 +1885,7 @@
       "url": "https://github.com/trending",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-24T13:09:01.235Z",
+      "observedAt": "2026-10-24T14:11:10.978Z",
       "kept": 10
     },
     {
@@ -1892,7 +1893,7 @@
       "url": "https://news.ycombinator.com/",
       "status": "ok (30 parsed)",
       "found": 30,
-      "observedAt": "2026-10-24T13:09:04.289Z",
+      "observedAt": "2026-10-24T14:11:13.523Z",
       "kept": 30
     },
     {
@@ -1900,7 +1901,7 @@
       "url": "https://huggingface.co/papers",
       "status": "ok (50 parsed)",
       "found": 50,
-      "observedAt": "2026-10-24T13:09:06.040Z",
+      "observedAt": "2026-10-24T14:11:15.826Z",
       "kept": 50
     },
     {
@@ -1908,7 +1909,7 @@
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-24T13:09:07.688Z",
+      "observedAt": "2026-10-24T14:11:19.905Z",
       "kept": 10
     },
     {
@@ -1916,7 +1917,7 @@
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-10-24T13:09:11.334Z",
+      "observedAt": "2026-10-24T14:11:21.498Z",
       "kept": 20
     },
     {
@@ -1924,8 +1925,50 @@
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (117 parsed)",
       "found": 117,
-      "observedAt": "2026-10-24T13:09:14.390Z",
+      "observedAt": "2026-10-24T14:11:23.128Z",
       "kept": 117
+    }
+  ],
+  "momentum": [
+    {
+      "source": "Hacker News",
+      "count": 8,
+      "momentum": -0.133
+    },
+    {
+      "source": "GitHub",
+      "count": 8,
+      "momentum": -0.229
+    },
+    {
+      "source": "GitHub Trending",
+      "count": 6,
+      "momentum": 0.2
+    },
+    {
+      "source": "arXiv",
+      "count": 3,
+      "momentum": 0.005
+    },
+    {
+      "source": "HF Papers",
+      "count": 2,
+      "momentum": 0.067
+    },
+    {
+      "source": "QbitAI",
+      "count": 1,
+      "momentum": 0.033
+    },
+    {
+      "source": "papers.cool",
+      "count": 1,
+      "momentum": 0.033
+    },
+    {
+      "source": "Solidot",
+      "count": 1,
+      "momentum": null
     }
   ],
   "diagnostics": {
