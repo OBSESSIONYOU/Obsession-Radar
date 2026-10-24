@@ -6,7 +6,7 @@
   "description": "你的电气科研与技术雷达：HN / GitHub / arXiv / Semantic Scholar 每日雷达",
   "scripts": {
     "update": "node run-demo.mjs",
-    "test": "node --test ./web-sources.test.mjs ./library-profile.test.mjs ./arxiv-atom.test.mjs ./radar-core.test.mjs ./proxies.test.mjs"
+    "test": "node --test ./web-sources.test.mjs ./library-profile.test.mjs ./radar-chart.test.mjs ./arxiv-atom.test.mjs ./radar-core.test.mjs ./proxies.test.mjs"
   },
   "engines": {
     "node": ">=18"

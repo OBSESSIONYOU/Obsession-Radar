@@ -15,12 +15,14 @@ $staticFiles = @(
   "topic-radar-store.browser.js",
   "ai-api-config.browser.js",
   "library-profile.browser.js",
+  "radar-chart.browser.js",
   "web-sources.browser.js",
   "app.js",
   "demo-data.js",
   "last-run-data.js",
   "daily-radar.json",
   "daily-radar.md",
+  "history.json",
   "README.md"
 )
 
