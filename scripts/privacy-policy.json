@@ -1,4 +1,6 @@
 {
-  "approved_data": {},
+  "approved_data": {
+    "test-fixtures/web-sources/hf-papers.html": "961dc53cbd3580979035f2723b5e35a316d200fbede51c4f89cb9390ec7b7667"
+  },
   "allow_sparkbox_encrypted_backups": false
 }

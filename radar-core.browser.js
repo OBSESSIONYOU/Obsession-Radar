@@ -157,6 +157,97 @@
     return enrichAiStory(baseStory);
   }
 
+  function githubTrendingToStory(entry) {
+    const baseStory = {
+      id: entry.id || `trending:github.com/${entry.fullName}`,
+      title: entry.fullName || entry.title || "unknown/repository",
+      url: entry.url || (entry.fullName ? `https://github.com/${entry.fullName}` : ""),
+      source: "GitHub Trending",
+      points: entry.stars || 0,
+      comments: entry.forks || 0,
+      stars: entry.stars || 0,
+      forks: entry.forks || 0,
+      starsToday: entry.starsToday || 0,
+      language: entry.language || "",
+      createdAt: entry.createdAt || new Date().toISOString(),
+      pageDescription: entry.description || "",
+      githubTopics: Array.isArray(entry.topics) ? entry.topics : [],
+      matchedQueries: ["trending", ...(entry.topics || [])].filter(Boolean),
+    };
+    return enrichAiStory(baseStory);
+  }
+
+  function hnFrontToStory(entry) {
+    const baseStory = {
+      id: entry.id || `frontpage:hn:${entry.itemId || entry.url}`,
+      title: entry.title || "Untitled HN story",
+      url: entry.url || entry.hnUrl || "",
+      hnUrl: entry.hnUrl || "",
+      source: "Hacker News",
+      points: entry.points || 0,
+      comments: entry.comments || 0,
+      createdAt: entry.createdAt || new Date().toISOString(),
+      matchedQueries: ["front page"],
+    };
+    return enrichAiStory(baseStory);
+  }
+
+  function hfPaperToStory(entry) {
+    const baseStory = {
+      id: entry.id || `hf:${entry.paperId}`,
+      title: entry.title || "Untitled paper",
+      url: entry.url || (entry.paperId ? `https://huggingface.co/papers/${entry.paperId}` : ""),
+      source: "HF Papers",
+      points: entry.upvotes || 0,
+      comments: 0,
+      upvotes: entry.upvotes || 0,
+      authors: [],
+      categories: ["HF Daily Papers"],
+      createdAt: entry.publishedAt || entry.createdAt || new Date().toISOString(),
+      abstract: entry.summary || "",
+      pageDescription: entry.summary || "",
+      matchedQueries: ["HF daily"],
+      googleScholarUrl: googleScholarSearchUrlFor(entry.title || entry.paperId || ""),
+    };
+    return enrichAiStory(baseStory);
+  }
+
+  function rssNewsToStory(entry, sourceLabel) {
+    const baseStory = {
+      id: entry.id || `rss:${entry.url}`,
+      title: entry.title || "Untitled news",
+      url: entry.url || "",
+      source: sourceLabel || "Web RSS",
+      points: 0,
+      comments: 0,
+      createdAt: entry.createdAt || new Date().toISOString(),
+      pageDescription: entry.description || "",
+      categories: Array.isArray(entry.categories) ? entry.categories : [],
+      matchedQueries: [...(entry.categories || []).slice(0, 3)],
+    };
+    return enrichAiStory(baseStory);
+  }
+
+  function papersCoolToStory(entry) {
+    const baseStory = {
+      id: entry.id || `paperscool:${entry.arxivId}`,
+      title: entry.title || "Untitled arXiv paper",
+      url: entry.url || `https://arxiv.org/abs/${entry.arxivId}`,
+      pdfUrl: entry.pdfUrl || `https://arxiv.org/pdf/${entry.arxivId}`,
+      source: "papers.cool",
+      points: 0,
+      comments: 0,
+      authors: Array.isArray(entry.authors) ? entry.authors : [],
+      categories: ["cs.CL"],
+      createdAt: entry.createdAt || entry.publishedAt || new Date().toISOString(),
+      abstract: entry.summary || "",
+      pageDescription: entry.summary || "",
+      matchedQueries: ["papers.cool"],
+      googleScholarUrl: googleScholarSearchUrlFor(entry.title || entry.arxivId || ""),
+    };
+    return enrichAiStory(baseStory);
+  }
+
   function semanticScholarPaperToStory(paper, query) {
     const label = typeof query === "string" ? query : query?.label;
     const paperId = paper.paperId || paper.externalIds?.CorpusId || paper.externalIds?.DOI || paper.title;
@@ -215,16 +306,19 @@
     const ageHours = Math.max(0, (now.getTime() - createdAt.getTime()) / (60 * 60 * 1000));
     const freshness = Math.max(0, 24 - Math.min(24, ageHours));
     const queryBreadth = new Set(story.matchedQueries || []).size;
-    if (story.source === "GitHub") {
+    if (story.source === "GitHub" || story.source === "GitHub Trending") {
       const stars = story.stars ?? story.points ?? 0;
       const forks = story.forks ?? 0;
       const openIssues = story.openIssues ?? story.comments ?? 0;
       const topicBreadth = Math.min(queryBreadth, 4);
+      const momentum =
+        story.source === "GitHub Trending" ? Math.log10((story.starsToday || 0) + 1) * 60 : 0;
       return Math.round(
         Math.log10(stars + 1) * 45 +
           Math.log10(forks + 1) * 25 +
           Math.min(openIssues, 200) * 0.15 +
           topicBreadth * 14 +
+          momentum +
           freshness * 1.8,
       );
     }
@@ -270,10 +364,23 @@
   }
 
   function selectWithSourceQuota(stories, limit, sourceQuota) {
+    if (!Array.isArray(stories) || !stories.length || !sourceQuota) {
+      return stories.slice(0, limit);
+    }
+
+    const pools = new Map();
+    for (const story of stories) {
+      const source = story.source;
+      if (!Object.prototype.hasOwnProperty.call(sourceQuota, source)) continue;
+      const pool = pools.get(source) || [];
+      pool.push(story);
+      pools.set(source, pool);
+    }
+
     const selected = [];
     const selectedIds = new Set();
     for (const [source, quota] of Object.entries(sourceQuota || {})) {
-      const pool = stories.filter((story) => story.source === source);
+      const pool = pools.get(source) || [];
       for (const story of pool.slice(0, quota)) {
         selected.push(story);
         selectedIds.add(story.id);
@@ -301,19 +408,22 @@
 
   function selectWithGithubLimit(stories, limit, githubLimit) {
     const selected = [];
+    const selectedSet = new Set();
     let githubCount = 0;
 
     for (const story of stories) {
       if (story.source === "GitHub" && githubCount >= githubLimit) continue;
       selected.push(story);
+      selectedSet.add(story);
       if (story.source === "GitHub") githubCount += 1;
       if (selected.length === limit) break;
     }
 
     if (selected.length < limit) {
       for (const story of stories) {
-        if (selected.includes(story)) continue;
+        if (selectedSet.has(story)) continue;
         selected.push(story);
+        selectedSet.add(story);
         if (selected.length === limit) break;
       }
     }
@@ -1004,10 +1114,15 @@
 
   global.RadarCore = {
     DEFAULT_SOURCE_QUOTA: {
-      "Hacker News": 10,
-      GitHub: 12,
-      arXiv: 4,
-      "Semantic Scholar": 4,
+      "Hacker News": 6,
+      GitHub: 8,
+      "GitHub Trending": 6,
+      arXiv: 3,
+      "Semantic Scholar": 3,
+      "HF Papers": 2,
+      "papers.cool": 1,
+      QbitAI: 1,
+      Solidot: 1,
     },
     AI_QUERIES,
     GITHUB_AI_QUERIES,
@@ -1029,6 +1144,11 @@
     enrichAiStory,
     aiTopicsFor,
     githubRepoToStory,
+    githubTrendingToStory,
+    hnFrontToStory,
+    hfPaperToStory,
+    rssNewsToStory,
+    papersCoolToStory,
     arxivPaperToStory,
     semanticScholarPaperToStory,
     enrichPaperStory,

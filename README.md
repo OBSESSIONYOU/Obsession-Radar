@@ -175,12 +175,15 @@ Get-Content .\logs\$(Get-Date -Format yyyy-MM-dd).log
 - arXiv 或 Semantic Scholar 公共 API 限流。
 - `node` 不在计划任务运行环境的 `PATH` 中。
 
+## 无 API 网页源
+
+除官方 API 外，每日抓取还包含一组无 API 网页源（见 `web-sources.mjs`）：GitHub Trending、Hacker News 首页、HuggingFace 每日论文、量子位 RSS、Solidot RSS、papers.cool feed。这些源只读公开页面/RSS，带 UA 标识、顺序抓取并间隔 1.5 秒；每轮访问结果（成功/空/不可达）如实记录在 `daily-radar.json` 的 `coverage` 字段。测试用的页面快照在 `test-fixtures/web-sources/`，可用 `curl` 重新捕获。
+
 ## 验证
 
 ```powershell
-node --test .\paper-library.test.mjs .\topic-radar.test.mjs .\arxiv-atom.test.mjs .\radar-core.test.mjs .\page-metadata.test.mjs .\api-config.test.mjs .\functions-api.test.mjs
-node --check .\functions\_middleware.js .\functions\api\semantic-scholar.js .\functions\api\arxiv.js .\api\semantic-scholar.js .\api\arxiv.js .\run-demo.mjs .\radar-core.mjs .\radar-core.browser.js .\radar-fetchers.browser.js .\app.js .\ai-api-config.mjs .\ai-api-config.browser.js
-rg -n "<mojibake-pattern>" . --glob "!logs/**"
+node --test .\web-sources.test.mjs .\arxiv-atom.test.mjs .\radar-core.test.mjs .\proxies.test.mjs
+node --check .\run-demo.mjs .\web-sources.mjs .\radar-core.mjs .\radar-core.browser.js .\radar-fetchers.browser.js .\app.js
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\run-daily-radar.ps1 -WhatIf
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\sync-cloudflare-pages.ps1 -WhatIf
 ```

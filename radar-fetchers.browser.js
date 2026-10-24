@@ -51,11 +51,19 @@
       const pushedAfterDate = new Date(Date.now() - GITHUB_PUSHED_WINDOW_DAYS * 24 * 60 * 60 * 1000)
         .toISOString()
         .slice(0, 10);
-      const batches = [];
-      for (const query of GITHUB_QUERIES) {
-        batches.push(await fetchGithubRepoQuery(query, pushedAfterDate));
+      const settled = await Promise.all(
+        GITHUB_QUERIES.map((query) =>
+          fetchGithubRepoQuery(query, pushedAfterDate)
+            .then((stories) => ({ query, stories }))
+            .catch((error) => ({ query, stories: [], error: error.message || String(error) })),
+        ),
+      );
+      const batches = settled.flatMap((item) => item.stories);
+      if (!batches.length && settled.some((item) => item.error)) {
+        const failed = settled.filter((item) => item.error).map((item) => `${item.query}: ${item.error}`).join("；");
+        throw new Error(failed ? `GitHub queries failed: ${failed}` : "no GitHub repositories fetched");
       }
-      const stories = batches.flat();
+      const stories = batches;
       if (!stories.length) throw new Error("no GitHub repositories fetched");
       return stories
         .filter(RadarCore.isAiRelatedStory)
@@ -74,17 +82,18 @@
     }
 
     async function fetchArxivPaperStories() {
-      const batches = [];
-      for (const query of PAPER_QUERIES) {
-        if (batches.length > 0) await sleep(ARXIV_REQUEST_DELAY_MS);
-        try {
-          batches.push(await fetchArxivPaperQuery(query));
-        } catch {
-          // Keep other paper queries alive when arXiv has a transient 503/429.
-        }
-      }
-      return batches
-        .flat()
+      const settled = await Promise.all(
+        PAPER_QUERIES.map((query, index) => {
+          const runner = index > 0
+            ? sleep(index * ARXIV_REQUEST_DELAY_MS).then(() => fetchArxivPaperQuery(query))
+            : fetchArxivPaperQuery(query);
+          return runner
+            .then((items) => ({ query, items }))
+            .catch((error) => ({ query, items: [], error: error.message || String(error) }));
+        }),
+      );
+      return settled
+        .flatMap((item) => item.items)
         .filter(RadarCore.isAiRelatedStory)
         .map(RadarCore.enrichAiStory);
     }
@@ -97,16 +106,15 @@
     }
 
     async function fetchSemanticScholarPaperStories() {
-      const batches = [];
-      for (const query of PAPER_QUERIES) {
-        try {
-          batches.push(await fetchSemanticScholarPaperQuery(query));
-        } catch {
-          // Public scholarly APIs can rate-limit individual queries; keep partial results.
-        }
-      }
-      return batches
-        .flat()
+      const settled = await Promise.all(
+        PAPER_QUERIES.map((query) =>
+          fetchSemanticScholarPaperQuery(query)
+            .then((items) => ({ query, items }))
+            .catch((error) => ({ query, items: [], error: error.message || String(error) })),
+        ),
+      );
+      return settled
+        .flatMap((item) => item.items)
         .filter(RadarCore.isAiRelatedStory)
         .map(RadarCore.enrichAiStory);
     }

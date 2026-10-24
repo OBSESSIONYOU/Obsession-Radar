@@ -1,6 +1,7 @@
 logs/
 .cloudflare-pages/
 node_modules/
+.wrangler/
 *.bak
 .DS_Store
 Thumbs.db

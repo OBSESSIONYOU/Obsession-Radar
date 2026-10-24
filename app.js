@@ -577,7 +577,8 @@
   function renderCandidateFilters(candidates) {
     if (!elements.candidateFilters) return;
     const sources = [...new Set(candidates.map((candidate) => candidate.source).filter(Boolean))];
-    const activeSources = state.candidateSourceFilter.filter((source) => sources.includes(source));
+    const activeSourceSet = new Set(state.candidateSourceFilter);
+    const activeSources = sources.filter((source) => activeSourceSet.has(source));
     elements.candidateFilters.innerHTML = `
       ${sources
         .map(
@@ -599,7 +600,8 @@
   function applyCandidateFilterAndSort(candidates) {
     let result = candidates;
     if (state.candidateSourceFilter.length) {
-      result = result.filter((candidate) => state.candidateSourceFilter.includes(candidate.source));
+      const sourceFilterSet = new Set(state.candidateSourceFilter);
+      result = result.filter((candidate) => sourceFilterSet.has(candidate.source));
     }
     if (state.candidateSort === "time") {
       result = [...result].sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
@@ -615,9 +617,13 @@
     const checkbox = event.target.closest("[data-candidate-source]");
     if (!checkbox) return;
     const source = checkbox.dataset.candidateSource;
-    state.candidateSourceFilter = checkbox.checked
-      ? [...state.candidateSourceFilter, source]
-      : state.candidateSourceFilter.filter((item) => item !== source);
+    const nextSet = new Set(state.candidateSourceFilter);
+    if (checkbox.checked) {
+      nextSet.add(source);
+    } else {
+      nextSet.delete(source);
+    }
+    state.candidateSourceFilter = [...nextSet];
     renderCandidates();
   }
 
