@@ -50,12 +50,14 @@ jobs:
         env:
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
         run: node run-demo.mjs
+      - name: Rebuild history archive
+        run: node scripts/build-history.mjs
 
       - name: Commit guarded update and open PR
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git add daily-radar.json daily-radar.md demo-data.js last-run.json last-run-data.js
+          git add daily-radar.json daily-radar.md demo-data.js last-run.json last-run-data.js history.json
           if git diff --cached --quiet; then
             echo "No data changes; skipping commit."
           else

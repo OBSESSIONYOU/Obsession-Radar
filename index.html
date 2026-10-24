@@ -337,6 +337,59 @@
         color: var(--spark);
       }
 
+      .history-controls {
+        margin: 8px 0 12px;
+      }
+
+      .history-controls select {
+        font: inherit;
+        padding: 6px 10px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--paper);
+        color: var(--ink);
+      }
+
+      .history-day .history-rec {
+        display: flex;
+        gap: 10px;
+        align-items: baseline;
+        padding: 6px 0;
+        border-bottom: 1px solid var(--soft-line);
+        font-size: 0.92rem;
+      }
+
+      .history-day .history-rec .rank {
+        color: var(--muted);
+        font-variant-numeric: tabular-nums;
+        min-width: 24px;
+      }
+
+      .history-day .history-rec a {
+        flex: 1;
+      }
+
+      .history-day .history-rec .score {
+        color: var(--muted);
+        font-variant-numeric: tabular-nums;
+      }
+
+      .history-mix {
+        display: flex;
+        gap: 6px;
+        flex-wrap: wrap;
+        margin: 10px 0 4px;
+      }
+
+      .history-mix .mix-pill {
+        border: 1px solid var(--soft-line);
+        border-radius: 999px;
+        background: var(--surface);
+        color: var(--muted);
+        padding: 3px 10px;
+        font-size: 0.8rem;
+      }
+
       .source-pill {
         display: inline-flex;
         align-items: center;
@@ -1033,6 +1086,18 @@
         </summary>
         <p class="topic-kicker">无 API 网页源每轮访问的诚实记录：成功、空结果与不可达都如实展示。</p>
         <div class="coverage-list" id="coverageList"></div>
+      </details>
+
+      <details class="panel coverage-panel" id="historyPanel" aria-labelledby="historyTitle">
+        <summary>
+          <h2 id="historyTitle">历史回看</h2>
+          <span class="status status-secondary" id="historySummary">最近 30 天每日榜单归档</span>
+        </summary>
+        <p class="topic-kicker">来自 git 历史里的每日数据提交（scripts/build-history.mjs 生成）。</p>
+        <div class="history-controls">
+          <select id="historyDateSelect" aria-label="选择历史日期"></select>
+        </div>
+        <div class="history-day" id="historyDay"></div>
       </details>
 
       <section class="panel topic-panel" aria-labelledby="topicSearchTitle">
