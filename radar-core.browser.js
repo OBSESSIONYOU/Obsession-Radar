@@ -649,9 +649,25 @@
       });
     }
     lines.push(...coverageLinesFor(radar));
+    lines.push(...momentumLinesFor(radar));
     return `${lines.join("\n")}\n`;
   }
 
+  function momentumLinesFor(radar) {
+    if (!Array.isArray(radar && radar.momentum) || !radar.momentum.length) return [];
+    const lines = ["", "## 主题动量（来源份额 7 日变化）", ""];
+    for (const item of radar.momentum) {
+      const trend = item.momentum === null
+        ? "新增来源"
+        : item.momentum > 0.02
+          ? "↑ +" + item.momentum
+          : item.momentum < -0.02
+            ? "↓ " + item.momentum
+            : "→ 持平";
+      lines.push("- " + item.source + "：" + item.count + " 席 · " + trend);
+    }
+    return lines;
+  }
   function coverageLinesFor(radar) {
     if (!Array.isArray(radar?.coverage) || !radar.coverage.length) return [];
     const lines = ["", "## 网页源覆盖", ""];

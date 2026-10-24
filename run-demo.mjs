@@ -2,7 +2,7 @@
 // Scholar, ranks with the same RadarCore rules as the browser, and writes
 // daily-radar.json, daily-radar.md and demo-data.js.
 // Run: node ./run-demo.mjs
-import { writeFileSync, existsSync, copyFileSync, renameSync, unlinkSync } from "node:fs";
+import { writeFileSync, existsSync, copyFileSync, renameSync, unlinkSync, readFileSync } from "node:fs";
 import RadarCore from "./radar-core.mjs";
 import { parseArxivAtom } from "./arxiv-atom.mjs";
 import { WEB_SOURCES, USER_AGENT } from "./web-sources.mjs";
@@ -421,6 +421,8 @@ function removeBackups() {
 
 function writeOutputs(radar, paperRadar, diagnostics = {}, coverage = []) {
   const generatedAt = new Date().toISOString();
+  const history = loadHistorySafely();
+  const momentum = buildMomentumSummary(radar, history);
   const payload = {
     generatedAt,
     totalFetched: radar.totalFetched,
@@ -429,6 +431,7 @@ function writeOutputs(radar, paperRadar, diagnostics = {}, coverage = []) {
     recommendations: radar.recommendations,
     paperRadar,
     coverage,
+    momentum,
     diagnostics,
   };
   writeFileSync(OUTPUT_JSON, JSON.stringify(payload, null, 2) + "\n", "utf8");
@@ -457,6 +460,54 @@ function validateOutputs(payload) {
     throw new Error("paper radar is empty");
   }
   return { mainCandidates, mainRecommendations, paperCandidates };
+}
+
+// Loads history.json (built by scripts/build-history.mjs) when present and
+// computes 7-day share momentum per source for the markdown momentum section.
+function loadHistorySafely() {
+  try {
+    if (!existsSync("history.json")) return null;
+    return JSON.parse(readFileSync("history.json", "utf8"));
+  } catch {
+    return null;
+  }
+}
+
+function sourceMomentumMap(history) {
+  const days = history?.days || [];
+  if (days.length < 2) return new Map();
+  const share = (day, source) => {
+    const mix = day.sourceMix || {};
+    const total = Object.values(mix).reduce((sum, n) => sum + n, 0) || 1;
+    return (mix[source] || 0) / total;
+  };
+  const latest = days[days.length - 1];
+  const earlier = days.slice(Math.max(0, days.length - 8), days.length - 1);
+  const sources = new Set(Object.keys(latest.sourceMix || {}));
+  const momentum = new Map();
+  for (const source of sources) {
+    const before = earlier.length
+      ? earlier.reduce((sum, d) => sum + share(d, source), 0) / earlier.length
+      : 0;
+    momentum.set(source, share(latest, source) - before);
+  }
+  return momentum;
+}
+
+function buildMomentumSummary(radar, history) {
+  const counts = new Map();
+  for (const story of [...(radar.candidates || []), ...(radar.paperRadar?.candidates || [])]) {
+    const source = story.source || "unknown";
+    counts.set(source, (counts.get(source) || 0) + 1);
+  }
+  const momentum = sourceMomentumMap(history);
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(([source, count]) => ({
+      source,
+      count,
+      momentum: momentum.has(source) ? Number(momentum.get(source).toFixed(3)) : null,
+    }));
 }
 
 function paperRadarMissingPapers(payload) {

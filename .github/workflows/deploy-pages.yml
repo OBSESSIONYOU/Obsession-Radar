@@ -1,0 +1,45 @@
+name: Deploy Pages
+
+# Deploys the site after changes land on main (daily data commits included).
+# Requires repo secret CLOUDFLARE_API_TOKEN (Cloudflare Pages: Edit permission).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Sync publish directory
+        run: |
+          mkdir -p .cloudflare-pages
+          for f in index.html radar-core.browser.js radar-fetchers.browser.js \
+            paper-library.browser.js topic-radar-store.browser.js ai-api-config.browser.js \
+            library-profile.browser.js radar-chart.browser.js web-sources.browser.js \
+            app.js demo-data.js last-run-data.js daily-radar.json daily-radar.md history.json README.md; do
+            if [ -f "$f" ]; then cp "$f" ".cloudflare-pages/$f"; else echo "missing: $f"; fi
+          done
+          rm -rf .cloudflare-pages/functions
+          cp -r functions .cloudflare-pages/functions
+
+      - name: Deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: npx wrangler pages deploy ./.cloudflare-pages --project-name=obsession-radar
