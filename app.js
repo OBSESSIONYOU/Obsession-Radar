@@ -71,6 +71,8 @@
     historyDateSelect: document.querySelector("#historyDateSelect"),
     historyDay: document.querySelector("#historyDay"),
     historySummary: document.querySelector("#historySummary"),
+    momentumChart: document.querySelector("#momentumChart"),
+    momentumSummary: document.querySelector("#momentumSummary"),
     topicForm: document.querySelector("#topicForm"),
     topicInput: document.querySelector("#topicInput"),
     topicSourceHn: document.querySelector("#topicSourceHn"),
@@ -460,6 +462,7 @@
     renderStats();
     renderSourceHealth();
     renderCoverage();
+    renderMomentum();
     renderTopicSearch();
     renderRecommendations();
     renderTopicRadar();
@@ -524,6 +527,7 @@
       if (!response.ok) return;
       state.history = await response.json();
       renderHistoryNav();
+      renderMomentum();
     } catch {
       // history.json is optional; the panel simply stays empty.
     }
@@ -563,6 +567,28 @@
       <div class="history-mix">${mix || "<span class='status status-secondary'>无来源构成记录</span>"}</div>
       ${recs || "<p class='status status-secondary'>该日没有推荐记录。</p>"}
     `;
+  }
+
+  // Momentum quadrant chart: today's topics sized by board presence,
+  // colored by 7-day source-share change from the history archive.
+  function renderMomentum() {
+    if (!elements.momentumChart) return;
+    const Chart = window.ObsessionRadarChart;
+    if (!Chart) return;
+    const blips = Chart.topicBlipsFromRadar(state.radar);
+    if (!blips.length) {
+      elements.momentumChart.innerHTML = "";
+      if (elements.momentumSummary) elements.momentumSummary.textContent = "暂无主题数据";
+      return;
+    }
+    const rising = blips.filter((b) => Chart.sourceMomentum(state.history, b.dominantSource) > 0.02).length;
+    if (elements.momentumSummary) {
+      elements.momentumSummary.textContent = `${blips.length} 个主题 · ${rising} 个所在来源份额上升`;
+    }
+    elements.momentumChart.innerHTML = Chart.renderRadarChartSvg({
+      blips,
+      history: state.history,
+    });
   }
 
   function renderCoverage() {

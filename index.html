@@ -337,6 +337,15 @@
         color: var(--spark);
       }
 
+      .momentum-chart svg {
+        max-width: 560px;
+        margin: 0 auto;
+        display: block;
+        background: var(--paper);
+        border: 1px solid var(--soft-line);
+        border-radius: 12px;
+      }
+
       .history-controls {
         margin: 8px 0 12px;
       }
@@ -1088,6 +1097,15 @@
         <div class="coverage-list" id="coverageList"></div>
       </details>
 
+      <details class="panel coverage-panel" id="momentumPanel" open aria-labelledby="momentumTitle">
+        <summary>
+          <h2 id="momentumTitle">主题动量雷达图</h2>
+          <span class="status status-secondary" id="momentumSummary"></span>
+        </summary>
+        <p class="topic-kicker">四象限 = 主题域；圆大小 = 今日榜单位置数；颜色 = 该主题主要来源的 7 日份额变化（绿=上升，红=下降，蓝=持平/新增）。</p>
+        <div class="momentum-chart" id="momentumChart"></div>
+      </details>
+
       <details class="panel coverage-panel" id="historyPanel" aria-labelledby="historyTitle">
         <summary>
           <h2 id="historyTitle">历史回看</h2>
@@ -1174,6 +1192,7 @@
     <script src="./topic-radar-store.browser.js"></script>
     <script src="./ai-api-config.browser.js"></script>
     <script src="./library-profile.browser.js"></script>
+    <script src="./radar-chart.browser.js"></script>
     <script src="./web-sources.browser.js"></script>
     <script src="./radar-fetchers.browser.js"></script>
     <script src="./demo-data.js"></script>
