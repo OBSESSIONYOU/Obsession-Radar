@@ -273,6 +273,70 @@
         margin: 0 0 14px;
       }
 
+      .coverage-panel {
+        margin: 0 0 14px;
+      }
+
+      .coverage-panel summary {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        cursor: pointer;
+        list-style: none;
+      }
+
+      .coverage-panel summary::-webkit-details-marker {
+        display: none;
+      }
+
+      .coverage-panel summary h2 {
+        margin: 0;
+        font-size: 1.1rem;
+      }
+
+      .coverage-list {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        margin-top: 10px;
+      }
+
+      .coverage-row {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+        flex-wrap: wrap;
+        border: 1px solid var(--soft-line);
+        border-radius: 8px;
+        background: var(--surface);
+        padding: 8px 12px;
+        font-size: 0.9rem;
+      }
+
+      .coverage-row .coverage-name {
+        font-weight: 750;
+        min-width: 130px;
+      }
+
+      .coverage-row .coverage-status {
+        color: var(--muted);
+        flex: 1;
+      }
+
+      .coverage-row .coverage-found {
+        font-variant-numeric: tabular-nums;
+        font-weight: 700;
+      }
+
+      .coverage-row.is-ok .coverage-found {
+        color: var(--ok);
+      }
+
+      .coverage-row.is-empty .coverage-found,
+      .coverage-row.is-unreachable .coverage-found {
+        color: var(--spark);
+      }
+
       .source-pill {
         display: inline-flex;
         align-items: center;
@@ -962,6 +1026,15 @@
       <section class="stats" id="stats" aria-label="运行统计"></section>
       <section class="source-health" id="sourceHealth" aria-label="来源健康状态"></section>
 
+      <details class="panel coverage-panel" id="coveragePanel" aria-labelledby="coverageTitle">
+        <summary>
+          <h2 id="coverageTitle">网页源覆盖</h2>
+          <span class="status status-secondary" id="coverageSummary"></span>
+        </summary>
+        <p class="topic-kicker">无 API 网页源每轮访问的诚实记录：成功、空结果与不可达都如实展示。</p>
+        <div class="coverage-list" id="coverageList"></div>
+      </details>
+
       <section class="panel topic-panel" aria-labelledby="topicSearchTitle">
         <div class="topic-header">
           <div>
@@ -1035,6 +1108,7 @@
     <script src="./paper-library.browser.js"></script>
     <script src="./topic-radar-store.browser.js"></script>
     <script src="./ai-api-config.browser.js"></script>
+    <script src="./web-sources.browser.js"></script>
     <script src="./radar-fetchers.browser.js"></script>
     <script src="./demo-data.js"></script>
     <script src="./last-run-data.js"></script>

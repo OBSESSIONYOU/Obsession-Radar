@@ -14,6 +14,7 @@ $staticFiles = @(
   "paper-library.browser.js",
   "topic-radar-store.browser.js",
   "ai-api-config.browser.js",
+  "web-sources.browser.js",
   "app.js",
   "demo-data.js",
   "last-run-data.js",

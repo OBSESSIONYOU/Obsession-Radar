@@ -348,11 +348,69 @@
     }
 
     function isPaperStory(story) {
-      return story.source === "arXiv" || story.source === "Semantic Scholar";
+      return (
+        story.source === "arXiv" ||
+        story.source === "Semantic Scholar" ||
+        story.source === "HF Papers" ||
+        story.source === "papers.cool"
+      );
     }
 
     function sleep(ms) {
       return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+
+    // No-API web sources (GitHub Trending / HN front / HF papers / RSS / papers.cool).
+    // Parsers come from web-sources.browser.js (generated from web-sources.mjs).
+    async function fetchWebSourceStories() {
+      const web = global.ObsessionWebSources;
+      if (!web || !Array.isArray(web.WEB_SOURCES)) {
+        return { stories: [], coverage: [], error: "web sources bundle not loaded" };
+      }
+      const adapterFor = (name) => {
+        if (name === "GitHub Trending") return RadarCore.githubTrendingToStory;
+        if (name === "HN Front Page") return RadarCore.hnFrontToStory;
+        if (name === "HF Daily Papers") return RadarCore.hfPaperToStory;
+        if (name === "papers.cool") return RadarCore.papersCoolToStory;
+        if (name === "QbitAI") return (entry) => RadarCore.rssNewsToStory(entry, "QbitAI");
+        if (name === "Solidot") return (entry) => RadarCore.rssNewsToStory(entry, "Solidot");
+        return (entry) => RadarCore.rssNewsToStory(entry, name);
+      };
+      const coverage = [];
+      const stories = [];
+      let lastError = "";
+      for (const [index, source] of web.WEB_SOURCES.entries()) {
+        if (index > 0) await sleep(1500);
+        const observedAt = new Date().toISOString();
+        try {
+          const response = await fetch(source.url, {
+            headers: { "User-Agent": web.USER_AGENT },
+          });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const entries = source.parse(await response.text());
+          const adapter = adapterFor(source.name);
+          stories.push(...entries.map(adapter));
+          coverage.push({
+            name: source.name,
+            url: source.url,
+            status: entries.length ? `ok (${entries.length} parsed)` : "ok (empty result)",
+            found: entries.length,
+            observedAt,
+          });
+        } catch (error) {
+          lastError = `${source.name}: ${error.message || error}`;
+          coverage.push({
+            name: source.name,
+            url: source.url,
+            status: `unreachable: ${error.message || error}`,
+            found: 0,
+            observedAt,
+          });
+        }
+      }
+      return lastError && !stories.length
+        ? { stories, coverage, error: lastError }
+        : { stories, coverage };
     }
 
     return {
@@ -360,6 +418,7 @@
       fetchGithubRepoStories,
       fetchArxivPaperStories,
       fetchSemanticScholarPaperStories,
+      fetchWebSourceStories,
       fetchTopicStories,
       sourceJob,
       isPaperStory,

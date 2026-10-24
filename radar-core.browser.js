@@ -628,7 +628,17 @@
         );
       });
     }
+    lines.push(...coverageLinesFor(radar));
     return `${lines.join("\n")}\n`;
+  }
+
+  function coverageLinesFor(radar) {
+    if (!Array.isArray(radar?.coverage) || !radar.coverage.length) return [];
+    const lines = ["", "## 网页源覆盖", ""];
+    for (const item of radar.coverage) {
+      lines.push(`- ${item.name}: ${item.status}（${Number(item.found || 0)} 条）`);
+    }
+    return lines;
   }
 
   function sourceLinkLineFor(story) {

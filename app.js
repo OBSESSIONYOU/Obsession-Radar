@@ -65,6 +65,8 @@
     exportBibtexButton: document.querySelector("#exportBibtexButton"),
     stats: document.querySelector("#stats"),
     sourceHealth: document.querySelector("#sourceHealth"),
+    coverageList: document.querySelector("#coverageList"),
+    coverageSummary: document.querySelector("#coverageSummary"),
     topicForm: document.querySelector("#topicForm"),
     topicInput: document.querySelector("#topicInput"),
     topicSourceHn: document.querySelector("#topicSourceHn"),
@@ -190,7 +192,7 @@
 
   async function refreshDefaultRadar() {
     const previousPaperRadar = state.radar?.paperRadar || window.RadarCore.buildPaperRadar([]);
-    const [hnResult, githubResult, arxivResult, semanticScholarResult] = await Promise.all([
+    const [hnResult, githubResult, arxivResult, semanticScholarResult, webResult] = await Promise.all([
       fetchers.sourceJob("HN", fetchers.fetchHnStories()),
       fetchers.fetchGithubRepoStories()
         .then((stories) => ({ stories, error: "" }))
@@ -201,6 +203,9 @@
       fetchers.fetchSemanticScholarPaperStories()
         .then((stories) => ({ stories, error: "" }))
         .catch((error) => ({ source: "Semantic Scholar", stories: [], error: error.message || String(error) })),
+      fetchers.fetchWebSourceStories()
+        .then((result) => ({ ...result, source: "Web" }))
+        .catch((error) => ({ source: "Web", stories: [], coverage: [], error: error.message || String(error) })),
     ]);
     hnResult.source = "HN";
     githubResult.source = "GitHub";
@@ -208,14 +213,16 @@
     semanticScholarResult.source = "Semantic Scholar";
     const sourceResults = [hnResult, githubResult, arxivResult, semanticScholarResult];
     state.sourceHealth = sourceHealthFromResults(sourceResults);
-    const paperStories = [...arxivResult.stories, ...semanticScholarResult.stories];
-    const paperRadar = arxivResult.error && semanticScholarResult.error
+    const webPaperStories = (webResult.stories || []).filter(fetchers.isPaperStory);
+    const paperStories = [...arxivResult.stories, ...semanticScholarResult.stories, ...webPaperStories];
+    const paperRadar = arxivResult.error && semanticScholarResult.error && !webPaperStories.length
       ? previousPaperRadar
       : window.RadarCore.buildPaperRadar(paperStories.map(window.RadarCore.enrichPaperStory));
     state.paperStatus = paperStatusFromResults([arxivResult, semanticScholarResult], paperRadar === previousPaperRadar);
-    const mainStories = [...hnResult.stories, ...githubResult.stories];
+    const webMainStories = (webResult.stories || []).filter((story) => !fetchers.isPaperStory(story));
+    const mainStories = [...hnResult.stories, ...githubResult.stories, ...webMainStories];
     if (!mainStories.length && !paperStories.length) {
-      throw new Error("四个来源暂时都失败，已保留上次日报，可稍后再试。");
+      throw new Error("所有来源暂时都失败，已保留上次日报，可稍后再试。");
     }
     // Keep the main board alive from whichever sources succeeded; paper
     // stories join the candidate pool under the shared source quota.
@@ -224,6 +231,7 @@
         sourceQuota: window.RadarCore.DEFAULT_SOURCE_QUOTA,
       }),
       paperRadar,
+      coverage: webResult.coverage || [],
     };
     state.radar = await enhanceRadarIfEnabled(radar);
     state.source = sourceLabelFor(hnResult.error, githubResult.error, arxivResult.error, semanticScholarResult.error);
@@ -418,6 +426,7 @@
     renderLastRunStatus();
     renderStats();
     renderSourceHealth();
+    renderCoverage();
     renderTopicSearch();
     renderRecommendations();
     renderTopicRadar();
@@ -470,6 +479,35 @@
             ? "is-warn"
             : "is-idle";
         return `<span class="source-pill ${className}" title="${escapeAttr(item.detail)}">${escapeHtml(item.label)} · ${escapeHtml(item.text)}</span>`;
+      })
+      .join("");
+  }
+
+  function renderCoverage() {
+    if (!elements.coverageList || !elements.coverageSummary) return;
+    const coverage = Array.isArray(state.radar?.coverage) ? state.radar.coverage : [];
+    if (!coverage.length) {
+      elements.coverageSummary.textContent = "";
+      elements.coverageList.innerHTML = "<p class='status status-secondary'>本轮没有网页源记录（可能是旧数据文件）。</p>";
+      return;
+    }
+    const okCount = coverage.filter((item) => String(item.status || "").startsWith("ok") && item.found > 0).length;
+    elements.coverageSummary.textContent = `${okCount}/${coverage.length} 个源有产出`;
+    elements.coverageList.innerHTML = coverage
+      .map((item) => {
+        const status = String(item.status || "unknown");
+        const stateClass = status.startsWith("ok") && item.found > 0
+          ? "is-ok"
+          : status.startsWith("ok")
+            ? "is-empty"
+            : "is-unreachable";
+        const observed = item.observedAt ? new Date(item.observedAt).toLocaleTimeString() : "";
+        return `
+          <div class="coverage-row ${stateClass}">
+            <span class="coverage-name">${escapeHtml(item.name || "unknown")}</span>
+            <span class="coverage-status">${escapeHtml(status)}${observed ? ` · ${escapeHtml(observed)}` : ""}</span>
+            <span class="coverage-found">${Number(item.found || 0)} 条</span>
+          </div>`;
       })
       .join("");
   }
