@@ -136,6 +136,7 @@
     elements.topicInput.value = state.topicPreview.topic;
     setTopicSourceControls(state.topicPreview.sources);
   }
+  syncPersonalRelevance();
   loadLastRunStatus();
   render();
 
@@ -276,9 +277,31 @@
         : "";
       return radar;
     }
-    const result = await aiApiConfigApi.enhanceRadarWithAiResult(radar, state.aiApiConfig);
+    const result = await aiApiConfigApi.enhanceRadarWithAiResult(radar, state.aiApiConfig, {
+      readerContext: buildReaderContext(radar),
+    });
     state.apiStatus = result.message || (result.ok ? "AI 增强已应用" : "AI 增强失败，已使用规则摘要");
     return result.radar;
+  }
+
+  // Build the AI reader context: top interest terms from the TF-IDF profile
+  // plus related library papers for each paper recommendation.
+  function buildReaderContext(radar) {
+    const Profile = window.ObsessionLibraryProfile;
+    if (!Profile || !libraryProfile || !libraryProfile.documents) return undefined;
+    const interestTerms = Profile.profileSummary(libraryProfile, 15).map((entry) => entry.term);
+    const relatedByTitle = {};
+    for (const paper of radar?.paperRadar?.recommendations || []) {
+      const related = Profile.relatedLibraryPapers(paper, state.paperLibrary, 2);
+      if (related.length) {
+        relatedByTitle[paper.title] = related.map((entry) =>
+          entry.queued
+            ? `${entry.title}（精读队列，笔记：${entry.note || "无"}）`
+            : `${entry.title}`,
+        );
+      }
+    }
+    return { interestTerms, relatedByTitle };
   }
 
   async function handleTopicSubmit(event) {
@@ -933,6 +956,26 @@
 
   function persistPaperLibrary() {
     paperLibraryApi.savePaperLibrary(state.paperLibrary);
+    syncPersonalRelevance();
+  }
+
+  // Personal relevance: rebuild the TF-IDF interest profile whenever the
+  // library changes and re-arm RadarCore's scoring hook.
+  let libraryProfile = null;
+  let libraryProfileNorm = 1;
+
+  function syncPersonalRelevance() {
+    const Profile = window.ObsessionLibraryProfile;
+    if (!Profile || !window.RadarCore?.setPersonalRelevanceFn) return;
+    libraryProfile = Profile.buildLibraryProfile(state.paperLibrary);
+    libraryProfileNorm = Profile.profileVectorNorm(libraryProfile);
+    if (libraryProfile.documents === 0) {
+      window.RadarCore.setPersonalRelevanceFn(null);
+      return;
+    }
+    window.RadarCore.setPersonalRelevanceFn((paper) =>
+      Profile.relevanceToProfile(paper, libraryProfile, libraryProfileNorm),
+    );
   }
 
   function focusNoteFor(paperId) {

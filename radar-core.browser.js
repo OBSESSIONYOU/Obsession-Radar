@@ -524,6 +524,14 @@
     };
   }
 
+  // Personal-relevance hook: set from the outside (e.g. browser attaches the
+  // library TF-IDF profile). Must return 0..1; scaled inside scorePaper.
+  let personalRelevanceFn = null;
+
+  function setPersonalRelevanceFn(fn) {
+    personalRelevanceFn = typeof fn === "function" ? fn : null;
+  }
+
   function scorePaper(story, now = new Date()) {
     const publishedAt = new Date(story.createdAt || story.updatedAt || now);
     const ageDays = Math.max(0, (now.getTime() - publishedAt.getTime()) / DAY_MS);
@@ -534,6 +542,14 @@
     const citationSignal = Math.log10((story.citations ?? story.points ?? 0) + 1) * 10;
     const influentialSignal = Math.log10((story.influentialCitations ?? story.comments ?? 0) + 1) * 14;
     const pdfSignal = story.pdfUrl ? 6 : 0;
+    let relevance = 0;
+    if (personalRelevanceFn) {
+      try {
+        relevance = Math.max(0, Math.min(1, Number(personalRelevanceFn(story)) || 0));
+      } catch {
+        relevance = 0;
+      }
+    }
 
     return Math.round(
       freshness * 8 +
@@ -542,7 +558,11 @@
         Math.min(abstractLength / 120, 12) +
         citationSignal +
         influentialSignal +
-        pdfSignal,
+        pdfSignal +
+        // Personal match can outweigh log-scaled citation signals so a strong
+        // interest match (queued topic, cosine ~0.6-0.7) can outrank a famous
+        // off-topic paper; moderate matches stay below mega-citation pulls.
+        relevance * 85,
     );
   }
 
@@ -1162,6 +1182,7 @@
     arxivPaperToStory,
     semanticScholarPaperToStory,
     enrichPaperStory,
+    setPersonalRelevanceFn,
     extractMethodHint,
     extractDatasetHint,
     readingAdviceFor,
