@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:12:03.162Z",
+  "generatedAt": "2026-10-25T05:09:10.905Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
@@ -2358,44 +2358,44 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T13:09:18.374Z",
-      "totalFetched": 513,
-      "uniqueCount": 437,
+      "generatedAt": "2026-10-24T14:11:33.439Z",
+      "totalFetched": 511,
+      "uniqueCount": 436,
       "recommendations": [
         {
           "title": "Today, we hacked what we'd set out to hack: the iPhone",
           "url": "https://blog.calif.io/p/iphone",
           "source": "Hacker News",
-          "score": 2558,
-          "points": 938
+          "score": 2608,
+          "points": 964
         },
         {
           "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
           "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
           "source": "Hacker News",
-          "score": 2513,
-          "points": 957
+          "score": 2553,
+          "points": 977
         },
         {
           "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
           "url": "https://edjefferson.com/localwiki/",
           "source": "Hacker News",
-          "score": 2216,
-          "points": 1420
+          "score": 2239,
+          "points": 1438
         },
         {
           "title": "Apple Music 404 Not Found",
           "url": "https://music.apple.com/this-url-doesnt-exist",
           "source": "Hacker News",
-          "score": 1529,
-          "points": 810
+          "score": 1549,
+          "points": 821
         },
         {
           "title": "Canadians are running out of time to oppose Bill C-22",
           "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
           "source": "Hacker News",
-          "score": 1071,
-          "points": 437
+          "score": 1104,
+          "points": 453
         }
       ],
       "paperRecommendations": [
@@ -2403,7 +2403,7 @@
           "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
           "url": "https://arxiv.org/abs/2610.31657v1",
           "source": "arXiv",
-          "score": 220
+          "score": 219
         },
         {
           "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
@@ -2415,17 +2415,17 @@
           "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
           "url": "https://arxiv.org/abs/2610.31586v1",
           "source": "arXiv",
-          "score": 218
-        },
-        {
-          "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-          "url": "https://arxiv.org/abs/2610.31624v1",
-          "source": "arXiv",
-          "score": 212
+          "score": 217
         },
         {
           "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
           "url": "https://arxiv.org/abs/2610.31670v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.31656v1",
           "source": "arXiv",
           "score": 211
         }

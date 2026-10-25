@@ -1,154 +1,171 @@
 window.AGENTS_RADAR_LITE = {
-  "generatedAt": "2026-10-24T14:11:33.439Z",
-  "totalFetched": 511,
-  "uniqueCount": 436,
+  "generatedAt": "2026-10-25T05:09:10.691Z",
+  "totalFetched": 505,
+  "uniqueCount": 425,
   "candidates": [
-    {
-      "id": "frontpage:hn:50211474",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "hnUrl": "https://news.ycombinator.com/item?id=50211474",
-      "source": "Hacker News",
-      "points": 964,
-      "comments": 619,
-      "createdAt": "2026-10-23T16:21:50",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2608,
-      "intro": "这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50212065",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "hnUrl": "https://news.ycombinator.com/item?id=50212065",
-      "source": "Hacker News",
-      "points": 977,
-      "comments": 584,
-      "createdAt": "2026-10-23T16:59:08",
-      "matchedQueries": [
-        "front page",
-        "AI"
-      ],
-      "score": 2553,
-      "intro": "这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
     {
       "id": "frontpage:hn:50202285",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "hnUrl": "https://news.ycombinator.com/item?id=50202285",
       "source": "Hacker News",
-      "points": 1438,
-      "comments": 238,
+      "points": 1561,
+      "comments": 245,
       "createdAt": "2026-10-22T23:01:18",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2239,
+      "score": 2397,
       "intro": "这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50207910",
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "hnUrl": "https://news.ycombinator.com/item?id=50207910",
+      "id": "frontpage:hn:50224916",
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50224916",
       "source": "Hacker News",
-      "points": 821,
-      "comments": 246,
-      "createdAt": "2026-10-23T12:28:47",
+      "points": 442,
+      "comments": 264,
+      "createdAt": "2026-10-24T20:30:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1549,
-      "intro": "这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1184,
+      "intro": "这篇来自 stealmybitcoin.com 的帖子主要介绍了：Steal My Bitcoin相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50202114",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "hnUrl": "https://news.ycombinator.com/item?id=50202114",
+      "id": "frontpage:hn:50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hnUrl": "https://news.ycombinator.com/item?id=50226419",
       "source": "Hacker News",
-      "points": 453,
-      "comments": 237,
-      "createdAt": "2026-10-22T22:43:19",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1104,
-      "intro": "这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50213925",
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "hnUrl": "https://news.ycombinator.com/item?id=50213925",
-      "source": "Hacker News",
-      "points": 423,
-      "comments": 159,
-      "createdAt": "2026-10-23T19:09:54",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 882,
-      "intro": "这篇来自 block.xyz 的帖子主要介绍了：Dessa: Conversation Model trained only on speech相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "50218633",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50218633",
-      "source": "Hacker News",
-      "points": 318,
-      "comments": 90,
-      "author": "testing22321",
-      "createdAt": "2026-10-24T05:49:57Z",
-      "storyText": "",
-      "matchedQueries": [
-        "OpenAI",
-        "AI"
-      ],
-      "score": 638,
-      "intro": "这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50218633",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50218633",
-      "source": "Hacker News",
-      "points": 318,
-      "comments": 90,
-      "createdAt": "2026-10-24T05:49:57",
+      "points": 260,
+      "comments": 267,
+      "createdAt": "2026-10-24T23:11:54",
       "matchedQueries": [
         "front page",
-        "AI",
-        "OpenAI"
+        "AI"
       ],
-      "score": 637,
-      "intro": "这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦front page、人工智能、OpenAI相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
+      "score": 1000,
+      "intro": "这篇来自 apricitas.io 的帖子主要介绍了：America has lost 200k of jobs in media, film and the arts. How much is AI?相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50225695",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50225695",
+      "source": "Hacker News",
+      "points": 280,
+      "comments": 242,
+      "createdAt": "2026-10-24T21:47:31",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 947,
+      "intro": "这篇来自 danluu.com 的帖子主要介绍了：We should be more ambitious with the software we build相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50219666",
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50219666",
+      "source": "Hacker News",
+      "points": 291,
+      "comments": 235,
+      "createdAt": "2026-10-24T09:53:26",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 921,
+      "intro": "这篇来自 southampton.ac.uk 的帖子主要介绍了：I don't understand quantum physics (2018)相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50224100",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50224100",
+      "source": "Hacker News",
+      "points": 306,
+      "comments": 190,
+      "createdAt": "2026-10-24T19:06:55",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 847,
+      "intro": "这篇来自 aardappel.github.io 的帖子主要介绍了：The Goose Programming Language相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50222622",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "hnUrl": "https://news.ycombinator.com/item?id=50222622",
+      "source": "Hacker News",
+      "points": 274,
+      "comments": 188,
+      "createdAt": "2026-10-24T16:06:26",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 800,
+      "intro": "这篇来自 blog.roku.com 的帖子主要介绍了：Roku developer repositories moved from GitHub to GitLab相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50219177",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "hnUrl": "https://news.ycombinator.com/item?id=50219177",
+      "source": "Hacker News",
+      "points": 294,
+      "comments": 140,
+      "createdAt": "2026-10-24T08:06:39",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 693,
+      "intro": "这篇来自 aikido.dev 的帖子主要介绍了：Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "trending:github.com/cloudflare/security-audit-skill",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "points": 45006,
+      "comments": 2793,
+      "stars": 45006,
+      "forks": 2793,
+      "starsToday": 2264,
+      "language": "JavaScript",
+      "createdAt": "2026-10-25T05:08:54.212Z",
+      "pageDescription": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI agent"
+      ],
+      "score": 598,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：cloudflare/security-audit-skill相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
       "id": "trending:github.com/luongnv89/claude-howto",
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "source": "GitHub Trending",
-      "points": 44221,
-      "comments": 5473,
-      "stars": 44221,
-      "forks": 5473,
-      "starsToday": 1053,
+      "points": 44679,
+      "comments": 5498,
+      "stars": 44679,
+      "forks": 5498,
+      "starsToday": 392,
       "language": "Python",
-      "createdAt": "2026-10-24T14:11:12.021Z",
+      "createdAt": "2026-10-25T05:08:54.212Z",
       "pageDescription": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "githubTopics": [],
       "matchedQueries": [
@@ -157,30 +174,8 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Claude"
       ],
-      "score": 613,
+      "score": 588,
       "intro": "这篇来自 github.com 的帖子主要介绍了：luongnv89/claude-howto相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/cloudflare/security-audit-skill",
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "points": 43242,
-      "comments": 2699,
-      "stars": 43242,
-      "forks": 2699,
-      "starsToday": 2271,
-      "language": "JavaScript",
-      "createdAt": "2026-10-24T14:11:12.020Z",
-      "pageDescription": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "AI agent"
-      ],
-      "score": 597,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：cloudflare/security-audit-skill相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -188,20 +183,20 @@ window.AGENTS_RADAR_LITE = {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
-      "points": 85951,
-      "comments": 5140,
-      "stars": 85951,
-      "forks": 5140,
-      "starsToday": 541,
+      "points": 86581,
+      "comments": 5168,
+      "stars": 86581,
+      "forks": 5168,
+      "starsToday": 619,
       "language": "Rust",
-      "createdAt": "2026-10-24T14:11:12.021Z",
+      "createdAt": "2026-10-25T05:08:54.212Z",
       "pageDescription": "The design language that makes your AI harness better at design.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI"
       ],
-      "score": 580,
+      "score": 584,
       "intro": "这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，聚焦trending、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -210,13 +205,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending",
-      "points": 31616,
-      "comments": 1631,
-      "stars": 31616,
-      "forks": 1631,
-      "starsToday": 567,
+      "points": 32370,
+      "comments": 1662,
+      "stars": 32370,
+      "forks": 1662,
+      "starsToday": 455,
       "language": "CSS",
-      "createdAt": "2026-10-24T14:11:12.020Z",
+      "createdAt": "2026-10-25T05:08:54.212Z",
       "pageDescription": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "githubTopics": [],
       "matchedQueries": [
@@ -226,7 +221,7 @@ window.AGENTS_RADAR_LITE = {
         "Claude",
         "Codex"
       ],
-      "score": 577,
+      "score": 572,
       "intro": "这篇来自 github.com 的帖子主要介绍了：Nutlope/hallmark相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -235,13 +230,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "source": "GitHub Trending",
-      "points": 19185,
-      "comments": 1911,
-      "stars": 19185,
-      "forks": 1911,
-      "starsToday": 893,
+      "points": 19582,
+      "comments": 1939,
+      "stars": 19582,
+      "forks": 1939,
+      "starsToday": 896,
       "language": "Rust",
-      "createdAt": "2026-10-24T14:11:12.020Z",
+      "createdAt": "2026-10-25T05:08:54.212Z",
       "pageDescription": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "githubTopics": [],
       "matchedQueries": [
@@ -249,7 +244,7 @@ window.AGENTS_RADAR_LITE = {
         "AI",
         "AI agent"
       ],
-      "score": 567,
+      "score": 568,
       "intro": "这篇来自 github.com 的帖子主要介绍了：NVIDIA/OpenShell相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -258,13 +253,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
       "source": "GitHub Trending",
-      "points": 107679,
-      "comments": 14787,
-      "stars": 107679,
-      "forks": 14787,
-      "starsToday": 38,
+      "points": 108181,
+      "comments": 14817,
+      "stars": 108181,
+      "forks": 14817,
+      "starsToday": 44,
       "language": "TypeScript",
-      "createdAt": "2026-10-24T14:11:12.021Z",
+      "createdAt": "2026-10-25T05:08:54.212Z",
       "pageDescription": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "githubTopics": [],
       "matchedQueries": [
@@ -273,7 +268,7 @@ window.AGENTS_RADAR_LITE = {
         "AI agent",
         "Gemini"
       ],
-      "score": 555,
+      "score": 559,
       "intro": "这篇来自 github.com 的帖子主要介绍了：google-gemini/gemini-cli相关内容，聚焦trending、人工智能、AI Agent、Gemini相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -282,12 +277,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 376292,
-      "comments": 1223,
-      "stars": 376292,
-      "forks": 94053,
-      "openIssues": 1223,
-      "createdAt": "2026-10-24T14:10:57Z",
+      "points": 379605,
+      "comments": 1040,
+      "stars": 379605,
+      "forks": 94881,
+      "openIssues": 1040,
+      "createdAt": "2026-10-25T04:47:52Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -349,12 +344,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 256700,
-      "comments": 50806,
-      "stars": 256700,
-      "forks": 56134,
-      "openIssues": 50806,
-      "createdAt": "2026-10-24T14:10:41Z",
+      "points": 256858,
+      "comments": 50887,
+      "stars": 256858,
+      "forks": 56202,
+      "openIssues": 50887,
+      "createdAt": "2026-10-25T05:07:08Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -398,16 +393,64 @@ window.AGENTS_RADAR_LITE = {
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
+      "id": "github:Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "points": 187729,
+      "comments": 730,
+      "stars": 187729,
+      "forks": 45896,
+      "openIssues": 730,
+      "createdAt": "2026-10-25T05:04:44Z",
+      "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "githubTopics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "matchedQueries": [
+        "artificial-intelligence",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python",
+        "AI",
+        "LLM",
+        "AI agent",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 483,
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
       "id": "github:n8n-io/n8n",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 208481,
-      "comments": 1220,
-      "stars": 208481,
-      "forks": 61223,
-      "openIssues": 1220,
-      "createdAt": "2026-10-24T12:52:10Z",
+      "points": 208514,
+      "comments": 1228,
+      "stars": 208514,
+      "forks": 61227,
+      "openIssues": 1228,
+      "createdAt": "2026-10-24T23:11:27Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -455,56 +498,69 @@ window.AGENTS_RADAR_LITE = {
         "AI",
         "MCP"
       ],
-      "score": 486,
+      "score": 478,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:Significant-Gravitas/AutoGPT",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "id": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 187726,
-      "comments": 731,
-      "stars": 187726,
-      "forks": 45894,
-      "openIssues": 731,
-      "createdAt": "2026-10-24T13:57:00Z",
-      "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "points": 168110,
+      "comments": 1003,
+      "stars": 168110,
+      "forks": 34975,
+      "openIssues": 1003,
+      "createdAt": "2026-10-25T04:45:34Z",
+      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "artificial-intelligence",
-        "autonomous-agents",
-        "claude",
-        "gpt",
-        "llama-api",
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
         "llm",
-        "openai",
-        "python"
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
       ],
       "matchedQueries": [
-        "artificial-intelligence",
-        "agentic-ai",
-        "agents",
-        "ai",
-        "autonomous-agents",
-        "claude",
-        "gpt",
-        "llama-api",
         "llm",
-        "openai",
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
         "python",
-        "AI",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm",
+        "machine learning",
         "LLM",
-        "AI agent",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
+        "DeepSeek"
       ],
-      "score": 483,
-      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
+      "score": 477,
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -512,12 +568,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 159418,
-      "comments": 1180,
-      "stars": 159418,
-      "forks": 25193,
-      "openIssues": 1180,
-      "createdAt": "2026-10-24T13:51:39Z",
+      "points": 159453,
+      "comments": 1176,
+      "stars": 159453,
+      "forks": 25200,
+      "openIssues": 1176,
+      "createdAt": "2026-10-25T05:07:14Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -575,138 +631,16 @@ window.AGENTS_RADAR_LITE = {
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "points": 168065,
-      "comments": 995,
-      "stars": 168065,
-      "forks": 34960,
-      "openIssues": 995,
-      "createdAt": "2026-10-24T09:24:46Z",
-      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "githubTopics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
-      ],
-      "matchedQueries": [
-        "llm",
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm",
-        "machine learning",
-        "LLM",
-        "DeepSeek"
-      ],
-      "score": 469,
-      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "github:firecrawl/firecrawl",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub",
-      "points": 194849,
-      "comments": 665,
-      "stars": 194849,
-      "forks": 10280,
-      "openIssues": 665,
-      "createdAt": "2026-10-24T13:53:08Z",
-      "pageDescription": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "githubTopics": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping"
-      ],
-      "matchedQueries": [
-        "llm",
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping",
-        "AI",
-        "LLM",
-        "AI agent"
-      ],
-      "score": 467,
-      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
       "id": "github:langchain-ai/langchain",
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub",
-      "points": 148364,
-      "comments": 674,
-      "stars": 148364,
-      "forks": 24899,
-      "openIssues": 674,
-      "createdAt": "2026-10-24T08:27:54Z",
+      "points": 148400,
+      "comments": 673,
+      "stars": 148400,
+      "forks": 24905,
+      "openIssues": 673,
+      "createdAt": "2026-10-25T04:40:57Z",
       "pageDescription": "The agent engineering platform.",
       "githubTopics": [
         "agents",
@@ -759,7 +693,62 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Gemini"
       ],
-      "score": 462,
+      "score": 471,
+      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub",
+      "points": 156668,
+      "comments": 179,
+      "stars": 156668,
+      "forks": 22808,
+      "openIssues": 179,
+      "createdAt": "2026-10-25T04:59:40Z",
+      "pageDescription": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "githubTopics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "matchedQueries": [
+        "rag",
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "self-hosted",
+        "ui",
+        "webui",
+        "AI",
+        "LLM",
+        "RAG",
+        "MCP",
+        "OpenAI"
+      ],
+      "score": 468,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -768,9 +757,9 @@ window.AGENTS_RADAR_LITE = {
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
       "url": "https://huggingface.co/papers/2610.31329",
       "source": "HF Papers",
-      "points": 230,
+      "points": 239,
       "comments": 0,
-      "upvotes": 230,
+      "upvotes": 239,
       "authors": [],
       "categories": [
         "HF Daily Papers"
@@ -783,7 +772,7 @@ window.AGENTS_RADAR_LITE = {
         "LLM"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=WeVisOne-VL%3A%20Unified%20Visual%20Perception%20from%20Objects%20to%20Pixels",
-      "score": 293,
+      "score": 303,
       "intro": "这篇来自 huggingface.co 的帖子主要介绍了：WeVisOne-VL: Unified Visual Perception from Objects to Pixels相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。",
       "reason": "high HN points, matched multiple AI queries"
     },
@@ -792,9 +781,9 @@ window.AGENTS_RADAR_LITE = {
       "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
       "url": "https://huggingface.co/papers/2610.30926",
       "source": "HF Papers",
-      "points": 165,
+      "points": 171,
       "comments": 0,
-      "upvotes": 165,
+      "upvotes": 171,
       "authors": [],
       "categories": [
         "HF Daily Papers"
@@ -808,7 +797,7 @@ window.AGENTS_RADAR_LITE = {
         "LLM"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Making%20MLLM%20Latents%20Matter%3A%20Factor-Aware%20Predictive%20Learning%20for%20Cinematic%20Video%20Generation",
-      "score": 232,
+      "score": 239,
       "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
       "reason": "high HN points, matched multiple AI queries"
     },
@@ -927,28 +916,30 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/10/505032.html",
-      "title": "企业AI需要两个世界模型",
-      "url": "https://www.qbitai.com/2026/10/505032.html",
+      "id": "rss:qbitai:https://www.qbitai.com/2026/10/504734.html",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
       "source": "QbitAI",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-10-23T09:07:25.000Z",
-      "pageDescription": "特赞想让企业Agent真正懂业务",
+      "createdAt": "2026-10-21T11:30:59.000Z",
+      "pageDescription": "医疗AI质变时刻",
       "categories": [
         "资讯",
-        "世界模型",
-        "特赞"
+        "首页轮播",
+        "Agent",
+        "AI医疗",
+        "清华AIR"
       ],
       "matchedQueries": [
         "资讯",
-        "世界模型",
-        "特赞",
+        "首页轮播",
+        "Agent",
         "AI",
         "AI agent"
       ],
       "score": 70,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：企业AI需要两个世界模型相关内容，聚焦资讯、世界模型、特赞、人工智能、AI Agent相关背景、功能和讨论点。",
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院相关内容，聚焦资讯、首页轮播、Agent、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -981,107 +972,110 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:solidot:https://www.solidot.org/story?sid=85698",
-      "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
-      "url": "https://www.solidot.org/story?sid=85698",
+      "id": "rss:solidot:https://www.solidot.org/story?sid=85691",
+      "title": "Switch 2 越狱能运行自制程序",
+      "url": "https://www.solidot.org/story?sid=85691",
       "source": "Solidot",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-10-24T12:53:21.000Z",
-      "pageDescription": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册中的内容被用于个性化广告需要切断关联服务，方法是：Google 账号 —— 数据和隐私设置——个性化设置——搜索服务个性化——更多个性化智能服务——关联的内容应用，切断 Google Workspac",
+      "createdAt": "2026-10-23T07:11:05.000Z",
+      "pageDescription": "研究员 Sammy Hajhamid 利用软件漏洞在 Switch 2 上实现越狱，而且能运行自制程序。越狱利用了一个专门运行在任天堂硬件上的编程环境和解释器 SmileBasic 4。Hajhamid 使用 OpenAI 的 Codex 对 SmileBasic 的语言解释器进行探测，花了两周时间发现了一个 32 位整数溢出漏洞，利用该漏洞能对部分系统内存进行读写操作。他在此基础上从 Switch 2 内部找到了其它漏洞，提权获得任意读写权限。他之后演示了在越狱的游戏机上运行自制程序。SmileBasic 4 已从任天堂的 Switch eShop 中下架，漏洞可能会在后续的固件更新中修复。",
       "categories": [],
-      "matchedQueries": [],
-      "score": 41,
-      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Google 修改隐私条款将 Gmail 和照片数据用于个性化广告相关内容，聚焦AI 信息雷达相关背景、功能和讨论点。",
-      "reason": "fresh today"
+      "matchedQueries": [
+        "OpenAI",
+        "Codex"
+      ],
+      "score": 28,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Switch 2 越狱能运行自制程序相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
-    {
-      "id": "frontpage:hn:50211474",
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "hnUrl": "https://news.ycombinator.com/item?id=50211474",
-      "source": "Hacker News",
-      "points": 964,
-      "comments": 619,
-      "createdAt": "2026-10-23T16:21:50",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2608,
-      "intro": "这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50212065",
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "hnUrl": "https://news.ycombinator.com/item?id=50212065",
-      "source": "Hacker News",
-      "points": 977,
-      "comments": 584,
-      "createdAt": "2026-10-23T16:59:08",
-      "matchedQueries": [
-        "front page",
-        "AI"
-      ],
-      "score": 2553,
-      "intro": "这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
     {
       "id": "frontpage:hn:50202285",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
       "hnUrl": "https://news.ycombinator.com/item?id=50202285",
       "source": "Hacker News",
-      "points": 1438,
-      "comments": 238,
+      "points": 1561,
+      "comments": 245,
       "createdAt": "2026-10-22T23:01:18",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2239,
+      "score": 2397,
       "intro": "这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50207910",
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "hnUrl": "https://news.ycombinator.com/item?id=50207910",
+      "id": "frontpage:hn:50224916",
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50224916",
       "source": "Hacker News",
-      "points": 821,
-      "comments": 246,
-      "createdAt": "2026-10-23T12:28:47",
+      "points": 442,
+      "comments": 264,
+      "createdAt": "2026-10-24T20:30:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1549,
-      "intro": "这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1184,
+      "intro": "这篇来自 stealmybitcoin.com 的帖子主要介绍了：Steal My Bitcoin相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50202114",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "hnUrl": "https://news.ycombinator.com/item?id=50202114",
+      "id": "frontpage:hn:50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "hnUrl": "https://news.ycombinator.com/item?id=50226419",
       "source": "Hacker News",
-      "points": 453,
-      "comments": 237,
-      "createdAt": "2026-10-22T22:43:19",
+      "points": 260,
+      "comments": 267,
+      "createdAt": "2026-10-24T23:11:54",
+      "matchedQueries": [
+        "front page",
+        "AI"
+      ],
+      "score": 1000,
+      "intro": "这篇来自 apricitas.io 的帖子主要介绍了：America has lost 200k of jobs in media, film and the arts. How much is AI?相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50225695",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50225695",
+      "source": "Hacker News",
+      "points": 280,
+      "comments": 242,
+      "createdAt": "2026-10-24T21:47:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1104,
-      "intro": "这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 947,
+      "intro": "这篇来自 danluu.com 的帖子主要介绍了：We should be more ambitious with the software we build相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50219666",
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50219666",
+      "source": "Hacker News",
+      "points": 291,
+      "comments": 235,
+      "createdAt": "2026-10-24T09:53:26",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 921,
+      "intro": "这篇来自 southampton.ac.uk 的帖子主要介绍了：I don't understand quantum physics (2018)相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-10-24T14:11:33.416Z",
-    "totalFetched": 222,
+    "generatedAt": "2026-10-25T05:09:10.672Z",
+    "totalFetched": 221,
     "uniqueCount": 164,
     "candidates": [
       {
@@ -1118,7 +1112,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1157,7 +1151,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "MoG-VLM a motion-adaptive anomaly",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1198,7 +1192,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 217,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1238,7 +1232,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Sensorimotor Alignment",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1276,7 +1270,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Memory-Enhanced Test-Time Adaptation",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1314,7 +1308,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1355,7 +1349,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, matched AI safety, CS AI category"
       },
@@ -1396,7 +1390,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "VERA",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1437,7 +1431,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "bench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 210,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1479,9 +1473,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "ULME",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 207,
+        "score": 202,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+        "reason": "matched RAG, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2610.30611v1",
@@ -1518,9 +1512,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Structure-Grounded Uncertainty Reduction",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 206,
+        "score": 201,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+        "reason": "matched RAG, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2610.31483v1",
@@ -1561,7 +1555,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Qwen3-8B",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 205,
+        "score": 200,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1599,9 +1593,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "MemPABench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 205,
+        "score": 200,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+        "reason": "matched RAG, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2610.31662v1",
@@ -1639,7 +1633,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 203,
+        "score": 198,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1675,7 +1669,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "a baseline-corrected Human Deference",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 203,
+        "score": 198,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       }
@@ -1715,7 +1709,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1754,7 +1748,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "MoG-VLM a motion-adaptive anomaly",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1795,7 +1789,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 217,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1835,7 +1829,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Sensorimotor Alignment",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1873,7 +1867,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Memory-Enhanced Test-Time Adaptation",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       }
@@ -1885,7 +1879,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://github.com/trending",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-24T14:11:10.978Z",
+      "observedAt": "2026-10-25T05:08:52.526Z",
       "kept": 10
     },
     {
@@ -1893,23 +1887,23 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://news.ycombinator.com/",
       "status": "ok (30 parsed)",
       "found": 30,
-      "observedAt": "2026-10-24T14:11:13.523Z",
+      "observedAt": "2026-10-25T05:08:55.714Z",
       "kept": 30
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (50 parsed)",
-      "found": 50,
-      "observedAt": "2026-10-24T14:11:15.826Z",
-      "kept": 50
+      "status": "ok (49 parsed)",
+      "found": 49,
+      "observedAt": "2026-10-25T05:08:57.304Z",
+      "kept": 49
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-24T14:11:19.905Z",
+      "observedAt": "2026-10-25T05:08:59.016Z",
       "kept": 10
     },
     {
@@ -1917,7 +1911,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-10-24T14:11:21.498Z",
+      "observedAt": "2026-10-25T05:09:02.188Z",
       "kept": 20
     },
     {
@@ -1925,7 +1919,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (117 parsed)",
       "found": 117,
-      "observedAt": "2026-10-24T14:11:23.128Z",
+      "observedAt": "2026-10-25T05:09:04.956Z",
       "kept": 117
     }
   ],
@@ -1933,7 +1927,7 @@ window.AGENTS_RADAR_LITE = {
     {
       "source": "Hacker News",
       "count": 8,
-      "momentum": -0.133
+      "momentum": -0.067
     },
     {
       "source": "GitHub",
@@ -1968,7 +1962,7 @@ window.AGENTS_RADAR_LITE = {
     {
       "source": "Solidot",
       "count": 1,
-      "momentum": null
+      "momentum": 0.033
     }
   ],
   "diagnostics": {
