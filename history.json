@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-25T05:09:10.905Z",
+  "generatedAt": "2026-10-26T05:11:17.460Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-25",
-      "generatedAt": "2026-09-25T05:16:18.807Z",
-      "totalFetched": 305,
-      "uniqueCount": 217,
-      "recommendations": [
-        {
-          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-          "url": "https://github.com/devdotfast/whiteboard",
-          "source": "Hacker News",
-          "score": 654,
-          "points": 244
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 248770
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 205905
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187538
-        },
-        {
-          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-          "url": "https://koi.rest",
-          "source": "Hacker News",
-          "score": 332,
-          "points": 155
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-09-26",
       "generatedAt": "2026-09-26T05:21:42.517Z",
@@ -2455,6 +2374,123 @@
           "name": "HF Daily Papers",
           "status": "ok (50 parsed)",
           "found": 50
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (117 parsed)",
+          "found": 117
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "generatedAt": "2026-10-25T05:09:10.691Z",
+      "totalFetched": 505,
+      "uniqueCount": 425,
+      "recommendations": [
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "source": "Hacker News",
+          "score": 2397,
+          "points": 1561
+        },
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "source": "Hacker News",
+          "score": 1184,
+          "points": 442
+        },
+        {
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News",
+          "score": 1000,
+          "points": 260
+        },
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "source": "Hacker News",
+          "score": 947,
+          "points": 280
+        },
+        {
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "source": "Hacker News",
+          "score": 921,
+          "points": 291
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+          "url": "https://arxiv.org/abs/2610.31657v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.31478v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+          "url": "https://arxiv.org/abs/2610.31586v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://arxiv.org/abs/2610.31670v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.31656v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (49 parsed)",
+          "found": 49
         },
         {
           "name": "QbitAI",
