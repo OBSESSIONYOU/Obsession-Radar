@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-26T05:11:17.460Z",
+  "generatedAt": "2026-10-27T05:28:19.967Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-26",
-      "generatedAt": "2026-09-26T05:21:42.517Z",
-      "totalFetched": 307,
-      "uniqueCount": 228,
-      "recommendations": [
-        {
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org/",
-          "source": "Hacker News",
-          "score": 932,
-          "points": 334
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 249019
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 487,
-          "points": 206001
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187565
-        },
-        {
-          "title": "Yes, Claude can do nine loops",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News",
-          "score": 320,
-          "points": 103
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 220
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 214
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-09-27",
       "generatedAt": "2026-09-27T05:37:49.687Z",
@@ -2506,6 +2425,123 @@
           "name": "papers.cool",
           "status": "ok (117 parsed)",
           "found": 117
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "generatedAt": "2026-10-26T05:11:17.297Z",
+      "totalFetched": 445,
+      "uniqueCount": 374,
+      "recommendations": [
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "source": "Hacker News",
+          "score": 2576,
+          "points": 769
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News",
+          "score": 1164,
+          "points": 497
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News",
+          "score": 1150,
+          "points": 497
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "source": "Hacker News",
+          "score": 1029,
+          "points": 431
+        },
+        {
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News",
+          "score": 945,
+          "points": 222
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+          "url": "https://arxiv.org/abs/2610.32866v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents",
+          "url": "https://arxiv.org/abs/2610.32781v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+          "url": "https://arxiv.org/abs/2610.32770v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
+          "url": "https://arxiv.org/abs/2610.32332v1",
+          "source": "arXiv",
+          "score": 209
+        },
+        {
+          "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance",
+          "url": "https://arxiv.org/abs/2610.31863v1",
+          "source": "arXiv",
+          "score": 207
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (13 parsed)",
+          "found": 13
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (106 parsed)",
+          "found": 106
         }
       ]
     }
