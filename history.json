@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-27T05:28:19.967Z",
+  "generatedAt": "2026-10-28T06:10:06.285Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-27",
-      "generatedAt": "2026-09-27T05:37:49.687Z",
-      "totalFetched": 283,
-      "uniqueCount": 212,
-      "recommendations": [
-        {
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News",
-          "score": 567,
-          "points": 111
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 249279
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 484,
-          "points": 206073
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 475,
-          "points": 187583
-        },
-        {
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News",
-          "score": 302,
-          "points": 56
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 206
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-09-28",
       "generatedAt": "2026-09-28T05:45:42.434Z",
@@ -2542,6 +2461,123 @@
           "name": "papers.cool",
           "status": "ok (106 parsed)",
           "found": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "generatedAt": "2026-10-27T05:28:19.803Z",
+      "totalFetched": 623,
+      "uniqueCount": 539,
+      "recommendations": [
+        {
+          "title": "Anthropic S-1",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+          "source": "Hacker News",
+          "score": 5405,
+          "points": 1544
+        },
+        {
+          "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+          "source": "Hacker News",
+          "score": 2911,
+          "points": 855
+        },
+        {
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1560,
+          "points": 683
+        },
+        {
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1546,
+          "points": 683
+        },
+        {
+          "title": "GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+          "source": "Hacker News",
+          "score": 1533,
+          "points": 559
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+          "url": "https://arxiv.org/abs/2610.35817v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+          "url": "https://arxiv.org/abs/2610.35804v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives",
+          "url": "https://arxiv.org/abs/2610.35240v1",
+          "source": "arXiv",
+          "score": 223
+        },
+        {
+          "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+          "url": "https://arxiv.org/abs/2610.35767v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps",
+          "url": "https://arxiv.org/abs/2610.35606v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (14 parsed)",
+          "found": 14
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (24 parsed)",
+          "found": 24
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (13 parsed)",
+          "found": 13
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (232 parsed)",
+          "found": 232
         }
       ]
     }
