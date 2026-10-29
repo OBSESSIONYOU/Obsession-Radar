@@ -1,189 +1,182 @@
 window.AGENTS_RADAR_LITE = {
-  "generatedAt": "2026-10-28T06:10:06.098Z",
-  "totalFetched": 481,
-  "uniqueCount": 418,
+  "generatedAt": "2026-10-29T06:19:33.889Z",
+  "totalFetched": 493,
+  "uniqueCount": 412,
   "candidates": [
     {
-      "id": "frontpage:hn:50261319",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261319",
+      "id": "frontpage:hn:50276940",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276940",
       "source": "Hacker News",
-      "points": 819,
-      "comments": 490,
-      "createdAt": "2026-10-27T16:06:01",
+      "points": 547,
+      "comments": 926,
+      "createdAt": "2026-10-28T17:10:37",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2150,
-      "intro": "这篇来自 deepmind.google 的帖子主要介绍了：Genie 4相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 2885,
+      "intro": "这篇来自 apple.com 的帖子主要介绍了：MacBook Pro with PROLED XDR Display and Touch相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50259604",
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50259604",
+      "id": "frontpage:hn:50276792",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276792",
       "source": "Hacker News",
-      "points": 887,
-      "comments": 315,
-      "createdAt": "2026-10-27T14:06:42",
+      "points": 872,
+      "comments": 718,
+      "createdAt": "2026-10-28T17:01:23",
       "matchedQueries": [
-        "front page"
+        "front page",
+        "AI",
+        "Gemini"
       ],
-      "score": 1804,
-      "intro": "这篇来自 wired.com 的帖子主要介绍了：US Government is hiding a secret court ruling about how it spies on Americans相关内容，讨论股权安排、AI 收益分享和政策影响。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50261998",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261998",
-      "source": "Hacker News",
-      "points": 895,
-      "comments": 279,
-      "createdAt": "2026-10-27T16:51:22",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1732,
-      "intro": "这篇来自 ghostty.org 的帖子主要介绍了：Ghostty 1.4相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50261352",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261352",
-      "source": "Hacker News",
-      "points": 325,
-      "comments": 415,
-      "createdAt": "2026-10-27T16:08:32",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1402,
-      "intro": "这篇来自 apple.com 的帖子主要介绍了：New 14‑inch MacBook Pro with M6相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50258538",
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50258538",
-      "source": "Hacker News",
-      "points": 323,
-      "comments": 398,
-      "createdAt": "2026-10-27T13:02:02",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1353,
-      "intro": "这篇来自 apple.com 的帖子主要介绍了：New iMac with M6相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "50260814",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50260814",
-      "source": "Hacker News",
-      "points": 501,
-      "comments": 270,
-      "author": "car",
-      "createdAt": "2026-10-27T15:28:26Z",
-      "storyText": "",
-      "matchedQueries": [
-        "Anthropic Claude",
-        "Anthropic",
-        "Claude"
-      ],
-      "score": 1283,
-      "intro": "这篇来自 stanforddaily.com 的帖子主要介绍了：Anthropic trained Claude on illegally obtained Stanford professors' books相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。",
+      "score": 2787,
+      "intro": "这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Carbon相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50257419",
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50257419",
+      "id": "frontpage:hn:50271640",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50271640",
       "source": "Hacker News",
-      "points": 473,
-      "comments": 254,
-      "createdAt": "2026-10-27T11:17:57",
+      "points": 1092,
+      "comments": 385,
+      "createdAt": "2026-10-28T11:03:40",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1177,
-      "intro": "这篇来自 lwn.net 的帖子主要介绍了：Python's experimental JIT to be removed相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 2202,
+      "intro": "这篇来自 emudhra.we-have-a-problem.com 的帖子主要介绍了：Apple's git still trusts the compromised eMudhra certificates相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "50265609",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "hnUrl": "https://news.ycombinator.com/item?id=50265609",
+      "id": "frontpage:hn:50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276998",
       "source": "Hacker News",
-      "points": 194,
-      "comments": 170,
-      "author": "dataking",
-      "createdAt": "2026-10-27T20:50:42Z",
-      "storyText": "",
+      "points": 1022,
+      "comments": 207,
+      "createdAt": "2026-10-28T17:13:29",
       "matchedQueries": [
-        "Anthropic Claude",
-        "Anthropic",
-        "Claude"
+        "front page"
       ],
-      "score": 700,
-      "intro": "这篇来自 anthropic.com 的帖子主要介绍了：Early progress on accelerating drug development with Claude相关内容，聚焦Anthropic Claude、Anthropic、Claude相关背景、功能和讨论点。",
+      "score": 1706,
+      "intro": "这篇来自 nullpt.rs 的帖子主要介绍了：Why is this fingerprinting script creating bioweapons?相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50243060",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "hnUrl": "https://news.ycombinator.com/item?id=50243060",
+      "source": "Hacker News",
+      "points": 477,
+      "comments": 215,
+      "createdAt": "2026-10-26T13:13:31",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1079,
+      "intro": "这篇来自 circuithub.com 的帖子主要介绍了：The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50273171",
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "hnUrl": "https://news.ycombinator.com/item?id=50273171",
+      "source": "Hacker News",
+      "points": 468,
+      "comments": 195,
+      "createdAt": "2026-10-28T13:25:11",
+      "matchedQueries": [
+        "front page",
+        "AI agent"
+      ],
+      "score": 1047,
+      "intro": "这篇来自 cursor.com 的帖子主要介绍了：The Agent SDK相关内容，聚焦front page、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "trending:github.com/affaan-m/ECC",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub Trending",
-      "points": 291087,
-      "comments": 43094,
-      "stars": 291087,
-      "forks": 43094,
-      "starsToday": 1165,
-      "language": "JavaScript",
-      "createdAt": "2026-10-28T06:09:48.191Z",
-      "pageDescription": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "githubTopics": [],
+      "id": "frontpage:hn:50282454",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "hnUrl": "https://news.ycombinator.com/item?id=50282454",
+      "source": "Hacker News",
+      "points": 266,
+      "comments": 247,
+      "createdAt": "2026-10-28T23:35:02",
       "matchedQueries": [
-        "trending",
-        "AI agent",
-        "Anthropic",
-        "Claude",
-        "Codex"
+        "front page"
       ],
-      "score": 675,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：affaan-m/ECC相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+      "score": 944,
+      "intro": "这篇来自 data.stackexchange.com 的帖子主要介绍了：StackOverflow now gets fewer than 1000 questions a month相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50274409",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50274409",
+      "source": "Hacker News",
+      "points": 446,
+      "comments": 124,
+      "createdAt": "2026-10-28T14:38:22",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 839,
+      "intro": "这篇来自 carmelitegothic.com 的帖子主要介绍了：CNC Stone Carving相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     },
     {
       "id": "trending:github.com/obra/superpowers",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "points": 306656,
-      "comments": 27294,
-      "stars": 306656,
-      "forks": 27294,
-      "starsToday": 617,
+      "points": 307656,
+      "comments": 27365,
+      "stars": 307656,
+      "forks": 27365,
+      "starsToday": 1095,
       "language": "Shell",
-      "createdAt": "2026-10-28T06:09:48.190Z",
+      "createdAt": "2026-10-29T06:19:17.768Z",
       "pageDescription": "An agentic skills framework & software development methodology that works.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 626,
+      "score": 641,
       "intro": "这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "points": 93382,
+      "comments": 5511,
+      "stars": 93382,
+      "forks": 5511,
+      "starsToday": 1472,
+      "language": "Rust",
+      "createdAt": "2026-10-29T06:19:17.768Z",
+      "pageDescription": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI",
+        "AI agent"
+      ],
+      "score": 622,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -191,13 +184,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending",
-      "points": 39404,
-      "comments": 2055,
-      "stars": 39404,
-      "forks": 2055,
-      "starsToday": 2830,
+      "points": 41034,
+      "comments": 2128,
+      "stars": 41034,
+      "forks": 2128,
+      "starsToday": 2110,
       "language": "CSS",
-      "createdAt": "2026-10-28T06:09:48.190Z",
+      "createdAt": "2026-10-29T06:19:17.768Z",
       "pageDescription": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "githubTopics": [],
       "matchedQueries": [
@@ -207,31 +200,8 @@ window.AGENTS_RADAR_LITE = {
         "Claude",
         "Codex"
       ],
-      "score": 626,
+      "score": 619,
       "intro": "这篇来自 github.com 的帖子主要介绍了：Nutlope/hallmark相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/pbakaus/impeccable",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "GitHub Trending",
-      "points": 90940,
-      "comments": 5391,
-      "stars": 90940,
-      "forks": 5391,
-      "starsToday": 1449,
-      "language": "Rust",
-      "createdAt": "2026-10-28T06:09:48.190Z",
-      "pageDescription": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "AI",
-        "AI agent"
-      ],
-      "score": 621,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -239,55 +209,75 @@ window.AGENTS_RADAR_LITE = {
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "source": "GitHub Trending",
-      "points": 46489,
-      "comments": 5813,
-      "stars": 46489,
-      "forks": 5813,
-      "starsToday": 1598,
+      "points": 48516,
+      "comments": 6013,
+      "stars": 48516,
+      "forks": 6013,
+      "starsToday": 2371,
       "language": "Python",
-      "createdAt": "2026-10-28T06:09:48.191Z",
+      "createdAt": "2026-10-29T06:19:17.768Z",
       "pageDescription": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "githubTopics": [],
       "matchedQueries": [
         "trending"
       ],
-      "score": 584,
+      "score": 595,
       "intro": "这篇来自 github.com 的帖子主要介绍了：HKUDS/DeepTutor相关内容，聚焦trending相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, fresh today"
     },
     {
-      "id": "trending:github.com/gitroomhq/postiz-app",
-      "title": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
+      "id": "trending:github.com/ruvnet/RuView",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
       "source": "GitHub Trending",
-      "points": 39605,
-      "comments": 7531,
-      "stars": 39605,
-      "forks": 7531,
-      "starsToday": 951,
-      "language": "TypeScript",
-      "createdAt": "2026-10-28T06:09:48.190Z",
-      "pageDescription": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "points": 101254,
+      "comments": 13173,
+      "stars": 101254,
+      "forks": 13173,
+      "starsToday": 557,
+      "language": "Rust",
+      "createdAt": "2026-10-29T06:19:17.769Z",
+      "pageDescription": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "githubTopics": [],
       "matchedQueries": [
-        "trending",
-        "AI agent"
+        "trending"
       ],
-      "score": 584,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：gitroomhq/postiz-app相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+      "score": 580,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：ruvnet/RuView相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
+      "reason": "high HN points, active discussion, fresh today"
+    },
+    {
+      "id": "trending:github.com/hmjz100/LinkSwift",
+      "title": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "source": "GitHub Trending",
+      "points": 35434,
+      "comments": 2512,
+      "stars": 35434,
+      "forks": 2512,
+      "starsToday": 1616,
+      "language": "JavaScript",
+      "createdAt": "2026-10-29T06:19:17.769Z",
+      "pageDescription": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending"
+      ],
+      "score": 569,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：hmjz100/LinkSwift相关内容，聚焦trending相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
     },
     {
       "id": "github:morluto/rea",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 398509,
-      "comments": 1386,
-      "stars": 398509,
-      "forks": 99976,
-      "openIssues": 1386,
-      "createdAt": "2026-10-28T05:29:41Z",
+      "points": 403920,
+      "comments": 1315,
+      "stars": 403920,
+      "forks": 101236,
+      "openIssues": 1315,
+      "createdAt": "2026-10-29T06:06:32Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -312,7 +302,7 @@ window.AGENTS_RADAR_LITE = {
         "touhou"
       ],
       "matchedQueries": [
-        "mcp",
+        "llm",
         "agent-skills",
         "ai-agents",
         "binary-analysis",
@@ -326,7 +316,7 @@ window.AGENTS_RADAR_LITE = {
         "dsh-plugin",
         "ghidra",
         "hopper",
-        "llm",
+        "mcp",
         "model-context-protocol",
         "rea",
         "reverse-engineering",
@@ -340,7 +330,7 @@ window.AGENTS_RADAR_LITE = {
         "Claude",
         "Codex"
       ],
-      "score": 505,
+      "score": 506,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -349,12 +339,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 257823,
-      "comments": 51552,
-      "stars": 257823,
-      "forks": 56550,
-      "openIssues": 51552,
-      "createdAt": "2026-10-28T05:59:49Z",
+      "points": 258249,
+      "comments": 51656,
+      "stars": 258249,
+      "forks": 56687,
+      "openIssues": 51656,
+      "createdAt": "2026-10-29T06:07:50Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -372,17 +362,17 @@ window.AGENTS_RADAR_LITE = {
         "openai"
       ],
       "matchedQueries": [
-        "claude",
+        "llm",
         "ai",
         "ai-agent",
         "ai-agents",
         "anthropic",
         "chatgpt",
+        "claude",
         "claude-code",
         "codex",
         "hermes",
         "hermes-agent",
-        "llm",
         "nous-research",
         "openai",
         "AI",
@@ -402,12 +392,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 208826,
-      "comments": 1220,
-      "stars": 208826,
-      "forks": 61273,
-      "openIssues": 1220,
-      "createdAt": "2026-10-28T06:08:30Z",
+      "points": 208946,
+      "comments": 1202,
+      "stars": 208946,
+      "forks": 61293,
+      "openIssues": 1202,
+      "createdAt": "2026-10-29T06:10:00Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -464,12 +454,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 187796,
-      "comments": 731,
-      "stars": 187796,
-      "forks": 45902,
-      "openIssues": 731,
-      "createdAt": "2026-10-28T04:01:52Z",
+      "points": 187808,
+      "comments": 758,
+      "stars": 187808,
+      "forks": 45896,
+      "openIssues": 758,
+      "createdAt": "2026-10-29T05:54:23Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -503,8 +493,69 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Claude"
       ],
-      "score": 479,
+      "score": 482,
       "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub",
+      "points": 168321,
+      "comments": 1023,
+      "stars": 168321,
+      "forks": 35021,
+      "openIssues": 1023,
+      "createdAt": "2026-10-29T06:06:39Z",
+      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "githubTopics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "matchedQueries": [
+        "llm",
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm",
+        "machine learning",
+        "LLM",
+        "DeepSeek"
+      ],
+      "score": 478,
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -512,12 +563,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 159761,
-      "comments": 1226,
-      "stars": 159761,
-      "forks": 25244,
-      "openIssues": 1226,
-      "createdAt": "2026-10-28T06:07:02Z",
+      "points": 159862,
+      "comments": 1238,
+      "stars": 159862,
+      "forks": 25254,
+      "openIssues": 1238,
+      "createdAt": "2026-10-29T06:14:45Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -541,17 +592,17 @@ window.AGENTS_RADAR_LITE = {
         "workflow"
       ],
       "matchedQueries": [
-        "claude",
+        "llm",
         "agent",
         "agentic-ai",
         "agentic-framework",
         "agentic-workflow",
         "ai",
         "automation",
+        "claude",
         "deepseek",
         "genai",
         "gpt",
-        "llm",
         "low-code",
         "mcp",
         "nextjs",
@@ -579,12 +630,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub",
-      "points": 156994,
-      "comments": 207,
-      "stars": 156994,
-      "forks": 22854,
-      "openIssues": 207,
-      "createdAt": "2026-10-28T01:25:06Z",
+      "points": 157103,
+      "comments": 182,
+      "stars": 157103,
+      "forks": 22858,
+      "openIssues": 182,
+      "createdAt": "2026-10-29T06:16:36Z",
       "pageDescription": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "githubTopics": [
         "ai",
@@ -625,165 +676,106 @@ window.AGENTS_RADAR_LITE = {
         "MCP",
         "OpenAI"
       ],
-      "score": 463,
+      "score": 469,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:langchain-ai/langchain",
-      "title": "langchain-ai/langchain",
-      "url": "https://github.com/langchain-ai/langchain",
+      "id": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
       "source": "GitHub",
-      "points": 148595,
-      "comments": 689,
-      "stars": 148595,
-      "forks": 24950,
-      "openIssues": 689,
-      "createdAt": "2026-10-28T01:14:43Z",
-      "pageDescription": "The agent engineering platform.",
+      "points": 185162,
+      "comments": 4479,
+      "stars": 185162,
+      "forks": 18704,
+      "openIssues": 4479,
+      "createdAt": "2026-10-29T03:46:43Z",
+      "pageDescription": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "githubTopics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai",
-        "langchain",
-        "langgraph",
+        "deepseek",
+        "gemma",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
         "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag",
-        "typescript"
+        "llms",
+        "minimax",
+        "mistral",
+        "muse",
+        "ollama",
+        "qwen"
       ],
       "matchedQueries": [
-        "generative-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "langchain",
-        "langgraph",
         "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag",
-        "typescript",
-        "AI",
+        "deepseek",
+        "gemma",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llms",
+        "minimax",
+        "mistral",
+        "muse",
+        "ollama",
+        "qwen",
         "LLM",
-        "RAG",
-        "AI agent",
         "OpenAI",
-        "Anthropic",
-        "Gemini"
+        "DeepSeek"
       ],
-      "score": 463,
-      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
+      "score": 468,
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:paperclipai/paperclip",
-      "title": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "source": "GitHub",
-      "points": 108088,
-      "comments": 6721,
-      "stars": 108088,
-      "forks": 17915,
-      "openIssues": 6721,
-      "createdAt": "2026-10-28T06:06:16Z",
-      "pageDescription": "The open-source app everyone uses to manage agents at work",
-      "githubTopics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
-      ],
-      "matchedQueries": [
-        "claude",
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
-        "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation",
-        "AI",
-        "LLM",
-        "AI agent",
-        "MCP",
-        "Anthropic",
-        "Claude",
-        "Codex"
-      ],
-      "score": 462,
-      "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "hf:2610.34283",
-      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
-      "url": "https://huggingface.co/papers/2610.34283",
+      "id": "hf:2610.35201",
+      "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.35201",
       "source": "HF Papers",
-      "points": 120,
+      "points": 254,
       "comments": 0,
-      "upvotes": 120,
+      "upvotes": 254,
       "authors": [],
       "categories": [
         "HF Daily Papers"
       ],
-      "createdAt": "2026-10-25T00:00:00.000Z",
-      "abstract": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave categorical relations largely unconstrained. When post-training emphasizes one readout, improvements can therefore concentrate on that interface while transfer to others remains weak or even degrades; ",
-      "pageDescription": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave categorical relations largely unconstrained. When post-training emphasizes one readout, improvements can therefore concentrate on that interface while transfer to others remains weak or even degrades; ",
+      "createdAt": "2026-10-26T00:00:00.000Z",
+      "abstract": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how d",
+      "pageDescription": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and improved their reasoning performance. However, the iterative denoising process makes credit assignment more challenging, as final outcome rewards provide limited information about how d",
+      "matchedQueries": [
+        "HF daily",
+        "LLM"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=DTCA%3A%20Denoising%20Token%20Credit%20Assignment%20for%20Reinforcement%20Learning%20in%20Diffusion%20Language%20Models",
+      "score": 320,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。",
+      "reason": "high HN points, matched multiple AI queries"
+    },
+    {
+      "id": "hf:2610.32749",
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "url": "https://huggingface.co/papers/2610.32749",
+      "source": "HF Papers",
+      "points": 140,
+      "comments": 0,
+      "upvotes": 140,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-10-23T00:00:00.000Z",
+      "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Ligh",
+      "pageDescription": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Ligh",
       "matchedQueries": [
         "HF daily"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=ChronoReplay%3A%20One%20Answer%20Interface%20Is%20Not%20Enough%20for%20Streaming%20Spatial%20Intelligence",
-      "score": 152,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence相关内容，聚焦HF daily相关背景、功能和讨论点。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Efficient%20Streaming%20Audio-Visual%20Target%20Speaker%20Extraction%20for%20Real-World%20Acoustic%20Scenes",
+      "score": 175,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes相关内容，聚焦HF daily相关背景、功能和讨论点。",
       "reason": "high HN points"
     },
     {
@@ -821,47 +813,8 @@ window.AGENTS_RADAR_LITE = {
         "AI safety"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Can%20LLMs%20Uncover%20Hidden%20Physical%20Laws%20through%20Free%20Exploration%3F",
-      "score": 147,
+      "score": 126,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Can LLMs Uncover Hidden Physical Laws through Free Exploration?相关内容，聚焦大语言模型、cs.CL、cs.AI、cs.MA、人工智能、AI Agent、提示词工程、OpenAI、AI 安全相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "arxiv:2610.37624v1",
-      "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-      "url": "https://arxiv.org/abs/2610.37624v1",
-      "pdfUrl": "https://arxiv.org/pdf/2610.37624v1",
-      "source": "arXiv",
-      "points": 0,
-      "comments": 0,
-      "authors": [
-        "Anouar Imel",
-        "Imad Charradi",
-        "Abderrahman Sghir",
-        "Khalil El Khammar"
-      ],
-      "categories": [
-        "cs.AI",
-        "cs.CL",
-        "cs.MA",
-        "cs.SI"
-      ],
-      "createdAt": "2026-10-27T17:49:39Z",
-      "updatedAt": "2026-10-27T17:49:39Z",
-      "abstract": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is confounded with whether it helps. We introduce CrossProfile, a diagnostic benchmark of 60 templates with automatically verified answer keys, in which the ownership of supporting, decoy, and irrelevant facts is crossed while their text is held fixed (480 tasks). Across Qwen2.5-7B, Llama-3.1-8B, and two DeepSeek models, both heuristics fail in predictable places. Selecting by relevance readmits decoys, because decoys are on topic: even a perfect relevance filter loses 23 to 31 points to rarest-first selection in the classic hidden-profile configuration. Rarest-first selection is no better than random selection on average and wins only where the rare facts happen to be the useful ones. In both cases accuracy follows the balance of evidence the memory keeps, not the policy that kept it. The decision model adds a third failure, a form of social proof: it gives extra weight to facts attributed to many agents. Removing the attribution tags, or reassigning them at random with line order fixed, raises accuracy in the classic configuration by 13 to 24 points. In natural discussions the evidence is lost before any memory acts: the complete transcript yields lower accuracy than no notes at all.",
-      "pageDescription": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is confounded with whether it helps. We introduce CrossProfile, a diagnostic benchmark of 60 templates with automatically verified answer keys, in which the ownership of supporting, decoy, and irrelevant facts is crossed while their text is held fixed (480 tasks). Across Qwen2.5-7B, Llama-3.1-8B, and two DeepSeek models, both heuristics fail in predictable places. Selecting by relevance readmits decoys, because decoys are on topic: even a perfect relevance filter loses 23 to 31 points to rarest-first selection in the classic hidden-profile configuration. Rarest-first selection is no better than random selection on average and wins only where the rare facts happen to be the useful ones. In both cases accuracy follows the balance of evidence the memory keeps, not the policy that kept it. The decision model adds a third failure, a form of social proof: it gives extra weight to facts attributed to many agents. Removing the attribution tags, or reassigning them at random with line order fixed, raises accuracy in the classic configuration by 13 to 24 points. In natural discussions the evidence is lost before any memory acts: the complete transcript yields lower accuracy than no notes at all.",
-      "matchedQueries": [
-        "LLM",
-        "cs.AI",
-        "cs.CL",
-        "cs.MA",
-        "cs.SI",
-        "AI",
-        "AI agent",
-        "DeepSeek"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Rare%2C%20Relevant%2C%20and%20Still%20Wrong%3A%20How%20Memory%20Fails%20LLM%20Group%20Decisions",
-      "score": 133,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -905,27 +858,86 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "hf:2610.36729",
-      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-      "url": "https://huggingface.co/papers/2610.36729",
-      "source": "HF Papers",
-      "points": 70,
+      "id": "arxiv:2610.36346v1",
+      "title": "Your Wish Is My Commit: Over-Compliant Refactoring in AI Coding Agents",
+      "url": "https://arxiv.org/abs/2610.36346v1",
+      "pdfUrl": "https://arxiv.org/pdf/2610.36346v1",
+      "source": "arXiv",
+      "points": 0,
       "comments": 0,
-      "upvotes": 70,
-      "authors": [],
+      "authors": [
+        "Haocong Jiang",
+        "Sadra Sabouri",
+        "Sepand Haghighi",
+        "Souti Chattopadhyay"
+      ],
       "categories": [
-        "HF Daily Papers"
+        "cs.SE",
+        "cs.HC"
       ],
-      "createdAt": "2026-10-27T00:00:00.000Z",
-      "abstract": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. ",
-      "pageDescription": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. ",
+      "createdAt": "2026-10-26T22:12:50Z",
+      "updatedAt": "2026-10-26T22:12:50Z",
+      "abstract": "Large language models are known to be sycophantic, over-complying with users even when doing so is unproductive. When these models act as coding agents, this can be costly: an agent that keeps editing after no edit improves the code writes churn, technical debt, and review burden into the codebase. Yet the consequences of sycophancy in software engineering remain largely understudied. To understand them, we run a controlled study of iterative refactoring, an open-ended task with no stopping criterion, where any edit an agent makes once the code is already clean reflects compliance rather than improvement. Across algorithmic (n=50) and object-oriented (n=10) suites, we repeatedly ask two widely used agents, Codex and Claude Code, to refactor further across five models. Over 3,000 turns, we define six behavioral signals of over-compliance. We hypothesized that a capable agent would stop once it recognized an optimized codebase; none did. Every model kept editing, rewriting up to 31x the original codebase before first stopping and resuming edits even after declaring the task complete. Over-compliance is a costly, multi-turn behavior that compounds with every turn, and our six signals give developers and tool builders a way to detect and curb it.",
+      "pageDescription": "Large language models are known to be sycophantic, over-complying with users even when doing so is unproductive. When these models act as coding agents, this can be costly: an agent that keeps editing after no edit improves the code writes churn, technical debt, and review burden into the codebase. Yet the consequences of sycophancy in software engineering remain largely understudied. To understand them, we run a controlled study of iterative refactoring, an open-ended task with no stopping criterion, where any edit an agent makes once the code is already clean reflects compliance rather than improvement. Across algorithmic (n=50) and object-oriented (n=10) suites, we repeatedly ask two widely used agents, Codex and Claude Code, to refactor further across five models. Over 3,000 turns, we define six behavioral signals of over-compliance. We hypothesized that a capable agent would stop once it recognized an optimized codebase; none did. Every model kept editing, rewriting up to 31x the original codebase before first stopping and resuming edits even after declaring the task complete. Over-compliance is a costly, multi-turn behavior that compounds with every turn, and our six signals give developers and tool builders a way to detect and curb it.",
       "matchedQueries": [
-        "HF daily"
+        "AI coding",
+        "cs.SE",
+        "cs.HC",
+        "AI",
+        "LLM",
+        "AI agent",
+        "Anthropic",
+        "Claude",
+        "Codex"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Hy-Nomas%3A%20Towards%20Free-form%20Interactive%20World%20Generation",
-      "score": 95,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Hy-Nomas: Towards Free-form Interactive World Generation相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
-      "reason": "balanced activity signal"
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Your%20Wish%20Is%20My%20Commit%3A%20Over-Compliant%20Refactoring%20in%20AI%20Coding%20Agents",
+      "score": 126,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Your Wish Is My Commit: Over-Compliant Refactoring in AI 编程 Agents相关内容，聚焦浏览器自动化、网页操作和编程代理。",
+      "reason": "matched multiple AI queries"
+    },
+    {
+      "id": "rss:qbitai:https://www.qbitai.com/2026/10/505934.html",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "source": "QbitAI",
+      "points": 0,
+      "comments": 0,
+      "createdAt": "2026-10-29T02:18:28.000Z",
+      "pageDescription": "用扩散模型怎么做做Agent？",
+      "categories": [
+        "资讯",
+        "Agent",
+        "扩散模型"
+      ],
+      "matchedQueries": [
+        "资讯",
+        "Agent",
+        "扩散模型",
+        "AI agent"
+      ],
+      "score": 92,
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍相关内容，聚焦资讯、Agent、扩散模型、AI Agent相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "rss:solidot:https://www.solidot.org/story?sid=85717",
+      "title": "Anthropic 公布了 S1 文件",
+      "url": "https://www.solidot.org/story?sid=85717",
+      "source": "Solidot",
+      "points": 0,
+      "comments": 0,
+      "createdAt": "2026-10-27T06:33:38.000Z",
+      "pageDescription": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对手 OpenAI 位于一个由商业伙伴和供应商组成的金字塔顶端——基础设施提供商、芯片制造商、能源公司和 AI 初创企业——它们在过去的四年里都投入巨资，因为它们相信对 AI 产品的需求将持续增长。Anthropic 的挂牌上市，将让外界首次得以深度审视支撑此轮 AI 繁荣的关键企业的健康状况，同时也将检验其增长的持续性",
+      "categories": [],
+      "matchedQueries": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 56,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Anthropic 公布了 S1 文件相关内容，聚焦人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
     },
     {
       "id": "paperscool:2610.37651",
@@ -961,140 +973,99 @@ window.AGENTS_RADAR_LITE = {
         "prompt engineering"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=GEPA-Curator%3A%20Curated%20Learning%20for%20Self%20Improving%20Agents",
-      "score": 77,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：GEPA-Curator: Curated Learning for Self Improving Agents相关内容，聚焦papers.cool、大语言模型、AI Agent、提示词工程相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "rss:solidot:https://www.solidot.org/story?sid=85717",
-      "title": "Anthropic 公布了 S1 文件",
-      "url": "https://www.solidot.org/story?sid=85717",
-      "source": "Solidot",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-10-27T06:33:38.000Z",
-      "pageDescription": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对手 OpenAI 位于一个由商业伙伴和供应商组成的金字塔顶端——基础设施提供商、芯片制造商、能源公司和 AI 初创企业——它们在过去的四年里都投入巨资，因为它们相信对 AI 产品的需求将持续增长。Anthropic 的挂牌上市，将让外界首次得以深度审视支撑此轮 AI 繁荣的关键企业的健康状况，同时也将检验其增长的持续性",
-      "categories": [],
-      "matchedQueries": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
-      ],
-      "score": 57,
-      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Anthropic 公布了 S1 文件相关内容，聚焦人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/10/505580.html",
-      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-      "url": "https://www.qbitai.com/2026/10/505580.html",
-      "source": "QbitAI",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-10-27T03:23:55.000Z",
-      "pageDescription": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
-      "categories": [
-        "资讯",
-        "钛动科技"
-      ],
-      "matchedQueries": [
-        "资讯",
-        "钛动科技",
-        "AI",
-        "AI agent"
-      ],
       "score": 56,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会相关内容，聚焦资讯、钛动科技、人工智能、AI Agent相关背景、功能和讨论点。",
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：GEPA-Curator: Curated Learning for Self Improving Agents相关内容，聚焦papers.cool、大语言模型、AI Agent、提示词工程相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50261319",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261319",
+      "id": "frontpage:hn:50276940",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276940",
       "source": "Hacker News",
-      "points": 819,
-      "comments": 490,
-      "createdAt": "2026-10-27T16:06:01",
+      "points": 547,
+      "comments": 926,
+      "createdAt": "2026-10-28T17:10:37",
       "matchedQueries": [
         "front page"
       ],
-      "score": 2150,
-      "intro": "这篇来自 deepmind.google 的帖子主要介绍了：Genie 4相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 2885,
+      "intro": "这篇来自 apple.com 的帖子主要介绍了：MacBook Pro with PROLED XDR Display and Touch相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50259604",
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50259604",
+      "id": "frontpage:hn:50276792",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276792",
       "source": "Hacker News",
-      "points": 887,
-      "comments": 315,
-      "createdAt": "2026-10-27T14:06:42",
+      "points": 872,
+      "comments": 718,
+      "createdAt": "2026-10-28T17:01:23",
+      "matchedQueries": [
+        "front page",
+        "AI",
+        "Gemini"
+      ],
+      "score": 2787,
+      "intro": "这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Carbon相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50271640",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "hnUrl": "https://news.ycombinator.com/item?id=50271640",
+      "source": "Hacker News",
+      "points": 1092,
+      "comments": 385,
+      "createdAt": "2026-10-28T11:03:40",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1804,
-      "intro": "这篇来自 wired.com 的帖子主要介绍了：US Government is hiding a secret court ruling about how it spies on Americans相关内容，讨论股权安排、AI 收益分享和政策影响。",
+      "score": 2202,
+      "intro": "这篇来自 emudhra.we-have-a-problem.com 的帖子主要介绍了：Apple's git still trusts the compromised eMudhra certificates相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50261998",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261998",
+      "id": "frontpage:hn:50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "hnUrl": "https://news.ycombinator.com/item?id=50276998",
       "source": "Hacker News",
-      "points": 895,
-      "comments": 279,
-      "createdAt": "2026-10-27T16:51:22",
+      "points": 1022,
+      "comments": 207,
+      "createdAt": "2026-10-28T17:13:29",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1732,
-      "intro": "这篇来自 ghostty.org 的帖子主要介绍了：Ghostty 1.4相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1706,
+      "intro": "这篇来自 nullpt.rs 的帖子主要介绍了：Why is this fingerprinting script creating bioweapons?相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50261352",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50261352",
+      "id": "frontpage:hn:50243060",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "hnUrl": "https://news.ycombinator.com/item?id=50243060",
       "source": "Hacker News",
-      "points": 325,
-      "comments": 415,
-      "createdAt": "2026-10-27T16:08:32",
+      "points": 477,
+      "comments": 215,
+      "createdAt": "2026-10-26T13:13:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1402,
-      "intro": "这篇来自 apple.com 的帖子主要介绍了：New 14‑inch MacBook Pro with M6相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50258538",
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50258538",
-      "source": "Hacker News",
-      "points": 323,
-      "comments": 398,
-      "createdAt": "2026-10-27T13:02:02",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1353,
-      "intro": "这篇来自 apple.com 的帖子主要介绍了：New iMac with M6相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1079,
+      "intro": "这篇来自 circuithub.com 的帖子主要介绍了：The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-10-28T06:10:06.084Z",
-    "totalFetched": 196,
-    "uniqueCount": 152,
+    "generatedAt": "2026-10-29T06:19:33.870Z",
+    "totalFetched": 170,
+    "uniqueCount": 137,
     "candidates": [
       {
         "id": "arxiv:2610.37668v1",
@@ -1131,7 +1102,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Hexels",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       },
@@ -1170,7 +1141,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "SpectRAG",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 227,
+        "score": 219,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
       },
@@ -1215,7 +1186,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Heads of Security",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1252,7 +1223,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "MuonGS",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1294,7 +1265,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "CrossProfile",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1334,7 +1305,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "VideoLVR",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1370,7 +1341,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Gym-Anything-RT",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF"
       },
@@ -1411,7 +1382,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "ThinkWorld",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       },
@@ -1451,7 +1422,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "PerceptRL",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched Multimodal, CS AI category"
       },
@@ -1489,7 +1460,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "MoHoBench",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1531,7 +1502,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "LongChang",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1568,7 +1539,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "a zero-shot framework that",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       },
@@ -1606,7 +1577,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "CONFLICTS",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
       },
@@ -1647,7 +1618,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "HiLo-RD",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI coding, matched AI safety, CS AI category"
       },
@@ -1690,7 +1661,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Req2Test-Bench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 217,
+        "score": 209,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI coding, matched AI safety"
       }
@@ -1731,7 +1702,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Hexels",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       },
@@ -1770,7 +1741,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "SpectRAG",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 227,
+        "score": 219,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
       },
@@ -1815,7 +1786,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Heads of Security",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1852,7 +1823,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "MuonGS",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1894,7 +1865,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "CrossProfile",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       }
@@ -1904,33 +1875,33 @@ window.AGENTS_RADAR_LITE = {
     {
       "name": "GitHub Trending",
       "url": "https://github.com/trending",
-      "status": "ok (11 parsed)",
-      "found": 11,
-      "observedAt": "2026-10-28T06:09:47.712Z",
-      "kept": 11
+      "status": "ok (14 parsed)",
+      "found": 14,
+      "observedAt": "2026-10-29T06:19:16.446Z",
+      "kept": 14
     },
     {
       "name": "HN Front Page",
       "url": "https://news.ycombinator.com/",
-      "status": "ok (30 parsed)",
-      "found": 30,
-      "observedAt": "2026-10-28T06:09:49.694Z",
-      "kept": 30
+      "status": "ok (29 parsed)",
+      "found": 29,
+      "observedAt": "2026-10-29T06:19:19.269Z",
+      "kept": 29
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (31 parsed)",
-      "found": 31,
-      "observedAt": "2026-10-28T06:09:51.270Z",
-      "kept": 31
+      "status": "ok (5 parsed)",
+      "found": 5,
+      "observedAt": "2026-10-29T06:19:21.008Z",
+      "kept": 5
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-28T06:09:52.936Z",
+      "observedAt": "2026-10-29T06:19:22.560Z",
       "kept": 10
     },
     {
@@ -1938,7 +1909,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-10-28T06:09:55.829Z",
+      "observedAt": "2026-10-29T06:19:26.953Z",
       "kept": 20
     },
     {
@@ -1946,7 +1917,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (108 parsed)",
       "found": 108,
-      "observedAt": "2026-10-28T06:09:58.479Z",
+      "observedAt": "2026-10-29T06:19:30.079Z",
       "kept": 108
     }
   ],
@@ -1954,52 +1925,48 @@ window.AGENTS_RADAR_LITE = {
     {
       "source": "Hacker News",
       "count": 8,
-      "momentum": -0.048
+      "momentum": -0.038
     },
     {
       "source": "GitHub",
       "count": 8,
-      "momentum": -0.152
+      "momentum": -0.114
     },
     {
       "source": "GitHub Trending",
       "count": 6,
-      "momentum": 0.143
+      "momentum": 0.114
     },
     {
       "source": "arXiv",
       "count": 3,
-      "momentum": -0.005
+      "momentum": 0
     },
     {
       "source": "HF Papers",
       "count": 2,
-      "momentum": 0.048
-    },
-    {
-      "source": "papers.cool",
-      "count": 1,
-      "momentum": 0.024
-    },
-    {
-      "source": "Solidot",
-      "count": 1,
-      "momentum": 0.024
+      "momentum": 0.038
     },
     {
       "source": "QbitAI",
       "count": 1,
-      "momentum": 0.024
+      "momentum": 0.019
+    },
+    {
+      "source": "Solidot",
+      "count": 1,
+      "momentum": 0.019
+    },
+    {
+      "source": "papers.cool",
+      "count": 1,
+      "momentum": 0.019
     }
   ],
   "diagnostics": {
     "errors": [
       "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
     ],
-    "warnings": [
-      "GitHub: llm: HTTP 403",
-      "GitHub: ai-agent: HTTP 403",
-      "GitHub: openai: HTTP 403"
-    ]
+    "warnings": []
   }
 };

@@ -1,90 +1,8 @@
 {
-  "generatedAt": "2026-10-28T06:10:06.285Z",
+  "generatedAt": "2026-10-29T06:19:34.151Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-28",
-      "generatedAt": "2026-09-28T05:45:42.434Z",
-      "totalFetched": 289,
-      "uniqueCount": 230,
-      "recommendations": [
-        {
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-          "source": "Hacker News",
-          "score": 2154,
-          "points": 610
-        },
-        {
-          "title": "There are no \"rogue\" AI agents",
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "score": 1062,
-          "points": 353
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 249559
-        },
-        {
-          "title": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "source": "GitHub",
-          "score": 488,
-          "points": 268528
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 487,
-          "points": 206151
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers",
-          "url": "https://arxiv.org/abs/2609.31403v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-          "url": "https://arxiv.org/abs/2609.31587v1",
-          "source": "arXiv",
-          "score": 211
-        },
-        {
-          "title": "User Model Extraction via Belief Self-Distillation",
-          "url": "https://arxiv.org/abs/2609.31603v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training",
-          "url": "https://arxiv.org/abs/2609.31450v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs",
-          "url": "https://arxiv.org/abs/2609.31448v1",
-          "source": "arXiv",
-          "score": 205
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 12,
-        "arXiv": 4,
-        "Semantic Scholar": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-09-29",
       "generatedAt": "2026-09-29T06:03:40.228Z",
@@ -2578,6 +2496,123 @@
           "name": "papers.cool",
           "status": "ok (232 parsed)",
           "found": 232
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "generatedAt": "2026-10-28T06:10:06.098Z",
+      "totalFetched": 481,
+      "uniqueCount": 418,
+      "recommendations": [
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "source": "Hacker News",
+          "score": 2150,
+          "points": 819
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "source": "Hacker News",
+          "score": 1804,
+          "points": 887
+        },
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "source": "Hacker News",
+          "score": 1732,
+          "points": 895
+        },
+        {
+          "title": "New 14‑inch MacBook Pro with M6",
+          "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+          "source": "Hacker News",
+          "score": 1402,
+          "points": 325
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "source": "Hacker News",
+          "score": 1353,
+          "points": 323
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+          "url": "https://arxiv.org/abs/2610.37668v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2610.36991v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+          "url": "https://arxiv.org/abs/2610.37657v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+          "url": "https://arxiv.org/abs/2610.37647v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+          "url": "https://arxiv.org/abs/2610.37624v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "Solidot": 1,
+        "QbitAI": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (31 parsed)",
+          "found": 31
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
         }
       ]
     }
