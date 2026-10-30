@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-29T06:19:34.151Z",
+  "generatedAt": "2026-10-30T06:19:07.381Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-29",
-      "generatedAt": "2026-09-29T06:03:40.228Z",
-      "totalFetched": 336,
-      "uniqueCount": 248,
-      "recommendations": [
-        {
-          "title": "Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News",
-          "score": 1991,
-          "points": 704
-        },
-        {
-          "title": "Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News",
-          "score": 804,
-          "points": 201
-        },
-        {
-          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-          "url": "https://hn.watch/",
-          "source": "Hacker News",
-          "score": 509,
-          "points": 149
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 249871
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206235
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-          "url": "https://arxiv.org/abs/2609.35760v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Do Coding Agents Reuse Existing Code or Reinvent the Wheel?",
-          "url": "https://arxiv.org/abs/2609.35357v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints",
-          "url": "https://arxiv.org/abs/2609.34179v1",
-          "source": "arXiv",
-          "score": 224
-        },
-        {
-          "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
-          "url": "https://arxiv.org/abs/2609.35741v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
-          "url": "https://arxiv.org/abs/2609.35706v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-09-30",
       "generatedAt": "2026-09-30T05:52:47.214Z",
@@ -2598,6 +2517,123 @@
           "name": "HF Daily Papers",
           "status": "ok (31 parsed)",
           "found": 31
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "generatedAt": "2026-10-29T06:19:33.889Z",
+      "totalFetched": 493,
+      "uniqueCount": 412,
+      "recommendations": [
+        {
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "source": "Hacker News",
+          "score": 2885,
+          "points": 547
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "source": "Hacker News",
+          "score": 2787,
+          "points": 872
+        },
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "source": "Hacker News",
+          "score": 2202,
+          "points": 1092
+        },
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "source": "Hacker News",
+          "score": 1706,
+          "points": 1022
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "source": "Hacker News",
+          "score": 1079,
+          "points": 477
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+          "url": "https://arxiv.org/abs/2610.37668v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2610.36991v1",
+          "source": "arXiv",
+          "score": 219
+        },
+        {
+          "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+          "url": "https://arxiv.org/abs/2610.37657v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+          "url": "https://arxiv.org/abs/2610.37647v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+          "url": "https://arxiv.org/abs/2610.37624v1",
+          "source": "arXiv",
+          "score": 214
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (14 parsed)",
+          "found": 14
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (5 parsed)",
+          "found": 5
         },
         {
           "name": "QbitAI",
