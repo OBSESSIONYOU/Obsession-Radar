@@ -1,164 +1,127 @@
 {
-  "generatedAt": "2026-10-30T06:19:07.231Z",
-  "totalFetched": 493,
-  "uniqueCount": 413,
+  "generatedAt": "2026-10-31T06:10:31.773Z",
+  "totalFetched": 583,
+  "uniqueCount": 509,
   "candidates": [
     {
-      "id": "frontpage:hn:50294702",
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50294702",
+      "id": "frontpage:hn:50300683",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50300683",
       "source": "Hacker News",
-      "points": 2715,
-      "comments": 577,
-      "createdAt": "2026-10-29T19:41:39",
+      "points": 859,
+      "comments": 512,
+      "createdAt": "2026-10-30T07:09:12",
       "matchedQueries": [
-        "front page"
+        "front page",
+        "Anthropic",
+        "Claude"
       ],
-      "score": 4545,
-      "intro": "这篇来自 nytimes.com 的帖子主要介绍了：Patrick Stewart has died相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
+      "score": 2260,
+      "intro": "这篇来自 phorion.io 的帖子主要介绍了：Backdoor in Claude Code for VS Code extension on the Cursor Marketplace相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50296470",
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "hnUrl": "https://news.ycombinator.com/item?id=50296470",
+      "id": "frontpage:hn:50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "hnUrl": "https://news.ycombinator.com/item?id=50305693",
       "source": "Hacker News",
-      "points": 1055,
-      "comments": 634,
-      "createdAt": "2026-10-29T21:38:59",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2776,
-      "intro": "这篇来自 arkm.com 的帖子主要介绍了：Binance-hacker-1029 – $5.6B stolen from Binance相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50289418",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50289418",
-      "source": "Hacker News",
-      "points": 1319,
-      "comments": 360,
-      "createdAt": "2026-10-29T14:13:21",
+      "points": 551,
+      "comments": 410,
+      "createdAt": "2026-10-30T15:52:18",
       "matchedQueries": [
         "front page",
         "AI"
       ],
-      "score": 2423,
-      "intro": "这篇来自 mistral.ai 的帖子主要介绍了：We're releasing the weights of Mistral Large 4相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "score": 1663,
+      "intro": "这篇来自 newsletter.signoz.io 的帖子主要介绍了：AI isn't replacing SREs, it's deskilling them相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50287775",
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "hnUrl": "https://news.ycombinator.com/item?id=50287775",
+      "id": "frontpage:hn:50305025",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=50305025",
       "source": "Hacker News",
-      "points": 262,
-      "comments": 362,
-      "createdAt": "2026-10-29T12:19:00",
+      "points": 406,
+      "comments": 299,
+      "createdAt": "2026-10-30T15:10:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1195,
-      "intro": "这篇来自 iptrust.co 的帖子主要介绍了：If IPv4 were land相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1215,
+      "intro": "这篇来自 status.northflank.com 的帖子主要介绍了：Northflank Breached相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50290177",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50290177",
+      "id": "frontpage:hn:50303172",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50303172",
       "source": "Hacker News",
-      "points": 410,
-      "comments": 214,
-      "createdAt": "2026-10-29T14:57:55",
+      "points": 395,
+      "comments": 267,
+      "createdAt": "2026-10-30T12:50:01",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1121,
+      "intro": "这篇来自 wired.com 的帖子主要介绍了：The $6.3B Binance hack was pulled off in just 20 minutes相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50309647",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50309647",
+      "source": "Hacker News",
+      "points": 272,
+      "comments": 149,
+      "createdAt": "2026-10-30T20:23:30",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 710,
+      "intro": "这篇来自 bostonglobe.com 的帖子主要介绍了：Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50304122",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50304122",
+      "source": "Hacker News",
+      "points": 145,
+      "comments": 184,
+      "createdAt": "2026-10-30T14:08:20",
       "matchedQueries": [
         "front page",
-        "LLM"
+        "AI"
       ],
-      "score": 1029,
-      "intro": "这篇来自 martinfowler.com 的帖子主要介绍了：LLM Voice相关内容，聚焦front page、大语言模型相关背景、功能和讨论点。",
+      "score": 651,
+      "intro": "这篇来自 fortune.com 的帖子主要介绍了：Cisco gives engineer unlimited AI tokens to rewrite legacy code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50286197",
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "hnUrl": "https://news.ycombinator.com/item?id=50286197",
-      "source": "Hacker News",
-      "points": 176,
-      "comments": 334,
-      "createdAt": "2026-10-29T08:55:08",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1023,
-      "intro": "这篇来自 bbc.com 的帖子主要介绍了：What we know so far about Spain train crash相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50291054",
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50291054",
-      "source": "Hacker News",
-      "points": 380,
-      "comments": 141,
-      "createdAt": "2026-10-29T15:53:03",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 807,
-      "intro": "这篇来自 sidbala.com 的帖子主要介绍了：H.264 Is Magic (2016)相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "trending:github.com/pbakaus/impeccable",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "GitHub Trending",
-      "points": 95841,
-      "comments": 5645,
-      "stars": 95841,
-      "forks": 5645,
-      "starsToday": 2870,
-      "language": "Rust",
-      "createdAt": "2026-10-30T06:18:49.751Z",
-      "pageDescription": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "AI",
-        "AI agent"
-      ],
-      "score": 641,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
       "id": "trending:github.com/obra/superpowers",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "points": 308819,
-      "comments": 27469,
-      "stars": 308819,
-      "forks": 27469,
-      "starsToday": 1034,
+      "points": 309555,
+      "comments": 27545,
+      "stars": 309555,
+      "forks": 27545,
+      "starsToday": 1259,
       "language": "Shell",
-      "createdAt": "2026-10-30T06:18:49.751Z",
+      "createdAt": "2026-10-31T06:10:14.976Z",
       "pageDescription": "An agentic skills framework & software development methodology that works.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 640,
+      "score": 645,
       "intro": "这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -167,13 +130,13 @@
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "source": "GitHub Trending",
-      "points": 105039,
-      "comments": 9258,
-      "stars": 105039,
-      "forks": 9258,
-      "starsToday": 336,
+      "points": 106619,
+      "comments": 9383,
+      "stars": 106619,
+      "forks": 9383,
+      "starsToday": 1140,
       "language": "TypeScript",
-      "createdAt": "2026-10-30T06:18:49.751Z",
+      "createdAt": "2026-10-31T06:10:14.975Z",
       "pageDescription": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "githubTopics": [],
       "matchedQueries": [
@@ -185,8 +148,53 @@
         "Codex",
         "Gemini"
       ],
-      "score": 606,
+      "score": 638,
       "intro": "这篇来自 github.com 的帖子主要介绍了：thedotmack/claude-mem相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/mattpocock/skills",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "points": 307640,
+      "comments": 25896,
+      "stars": 307640,
+      "forks": 25896,
+      "starsToday": 876,
+      "language": "Shell",
+      "createdAt": "2026-10-31T06:10:14.975Z",
+      "pageDescription": "Skills for Real Engineers. Straight from my .agents directory.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI agent"
+      ],
+      "score": 635,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：mattpocock/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/pbakaus/impeccable",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "source": "GitHub Trending",
+      "points": 97334,
+      "comments": 5734,
+      "stars": 97334,
+      "forks": 5734,
+      "starsToday": 2300,
+      "language": "Rust",
+      "createdAt": "2026-10-31T06:10:14.975Z",
+      "pageDescription": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI",
+        "AI agent"
+      ],
+      "score": 635,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -194,100 +202,88 @@
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "source": "GitHub Trending",
-      "points": 50688,
-      "comments": 6236,
-      "stars": 50688,
-      "forks": 6236,
-      "starsToday": 1930,
+      "points": 51977,
+      "comments": 6369,
+      "stars": 51977,
+      "forks": 6369,
+      "starsToday": 2282,
       "language": "Python",
-      "createdAt": "2026-10-30T06:18:49.751Z",
+      "createdAt": "2026-10-31T06:10:14.975Z",
       "pageDescription": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
       "githubTopics": [],
       "matchedQueries": [
         "trending"
       ],
-      "score": 591,
+      "score": 596,
       "intro": "这篇来自 github.com 的帖子主要介绍了：HKUDS/DeepTutor相关内容，聚焦trending相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, fresh today"
     },
     {
-      "id": "trending:github.com/Donchitos/Claude-Code-Game-Studios",
-      "title": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "id": "trending:github.com/anthropics/skills",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
       "source": "GitHub Trending",
-      "points": 29547,
-      "comments": 4068,
-      "stars": 29547,
-      "forks": 4068,
-      "starsToday": 353,
-      "language": "Shell",
-      "createdAt": "2026-10-30T06:18:49.751Z",
-      "pageDescription": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "points": 185489,
+      "comments": 21905,
+      "stars": 185489,
+      "forks": 21905,
+      "starsToday": 295,
+      "language": "Python",
+      "createdAt": "2026-10-31T06:10:14.975Z",
+      "pageDescription": "Public repository for Agent Skills",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
-        "AI",
-        "AI agent",
-        "Anthropic",
-        "Claude"
-      ],
-      "score": 574,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：Donchitos/Claude-Code-Game-Studios相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/elayadesign/ai-design-skills",
-      "title": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "source": "GitHub Trending",
-      "points": 12444,
-      "comments": 903,
-      "stars": 12444,
-      "forks": 903,
-      "starsToday": 1187,
-      "language": "",
-      "createdAt": "2026-10-30T06:18:49.751Z",
-      "pageDescription": "",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "AI"
-      ],
-      "score": 544,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：elayadesign/ai-design-skills相关内容，聚焦trending、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "50296486",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50296486",
-      "source": "Hacker News",
-      "points": 241,
-      "comments": 82,
-      "author": "sandslash",
-      "createdAt": "2026-10-29T21:40:28Z",
-      "storyText": "",
-      "matchedQueries": [
-        "AI agents",
-        "AI",
         "AI agent"
       ],
-      "score": 544,
-      "intro": "这篇来自 labs.ycombinator.com 的帖子主要介绍了：We ran AI agent swarms in Minecraft and Mindustry相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。",
+      "score": 595,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：anthropics/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50296730",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "hnUrl": "https://news.ycombinator.com/item?id=50296730",
+      "source": "Hacker News",
+      "points": 133,
+      "comments": 168,
+      "createdAt": "2026-10-29T21:58:34",
+      "matchedQueries": [
+        "front page",
+        "AI"
+      ],
+      "score": 584,
+      "intro": "这篇来自 twitter.com 的帖子主要介绍了：Building an AI-native engineering org相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50306442",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
+      "hnUrl": "https://news.ycombinator.com/item?id=50306442",
+      "source": "Hacker News",
+      "points": 228,
+      "comments": 118,
+      "createdAt": "2026-10-30T16:40:22",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 578,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：A working Nintendo in ~1GB of Qwen weights相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     },
     {
       "id": "github:morluto/rea",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 408941,
-      "comments": 1303,
-      "stars": 408941,
-      "forks": 102415,
-      "openIssues": 1303,
-      "createdAt": "2026-10-30T06:11:00Z",
+      "points": 413010,
+      "comments": 1395,
+      "stars": 413010,
+      "forks": 103316,
+      "openIssues": 1395,
+      "createdAt": "2026-10-31T06:05:16Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -349,12 +345,12 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 258590,
-      "comments": 51975,
-      "stars": 258590,
-      "forks": 56799,
-      "openIssues": 51975,
-      "createdAt": "2026-10-30T05:58:03Z",
+      "points": 258938,
+      "comments": 52141,
+      "stars": 258938,
+      "forks": 56919,
+      "openIssues": 52141,
+      "createdAt": "2026-10-31T06:04:00Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -402,12 +398,12 @@
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 209074,
-      "comments": 1198,
-      "stars": 209074,
-      "forks": 61307,
-      "openIssues": 1198,
-      "createdAt": "2026-10-30T06:08:47Z",
+      "points": 209164,
+      "comments": 1175,
+      "stars": 209164,
+      "forks": 61329,
+      "openIssues": 1175,
+      "createdAt": "2026-10-31T06:09:33Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -464,12 +460,12 @@
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 187827,
+      "points": 187839,
       "comments": 748,
-      "stars": 187827,
-      "forks": 45901,
+      "stars": 187839,
+      "forks": 45908,
       "openIssues": 748,
-      "createdAt": "2026-10-30T06:18:30Z",
+      "createdAt": "2026-10-31T04:48:07Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -503,51 +499,8 @@
         "Anthropic",
         "Claude"
       ],
-      "score": 483,
-      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "github:affaan-m/ECC",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub",
-      "points": 292862,
-      "comments": 174,
-      "stars": 292862,
-      "forks": 43341,
-      "openIssues": 174,
-      "createdAt": "2026-10-30T03:06:42Z",
-      "pageDescription": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "githubTopics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity"
-      ],
-      "matchedQueries": [
-        "llm",
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "mcp",
-        "productivity",
-        "AI",
-        "LLM",
-        "AI agent",
-        "MCP",
-        "Anthropic",
-        "Claude",
-        "Codex"
-      ],
       "score": 481,
-      "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -555,12 +508,12 @@
       "title": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 168339,
-      "comments": 1025,
-      "stars": 168339,
-      "forks": 35033,
-      "openIssues": 1025,
-      "createdAt": "2026-10-30T06:10:46Z",
+      "points": 168378,
+      "comments": 1028,
+      "stars": 168378,
+      "forks": 35056,
+      "openIssues": 1028,
+      "createdAt": "2026-10-31T03:23:22Z",
       "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
         "audio",
@@ -607,7 +560,7 @@
         "LLM",
         "DeepSeek"
       ],
-      "score": 478,
+      "score": 473,
       "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -616,12 +569,12 @@
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 159959,
-      "comments": 1158,
-      "stars": 159959,
-      "forks": 25272,
-      "openIssues": 1158,
-      "createdAt": "2026-10-30T06:17:35Z",
+      "points": 160049,
+      "comments": 1150,
+      "stars": 160049,
+      "forks": 25292,
+      "openIssues": 1150,
+      "createdAt": "2026-10-31T04:54:45Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -674,60 +627,173 @@
         "Claude",
         "DeepSeek"
       ],
-      "score": 473,
+      "score": 471,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:ollama/ollama",
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
+      "id": "github:firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "points": 185287,
-      "comments": 4494,
-      "stars": 185287,
-      "forks": 18747,
-      "openIssues": 4494,
-      "createdAt": "2026-10-30T01:53:49Z",
-      "pageDescription": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "points": 197175,
+      "comments": 724,
+      "stars": 197175,
+      "forks": 10415,
+      "openIssues": 724,
+      "createdAt": "2026-10-31T05:47:16Z",
+      "pageDescription": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "githubTopics": [
-        "deepseek",
-        "gemma",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
         "llm",
-        "llms",
-        "minimax",
-        "mistral",
-        "muse",
-        "ollama",
-        "qwen"
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
       ],
       "matchedQueries": [
         "llm",
-        "deepseek",
-        "gemma",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llms",
-        "minimax",
-        "mistral",
-        "muse",
-        "ollama",
-        "qwen",
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping",
+        "AI",
         "LLM",
-        "OpenAI",
-        "DeepSeek"
+        "AI agent"
       ],
-      "score": 465,
-      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
+      "score": 467,
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "source": "GitHub",
+      "points": 157324,
+      "comments": 157,
+      "stars": 157324,
+      "forks": 22884,
+      "openIssues": 157,
+      "createdAt": "2026-10-31T05:07:36Z",
+      "pageDescription": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "githubTopics": [
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "matchedQueries": [
+        "rag",
+        "ai",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "self-hosted",
+        "ui",
+        "webui",
+        "AI",
+        "LLM",
+        "RAG",
+        "MCP",
+        "OpenAI"
+      ],
+      "score": 464,
+      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "hf:2610.39633",
+      "title": "Intrinsic Distribution Matching",
+      "url": "https://huggingface.co/papers/2610.39633",
+      "source": "HF Papers",
+      "points": 239,
+      "comments": 0,
+      "upvotes": 239,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-10-29T00:00:00.000Z",
+      "abstract": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-scor",
+      "pageDescription": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-scor",
+      "matchedQueries": [
+        "HF daily",
+        "prompt engineering",
+        "AI safety"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Intrinsic%20Distribution%20Matching",
+      "score": 317,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，聚焦HF daily、提示词工程、AI 安全相关背景、功能和讨论点。",
+      "reason": "high HN points, matched multiple AI queries"
+    },
+    {
+      "id": "hf:2610.38568",
+      "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+      "url": "https://huggingface.co/papers/2610.38568",
+      "source": "HF Papers",
+      "points": 151,
+      "comments": 0,
+      "upvotes": 151,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-10-28T00:00:00.000Z",
+      "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making super",
+      "pageDescription": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making super",
+      "matchedQueries": [
+        "HF daily"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=A-RSI%3A%20Adaptive%20Task%20Refresh%20for%20Zero-Data%20Multimodal%20Self-Improvement",
+      "score": 188,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement相关内容，聚焦HF daily相关背景、功能和讨论点。",
+      "reason": "high HN points"
     },
     {
       "id": "arxiv:2610.38617v1",
@@ -810,268 +876,213 @@
         "AI safety"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=VeriCUA%3A%20Verification%20as%20Agentic%20Exploration%20for%20Computer-Using%20Agents",
-      "score": 147,
+      "score": 126,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：VeriCUA: Verification as Agentic Exploration for Computer-Using Agents相关内容，关注成本结构、定价策略和实际落地收益。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "arxiv:2610.40586v1",
-      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
-      "url": "https://arxiv.org/abs/2610.40586v1",
-      "pdfUrl": "https://arxiv.org/pdf/2610.40586v1",
+      "id": "arxiv:2610.38521v1",
+      "title": "Security Impact of Coding Agent's Memory Files",
+      "url": "https://arxiv.org/abs/2610.38521v1",
+      "pdfUrl": "https://arxiv.org/pdf/2610.38521v1",
       "source": "arXiv",
       "points": 0,
       "comments": 0,
       "authors": [
-        "Yalin E. Sagduyu",
-        "Tugba Erpek",
-        "Sastry Kompella"
+        "Thiago Santos de Moura",
+        "Selma Güler",
+        "Yannic Noller"
       ],
       "categories": [
-        "cs.NI",
-        "cs.AI",
-        "cs.LG",
-        "eess.SP"
+        "cs.SE",
+        "cs.CR"
       ],
-      "createdAt": "2026-10-29T17:47:02Z",
-      "updatedAt": "2026-10-29T17:47:02Z",
-      "abstract": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic range and Doppler estimation, leading to errors in target localization and velocity estimation. This paper presents a multistatic ISAC framework with clutter suppression for high-fidelity estimation of target position and velocity. Distributed clutter is modeled with randomly located scatterers with varying Doppler spreads and radar cross sections to capture dense and dynamic clutter effects. A broad range of conventional signal processing baselines are evaluated for clutter suppression, showing limited robustness under strong clutter conditions. To address this limitation, deep learning-based clutter suppression methods are introduced to improve robustness against dense and dynamic clutter by employing residual and attention-enhanced deep neural network architectures that directly enhance target responses from clutter-contaminated observations. These methods substantially outperform conventional approaches in target position and velocity estimation across diverse clutter conditions in multistatic ISAC.",
-      "pageDescription": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic range and Doppler estimation, leading to errors in target localization and velocity estimation. This paper presents a multistatic ISAC framework with clutter suppression for high-fidelity estimation of target position and velocity. Distributed clutter is modeled with randomly located scatterers with varying Doppler spreads and radar cross sections to capture dense and dynamic clutter effects. A broad range of conventional signal processing baselines are evaluated for clutter suppression, showing limited robustness under strong clutter conditions. To address this limitation, deep learning-based clutter suppression methods are introduced to improve robustness against dense and dynamic clutter by employing residual and attention-enhanced deep neural network architectures that directly enhance target responses from clutter-contaminated observations. These methods substantially outperform conventional approaches in target position and velocity estimation across diverse clutter conditions in multistatic ISAC.",
+      "createdAt": "2026-10-28T09:33:08Z",
+      "updatedAt": "2026-10-28T09:33:08Z",
+      "abstract": "Coding agents automatically load project memory files such as CLAUDE.md at the start of every session and treat them as trusted project guidance. Anyone who can change such a file, for example through a pull request, can therefore steer the agent without ever touching the developer's prompt. We study memory files as an attack surface for insecure code generation and ask (1) whether a malicious memory file makes agents produce code that passes its tests but is vulnerable, and (2) whether agents disclose to the developer that the file shaped their code. For each of 12 CWE classes, we crafted two malicious memory files, a qualified variant that presents removing defensive checks as engineering best practice and a forceful variant that demands it. We ran Claude Code (Sonnet 5.5) and OpenCode (Qwen 3.8 27B, DeepSeek V4.1 Flash) on 36 SecRepoBench tasks with and without these files. The malicious files changed the rate of secure completions by -8 to +6 percentage points, with no consistent pattern across agents or variants. Agents differ sharply in what they tell the developer about the file. Claude Code names it in about two thirds of its final messages, whereas OpenCode mentions it almost exclusively in its reasoning trace, not in the final message the developer reads. Flagging the file as an attack does not reliably protect the code, as such agents still generated vulnerable code. We outline the larger studies needed to quantify this risk across agents and to design defenses.",
+      "pageDescription": "Coding agents automatically load project memory files such as CLAUDE.md at the start of every session and treat them as trusted project guidance. Anyone who can change such a file, for example through a pull request, can therefore steer the agent without ever touching the developer's prompt. We study memory files as an attack surface for insecure code generation and ask (1) whether a malicious memory file makes agents produce code that passes its tests but is vulnerable, and (2) whether agents disclose to the developer that the file shaped their code. For each of 12 CWE classes, we crafted two malicious memory files, a qualified variant that presents removing defensive checks as engineering best practice and a forceful variant that demands it. We ran Claude Code (Sonnet 5.5) and OpenCode (Qwen 3.8 27B, DeepSeek V4.1 Flash) on 36 SecRepoBench tasks with and without these files. The malicious files changed the rate of secure completions by -8 to +6 percentage points, with no consistent pattern across agents or variants. Agents differ sharply in what they tell the developer about the file. Claude Code names it in about two thirds of its final messages, whereas OpenCode mentions it almost exclusively in its reasoning trace, not in the final message the developer reads. Flagging the file as an attack does not reliably protect the code, as such agents still generated vulnerable code. We outline the larger studies needed to quantify this risk across agents and to design defenses.",
       "matchedQueries": [
-        "AI safety",
-        "cs.NI",
-        "cs.AI",
-        "cs.LG",
-        "eess.SP",
-        "AI",
-        "machine learning"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Multistatic%20ISAC%20with%20Deep%20Learning-Based%20Clutter%20Suppression%20for%205G%20and%20Beyond",
-      "score": 119,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond相关内容，聚焦AI 安全、cs.NI、cs.AI、cs.LG、eess.SP、人工智能、机器学习相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "hf:2610.29927",
-      "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
-      "url": "https://huggingface.co/papers/2610.29927",
-      "source": "HF Papers",
-      "points": 70,
-      "comments": 0,
-      "upvotes": 70,
-      "authors": [],
-      "categories": [
-        "HF Daily Papers"
-      ],
-      "createdAt": "2026-10-21T00:00:00.000Z",
-      "abstract": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gap",
-      "pageDescription": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gap",
-      "matchedQueries": [
-        "HF daily"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Your%20Benchmark%20Is%20an%20Empirical%20Measure%20Over%20Difficulty",
-      "score": 95,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Your Benchmark Is an Empirical Measure Over Difficulty相关内容，聚焦HF daily相关背景、功能和讨论点。",
-      "reason": "balanced activity signal"
-    },
-    {
-      "id": "hf:2610.33106",
-      "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
-      "url": "https://huggingface.co/papers/2610.33106",
-      "source": "HF Papers",
-      "points": 15,
-      "comments": 0,
-      "upvotes": 15,
-      "authors": [],
-      "categories": [
-        "HF Daily Papers"
-      ],
-      "createdAt": "2026-10-22T00:00:00.000Z",
-      "abstract": "Large language model agents have enabled software development through natural-language interaction, but extending this paradigm to end-to-end game development remains challenging. Building a playable game requires coordinating code, scenes, assets, animations, physics, and configurations, while allowing developers to validate their integrated behavior through interactive testing. We introduce Vibe",
-      "pageDescription": "Large language model agents have enabled software development through natural-language interaction, but extending this paradigm to end-to-end game development remains challenging. Building a playable game requires coordinating code, scenes, assets, animations, physics, and configurations, while allowing developers to validate their integrated behavior through interactive testing. We introduce Vibe",
-      "matchedQueries": [
-        "HF daily",
-        "AI",
-        "LLM",
+        "AI coding",
+        "cs.SE",
+        "cs.CR",
         "AI agent",
-        "prompt engineering"
+        "prompt engineering",
+        "Anthropic",
+        "Claude",
+        "DeepSeek"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=VibeGame%3A%20Prompt-to-Game%20Development%20with%20AI-Native%20Engine%20and%20Self-Evolving%20Adversarial%20Agent%20Team",
-      "score": 87,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Security%20Impact%20of%20Coding%20Agent's%20Memory%20Files",
+      "score": 112,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Security Impact of Coding Agent's Memory Files相关内容，聚焦浏览器自动化、网页操作和编程代理。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/10/506662.html",
-      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "id": "rss:qbitai:https://www.qbitai.com/2026/10/506785.html",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "url": "https://www.qbitai.com/2026/10/506785.html",
       "source": "QbitAI",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-10-30T03:48:04.000Z",
-      "pageDescription": "让机器人成为彼此的“老师”",
+      "createdAt": "2026-10-30T11:05:06.000Z",
+      "pageDescription": "之前还连登昇腾三榜第一",
       "categories": [
         "资讯",
-        "具身智能",
-        "无问芯穹",
-        "智元机器人"
+        "首页轮播",
+        "Deepseek",
+        "ForgeKernel",
+        "算子",
+        "面壁智能"
       ],
       "matchedQueries": [
         "资讯",
-        "具身智能",
-        "无问芯穹"
-      ],
-      "score": 81,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径相关内容，聚焦资讯、具身智能、无问芯穹相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "rss:solidot:https://www.solidot.org/story?sid=85743",
-      "title": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者",
-      "url": "https://www.solidot.org/story?sid=85743",
-      "source": "Solidot",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-10-29T09:13:23.000Z",
-      "pageDescription": "45 岁的 David Durman 是肯塔基大学的研究管理员，作为人文主义者（humanist）他坚信生活中人的重要性。这意味着他要坚持自主决策，确保自己的工作能促进他人成长。当学校要求员工在工作流程中使用 AI 他忧心忡忡，认为这意味着日常工作中须将思考这一环节转交给 Microsoft Teams Copilot、Claude 或 ChatGPT 等 AI 工具完成。他认为这违背了个人信念。在美国人文主义者协会（American Humanist Association）的协助下，他以遵守宗教信仰为由请求调整工作要求。学校上个月同意了他的请求。美国人文主义者协会认为这是首例人文主义者豁免使用 AI 的案例。",
-      "categories": [],
-      "matchedQueries": [
+        "首页轮播",
+        "Deepseek",
         "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
+        "DeepSeek"
       ],
-      "score": 61,
-      "intro": "这篇来自 solidot.org 的帖子主要介绍了：美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者相关内容，聚焦人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
+      "score": 79,
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！相关内容，聚焦资讯、首页轮播、Deepseek、人工智能、DeepSeek相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "paperscool:2610.37651",
-      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
-      "url": "https://arxiv.org/abs/2610.37651",
-      "pdfUrl": "https://arxiv.org/pdf/2610.37651",
+      "id": "paperscool:2610.39398",
+      "title": "Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms",
+      "url": "https://arxiv.org/abs/2610.39398",
+      "pdfUrl": "https://arxiv.org/pdf/2610.39398",
       "source": "papers.cool",
       "points": 0,
       "comments": 0,
       "authors": [
-        "Zack Yu",
-        "Nicholas Lee",
-        "Minjae Lee",
-        "Lakshya Agarwal",
-        "Luca Manolache",
-        "Wonjun Kang",
-        "Matei Zaharia",
-        "Michael W. Mahoney",
-        "Kurt Keutzer",
-        "Sehoon Kim",
-        "Amir Gholami"
+        "Oleg Vasilyev"
       ],
       "categories": [
         "cs.CL"
       ],
-      "createdAt": "2026-10-27T17:58:11+00:00",
-      "abstract": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitations, stochastic execution, or noisy judges. We argue that such failures may not provide useful learni",
-      "pageDescription": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic failures can also come from prompt weaknesses, harness limitations, stochastic execution, or noisy judges. We argue that such failures may not provide useful learni",
+      "createdAt": "2026-10-29T05:32:29+00:00",
+      "abstract": "Chatbots are increasingly consulted about public affairs, and their judgments of policies are useful only if they are robust. We measure this robustness in the setting of an ordinary user, through consumer chat interfaces. For 30 days, five chatbot configurations (Mistral, Gemini Flash, Claude Sonnet, and Claude Opus at two effort settings) were asked twice a day to score the long-term effect on t",
+      "pageDescription": "Chatbots are increasingly consulted about public affairs, and their judgments of policies are useful only if they are robust. We measure this robustness in the setting of an ordinary user, through consumer chat interfaces. For 30 days, five chatbot configurations (Mistral, Gemini Flash, Claude Sonnet, and Claude Opus at two effort settings) were asked twice a day to score the long-term effect on t",
       "matchedQueries": [
         "papers.cool",
         "LLM",
-        "AI agent",
-        "prompt engineering"
+        "Anthropic",
+        "Claude",
+        "Gemini"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=GEPA-Curator%3A%20Curated%20Learning%20for%20Self%20Improving%20Agents",
-      "score": 56,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：GEPA-Curator: Curated Learning for Self Improving Agents相关内容，聚焦papers.cool、大语言模型、AI Agent、提示词工程相关背景、功能和讨论点。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Robustness%20of%20Chatbot%20LLM%20Judgments%20of%20Presidential%20Actions%20and%20Hypothetical%20Reforms",
+      "score": 70,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms相关内容，聚焦papers.cool、大语言模型、Anthropic、Claude、Gemini相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
+    },
+    {
+      "id": "rss:solidot:https://www.solidot.org/story?sid=85755",
+      "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+      "url": "https://www.solidot.org/story?sid=85755",
+      "source": "Solidot",
+      "points": 0,
+      "comments": 0,
+      "createdAt": "2026-10-30T10:45:38.000Z",
+      "pageDescription": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot 等工具。这一结果并不出人意料，大型开源项目基本上不太可能完全避开 LLM。TDF 对这一发现回应称，他们确实要求贡献者在使用 LLM 时必须进行披露，且总体上并不鼓励使用 LLM。和 Debian 类似，LibreOffice 要求开发者理解自己的代码，确保代码质量。",
+      "categories": [],
+      "matchedQueries": [
+        "AI",
+        "LLM",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 64,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：LibreOffice 项目递交的代码发现使用LLM 的明确标记相关内容，聚焦人工智能、大语言模型、Anthropic、Claude相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50294702",
-      "title": "Patrick Stewart has died",
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50294702",
+      "id": "frontpage:hn:50300683",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50300683",
       "source": "Hacker News",
-      "points": 2715,
-      "comments": 577,
-      "createdAt": "2026-10-29T19:41:39",
+      "points": 859,
+      "comments": 512,
+      "createdAt": "2026-10-30T07:09:12",
       "matchedQueries": [
-        "front page"
+        "front page",
+        "Anthropic",
+        "Claude"
       ],
-      "score": 4545,
-      "intro": "这篇来自 nytimes.com 的帖子主要介绍了：Patrick Stewart has died相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
+      "score": 2260,
+      "intro": "这篇来自 phorion.io 的帖子主要介绍了：Backdoor in Claude Code for VS Code extension on the Cursor Marketplace相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50296470",
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "hnUrl": "https://news.ycombinator.com/item?id=50296470",
+      "id": "frontpage:hn:50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "hnUrl": "https://news.ycombinator.com/item?id=50305693",
       "source": "Hacker News",
-      "points": 1055,
-      "comments": 634,
-      "createdAt": "2026-10-29T21:38:59",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2776,
-      "intro": "这篇来自 arkm.com 的帖子主要介绍了：Binance-hacker-1029 – $5.6B stolen from Binance相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50289418",
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50289418",
-      "source": "Hacker News",
-      "points": 1319,
-      "comments": 360,
-      "createdAt": "2026-10-29T14:13:21",
+      "points": 551,
+      "comments": 410,
+      "createdAt": "2026-10-30T15:52:18",
       "matchedQueries": [
         "front page",
         "AI"
       ],
-      "score": 2423,
-      "intro": "这篇来自 mistral.ai 的帖子主要介绍了：We're releasing the weights of Mistral Large 4相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "score": 1663,
+      "intro": "这篇来自 newsletter.signoz.io 的帖子主要介绍了：AI isn't replacing SREs, it's deskilling them相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50287775",
-      "title": "If IPv4 were land",
-      "url": "https://iptrust.co/blog/if-ipv4-were-land",
-      "hnUrl": "https://news.ycombinator.com/item?id=50287775",
+      "id": "frontpage:hn:50305025",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "hnUrl": "https://news.ycombinator.com/item?id=50305025",
       "source": "Hacker News",
-      "points": 262,
-      "comments": 362,
-      "createdAt": "2026-10-29T12:19:00",
+      "points": 406,
+      "comments": 299,
+      "createdAt": "2026-10-30T15:10:31",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1195,
-      "intro": "这篇来自 iptrust.co 的帖子主要介绍了：If IPv4 were land相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1215,
+      "intro": "这篇来自 status.northflank.com 的帖子主要介绍了：Northflank Breached相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50290177",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50290177",
+      "id": "frontpage:hn:50303172",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50303172",
       "source": "Hacker News",
-      "points": 410,
-      "comments": 214,
-      "createdAt": "2026-10-29T14:57:55",
+      "points": 395,
+      "comments": 267,
+      "createdAt": "2026-10-30T12:50:01",
       "matchedQueries": [
-        "front page",
-        "LLM"
+        "front page"
       ],
-      "score": 1029,
-      "intro": "这篇来自 martinfowler.com 的帖子主要介绍了：LLM Voice相关内容，聚焦front page、大语言模型相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
+      "score": 1121,
+      "intro": "这篇来自 wired.com 的帖子主要介绍了：The $6.3B Binance hack was pulled off in just 20 minutes相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50309647",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50309647",
+      "source": "Hacker News",
+      "points": 272,
+      "comments": 149,
+      "createdAt": "2026-10-30T20:23:30",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 710,
+      "intro": "这篇来自 bostonglobe.com 的帖子主要介绍了：Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-10-30T06:19:07.217Z",
-    "totalFetched": 183,
-    "uniqueCount": 145,
+    "generatedAt": "2026-10-31T06:10:31.753Z",
+    "totalFetched": 270,
+    "uniqueCount": 216,
     "candidates": [
       {
         "id": "arxiv:2610.40578v1",
@@ -1115,7 +1126,7 @@
         "methodHint": "VeriCUA",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched Multimodal, matched AI safety"
       },
@@ -1164,7 +1175,7 @@
         "methodHint": "TextSeal2",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1201,7 +1212,7 @@
         "methodHint": "Gym-Anything for Robotics",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF"
       },
@@ -1240,7 +1251,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1276,7 +1287,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       },
@@ -1316,7 +1327,7 @@
         "methodHint": "a multistatic ISAC framework",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       },
@@ -1364,7 +1375,7 @@
         "methodHint": "an AI-assisted evaluation pipeline",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1410,7 +1421,7 @@
         "methodHint": "Human-Participatory Multi-Agent Organization and",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1449,7 +1460,7 @@
         "methodHint": "a physics-informed multimodal deep",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       },
@@ -1486,7 +1497,7 @@
         "methodHint": "Soei",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 210,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched AI agent, matched AI coding, CS AI category, has PDF"
       },
@@ -1521,7 +1532,7 @@
         "methodHint": "CopyLoop",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 215,
+        "score": 207,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched AI coding, CS AI category, has PDF"
       },
@@ -1560,7 +1571,7 @@
         "methodHint": "an autonomous research laboratory",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1595,7 +1606,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1642,7 +1653,7 @@
         "methodHint": "ClinGeX",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1685,7 +1696,7 @@
         "methodHint": "BURGER",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, matched AI safety, CS AI category"
       }
@@ -1733,7 +1744,7 @@
         "methodHint": "VeriCUA",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched Multimodal, matched AI safety"
       },
@@ -1782,7 +1793,7 @@
         "methodHint": "TextSeal2",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1819,7 +1830,7 @@
         "methodHint": "Gym-Anything for Robotics",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF"
       },
@@ -1858,7 +1869,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1894,7 +1905,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       }
@@ -1904,33 +1915,33 @@
     {
       "name": "GitHub Trending",
       "url": "https://github.com/trending",
-      "status": "ok (11 parsed)",
-      "found": 11,
-      "observedAt": "2026-10-30T06:18:49.056Z",
-      "kept": 11
+      "status": "ok (15 parsed)",
+      "found": 15,
+      "observedAt": "2026-10-31T06:10:13.569Z",
+      "kept": 15
     },
     {
       "name": "HN Front Page",
       "url": "https://news.ycombinator.com/",
       "status": "ok (30 parsed)",
       "found": 30,
-      "observedAt": "2026-10-30T06:18:51.253Z",
+      "observedAt": "2026-10-31T06:10:16.477Z",
       "kept": 30
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (19 parsed)",
-      "found": 19,
-      "observedAt": "2026-10-30T06:18:52.985Z",
-      "kept": 19
+      "status": "ok (39 parsed)",
+      "found": 39,
+      "observedAt": "2026-10-31T06:10:18.087Z",
+      "kept": 39
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-10-30T06:18:54.622Z",
+      "observedAt": "2026-10-31T06:10:19.835Z",
       "kept": 10
     },
     {
@@ -1938,64 +1949,66 @@
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-10-30T06:18:57.863Z",
+      "observedAt": "2026-10-31T06:10:23.257Z",
       "kept": 20
     },
     {
       "name": "papers.cool",
       "url": "https://papers.cool/arxiv/cs.CL/feed",
-      "status": "ok (108 parsed)",
-      "found": 108,
-      "observedAt": "2026-10-30T06:19:00.684Z",
-      "kept": 108
+      "status": "ok (175 parsed)",
+      "found": 175,
+      "observedAt": "2026-10-31T06:10:26.039Z",
+      "kept": 175
     }
   ],
   "momentum": [
     {
       "source": "Hacker News",
       "count": 8,
-      "momentum": -0.029
+      "momentum": -0.019
     },
     {
       "source": "GitHub",
       "count": 8,
-      "momentum": -0.076
+      "momentum": -0.057
     },
     {
       "source": "GitHub Trending",
       "count": 6,
-      "momentum": 0.086
+      "momentum": 0.057
     },
     {
       "source": "arXiv",
       "count": 3,
-      "momentum": 0.005
+      "momentum": 0.01
     },
     {
       "source": "HF Papers",
       "count": 2,
-      "momentum": 0.029
+      "momentum": 0.019
     },
     {
       "source": "QbitAI",
       "count": 1,
-      "momentum": 0.014
-    },
-    {
-      "source": "Solidot",
-      "count": 1,
-      "momentum": 0.014
+      "momentum": 0.01
     },
     {
       "source": "papers.cool",
       "count": 1,
-      "momentum": 0.014
+      "momentum": 0.01
+    },
+    {
+      "source": "Solidot",
+      "count": 1,
+      "momentum": 0.01
     }
   ],
   "diagnostics": {
     "errors": [
       "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
     ],
-    "warnings": []
+    "warnings": [
+      "GitHub: codex: HTTP 403"
+    ]
   }
 }

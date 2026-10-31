@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-30T06:19:07.381Z",
+  "generatedAt": "2026-10-31T06:10:31.949Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-30",
-      "generatedAt": "2026-09-30T05:52:47.214Z",
-      "totalFetched": 310,
-      "uniqueCount": 245,
-      "recommendations": [
-        {
-          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-          "source": "Hacker News",
-          "score": 784,
-          "points": 211
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 250130
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206318
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187622
-        },
-        {
-          "title": "Ask HN: How do you handle hitting AI coding agent usage limits?",
-          "url": "https://news.ycombinator.com/item?id=49904074",
-          "source": "Hacker News",
-          "score": 171,
-          "points": 1
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
-          "url": "https://arxiv.org/abs/2609.38155v1",
-          "source": "arXiv",
-          "score": 245
-        },
-        {
-          "title": "$S^3$: Spectral Null-Space Swap Makes Reasoning Models Efficient",
-          "url": "https://arxiv.org/abs/2609.37976v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
-          "url": "https://arxiv.org/abs/2609.38142v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals",
-          "url": "https://arxiv.org/abs/2609.37993v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-          "url": "https://arxiv.org/abs/2609.38143v1",
-          "source": "arXiv",
-          "score": 226
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-01",
       "generatedAt": "2026-10-01T06:26:18.880Z",
@@ -2634,6 +2553,123 @@
           "name": "HF Daily Papers",
           "status": "ok (5 parsed)",
           "found": 5
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "generatedAt": "2026-10-30T06:19:07.231Z",
+      "totalFetched": 493,
+      "uniqueCount": 413,
+      "recommendations": [
+        {
+          "title": "Patrick Stewart has died",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+          "source": "Hacker News",
+          "score": 4545,
+          "points": 2715
+        },
+        {
+          "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+          "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+          "source": "Hacker News",
+          "score": 2776,
+          "points": 1055
+        },
+        {
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "source": "Hacker News",
+          "score": 2423,
+          "points": 1319
+        },
+        {
+          "title": "If IPv4 were land",
+          "url": "https://iptrust.co/blog/if-ipv4-were-land",
+          "source": "Hacker News",
+          "score": 1195,
+          "points": 262
+        },
+        {
+          "title": "LLM Voice",
+          "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+          "source": "Hacker News",
+          "score": 1029,
+          "points": 410
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.40578v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+          "url": "https://arxiv.org/abs/2610.40613v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+          "url": "https://arxiv.org/abs/2610.40565v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+          "url": "https://arxiv.org/abs/2610.40541v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+          "url": "https://arxiv.org/abs/2610.40611v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "QbitAI": 1,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (19 parsed)",
+          "found": 19
         },
         {
           "name": "QbitAI",
