@@ -1,172 +1,173 @@
 # Obsession Radar
 
-Generated: 2026-10-24T14:11:33.439Z
-Fetched: 511 links | Unique: 436 | Candidates: 30
+Generated: 2026-10-31T06:10:31.773Z
+Fetched: 583 links | Unique: 509 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-   - 内容介绍：这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2608 | Points: 964 | Comments: 619
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50211474
-
-2. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-   - 内容介绍：这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-   - Score: 2553 | Points: 977 | Comments: 584
+1. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+   - 内容介绍：这篇来自 phorion.io 的帖子主要介绍了：Backdoor in Claude Code for VS Code extension on the Cursor Marketplace相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+   - Score: 2260 | Points: 859 | Comments: 512
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50212065
+   - HN: https://news.ycombinator.com/item?id=50300683
 
-3. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-   - 内容介绍：这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2239 | Points: 1438 | Comments: 238
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50202285
+2. [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
+   - 内容介绍：这篇来自 newsletter.signoz.io 的帖子主要介绍了：AI isn't replacing SREs, it's deskilling them相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+   - Score: 1663 | Points: 551 | Comments: 410
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50305693
 
-4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-   - 内容介绍：这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1549 | Points: 821 | Comments: 246
+3. [Northflank Breached](https://status.northflank.com)
+   - 内容介绍：这篇来自 status.northflank.com 的帖子主要介绍了：Northflank Breached相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1215 | Points: 406 | Comments: 299
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50207910
+   - HN: https://news.ycombinator.com/item?id=50305025
 
-5. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
-   - 内容介绍：这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1104 | Points: 453 | Comments: 237
+4. [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
+   - 内容介绍：这篇来自 wired.com 的帖子主要介绍了：The $6.3B Binance hack was pulled off in just 20 minutes相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1121 | Points: 395 | Comments: 267
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50202114
+   - HN: https://news.ycombinator.com/item?id=50303172
+
+5. [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+   - 内容介绍：这篇来自 bostonglobe.com 的帖子主要介绍了：Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 710 | Points: 272 | Comments: 149
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=50309647
 
 ## 30-Link Candidate Pool
 
-1. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 2608 pts
-   - 内容介绍：这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。
-2. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 2553 pts
-   - 内容介绍：这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-3. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 2239 pts
-   - 内容介绍：这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。
-4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 1549 pts
-   - 内容介绍：这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。
-5. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) - 1104 pts
-   - 内容介绍：这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。
-6. [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) - 882 pts
-   - 内容介绍：这篇来自 block.xyz 的帖子主要介绍了：Dessa: Conversation Model trained only on speech相关内容，聚焦front page相关背景、功能和讨论点。
-7. [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) - 638 pts
-   - 内容介绍：这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-8. [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) - 637 pts
-   - 内容介绍：这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦front page、人工智能、OpenAI相关背景、功能和讨论点。
-9. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - 613 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：luongnv89/claude-howto相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-10. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - 597 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：cloudflare/security-audit-skill相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-11. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - 580 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，聚焦trending、人工智能相关背景、功能和讨论点。
-12. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - 577 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Nutlope/hallmark相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-13. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 567 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：NVIDIA/OpenShell相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
-14. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 555 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：google-gemini/gemini-cli相关内容，聚焦trending、人工智能、AI Agent、Gemini相关背景、功能和讨论点。
-15. [morluto/rea](https://github.com/morluto/rea) - 504 pts
+1. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 2260 pts
+   - 内容介绍：这篇来自 phorion.io 的帖子主要介绍了：Backdoor in Claude Code for VS Code extension on the Cursor Marketplace相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+2. [AI isn't replacing SREs, it's deskilling them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) - 1663 pts
+   - 内容介绍：这篇来自 newsletter.signoz.io 的帖子主要介绍了：AI isn't replacing SREs, it's deskilling them相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+3. [Northflank Breached](https://status.northflank.com) - 1215 pts
+   - 内容介绍：这篇来自 status.northflank.com 的帖子主要介绍了：Northflank Breached相关内容，聚焦front page相关背景、功能和讨论点。
+4. [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) - 1121 pts
+   - 内容介绍：这篇来自 wired.com 的帖子主要介绍了：The $6.3B Binance hack was pulled off in just 20 minutes相关内容，聚焦front page相关背景、功能和讨论点。
+5. [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) - 710 pts
+   - 内容介绍：这篇来自 bostonglobe.com 的帖子主要介绍了：Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man相关内容，聚焦front page相关背景、功能和讨论点。
+6. [Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/) - 651 pts
+   - 内容介绍：这篇来自 fortune.com 的帖子主要介绍了：Cisco gives engineer unlimited AI tokens to rewrite legacy code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+7. [obra/superpowers](https://github.com/obra/superpowers) - 645 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+8. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - 638 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：thedotmack/claude-mem相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+9. [mattpocock/skills](https://github.com/mattpocock/skills) - 635 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：mattpocock/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+10. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - 635 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+11. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - 596 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：HKUDS/DeepTutor相关内容，聚焦trending相关背景、功能和讨论点。
+12. [anthropics/skills](https://github.com/anthropics/skills) - 595 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：anthropics/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+13. [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875) - 584 pts
+   - 内容介绍：这篇来自 twitter.com 的帖子主要介绍了：Building an AI-native engineering org相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+14. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) - 578 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：A working Nintendo in ~1GB of Qwen weights相关内容，聚焦front page相关背景、功能和讨论点。
+15. [morluto/rea](https://github.com/morluto/rea) - 507 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
 16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 491 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 486 pts
+17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
+18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 481 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-19. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-20. [huggingface/transformers](https://github.com/huggingface/transformers) - 469 pts
+19. [huggingface/transformers](https://github.com/huggingface/transformers) - 473 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+20. [langgenius/dify](https://github.com/langgenius/dify) - 471 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
 21. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 467 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-22. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 462 pts
+22. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 464 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-23. [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) - 293 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：WeVisOne-VL: Unified Visual Perception from Objects to Pixels相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。
-24. [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) - 232 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-25. [DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination](https://arxiv.org/abs/2610.31511v1) - 126 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination相关内容，聚焦浏览器自动化、网页操作和编程代理。
-26. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Cost-Aware Abstention for LLM-Based IT Ticket Classification相关内容，关注成本结构、定价策略和实际落地收益。
-27. [Training Small Language Models for Transferable Tool Selection](https://arxiv.org/abs/2610.31483v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Training Small Language Models for Transferable Tool Selection相关内容，聚焦AI Agent、cs.LG、cs.AI、人工智能、大语言模型、OpenAI、Anthropic、Claude相关背景、功能和讨论点。
-28. [企业AI需要两个世界模型](https://www.qbitai.com/2026/10/505032.html) - 70 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：企业AI需要两个世界模型相关内容，聚焦资讯、世界模型、特赞、人工智能、AI Agent相关背景、功能和讨论点。
-29. [Low-Bit N-Gram Embeddings for Language Models](https://arxiv.org/abs/2610.31646) - 56 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Low-Bit N-Gram Embeddings for Language Models相关内容，聚焦papers.cool、大语言模型、RAG、DeepSeek相关背景、功能和讨论点。
-30. [Google 修改隐私条款将 Gmail 和照片数据用于个性化广告](https://www.solidot.org/story?sid=85698) - 41 pts
-   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：Google 修改隐私条款将 Gmail 和照片数据用于个性化广告相关内容，聚焦AI 信息雷达相关背景、功能和讨论点。
+23. [Intrinsic Distribution Matching](https://huggingface.co/papers/2610.39633) - 317 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Anthropic 对模型蒸馏的态度及其行业讽刺点，聚焦HF daily、提示词工程、AI 安全相关背景、功能和讨论点。
+24. [A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement](https://huggingface.co/papers/2610.38568) - 188 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement相关内容，聚焦HF daily相关背景、功能和讨论点。
+25. [How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0](https://arxiv.org/abs/2610.38617v1) - 154 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0相关内容，聚焦浏览器自动化、网页操作和编程代理。
+26. [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](https://arxiv.org/abs/2610.40578v1) - 126 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：VeriCUA: Verification as Agentic Exploration for Computer-Using Agents相关内容，关注成本结构、定价策略和实际落地收益。
+27. [Security Impact of Coding Agent's Memory Files](https://arxiv.org/abs/2610.38521v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Security Impact of Coding Agent's Memory Files相关内容，聚焦浏览器自动化、网页操作和编程代理。
+28. [AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！](https://www.qbitai.com/2026/10/506785.html) - 79 pts
+   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！相关内容，聚焦资讯、首页轮播、Deepseek、人工智能、DeepSeek相关背景、功能和讨论点。
+29. [Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms](https://arxiv.org/abs/2610.39398) - 70 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms相关内容，聚焦papers.cool、大语言模型、Anthropic、Claude、Gemini相关背景、功能和讨论点。
+30. [LibreOffice 项目递交的代码发现使用LLM 的明确标记](https://www.solidot.org/story?sid=85755) - 64 pts
+   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：LibreOffice 项目递交的代码发现使用LLM 的明确标记相关内容，聚焦人工智能、大语言模型、Anthropic、Claude相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Sachin Gupta
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 219 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31657v1
-   - PDF: https://arxiv.org/pdf/2610.31657v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Cost-Aware%20Abstention%20for%20LLM-Based%20IT%20Ticket%20Classification
-
-2. [MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models](https://arxiv.org/abs/2610.31478v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Khaled Waleed Dawoud, Muhammad Zaigham Zaheer, Khan Muhammad, Muhammad Haris Khan
-   - Categories: cs.CV, cs.AI, cs.LG
-   - Score: 219 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31478v1
-   - PDF: https://arxiv.org/pdf/2610.31478v1
-   - Google Scholar: https://scholar.google.com/scholar?q=MoG-VLM%3A%20Efficient%20Video%20Anomaly%20Detection%20through%20Motion-Guided%20Vision-Language%20Models
-
-3. [Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination](https://arxiv.org/abs/2610.31586v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。
-   - Authors: Miguel Fernandez-de-Retana, Unai Zulaika, Ruben Sanchez-Corcuera, Aritz Bilbao-Jayo, Aitor Almeida
-   - Categories: cs.CL, cs.AI, cs.CY, cs.LG
-   - Score: 217 | Why: fresh paper, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31586v1
-   - PDF: https://arxiv.org/pdf/2610.31586v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Would%20an%20LLM%20Match%20into%20a%20Residency%3F%20Uncertainty%2C%20Reasoning%20and%20Image%20Use%20of%20Open%20Language%20Models%20on%20the%20Spanish%20MIR%20Examination
-
-4. [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670v1)
+1. [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](https://arxiv.org/abs/2610.40578v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei
-   - Categories: cs.CV, cs.LG, cs.RO
-   - Score: 211 | Why: fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2610.31670v1
-   - PDF: https://arxiv.org/pdf/2610.31670v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Sensorimotor%20Alignment%3A%20A%20Platonic%20Proxy%20for%20Embodied%20Policy%20Success
+   - Authors: Qiushi Sun, Da Yu, Alexander Knop, Amer Sinha, Lingpeng Kong, Ben Kao, Ravi Kumar, Pritish Kamath
+   - Categories: cs.AI, cs.CL, cs.CV
+   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, matched Multimodal, matched AI safety
+   - arXiv: https://arxiv.org/abs/2610.40578v1
+   - PDF: https://arxiv.org/pdf/2610.40578v1
+   - Google Scholar: https://scholar.google.com/scholar?q=VeriCUA%3A%20Verification%20as%20Agentic%20Exploration%20for%20Computer-Using%20Agents
 
-5. [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](https://arxiv.org/abs/2610.31656v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
-   - Authors: Ali Najar, Hosein Hasani, Amir Kooshan Fattah, Yasamin Rajabi, Mahdieh Soleymani Baghshah
-   - Categories: cs.LG, cs.AI
-   - Score: 211 | Why: fresh paper, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31656v1
-   - PDF: https://arxiv.org/pdf/2610.31656v1
-   - Google Scholar: https://scholar.google.com/scholar?q=METTA%3A%20Memory-Enhanced%20Test-Time%20Adaptation%20for%20Meta-Reinforcement%20Learning
+2. [TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races](https://arxiv.org/abs/2610.40613v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Tom Sander, Pierre Fernandez, Itai Gat, Haiming Bao, Jiaxin Shi, Jason Park, Valeriu Lacatusu, Sylvestre-Alvise Rebuffi, Hongyan Chang, Hady Elsahar, Tomáš Souček, Tuan Tran, Surya Parimi, Alexandre Mourachko
+   - Categories: cs.CR, cs.AI, cs.CL
+   - Score: 214 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.40613v1
+   - PDF: https://arxiv.org/pdf/2610.40613v1
+   - Google Scholar: https://scholar.google.com/scholar?q=TextSeal2%3A%20Distortion-Free%20LLM%20Watermarking%20with%20Copula%20Mixing%20and%20Memoryless%20Races
+
+3. [Gym-Anything for Robotics: Scaling physical simulations with digital agents](https://arxiv.org/abs/2610.40565v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Pranjal Aggarwal, Sean Welleck
+   - Categories: cs.RO, cs.AI, cs.LG
+   - Score: 214 | Why: fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.40565v1
+   - PDF: https://arxiv.org/pdf/2610.40565v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Gym-Anything%20for%20Robotics%3A%20Scaling%20physical%20simulations%20with%20digital%20agents
+
+4. [On the Fundamental Limits of Prefill-Based Decoding Length Prediction](https://arxiv.org/abs/2610.40541v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。
+   - Authors: Haowen Shi, Xuzhe Yan, Fahao Chen, Peng Li
+   - Categories: cs.AI, cs.CL, cs.IT
+   - Score: 214 | Why: fresh paper, matched LLM, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.40541v1
+   - PDF: https://arxiv.org/pdf/2610.40541v1
+   - Google Scholar: https://scholar.google.com/scholar?q=On%20the%20Fundamental%20Limits%20of%20Prefill-Based%20Decoding%20Length%20Prediction
+
+5. [When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder](https://arxiv.org/abs/2610.40611v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: A. J. A. Jubayer Talukder, Mohammad Ariful Haque
+   - Categories: cs.CL, cs.AI, cs.HC
+   - Score: 213 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2610.40611v1
+   - PDF: https://arxiv.org/pdf/2610.40611v1
+   - Google Scholar: https://scholar.google.com/scholar?q=When%20to%20Assist%20and%20What%20to%20Suggest%3A%20Joint%20Gating%20and%20Memory-Grounded%20Hint%20Generation%20in%20One%20Compact%20Decoder
 
 
 ## 网页源覆盖
 
-- GitHub Trending: ok (10 parsed)（10 条）
+- GitHub Trending: ok (15 parsed)（15 条）
 - HN Front Page: ok (30 parsed)（30 条）
-- HF Daily Papers: ok (50 parsed)（50 条）
+- HF Daily Papers: ok (39 parsed)（39 条）
 - QbitAI: ok (10 parsed)（10 条）
 - Solidot: ok (20 parsed)（20 条）
-- papers.cool: ok (117 parsed)（117 条）
+- papers.cool: ok (175 parsed)（175 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · ↓ -0.133
-- GitHub：8 席 · ↓ -0.229
-- GitHub Trending：6 席 · ↑ +0.2
+- Hacker News：8 席 · → 持平
+- GitHub：8 席 · ↓ -0.057
+- GitHub Trending：6 席 · ↑ +0.057
 - arXiv：3 席 · → 持平
-- HF Papers：2 席 · ↑ +0.067
-- QbitAI：1 席 · ↑ +0.033
-- papers.cool：1 席 · ↑ +0.033
-- Solidot：1 席 · 新增来源
+- HF Papers：2 席 · → 持平
+- QbitAI：1 席 · → 持平
+- papers.cool：1 席 · → 持平
+- Solidot：1 席 · → 持平
 
 
 ## 执行告警
 
 - 源失败: Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429
+- 查询告警: GitHub: codex: HTTP 403

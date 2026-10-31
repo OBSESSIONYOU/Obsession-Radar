@@ -1,495 +1,8 @@
 {
-  "generatedAt": "2026-10-24T14:12:03.162Z",
+  "generatedAt": "2026-10-31T06:10:31.949Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-09-25",
-      "generatedAt": "2026-09-25T05:16:18.807Z",
-      "totalFetched": 305,
-      "uniqueCount": 217,
-      "recommendations": [
-        {
-          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-          "url": "https://github.com/devdotfast/whiteboard",
-          "source": "Hacker News",
-          "score": 654,
-          "points": 244
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 248770
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 205905
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187538
-        },
-        {
-          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-          "url": "https://koi.rest",
-          "source": "Hacker News",
-          "score": 332,
-          "points": 155
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
-    {
-      "date": "2026-09-26",
-      "generatedAt": "2026-09-26T05:21:42.517Z",
-      "totalFetched": 307,
-      "uniqueCount": 228,
-      "recommendations": [
-        {
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "url": "https://swarmtraces.org/",
-          "source": "Hacker News",
-          "score": 932,
-          "points": 334
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 249019
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 487,
-          "points": 206001
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187565
-        },
-        {
-          "title": "Yes, Claude can do nine loops",
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News",
-          "score": 320,
-          "points": 103
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 220
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 214
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
-    {
-      "date": "2026-09-27",
-      "generatedAt": "2026-09-27T05:37:49.687Z",
-      "totalFetched": 283,
-      "uniqueCount": 212,
-      "recommendations": [
-        {
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News",
-          "score": 567,
-          "points": 111
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 249279
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 484,
-          "points": 206073
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 475,
-          "points": 187583
-        },
-        {
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News",
-          "score": 302,
-          "points": 56
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PoEM: Predicting RL Outcomes from Existing Policies",
-          "url": "https://arxiv.org/abs/2609.30226v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-          "url": "https://arxiv.org/abs/2609.29999v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "RAPID: Robot Agentic Programming from Demonstrations",
-          "url": "https://arxiv.org/abs/2609.30249v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
-          "url": "https://arxiv.org/abs/2609.30238v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
-          "url": "https://arxiv.org/abs/2609.30219v1",
-          "source": "arXiv",
-          "score": 206
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
-    {
-      "date": "2026-09-28",
-      "generatedAt": "2026-09-28T05:45:42.434Z",
-      "totalFetched": 289,
-      "uniqueCount": 230,
-      "recommendations": [
-        {
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-          "source": "Hacker News",
-          "score": 2154,
-          "points": 610
-        },
-        {
-          "title": "There are no \"rogue\" AI agents",
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "score": 1062,
-          "points": 353
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 249559
-        },
-        {
-          "title": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "source": "GitHub",
-          "score": 488,
-          "points": 268528
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 487,
-          "points": 206151
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Sorry Robot, Happy Human: Vision-Language Models Read Only One of Two Legible Typographic Layers",
-          "url": "https://arxiv.org/abs/2609.31403v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
-          "url": "https://arxiv.org/abs/2609.31587v1",
-          "source": "arXiv",
-          "score": 211
-        },
-        {
-          "title": "User Model Extraction via Belief Self-Distillation",
-          "url": "https://arxiv.org/abs/2609.31603v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training",
-          "url": "https://arxiv.org/abs/2609.31450v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "ViSTA: A Simple Bridge Extends Visual Alignment to Clinical Time-Series Understanding in Multimodal LLMs",
-          "url": "https://arxiv.org/abs/2609.31448v1",
-          "source": "arXiv",
-          "score": 205
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 12,
-        "arXiv": 4,
-        "Semantic Scholar": 4
-      },
-      "coverage": []
-    },
-    {
-      "date": "2026-09-29",
-      "generatedAt": "2026-09-29T06:03:40.228Z",
-      "totalFetched": 336,
-      "uniqueCount": 248,
-      "recommendations": [
-        {
-          "title": "Sonnet 5.5",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "source": "Hacker News",
-          "score": 1991,
-          "points": 704
-        },
-        {
-          "title": "Prompting Claude Opus 5.5",
-          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-          "source": "Hacker News",
-          "score": 804,
-          "points": 201
-        },
-        {
-          "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-          "url": "https://hn.watch/",
-          "source": "Hacker News",
-          "score": 509,
-          "points": 149
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 249871
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206235
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-          "url": "https://arxiv.org/abs/2609.35760v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Do Coding Agents Reuse Existing Code or Reinvent the Wheel?",
-          "url": "https://arxiv.org/abs/2609.35357v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "RAGWarrant: Evidence-Preserving Governance for RAG Policy Promotion Under Quality, Cost, Latency, and Risk Constraints",
-          "url": "https://arxiv.org/abs/2609.34179v1",
-          "source": "arXiv",
-          "score": 224
-        },
-        {
-          "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
-          "url": "https://arxiv.org/abs/2609.35741v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
-          "url": "https://arxiv.org/abs/2609.35706v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
-    {
-      "date": "2026-09-30",
-      "generatedAt": "2026-09-30T05:52:47.214Z",
-      "totalFetched": 310,
-      "uniqueCount": 245,
-      "recommendations": [
-        {
-          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-          "source": "Hacker News",
-          "score": 784,
-          "points": 211
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 250130
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206318
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187622
-        },
-        {
-          "title": "Ask HN: How do you handle hitting AI coding agent usage limits?",
-          "url": "https://news.ycombinator.com/item?id=49904074",
-          "source": "Hacker News",
-          "score": 171,
-          "points": 1
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
-          "url": "https://arxiv.org/abs/2609.38155v1",
-          "source": "arXiv",
-          "score": 245
-        },
-        {
-          "title": "$S^3$: Spectral Null-Space Swap Makes Reasoning Models Efficient",
-          "url": "https://arxiv.org/abs/2609.37976v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
-          "url": "https://arxiv.org/abs/2609.38142v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals",
-          "url": "https://arxiv.org/abs/2609.37993v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-          "url": "https://arxiv.org/abs/2609.38143v1",
-          "source": "arXiv",
-          "score": 226
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-01",
       "generatedAt": "2026-10-01T06:26:18.880Z",
@@ -2358,44 +1871,44 @@
     },
     {
       "date": "2026-10-24",
-      "generatedAt": "2026-10-24T13:09:18.374Z",
-      "totalFetched": 513,
-      "uniqueCount": 437,
+      "generatedAt": "2026-10-24T14:11:33.439Z",
+      "totalFetched": 511,
+      "uniqueCount": 436,
       "recommendations": [
         {
           "title": "Today, we hacked what we'd set out to hack: the iPhone",
           "url": "https://blog.calif.io/p/iphone",
           "source": "Hacker News",
-          "score": 2558,
-          "points": 938
+          "score": 2608,
+          "points": 964
         },
         {
           "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
           "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
           "source": "Hacker News",
-          "score": 2513,
-          "points": 957
+          "score": 2553,
+          "points": 977
         },
         {
           "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
           "url": "https://edjefferson.com/localwiki/",
           "source": "Hacker News",
-          "score": 2216,
-          "points": 1420
+          "score": 2239,
+          "points": 1438
         },
         {
           "title": "Apple Music 404 Not Found",
           "url": "https://music.apple.com/this-url-doesnt-exist",
           "source": "Hacker News",
-          "score": 1529,
-          "points": 810
+          "score": 1549,
+          "points": 821
         },
         {
           "title": "Canadians are running out of time to oppose Bill C-22",
           "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
           "source": "Hacker News",
-          "score": 1071,
-          "points": 437
+          "score": 1104,
+          "points": 453
         }
       ],
       "paperRecommendations": [
@@ -2403,7 +1916,7 @@
           "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
           "url": "https://arxiv.org/abs/2610.31657v1",
           "source": "arXiv",
-          "score": 220
+          "score": 219
         },
         {
           "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
@@ -2415,17 +1928,17 @@
           "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
           "url": "https://arxiv.org/abs/2610.31586v1",
           "source": "arXiv",
-          "score": 218
-        },
-        {
-          "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-          "url": "https://arxiv.org/abs/2610.31624v1",
-          "source": "arXiv",
-          "score": 212
+          "score": 217
         },
         {
           "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
           "url": "https://arxiv.org/abs/2610.31670v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.31656v1",
           "source": "arXiv",
           "score": 211
         }
@@ -2470,6 +1983,708 @@
           "name": "papers.cool",
           "status": "ok (117 parsed)",
           "found": 117
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "generatedAt": "2026-10-25T05:09:10.691Z",
+      "totalFetched": 505,
+      "uniqueCount": 425,
+      "recommendations": [
+        {
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "url": "https://edjefferson.com/localwiki/",
+          "source": "Hacker News",
+          "score": 2397,
+          "points": 1561
+        },
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "source": "Hacker News",
+          "score": 1184,
+          "points": 442
+        },
+        {
+          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News",
+          "score": 1000,
+          "points": 260
+        },
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "source": "Hacker News",
+          "score": 947,
+          "points": 280
+        },
+        {
+          "title": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "source": "Hacker News",
+          "score": 921,
+          "points": 291
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+          "url": "https://arxiv.org/abs/2610.31657v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
+          "url": "https://arxiv.org/abs/2610.31478v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+          "url": "https://arxiv.org/abs/2610.31586v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+          "url": "https://arxiv.org/abs/2610.31670v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2610.31656v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (49 parsed)",
+          "found": 49
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (117 parsed)",
+          "found": 117
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "generatedAt": "2026-10-26T05:11:17.297Z",
+      "totalFetched": 445,
+      "uniqueCount": 374,
+      "recommendations": [
+        {
+          "title": "We should be more ambitious with the software we build",
+          "url": "https://danluu.com/ambitious/",
+          "source": "Hacker News",
+          "score": 2576,
+          "points": 769
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News",
+          "score": 1164,
+          "points": 497
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News",
+          "score": 1150,
+          "points": 497
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "url": "https://talkweb.eu/openweb/4558/",
+          "source": "Hacker News",
+          "score": 1029,
+          "points": 431
+        },
+        {
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News",
+          "score": 945,
+          "points": 222
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+          "url": "https://arxiv.org/abs/2610.32866v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents",
+          "url": "https://arxiv.org/abs/2610.32781v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
+          "url": "https://arxiv.org/abs/2610.32770v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
+          "url": "https://arxiv.org/abs/2610.32332v1",
+          "source": "arXiv",
+          "score": 209
+        },
+        {
+          "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance",
+          "url": "https://arxiv.org/abs/2610.31863v1",
+          "source": "arXiv",
+          "score": 207
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (13 parsed)",
+          "found": 13
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (106 parsed)",
+          "found": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "generatedAt": "2026-10-27T05:28:19.803Z",
+      "totalFetched": 623,
+      "uniqueCount": 539,
+      "recommendations": [
+        {
+          "title": "Anthropic S-1",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+          "source": "Hacker News",
+          "score": 5405,
+          "points": 1544
+        },
+        {
+          "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+          "source": "Hacker News",
+          "score": 2911,
+          "points": 855
+        },
+        {
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1560,
+          "points": 683
+        },
+        {
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "source": "Hacker News",
+          "score": 1546,
+          "points": 683
+        },
+        {
+          "title": "GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+          "source": "Hacker News",
+          "score": 1533,
+          "points": 559
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+          "url": "https://arxiv.org/abs/2610.35817v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+          "url": "https://arxiv.org/abs/2610.35804v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives",
+          "url": "https://arxiv.org/abs/2610.35240v1",
+          "source": "arXiv",
+          "score": 223
+        },
+        {
+          "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
+          "url": "https://arxiv.org/abs/2610.35767v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps",
+          "url": "https://arxiv.org/abs/2610.35606v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (14 parsed)",
+          "found": 14
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (24 parsed)",
+          "found": 24
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (13 parsed)",
+          "found": 13
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (232 parsed)",
+          "found": 232
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "generatedAt": "2026-10-28T06:10:06.098Z",
+      "totalFetched": 481,
+      "uniqueCount": 418,
+      "recommendations": [
+        {
+          "title": "Genie 4",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "source": "Hacker News",
+          "score": 2150,
+          "points": 819
+        },
+        {
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "source": "Hacker News",
+          "score": 1804,
+          "points": 887
+        },
+        {
+          "title": "Ghostty 1.4",
+          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "source": "Hacker News",
+          "score": 1732,
+          "points": 895
+        },
+        {
+          "title": "New 14‑inch MacBook Pro with M6",
+          "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+          "source": "Hacker News",
+          "score": 1402,
+          "points": 325
+        },
+        {
+          "title": "New iMac with M6",
+          "url": "https://www.apple.com/imac/",
+          "source": "Hacker News",
+          "score": 1353,
+          "points": 323
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+          "url": "https://arxiv.org/abs/2610.37668v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2610.36991v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+          "url": "https://arxiv.org/abs/2610.37657v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+          "url": "https://arxiv.org/abs/2610.37647v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+          "url": "https://arxiv.org/abs/2610.37624v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "Solidot": 1,
+        "QbitAI": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (31 parsed)",
+          "found": 31
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "generatedAt": "2026-10-29T06:19:33.889Z",
+      "totalFetched": 493,
+      "uniqueCount": 412,
+      "recommendations": [
+        {
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "source": "Hacker News",
+          "score": 2885,
+          "points": 547
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "source": "Hacker News",
+          "score": 2787,
+          "points": 872
+        },
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "url": "https://emudhra.we-have-a-problem.com/apple.html",
+          "source": "Hacker News",
+          "score": 2202,
+          "points": 1092
+        },
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons",
+          "source": "Hacker News",
+          "score": 1706,
+          "points": 1022
+        },
+        {
+          "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+          "url": "https://www.circuithub.com/post/unveiling-the-grid",
+          "source": "Hacker News",
+          "score": 1079,
+          "points": 477
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+          "url": "https://arxiv.org/abs/2610.37668v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
+          "url": "https://arxiv.org/abs/2610.36991v1",
+          "source": "arXiv",
+          "score": 219
+        },
+        {
+          "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+          "url": "https://arxiv.org/abs/2610.37657v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+          "url": "https://arxiv.org/abs/2610.37647v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+          "url": "https://arxiv.org/abs/2610.37624v1",
+          "source": "arXiv",
+          "score": 214
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (14 parsed)",
+          "found": 14
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (5 parsed)",
+          "found": 5
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "generatedAt": "2026-10-30T06:19:07.231Z",
+      "totalFetched": 493,
+      "uniqueCount": 413,
+      "recommendations": [
+        {
+          "title": "Patrick Stewart has died",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+          "source": "Hacker News",
+          "score": 4545,
+          "points": 2715
+        },
+        {
+          "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+          "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+          "source": "Hacker News",
+          "score": 2776,
+          "points": 1055
+        },
+        {
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "source": "Hacker News",
+          "score": 2423,
+          "points": 1319
+        },
+        {
+          "title": "If IPv4 were land",
+          "url": "https://iptrust.co/blog/if-ipv4-were-land",
+          "source": "Hacker News",
+          "score": 1195,
+          "points": 262
+        },
+        {
+          "title": "LLM Voice",
+          "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+          "source": "Hacker News",
+          "score": 1029,
+          "points": 410
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.40578v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+          "url": "https://arxiv.org/abs/2610.40613v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+          "url": "https://arxiv.org/abs/2610.40565v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+          "url": "https://arxiv.org/abs/2610.40541v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+          "url": "https://arxiv.org/abs/2610.40611v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "QbitAI": 1,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (19 parsed)",
+          "found": 19
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (108 parsed)",
+          "found": 108
         }
       ]
     }

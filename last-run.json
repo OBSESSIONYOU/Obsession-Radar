@@ -1,6 +1,6 @@
 {
-  "startedAt": "2026-10-24T14:11:10.924Z",
-  "finishedAt": "2026-10-24T14:11:33.447Z",
+  "startedAt": "2026-10-31T06:10:13.518Z",
+  "finishedAt": "2026-10-31T06:10:31.776Z",
   "ok": true,
   "exitCode": 0,
   "message": "Daily radar updated successfully.",
@@ -8,6 +8,8 @@
     "errors": [
       "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
     ],
-    "warnings": []
+    "warnings": [
+      "GitHub: codex: HTTP 403"
+    ]
   }
 }
