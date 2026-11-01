@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-10-31T06:10:31.949Z",
+  "generatedAt": "2026-11-01T06:42:17.962Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-01",
-      "generatedAt": "2026-10-01T06:26:18.880Z",
-      "totalFetched": 304,
-      "uniqueCount": 228,
-      "recommendations": [
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 250406
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 484,
-          "points": 206403
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187630
-        },
-        {
-          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-          "url": "https://github.com/magnitudedev/magnitude",
-          "source": "Hacker News",
-          "score": 412,
-          "points": 144
-        },
-        {
-          "title": "Doing a Machine Learning PhD While Working in Japan",
-          "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-          "source": "Hacker News",
-          "score": 174,
-          "points": 79
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-          "url": "https://arxiv.org/abs/2609.40361v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Semifactual Credit-Augmented Policy Optimization",
-          "url": "https://arxiv.org/abs/2609.40360v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
-          "url": "https://arxiv.org/abs/2609.40322v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Scaling Laws for Looped Mixture of Experts",
-          "url": "https://arxiv.org/abs/2609.40316v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents",
-          "url": "https://arxiv.org/abs/2609.40284v1",
-          "source": "arXiv",
-          "score": 230
-        }
-      ],
-      "sourceMix": {
-        "GitHub": 16,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-02",
       "generatedAt": "2026-10-02T06:04:41.070Z",
@@ -2685,6 +2604,123 @@
           "name": "papers.cool",
           "status": "ok (108 parsed)",
           "found": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "generatedAt": "2026-10-31T06:10:31.773Z",
+      "totalFetched": 583,
+      "uniqueCount": 509,
+      "recommendations": [
+        {
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "source": "Hacker News",
+          "score": 2260,
+          "points": 859
+        },
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "source": "Hacker News",
+          "score": 1663,
+          "points": 551
+        },
+        {
+          "title": "Northflank Breached",
+          "url": "https://status.northflank.com",
+          "source": "Hacker News",
+          "score": 1215,
+          "points": 406
+        },
+        {
+          "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+          "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+          "source": "Hacker News",
+          "score": 1121,
+          "points": 395
+        },
+        {
+          "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+          "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+          "source": "Hacker News",
+          "score": 710,
+          "points": 272
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.40578v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+          "url": "https://arxiv.org/abs/2610.40613v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+          "url": "https://arxiv.org/abs/2610.40565v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+          "url": "https://arxiv.org/abs/2610.40541v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+          "url": "https://arxiv.org/abs/2610.40611v1",
+          "source": "arXiv",
+          "score": 213
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (39 parsed)",
+          "found": 39
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (175 parsed)",
+          "found": 175
         }
       ]
     }
