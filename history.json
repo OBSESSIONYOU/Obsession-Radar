@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-01T06:42:17.962Z",
+  "generatedAt": "2026-11-02T06:40:32.369Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-02",
-      "generatedAt": "2026-10-02T06:04:41.070Z",
-      "totalFetched": 318,
-      "uniqueCount": 237,
-      "recommendations": [
-        {
-          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-          "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-          "source": "Hacker News",
-          "score": 653,
-          "points": 201
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 250653
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206479
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187653
-        },
-        {
-          "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-          "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-          "source": "Hacker News",
-          "score": 479,
-          "points": 176
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-          "url": "https://arxiv.org/abs/2610.02117v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-          "url": "https://arxiv.org/abs/2610.02201v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-          "url": "https://arxiv.org/abs/2610.02150v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2610.02039v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-          "url": "https://arxiv.org/abs/2610.02202v1",
-          "source": "arXiv",
-          "score": 229
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-03",
       "generatedAt": "2026-10-03T05:38:42.150Z",
@@ -2696,6 +2615,123 @@
           "name": "GitHub Trending",
           "status": "ok (15 parsed)",
           "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (39 parsed)",
+          "found": 39
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (175 parsed)",
+          "found": 175
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "generatedAt": "2026-11-01T06:42:17.757Z",
+      "totalFetched": 516,
+      "uniqueCount": 453,
+      "recommendations": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "source": "Hacker News",
+          "score": 2011,
+          "points": 1052
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "source": "Hacker News",
+          "score": 1052,
+          "points": 449
+        },
+        {
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News",
+          "score": 802,
+          "points": 300
+        },
+        {
+          "title": "Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News",
+          "score": 791,
+          "points": 318
+        },
+        {
+          "title": "Do the math: How we took over ChatGPT accounts",
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News",
+          "score": 777,
+          "points": 318
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+          "url": "https://arxiv.org/abs/2610.40578v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+          "url": "https://arxiv.org/abs/2610.40613v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+          "url": "https://arxiv.org/abs/2610.40565v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+          "url": "https://arxiv.org/abs/2610.40541v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+          "url": "https://arxiv.org/abs/2610.40611v1",
+          "source": "arXiv",
+          "score": 205
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (14 parsed)",
+          "found": 14
         },
         {
           "name": "HN Front Page",
