@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-02T06:40:32.369Z",
+  "generatedAt": "2026-11-03T07:09:52.576Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-03",
-      "generatedAt": "2026-10-03T05:38:42.150Z",
-      "totalFetched": 287,
-      "uniqueCount": 218,
-      "recommendations": [
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 250810
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 486,
-          "points": 206534
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 482,
-          "points": 187643
-        },
-        {
-          "title": "From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh/",
-          "source": "Hacker News",
-          "score": 398,
-          "points": 198
-        },
-        {
-          "title": "Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News",
-          "score": 360,
-          "points": 91
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-          "url": "https://arxiv.org/abs/2610.02117v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-          "url": "https://arxiv.org/abs/2610.02201v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-          "url": "https://arxiv.org/abs/2610.02150v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2610.02039v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-          "url": "https://arxiv.org/abs/2610.02202v1",
-          "source": "arXiv",
-          "score": 221
-        }
-      ],
-      "sourceMix": {
-        "GitHub": 16,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-04",
       "generatedAt": "2026-10-04T06:13:59.175Z",
@@ -2757,6 +2676,123 @@
           "name": "papers.cool",
           "status": "ok (175 parsed)",
           "found": 175
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "generatedAt": "2026-11-02T06:40:32.225Z",
+      "totalFetched": 464,
+      "uniqueCount": 390,
+      "recommendations": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "source": "Hacker News",
+          "score": 4152,
+          "points": 2440
+        },
+        {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org",
+          "source": "Hacker News",
+          "score": 1954,
+          "points": 1199
+        },
+        {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org",
+          "source": "Hacker News",
+          "score": 1926,
+          "points": 1199
+        },
+        {
+          "title": "Ask HN: Which TV do you recommend for privacy?",
+          "url": "https://news.ycombinator.com/item?id=50328896",
+          "source": "Hacker News",
+          "score": 1359,
+          "points": 262
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "source": "Hacker News",
+          "score": 1056,
+          "points": 345
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+          "url": "https://arxiv.org/abs/2610.42149v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
+          "url": "https://arxiv.org/abs/2610.41172v1",
+          "source": "arXiv",
+          "score": 209
+        },
+        {
+          "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+          "url": "https://arxiv.org/abs/2610.42141v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+          "url": "https://arxiv.org/abs/2610.42112v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "Aligning MLLMs with the Latent Structure of Human Cognition via Behavior-Derived Semantic Dimensions",
+          "url": "https://arxiv.org/abs/2610.41951v1",
+          "source": "arXiv",
+          "score": 205
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (17 parsed)",
+          "found": 17
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (17 parsed)",
+          "found": 17
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (19 parsed)",
+          "found": 19
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (86 parsed)",
+          "found": 86
         }
       ]
     }
