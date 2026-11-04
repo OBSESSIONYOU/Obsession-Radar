@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-03T07:09:52.576Z",
+  "generatedAt": "2026-11-04T06:54:52.560Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-04",
-      "generatedAt": "2026-10-04T06:13:59.175Z",
-      "totalFetched": 274,
-      "uniqueCount": 207,
-      "recommendations": [
-        {
-          "title": "I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News",
-          "score": 1201,
-          "points": 152
-        },
-        {
-          "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-          "source": "Hacker News",
-          "score": 630,
-          "points": 202
-        },
-        {
-          "title": "Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-          "source": "Hacker News",
-          "score": 529,
-          "points": 98
-        },
-        {
-          "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News",
-          "score": 520,
-          "points": 410
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 251024
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-          "url": "https://arxiv.org/abs/2610.02117v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-          "url": "https://arxiv.org/abs/2610.02201v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-          "url": "https://arxiv.org/abs/2610.02150v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2610.02039v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-          "url": "https://arxiv.org/abs/2610.02202v1",
-          "source": "arXiv",
-          "score": 213
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-05",
       "generatedAt": "2026-10-05T06:06:45.137Z",
@@ -2788,6 +2707,123 @@
           "name": "Solidot",
           "status": "ok (19 parsed)",
           "found": 19
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (86 parsed)",
+          "found": 86
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "generatedAt": "2026-11-03T07:09:52.370Z",
+      "totalFetched": 471,
+      "uniqueCount": 403,
+      "recommendations": [
+        {
+          "title": "Astra can read and write weights to improve Qwen",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+          "source": "Hacker News",
+          "score": 4591,
+          "points": 2395
+        },
+        {
+          "title": "WTF Ubuntu?",
+          "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+          "source": "Hacker News",
+          "score": 3149,
+          "points": 1437
+        },
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "url": "https://news.ycombinator.com/item?id=50340088",
+          "source": "Hacker News",
+          "score": 1577,
+          "points": 649
+        },
+        {
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "url": "https://news.ycombinator.com/item?id=50340088",
+          "source": "Hacker News",
+          "score": 1563,
+          "points": 649
+        },
+        {
+          "title": "US boy names that became girl names and vice versa",
+          "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+          "source": "Hacker News",
+          "score": 1278,
+          "points": 356
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+          "url": "https://arxiv.org/abs/2611.03634v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+          "url": "https://arxiv.org/abs/2611.03622v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+          "url": "https://arxiv.org/abs/2611.03647v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks",
+          "url": "https://arxiv.org/abs/2611.03377v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+          "url": "https://arxiv.org/abs/2611.03648v1",
+          "source": "arXiv",
+          "score": 228
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (17 parsed)",
+          "found": 17
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
         },
         {
           "name": "papers.cool",
