@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-04T06:54:52.560Z",
+  "generatedAt": "2026-11-05T07:14:50.736Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-05",
-      "generatedAt": "2026-10-05T06:06:45.137Z",
-      "totalFetched": 272,
-      "uniqueCount": 205,
-      "recommendations": [
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 251268
-        },
-        {
-          "title": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "source": "GitHub",
-          "score": 487,
-          "points": 273097
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 487,
-          "points": 206681
-        },
-        {
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News",
-          "score": 202,
-          "points": 67
-        },
-        {
-          "title": "Show HN: Agents Sleep Preventer – keep your Mac awake only while AI agents work",
-          "url": "https://github.com/CharlonTank/agents-sleep-preventer",
-          "source": "Hacker News",
-          "score": 129,
-          "points": 1
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-          "url": "https://arxiv.org/abs/2610.03713v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-          "url": "https://arxiv.org/abs/2610.03675v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
-          "url": "https://arxiv.org/abs/2610.03651v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks",
-          "url": "https://arxiv.org/abs/2610.03585v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "From Knowledge Access to Source Learning: Developing Source-Specific Competence",
-          "url": "https://arxiv.org/abs/2610.02150v1",
-          "source": "arXiv",
-          "score": 206
-        }
-      ],
-      "sourceMix": {
-        "GitHub": 16,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-06",
       "generatedAt": "2026-10-06T06:47:16.892Z",
@@ -2829,6 +2748,123 @@
           "name": "papers.cool",
           "status": "ok (86 parsed)",
           "found": 86
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "generatedAt": "2026-11-04T06:54:52.352Z",
+      "totalFetched": 491,
+      "uniqueCount": 422,
+      "recommendations": [
+        {
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "Hacker News",
+          "score": 2330,
+          "points": 1176
+        },
+        {
+          "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+          "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+          "source": "Hacker News",
+          "score": 1595,
+          "points": 955
+        },
+        {
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "source": "Hacker News",
+          "score": 1567,
+          "points": 731
+        },
+        {
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "source": "Hacker News",
+          "score": 1098,
+          "points": 569
+        },
+        {
+          "title": "Stringman, an $800 open-source room scale gripper robot",
+          "url": "https://neufangled.com/",
+          "source": "Hacker News",
+          "score": 1041,
+          "points": 510
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+          "url": "https://arxiv.org/abs/2611.05373v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+          "url": "https://arxiv.org/abs/2611.05358v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+          "url": "https://arxiv.org/abs/2611.05304v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+          "url": "https://arxiv.org/abs/2611.05287v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+          "url": "https://arxiv.org/abs/2611.05340v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (13 parsed)",
+          "found": 13
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (32 parsed)",
+          "found": 32
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (85 parsed)",
+          "found": 85
         }
       ]
     }
