@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-05T07:14:50.736Z",
+  "generatedAt": "2026-11-06T07:16:11.775Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-06",
-      "generatedAt": "2026-10-06T06:47:16.892Z",
-      "totalFetched": 312,
-      "uniqueCount": 226,
-      "recommendations": [
-        {
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News",
-          "score": 884,
-          "points": 299
-        },
-        {
-          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-          "source": "Hacker News",
-          "score": 792,
-          "points": 271
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 251511
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206737
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187665
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-          "url": "https://arxiv.org/abs/2610.06844v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-          "url": "https://arxiv.org/abs/2610.06830v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
-          "url": "https://arxiv.org/abs/2610.06829v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs",
-          "url": "https://arxiv.org/abs/2610.06703v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
-          "url": "https://arxiv.org/abs/2610.06817v1",
-          "source": "arXiv",
-          "score": 228
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-07",
       "generatedAt": "2026-10-07T06:21:45.948Z",
@@ -2865,6 +2784,123 @@
           "name": "papers.cool",
           "status": "ok (85 parsed)",
           "found": 85
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "generatedAt": "2026-11-05T07:14:50.431Z",
+      "totalFetched": 494,
+      "uniqueCount": 418,
+      "recommendations": [
+        {
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "source": "Hacker News",
+          "score": 2961,
+          "points": 1153
+        },
+        {
+          "title": "Residential proxies detected on White House network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "source": "Hacker News",
+          "score": 1764,
+          "points": 920
+        },
+        {
+          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "url": "https://news.ycombinator.com/item?id=50363461",
+          "source": "Hacker News",
+          "score": 1219,
+          "points": 656
+        },
+        {
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "Hacker News",
+          "score": 1044,
+          "points": 264
+        },
+        {
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "url": "https://news.ycombinator.com/item?id=50366117",
+          "source": "Hacker News",
+          "score": 988,
+          "points": 264
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+          "url": "https://arxiv.org/abs/2611.06859v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Perceptive Humanoid Motion from Simulation",
+          "url": "https://arxiv.org/abs/2611.06908v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
+          "url": "https://arxiv.org/abs/2611.06481v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+          "url": "https://arxiv.org/abs/2611.06864v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
+          "url": "https://arxiv.org/abs/2611.06170v1",
+          "source": "arXiv",
+          "score": 226
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "Semantic Scholar": 3,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "HF Papers": 2
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (9 parsed)",
+          "found": 9
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (90 parsed)",
+          "found": 90
         }
       ]
     }
