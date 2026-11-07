@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-06T07:16:11.775Z",
+  "generatedAt": "2026-11-07T06:28:15.115Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-07",
-      "generatedAt": "2026-10-07T06:21:45.948Z",
-      "totalFetched": 307,
-      "uniqueCount": 228,
-      "recommendations": [
-        {
-          "title": "Sharing AI progress in mathematics",
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-          "source": "Hacker News",
-          "score": 2475,
-          "points": 728
-        },
-        {
-          "title": "Decisions API is in public beta",
-          "url": "https://developers.openai.com/api/docs/guides/decisions",
-          "source": "Hacker News",
-          "score": 552,
-          "points": 228
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 251764
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206787
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 482,
-          "points": 187678
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Learning to Retrieve via Reinforcement Learning in Embedding Space",
-          "url": "https://arxiv.org/abs/2610.07731v1",
-          "source": "arXiv",
-          "score": 233
-        },
-        {
-          "title": "Principled Under Pressure: Post-Training Decides Whether LLMs Act on Their Own Moral Judgment",
-          "url": "https://arxiv.org/abs/2610.08670v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
-          "url": "https://arxiv.org/abs/2610.08463v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
-          "url": "https://arxiv.org/abs/2610.08452v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-          "url": "https://arxiv.org/abs/2610.08773v1",
-          "source": "arXiv",
-          "score": 228
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-08",
       "generatedAt": "2026-10-08T06:33:03.821Z",
@@ -2901,6 +2820,122 @@
           "name": "papers.cool",
           "status": "ok (90 parsed)",
           "found": 90
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "generatedAt": "2026-11-06T07:16:11.555Z",
+      "totalFetched": 402,
+      "uniqueCount": 348,
+      "recommendations": [
+        {
+          "title": "sshole",
+          "url": "https://sshhole.com",
+          "source": "Hacker News",
+          "score": 4482,
+          "points": 2571
+        },
+        {
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "source": "Hacker News",
+          "score": 1851,
+          "points": 909
+        },
+        {
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "source": "Hacker News",
+          "score": 1837,
+          "points": 909
+        },
+        {
+          "title": "Search for everyone",
+          "url": "https://kagi.com/changelog#11820",
+          "source": "Hacker News",
+          "score": 1558,
+          "points": 640
+        },
+        {
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "source": "Hacker News",
+          "score": 1337,
+          "points": 450
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+          "url": "https://arxiv.org/abs/2611.08439v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+          "url": "https://arxiv.org/abs/2611.08438v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation",
+          "url": "https://arxiv.org/abs/2611.08315v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model",
+          "url": "https://arxiv.org/abs/2611.08262v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Scientist World: Grow a Research World for AI-Scientists",
+          "url": "https://arxiv.org/abs/2611.08478v1",
+          "source": "arXiv",
+          "score": 227
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 15,
+        "GitHub Trending": 7,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (9 parsed)",
+          "found": 9
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (94 parsed)",
+          "found": 94
         }
       ]
     }
