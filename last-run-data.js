@@ -1,13 +1,17 @@
 window.AGENTS_RADAR_LITE_LAST_RUN = {
-  "startedAt": "2026-11-07T06:27:57.357Z",
-  "finishedAt": "2026-11-07T06:28:14.951Z",
+  "startedAt": "2026-11-08T06:34:18.917Z",
+  "finishedAt": "2026-11-08T06:34:36.800Z",
   "ok": true,
   "exitCode": 0,
   "message": "Daily radar updated successfully.",
   "diagnostics": {
-    "errors": [
-      "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
-    ],
-    "warnings": []
+    "errors": [],
+    "warnings": [
+      "Semantic Scholar: LLM: HTTP 429",
+      "Semantic Scholar: RAG: HTTP 429",
+      "Semantic Scholar: AI coding: HTTP 429",
+      "Semantic Scholar: Multimodal: HTTP 429",
+      "Semantic Scholar: AI safety: HTTP 429"
+    ]
   }
 };

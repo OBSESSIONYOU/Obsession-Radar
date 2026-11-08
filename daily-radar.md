@@ -1,102 +1,102 @@
 # Obsession Radar
 
-Generated: 2026-11-07T06:28:14.947Z
-Fetched: 507 links | Unique: 426 | Candidates: 30
+Generated: 2026-11-08T06:34:36.796Z
+Fetched: 476 links | Unique: 406 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
-   - 内容介绍：这篇来自 nbcnews.com 的帖子主要介绍了：Tesla to wind down Cybertruck production相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 5447 | Points: 948 | Comments: 1805
+1. [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+   - 内容介绍：这篇来自 8rank.ai 的帖子主要介绍了：Every Mac comes with an (undocumented) family member classifier相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+   - Score: 1700 | Points: 673 | Comments: 372
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50403097
+
+2. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+   - 内容介绍：这篇来自 nfsu2.xyz 的帖子主要介绍了：Need for Speed Underground 2 online in the browser相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1641 | Points: 905 | Comments: 242
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50391456
+   - HN: https://news.ycombinator.com/item?id=50403052
 
-2. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
-   - 内容介绍：这篇来自 reuters.com 的帖子主要介绍了：US FAA says it will phase out floppy disks from air traffic control by 2028相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 982 | Points: 312 | Comments: 254
+3. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+   - 内容介绍：这篇来自 theguardian.com 的帖子主要介绍了：Apple’s grey list: Words and phrases your iPhone won’t help you spell相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1194 | Points: 425 | Comments: 280
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50388001
+   - HN: https://news.ycombinator.com/item?id=50406111
 
-3. [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
-   - 内容介绍：这篇来自 blog.google 的帖子主要介绍了：Gemini Omni 1.2 Flash相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。
-   - Score: 955 | Points: 313 | Comments: 225
+4. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+   - 内容介绍：这篇来自 hunch.net 的帖子主要介绍了：The end of Microsoft Research's AI Frontiers group相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+   - Score: 1171 | Points: 433 | Comments: 260
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50392118
+   - HN: https://news.ycombinator.com/item?id=50406563
 
-4. [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
-   - 内容介绍：这篇来自 planned-obsolescence.org 的帖子主要介绍了：AI is dramatically accelerating AI research相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-   - Score: 848 | Points: 257 | Comments: 208
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50397994
-
-5. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-   - 内容介绍：这篇来自 hightouch.com 的帖子主要介绍了：A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost相关内容，关注成本结构、定价策略和实际落地收益。
-   - Score: 754 | Points: 414 | Comments: 94
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50397429
+5. [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+   - 内容介绍：这篇来自 asahilinux.org 的帖子主要介绍了：Asahi Linux Progress Linux 7.3相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1147 | Points: 355 | Comments: 302
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=50401867
 
 ## 30-Link Candidate Pool
 
-1. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) - 5447 pts
-   - 内容介绍：这篇来自 nbcnews.com 的帖子主要介绍了：Tesla to wind down Cybertruck production相关内容，聚焦front page相关背景、功能和讨论点。
-2. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) - 982 pts
-   - 内容介绍：这篇来自 reuters.com 的帖子主要介绍了：US FAA says it will phase out floppy disks from air traffic control by 2028相关内容，聚焦front page相关背景、功能和讨论点。
-3. [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) - 955 pts
-   - 内容介绍：这篇来自 blog.google 的帖子主要介绍了：Gemini Omni 1.2 Flash相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。
-4. [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) - 848 pts
-   - 内容介绍：这篇来自 planned-obsolescence.org 的帖子主要介绍了：AI is dramatically accelerating AI research相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-5. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) - 754 pts
-   - 内容介绍：这篇来自 hightouch.com 的帖子主要介绍了：A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost相关内容，关注成本结构、定价策略和实际落地收益。
-6. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - 744 pts
-   - 内容介绍：这篇来自 mitchellh.com 的帖子主要介绍了：Libghostty 1.0相关内容，聚焦front page相关背景、功能和讨论点。
-7. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) - 741 pts
-   - 内容介绍：这篇来自 hightouch.com 的帖子主要介绍了：A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost相关内容，关注成本结构、定价策略和实际落地收益。
-8. [mattpocock/skills](https://github.com/mattpocock/skills) - 658 pts
+1. [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) - 1700 pts
+   - 内容介绍：这篇来自 8rank.ai 的帖子主要介绍了：Every Mac comes with an (undocumented) family member classifier相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+2. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) - 1641 pts
+   - 内容介绍：这篇来自 nfsu2.xyz 的帖子主要介绍了：Need for Speed Underground 2 online in the browser相关内容，聚焦front page相关背景、功能和讨论点。
+3. [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) - 1194 pts
+   - 内容介绍：这篇来自 theguardian.com 的帖子主要介绍了：Apple’s grey list: Words and phrases your iPhone won’t help you spell相关内容，聚焦front page相关背景、功能和讨论点。
+4. [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) - 1171 pts
+   - 内容介绍：这篇来自 hunch.net 的帖子主要介绍了：The end of Microsoft Research's AI Frontiers group相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+5. [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/) - 1147 pts
+   - 内容介绍：这篇来自 asahilinux.org 的帖子主要介绍了：Asahi Linux Progress Linux 7.3相关内容，聚焦front page相关背景、功能和讨论点。
+6. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) - 952 pts
+   - 内容介绍：这篇来自 apiiro.com 的帖子主要介绍了：Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+7. [mattpocock/skills](https://github.com/mattpocock/skills) - 642 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：mattpocock/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-9. [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/) - 658 pts
-   - 内容介绍：这篇来自 thereader.mitpress.mit.edu 的帖子主要介绍了：From Linux to Wikipedia: How Volunteers Build the Internet相关内容，聚焦front page相关背景、功能和讨论点。
-10. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - 613 pts
+8. [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 609 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：sherlock-project/sherlock相关内容，聚焦trending相关背景、功能和讨论点。
+9. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - 608 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：cloudflare/security-audit-skill相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-11. [react/react](https://github.com/react/react) - 592 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：react/react相关内容，聚焦trending相关背景、功能和讨论点。
-12. [microsoft/vscode](https://github.com/microsoft/vscode) - 590 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：microsoft/vscode相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-13. [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) - 578 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：NVIDIA/auto-ontology相关内容，聚焦trending、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。
-14. [zed-industries/zed](https://github.com/zed-industries/zed) - 562 pts
+10. [anthropics/skills](https://github.com/anthropics/skills) - 603 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：anthropics/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+11. [zed-industries/zed](https://github.com/zed-industries/zed) - 595 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：zed-industries/zed相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-15. [morluto/rea](https://github.com/morluto/rea) - 509 pts
+12. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) - 560 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：milind-soni/OpenMausBot相关内容，聚焦trending相关背景、功能和讨论点。
+13. [morluto/rea](https://github.com/morluto/rea) - 509 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 492 pts
+14. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 492 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
+15. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 487 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-18. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 475 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-19. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 472 pts
+16. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 482 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-20. [langgenius/dify](https://github.com/langgenius/dify) - 472 pts
+17. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-21. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 470 pts
+18. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 469 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-22. [huggingface/transformers](https://github.com/huggingface/transformers) - 468 pts
+19. [huggingface/transformers](https://github.com/huggingface/transformers) - 467 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-23. [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://huggingface.co/papers/2611.08373) - 158 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：SLA: Scaling Spatial-Language-Action Model via Continual Pre-training相关内容，聚焦HF daily相关背景、功能和讨论点。
-24. [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) - 152 pts
+20. [ollama/ollama](https://github.com/ollama/ollama) - 463 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+21. [PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows](https://www.semanticscholar.org/paper/8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8) - 181 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦 MCP 服务部署、测试、监控和商店发布。
+22. [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://huggingface.co/papers/2611.08449) - 157 pts
    - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding相关内容，关注成本结构、定价策略和实际落地收益。
+23. [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://huggingface.co/papers/2611.05376) - 141 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+24. [Evolution of AI in Education: Agentic Workflows](https://www.semanticscholar.org/paper/f8acab9a1a16b7e7a0a2d4f288a0e9817f61e812) - 128 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evolution of AI in Education: Agentic Workflows相关内容，聚焦AI Agent、Computer Science、arXiv.org、人工智能、大语言模型相关背景、功能和讨论点。
 25. [XStack: A Benchmark for ML Repo Migration](https://arxiv.org/abs/2611.08472v1) - 126 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：XStack: A Benchmark for ML Repo Migration相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
 26. [GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response](https://arxiv.org/abs/2611.04977v1) - 126 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response相关内容，聚焦浏览器自动化、网页操作和编程代理。
 27. [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](https://arxiv.org/abs/2611.07928v1) - 112 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation相关内容，聚焦RAG、cs.DC、cs.AI、cs.IR、cs.NI、人工智能、大语言模型、提示词工程相关背景、功能和讨论点。
-28. [The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](https://arxiv.org/abs/2611.07461) - 84 pts
+28. [ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows](https://www.semanticscholar.org/paper/d3dc789db41b8f6b633bbac276559d0e53bc91e5) - 100 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：ML-Dev-Bench: Comparative Analysis of AI Agents on ML development workflows相关内容，说明复现现象、影响范围和排查线索。
+29. [The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](https://arxiv.org/abs/2611.07461) - 84 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-29. [从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！](https://www.qbitai.com/2026/11/508143.html) - 56 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！相关内容，聚焦资讯、csdn、人工智能、AI Agent相关背景、功能和讨论点。
-30. [Google 和 OpenAI 的模型对特定口音有偏见](https://www.solidot.org/story?sid=85804) - 42 pts
-   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：Google 和 OpenAI 的模型对特定口音有偏见相关内容，聚焦人工智能、OpenAI、Gemini相关背景、功能和讨论点。
+30. [抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？](https://www.qbitai.com/2026/11/508264.html) - 42 pts
+   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？相关内容，聚焦资讯、AI Agent、DeepSeek相关背景、功能和讨论点。
 
 ## Research Papers
 
@@ -104,7 +104,7 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
    - Authors: Vladimir Beskorovainyi
    - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 222 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - Score: 214 | Why: fresh paper, matched AI safety, CS AI category, has PDF
    - arXiv: https://arxiv.org/abs/2611.08439v1
    - PDF: https://arxiv.org/pdf/2611.08439v1
    - Google Scholar: https://scholar.google.com/scholar?q=Label-Wording%20Augmentation%20in%20a%20Typed-Decision%20Encoder%3A%20Gains%20on%20Unfamiliar%20Words%2C%20Not%20on%20Abbreviations%20or%20Codes
@@ -113,7 +113,7 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
    - Authors: Fazl Barez, Tung-Yu Wu, Hunar Batra, Gabriele Dominici, Florent Draye, Yanai Elazar, Damiano Fornasiere, Antía García, Abir Harrasse, Riley Harris, Sara Hooker, Michael Lan, Belinda Z. Li, Aaron Maiwald, Narmeen Fatimah Oozeer, Naomi Saphra, Or David Shafran, Adi Simhi, Robert Trager, Shriyash Kaustubh Upadhyay, Ziyu Yao, Yu Zhao, Shay B. Cohen, Mor Geva, Yoshua Bengio, Stella Biderman, Hassan Sajjad
    - Categories: cs.CL, cs.AI, cs.LG
-   - Score: 222 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - Score: 214 | Why: fresh paper, matched AI safety, CS AI category, has PDF
    - arXiv: https://arxiv.org/abs/2611.08438v1
    - PDF: https://arxiv.org/pdf/2611.08438v1
    - Google Scholar: https://scholar.google.com/scholar?q=Understanding%20AI%20from%20the%20Inside%3A%20The%20State%20of%20Mechanistic%20Interpretability%20for%20AI%20Safety
@@ -122,7 +122,7 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
    - Authors: Ali Sarabadani, Kheirolah Rahsepar Fard, Tahereh Jeirani
    - Categories: cs.AI, cs.CL, cs.LG
-   - Score: 222 | Why: fresh paper, matched LLM, CS AI category, has PDF
+   - Score: 214 | Why: fresh paper, matched LLM, CS AI category, has PDF
    - arXiv: https://arxiv.org/abs/2611.08315v1
    - PDF: https://arxiv.org/pdf/2611.08315v1
    - Google Scholar: https://scholar.google.com/scholar?q=Benchmarking%20Large%20Language%20Models%20on%20Heterogeneous%20Cognitive%20and%20Biomedical%20Knowledge%20Graphs%3A%20The%20Role%20of%20Graph%20Grounding%20in%20Multi-Hop%20Reasoning%20and%20Hallucination%20Mitigation
@@ -131,7 +131,7 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
    - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
    - Authors: Mathis Immertreu, Fitim Abdullahu, Thomas Kinfe, Claus Metzner, Helmut Grabner, Patrick Krauss, Achim Schilling
    - Categories: cs.AI, cs.CL, cs.CV
-   - Score: 221 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
+   - Score: 213 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
    - arXiv: https://arxiv.org/abs/2611.08262v1
    - PDF: https://arxiv.org/pdf/2611.08262v1
    - Google Scholar: https://scholar.google.com/scholar?q=The%20Geometry%20of%20Simulated%20Perspectives%3A%20Dissociating%20Representation%20and%20Behaviour%20in%20a%20Multimodal%20Language%20Model
@@ -140,7 +140,7 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
    - Authors: Taiming Lu, Sachin Konan, Zhuang Liu
    - Categories: cs.AI, cs.CL, cs.LG
-   - Score: 219 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - Score: 211 | Why: fresh paper, matched AI safety, CS AI category, has PDF
    - arXiv: https://arxiv.org/abs/2611.08478v1
    - PDF: https://arxiv.org/pdf/2611.08478v1
    - Google Scholar: https://scholar.google.com/scholar?q=Scientist%20World%3A%20Grow%20a%20Research%20World%20for%20AI-Scientists
@@ -148,25 +148,25 @@ Fetched: 507 links | Unique: 426 | Candidates: 30
 
 ## 网页源覆盖
 
-- GitHub Trending: ok (18 parsed)（18 条）
+- GitHub Trending: ok (15 parsed)（15 条）
 - HN Front Page: ok (30 parsed)（30 条）
 - HF Daily Papers: ok (32 parsed)（32 条）
-- QbitAI: ok (10 parsed)（10 条）
+- QbitAI: ok (9 parsed)（9 条）
 - Solidot: ok (20 parsed)（20 条）
 - papers.cool: ok (94 parsed)（94 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · ↓ -0.067
-- GitHub：8 席 · → 持平
-- GitHub Trending：6 席 · → 持平
+- GitHub：8 席 · 新增来源
+- Hacker News：6 席 · ↑ +0.243
+- GitHub Trending：6 席 · ↑ +0.033
+- Semantic Scholar：3 席 · 新增来源
 - arXiv：3 席 · → 持平
 - HF Papers：2 席 · → 持平
 - papers.cool：1 席 · → 持平
 - QbitAI：1 席 · → 持平
-- Solidot：1 席 · 新增来源
 
 
 ## 执行告警
 
-- 源失败: Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429
+- 查询告警: Semantic Scholar: LLM: HTTP 429; Semantic Scholar: RAG: HTTP 429; Semantic Scholar: AI coding: HTTP 429; Semantic Scholar: Multimodal: HTTP 429; Semantic Scholar: AI safety: HTTP 429

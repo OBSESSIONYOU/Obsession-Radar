@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-07T06:28:15.115Z",
+  "generatedAt": "2026-11-08T06:34:36.970Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-08",
-      "generatedAt": "2026-10-08T06:33:03.821Z",
-      "totalFetched": 308,
-      "uniqueCount": 232,
-      "recommendations": [
-        {
-          "title": "Claude Haiku 5.5",
-          "url": "https://www.anthropic.com/claude-haiku-5-5",
-          "source": "Hacker News",
-          "score": 1928,
-          "points": 804
-        },
-        {
-          "title": "GPT‑6 and Intelligent UI for everyone",
-          "url": "https://openai.com/index/gpt-6-for-everyone/",
-          "source": "Hacker News",
-          "score": 1417,
-          "points": 580
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 252019
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206855
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187693
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
-          "url": "https://arxiv.org/abs/2610.10411v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Few Bits, One Law: Toward W2A4KV2",
-          "url": "https://arxiv.org/abs/2610.09202v1",
-          "source": "arXiv",
-          "score": 223
-        },
-        {
-          "title": "Large-scale Repository Engineering via Agent-Native Reusable Code Primitives",
-          "url": "https://arxiv.org/abs/2610.09079v1",
-          "source": "arXiv",
-          "score": 223
-        },
-        {
-          "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-          "url": "https://arxiv.org/abs/2610.10526v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-          "url": "https://arxiv.org/abs/2610.10513v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-09",
       "generatedAt": "2026-10-09T06:34:54.205Z",
@@ -2926,6 +2845,123 @@
           "name": "QbitAI",
           "status": "ok (9 parsed)",
           "found": 9
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (94 parsed)",
+          "found": 94
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "generatedAt": "2026-11-07T06:28:14.947Z",
+      "totalFetched": 507,
+      "uniqueCount": 426,
+      "recommendations": [
+        {
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "source": "Hacker News",
+          "score": 5447,
+          "points": 948
+        },
+        {
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+          "source": "Hacker News",
+          "score": 982,
+          "points": 312
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "source": "Hacker News",
+          "score": 955,
+          "points": 313
+        },
+        {
+          "title": "AI is dramatically accelerating AI research",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "Hacker News",
+          "score": 848,
+          "points": 257
+        },
+        {
+          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+          "source": "Hacker News",
+          "score": 754,
+          "points": 414
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+          "url": "https://arxiv.org/abs/2611.08439v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+          "url": "https://arxiv.org/abs/2611.08438v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation",
+          "url": "https://arxiv.org/abs/2611.08315v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "The Geometry of Simulated Perspectives: Dissociating Representation and Behaviour in a Multimodal Language Model",
+          "url": "https://arxiv.org/abs/2611.08262v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "Scientist World: Grow a Research World for AI-Scientists",
+          "url": "https://arxiv.org/abs/2611.08478v1",
+          "source": "arXiv",
+          "score": 219
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (18 parsed)",
+          "found": 18
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (32 parsed)",
+          "found": 32
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
         },
         {
           "name": "Solidot",
