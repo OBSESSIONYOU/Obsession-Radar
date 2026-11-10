@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-09T07:03:47.475Z",
+  "generatedAt": "2026-11-10T07:39:56.658Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-10",
-      "generatedAt": "2026-10-10T06:17:43.597Z",
-      "totalFetched": 296,
-      "uniqueCount": 224,
-      "recommendations": [
-        {
-          "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-          "source": "Hacker News",
-          "score": 922,
-          "points": 327
-        },
-        {
-          "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-          "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-          "source": "Hacker News",
-          "score": 915,
-          "points": 391
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 252337
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206857
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187499
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
-          "url": "https://arxiv.org/abs/2610.12417v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Predicting Alignment Generalization with Value Representations",
-          "url": "https://arxiv.org/abs/2610.12410v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
-          "url": "https://arxiv.org/abs/2610.12375v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
-          "url": "https://arxiv.org/abs/2610.11899v1",
-          "source": "arXiv",
-          "score": 220
-        },
-        {
-          "title": "Evaluating Local Language Model Agents for Reproducible Data Engineering: An Empirical Software Engineering Study of Mobility Workflows",
-          "url": "https://arxiv.org/abs/2610.11482v1",
-          "source": "arXiv",
-          "score": 219
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-11",
       "generatedAt": "2026-10-11T06:17:47.647Z",
@@ -3008,6 +2927,123 @@
           "name": "papers.cool",
           "status": "ok (94 parsed)",
           "found": 94
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "generatedAt": "2026-11-09T07:03:47.299Z",
+      "totalFetched": 435,
+      "uniqueCount": 358,
+      "recommendations": [
+        {
+          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+          "source": "Hacker News",
+          "score": 2011,
+          "points": 531
+        },
+        {
+          "title": "Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News",
+          "score": 1972,
+          "points": 735
+        },
+        {
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News",
+          "score": 1816,
+          "points": 709
+        },
+        {
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News",
+          "score": 1816,
+          "points": 709
+        },
+        {
+          "title": "Ask HN: What are you working on? (November 2026)",
+          "url": "https://news.ycombinator.com/item?id=50417407",
+          "source": "Hacker News",
+          "score": 1783,
+          "points": 189
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "On Agentic Manipulation Policies",
+          "url": "https://arxiv.org/abs/2611.09892v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+          "url": "https://arxiv.org/abs/2611.09863v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+          "url": "https://arxiv.org/abs/2611.09770v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+          "url": "https://arxiv.org/abs/2611.09864v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+          "url": "https://arxiv.org/abs/2611.09825v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "QbitAI": 1,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (9 parsed)",
+          "found": 9
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (78 parsed)",
+          "found": 78
         }
       ]
     }
