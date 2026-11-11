@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-10T07:39:56.658Z",
+  "generatedAt": "2026-11-11T06:58:52.469Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-11",
-      "generatedAt": "2026-10-11T06:17:47.647Z",
-      "totalFetched": 275,
-      "uniqueCount": 202,
-      "recommendations": [
-        {
-          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News",
-          "score": 674,
-          "points": 275
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 252600
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 206945
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 482,
-          "points": 187513
-        },
-        {
-          "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-          "source": "Hacker News",
-          "score": 406,
-          "points": 57
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
-          "url": "https://arxiv.org/abs/2610.12417v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "Predicting Alignment Generalization with Value Representations",
-          "url": "https://arxiv.org/abs/2610.12410v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
-          "url": "https://arxiv.org/abs/2610.12375v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
-          "url": "https://arxiv.org/abs/2610.11899v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "Evaluating Local Language Model Agents for Reproducible Data Engineering: An Empirical Software Engineering Study of Mobility Workflows",
-          "url": "https://arxiv.org/abs/2610.11482v1",
-          "source": "arXiv",
-          "score": 211
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-12",
       "generatedAt": "2026-10-12T06:24:07.799Z",
@@ -3029,6 +2948,123 @@
           "name": "HF Daily Papers",
           "status": "ok (15 parsed)",
           "found": 15
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (78 parsed)",
+          "found": 78
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "generatedAt": "2026-11-10T07:39:56.483Z",
+      "totalFetched": 442,
+      "uniqueCount": 370,
+      "recommendations": [
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Hacker News",
+          "score": 2415,
+          "points": 482
+        },
+        {
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Hacker News",
+          "score": 2413,
+          "points": 482
+        },
+        {
+          "title": "Foldable Flight: The Best Paper Airplanes",
+          "url": "https://www.foldableflight.com",
+          "source": "Hacker News",
+          "score": 1483,
+          "points": 965
+        },
+        {
+          "title": "USPS now offers official ZIP Code boundary polygons",
+          "url": "https://postalpro.usps.com/zcb",
+          "source": "Hacker News",
+          "score": 1445,
+          "points": 597
+        },
+        {
+          "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+          "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+          "source": "Hacker News",
+          "score": 1299,
+          "points": 516
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+          "url": "https://arxiv.org/abs/2611.12872v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+          "url": "https://arxiv.org/abs/2611.12750v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards",
+          "url": "https://arxiv.org/abs/2611.12728v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Evaluating Cross-Signal Coherence in Mammography Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.12574v1",
+          "source": "arXiv",
+          "score": 224
+        },
+        {
+          "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+          "url": "https://arxiv.org/abs/2611.12856v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (11 parsed)",
+          "found": 11
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (14 parsed)",
+          "found": 14
         },
         {
           "name": "QbitAI",
