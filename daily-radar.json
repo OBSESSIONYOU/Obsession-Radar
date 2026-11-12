@@ -1,161 +1,160 @@
 {
-  "generatedAt": "2026-11-11T06:58:52.293Z",
-  "totalFetched": 533,
-  "uniqueCount": 437,
+  "generatedAt": "2026-11-12T07:36:19.706Z",
+  "totalFetched": 499,
+  "uniqueCount": 410,
   "candidates": [
     {
-      "id": "frontpage:hn:50441707",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50441707",
+      "id": "frontpage:hn:50459703",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "hnUrl": "https://news.ycombinator.com/item?id=50459703",
       "source": "Hacker News",
-      "points": 851,
-      "comments": 302,
-      "createdAt": "2026-11-10T15:25:20",
+      "points": 895,
+      "comments": 1244,
+      "createdAt": "2026-11-11T22:31:06",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1733,
-      "intro": "这篇来自 docodethatmatters.com 的帖子主要介绍了：Smart home devices should work without the internet相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 4056,
+      "intro": "这篇来自 wsj.com 的帖子主要介绍了：Nvidia is preparing to oust Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50438318",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50438318",
+      "id": "frontpage:hn:50452455",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "hnUrl": "https://news.ycombinator.com/item?id=50452455",
       "source": "Hacker News",
-      "points": 482,
-      "comments": 462,
-      "createdAt": "2026-11-10T10:25:58",
+      "points": 972,
+      "comments": 354,
+      "createdAt": "2026-11-11T12:05:22",
       "matchedQueries": [
         "front page",
-        "AI"
+        "AI",
+        "AI agent"
       ],
-      "score": 1697,
-      "intro": "这篇来自 evanxmerz.com 的帖子主要介绍了：AI usage generates a fragile codebase相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "score": 2017,
+      "intro": "这篇来自 pietromiotti.com 的帖子主要介绍了：My AI agents found an unmapped Maya site?相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50444129",
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "hnUrl": "https://news.ycombinator.com/item?id=50444129",
+      "id": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50458900",
       "source": "Hacker News",
-      "points": 368,
-      "comments": 378,
-      "createdAt": "2026-11-10T18:22:32",
+      "points": 517,
+      "comments": 506,
+      "author": "herpderperator",
+      "createdAt": "2026-11-11T21:24:35Z",
+      "storyText": "",
       "matchedQueries": [
-        "front page"
-      ],
-      "score": 1365,
-      "intro": "这篇来自 starlink.com 的帖子主要介绍了：Starlink Mini 2相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50442736",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50442736",
-      "source": "Hacker News",
-      "points": 769,
-      "comments": 171,
-      "createdAt": "2026-11-10T16:37:44",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1326,
-      "intro": "这篇来自 neil.fraser.name 的帖子主要介绍了：.name Grandfathered相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50445401",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50445401",
-      "source": "Hacker News",
-      "points": 436,
-      "comments": 293,
-      "createdAt": "2026-11-10T19:50:46",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1242,
-      "intro": "这篇来自 theautopian.com 的帖子主要介绍了：Scion is back and is going to sell a kei truck in America相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50439193",
-      "title": "AlphaProof Code",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50439193",
-      "source": "Hacker News",
-      "points": 612,
-      "comments": 182,
-      "createdAt": "2026-11-10T12:11:12",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1164,
-      "intro": "这篇来自 deepmind.google 的帖子主要介绍了：AlphaProof Code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "trending:github.com/mattpocock/skills",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "source": "GitHub Trending",
-      "points": 321224,
-      "comments": 26931,
-      "stars": 321224,
-      "forks": 26931,
-      "starsToday": 1225,
-      "language": "Shell",
-      "createdAt": "2026-11-11T06:58:34.034Z",
-      "pageDescription": "Skills for Real Engineers. Straight from my .agents directory.",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
+        "AI agents",
+        "AI",
         "AI agent"
       ],
-      "score": 645,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：mattpocock/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+      "score": 1876,
+      "intro": "这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "trending:github.com/anthropics/skills",
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "source": "GitHub Trending",
-      "points": 192608,
-      "comments": 22673,
-      "stars": 192608,
-      "forks": 22673,
-      "starsToday": 1679,
-      "language": "Python",
-      "createdAt": "2026-11-11T06:58:34.034Z",
-      "pageDescription": "Public repository for Agent Skills",
-      "githubTopics": [],
+      "id": "frontpage:hn:50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50458900",
+      "source": "Hacker News",
+      "points": 517,
+      "comments": 506,
+      "createdAt": "2026-11-11T21:24:35",
       "matchedQueries": [
-        "trending",
+        "front page",
+        "AI",
         "AI agent"
       ],
-      "score": 641,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：anthropics/skills相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+      "score": 1876,
+      "intro": "这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50450488",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hnUrl": "https://news.ycombinator.com/item?id=50450488",
+      "source": "Hacker News",
+      "points": 1101,
+      "comments": 122,
+      "createdAt": "2026-11-11T07:03:17",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1573,
+      "intro": "这篇来自 discuss.python.org 的帖子主要介绍了：Tim Peters has died相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "50456631",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "hnUrl": "https://news.ycombinator.com/item?id=50456631",
+      "source": "Hacker News",
+      "points": 800,
+      "comments": 231,
+      "author": "super_linear",
+      "createdAt": "2026-11-11T18:21:38Z",
+      "storyText": "<a href=\"https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agents-built-aws-emulator\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...</a><p><a href=\"https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an...</a>",
+      "matchedQueries": [
+        "AI agents",
+        "AI",
+        "AI agent"
+      ],
+      "score": 1536,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：AWS emulator相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50456631",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "hnUrl": "https://news.ycombinator.com/item?id=50456631",
+      "source": "Hacker News",
+      "points": 800,
+      "comments": 231,
+      "createdAt": "2026-11-11T18:21:38",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1508,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：AWS emulator相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50455394",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50455394",
+      "source": "Hacker News",
+      "points": 469,
+      "comments": 236,
+      "createdAt": "2026-11-11T16:38:44",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1136,
+      "intro": "这篇来自 michael.bacarella.com 的帖子主要介绍了：A false smoke alarm almost drowned Jane Street's only NYC datacenter相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     },
     {
       "id": "trending:github.com/addyosmani/agent-skills",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
-      "points": 115369,
-      "comments": 12111,
-      "stars": 115369,
-      "forks": 12111,
-      "starsToday": 465,
+      "points": 116172,
+      "comments": 12173,
+      "stars": 116172,
+      "forks": 12173,
+      "starsToday": 787,
       "language": "JavaScript",
-      "createdAt": "2026-11-11T06:58:34.034Z",
+      "createdAt": "2026-11-12T07:36:03.359Z",
       "pageDescription": "Production-grade engineering skills for AI coding agents.",
       "githubTopics": [],
       "matchedQueries": [
@@ -164,43 +163,22 @@
         "AI agent",
         "AI coding"
       ],
-      "score": 619,
+      "score": 633,
       "intro": "这篇来自 github.com 的帖子主要介绍了：addyosmani/agent-skills相关内容，聚焦浏览器自动化、网页操作和编程代理。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/sherlock-project/sherlock",
-      "title": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "source": "GitHub Trending",
-      "points": 109412,
-      "comments": 12693,
-      "stars": 109412,
-      "forks": 12693,
-      "starsToday": 2393,
-      "language": "Python",
-      "createdAt": "2026-11-11T06:58:34.034Z",
-      "pageDescription": "Hunt down social media accounts by username across social networks",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending"
-      ],
-      "score": 619,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：sherlock-project/sherlock相关内容，聚焦trending相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, fresh today"
     },
     {
       "id": "trending:github.com/meta/astryx",
       "title": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "source": "GitHub Trending",
-      "points": 23616,
-      "comments": 1853,
-      "stars": 23616,
-      "forks": 1853,
-      "starsToday": 3108,
+      "points": 25578,
+      "comments": 1991,
+      "stars": 25578,
+      "forks": 1991,
+      "starsToday": 2776,
       "language": "TypeScript",
-      "createdAt": "2026-11-11T06:58:34.034Z",
+      "createdAt": "2026-11-12T07:36:03.358Z",
       "pageDescription": "An open source design system that's fully customizable and agent ready",
       "githubTopics": [],
       "matchedQueries": [
@@ -216,13 +194,13 @@
       "title": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "source": "GitHub Trending",
-      "points": 49439,
-      "comments": 3463,
-      "stars": 49439,
-      "forks": 3463,
-      "starsToday": 780,
+      "points": 50059,
+      "comments": 3493,
+      "stars": 50059,
+      "forks": 3493,
+      "starsToday": 708,
       "language": "Rust",
-      "createdAt": "2026-11-11T06:58:34.034Z",
+      "createdAt": "2026-11-12T07:36:03.359Z",
       "pageDescription": "Browser automation CLI for AI agents",
       "githubTopics": [],
       "matchedQueries": [
@@ -230,21 +208,90 @@
         "AI",
         "AI agent"
       ],
-      "score": 588,
+      "score": 586,
       "intro": "这篇来自 github.com 的帖子主要介绍了：vercel-labs/agent-browser相关内容，聚焦浏览器自动化、网页操作和编程代理。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "source": "GitHub Trending",
+      "points": 70736,
+      "comments": 57002,
+      "stars": 70736,
+      "forks": 57002,
+      "starsToday": 278,
+      "language": "Python",
+      "createdAt": "2026-11-12T07:36:03.359Z",
+      "pageDescription": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "LLM"
+      ],
+      "score": 585,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：ZhuLinsen/daily_stock_analysis相关内容，关注成本结构、定价策略和实际落地收益。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/homeassistant-ai/ha-mcp",
+      "title": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "points": 7554,
+      "comments": 459,
+      "stars": 7554,
+      "forks": 459,
+      "starsToday": 645,
+      "language": "Python",
+      "createdAt": "2026-11-12T07:36:03.359Z",
+      "pageDescription": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI",
+        "MCP",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 539,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：homeassistant-ai/ha-mcp相关内容，聚焦trending、人工智能、MCP、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/we-promise/sure",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "source": "GitHub Trending",
+      "points": 13229,
+      "comments": 976,
+      "stars": 13229,
+      "forks": 976,
+      "starsToday": 1078,
+      "language": "Ruby",
+      "createdAt": "2026-11-12T07:36:03.359Z",
+      "pageDescription": "The personal finance app for everyone (by everyone)",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending"
+      ],
+      "score": 529,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：we-promise/sure相关内容，聚焦trending相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
     },
     {
       "id": "github:morluto/rea",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 450766,
-      "comments": 1771,
-      "stars": 450766,
-      "forks": 110921,
-      "openIssues": 1771,
-      "createdAt": "2026-11-11T06:56:29Z",
+      "points": 453529,
+      "comments": 1718,
+      "stars": 453529,
+      "forks": 111471,
+      "openIssues": 1718,
+      "createdAt": "2026-11-12T02:45:58Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -295,7 +342,7 @@
         "Anthropic",
         "Claude"
       ],
-      "score": 510,
+      "score": 501,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -304,12 +351,12 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 262530,
-      "comments": 53952,
-      "stars": 262530,
-      "forks": 58725,
-      "openIssues": 53952,
-      "createdAt": "2026-11-11T06:55:16Z",
+      "points": 262807,
+      "comments": 54066,
+      "stars": 262807,
+      "forks": 59106,
+      "openIssues": 54066,
+      "createdAt": "2026-11-12T07:34:37Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -357,12 +404,12 @@
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 210075,
-      "comments": 1252,
-      "stars": 210075,
-      "forks": 61443,
-      "openIssues": 1252,
-      "createdAt": "2026-11-11T06:55:19Z",
+      "points": 210242,
+      "comments": 1224,
+      "stars": 210242,
+      "forks": 61476,
+      "openIssues": 1224,
+      "createdAt": "2026-11-12T07:35:54Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -419,12 +466,12 @@
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 187987,
-      "comments": 727,
-      "stars": 187987,
-      "forks": 45878,
-      "openIssues": 727,
-      "createdAt": "2026-11-11T06:58:21Z",
+      "points": 187996,
+      "comments": 709,
+      "stars": 187996,
+      "forks": 45874,
+      "openIssues": 709,
+      "createdAt": "2026-11-12T06:38:56Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -458,7 +505,7 @@
         "Anthropic",
         "Claude"
       ],
-      "score": 483,
+      "score": 481,
       "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -467,12 +514,12 @@
       "title": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 168779,
-      "comments": 1072,
-      "stars": 168779,
-      "forks": 35168,
-      "openIssues": 1072,
-      "createdAt": "2026-11-11T06:55:12Z",
+      "points": 168888,
+      "comments": 1083,
+      "stars": 168888,
+      "forks": 35220,
+      "openIssues": 1083,
+      "createdAt": "2026-11-12T07:34:51Z",
       "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
         "audio",
@@ -528,12 +575,12 @@
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 160927,
-      "comments": 1227,
-      "stars": 160927,
-      "forks": 25457,
-      "openIssues": 1227,
-      "createdAt": "2026-11-11T06:56:13Z",
+      "points": 161009,
+      "comments": 1231,
+      "stars": 161009,
+      "forks": 25461,
+      "openIssues": 1231,
+      "createdAt": "2026-11-12T07:35:16Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -595,12 +642,12 @@
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub",
-      "points": 158344,
-      "comments": 275,
-      "stars": 158344,
-      "forks": 23028,
-      "openIssues": 275,
-      "createdAt": "2026-11-11T06:35:34Z",
+      "points": 158444,
+      "comments": 315,
+      "stars": 158444,
+      "forks": 23036,
+      "openIssues": 315,
+      "createdAt": "2026-11-12T04:39:37Z",
       "pageDescription": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "githubTopics": [
         "ai",
@@ -641,75 +688,69 @@
         "MCP",
         "OpenAI"
       ],
-      "score": 472,
+      "score": 467,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:paperclipai/paperclip",
-      "title": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
+      "id": "github:firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub",
-      "points": 113010,
-      "comments": 6704,
-      "stars": 113010,
-      "forks": 18752,
-      "openIssues": 6704,
-      "createdAt": "2026-11-11T06:43:56Z",
-      "pageDescription": "The open-source app everyone uses to manage agents at work",
+      "points": 201046,
+      "comments": 794,
+      "stars": 201046,
+      "forks": 10560,
+      "openIssues": 794,
+      "createdAt": "2026-11-12T06:16:51Z",
+      "pageDescription": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "githubTopics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
+        "ai",
         "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
         "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
       ],
       "matchedQueries": [
-        "claude",
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
         "llm",
-        "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation",
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping",
         "AI",
         "LLM",
-        "AI agent",
-        "MCP",
-        "Anthropic",
-        "Claude",
-        "Codex"
+        "AI agent"
       ],
-      "score": 463,
-      "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
+      "score": 466,
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -752,53 +793,8 @@
         "AI safety"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=One%20Policy%20for%20100%20Household%20Tasks%3A%20Our%20Solution%20for%20the%202026%20BEHAVIOR%20Challenge",
-      "score": 160,
+      "score": 140,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "semanticscholar:ea693001245ba993cbd4387f21b41958a0948746",
-      "title": "SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation",
-      "url": "https://www.semanticscholar.org/paper/ea693001245ba993cbd4387f21b41958a0948746",
-      "pdfUrl": "",
-      "source": "Semantic Scholar",
-      "points": 58,
-      "comments": 10,
-      "authors": [
-        "Ming-Jie Li",
-        "Wai-Man Si",
-        "Michael Backes",
-        "Yang Zhang",
-        "Yi-Sen Wang"
-      ],
-      "categories": [
-        "Computer Science",
-        "International Conference on Learning Representations",
-        "2025"
-      ],
-      "venue": "International Conference on Learning Representations",
-      "year": 2025,
-      "citations": 58,
-      "influentialCitations": 10,
-      "createdAt": "2025-01-03",
-      "updatedAt": "2025-01-03",
-      "abstract": "As advancements in large language models (LLMs) continue and the demand for personalized models increases, parameter-efficient fine-tuning (PEFT) methods (e.g., LoRA) will become essential due to their efficiency in reducing computation costs. However, recent studies have raised alarming concerns that LoRA fine-tuning could potentially compromise the safety alignment in LLMs, posing significant risks for the model owner. In this paper, we first investigate the underlying mechanism by analyzing the changes in safety alignment related features before and after fine-tuning. Then, we propose a fixed safety module calculated by safety data and a task-specific initialization for trainable parameters in low-rank adaptations, termed Safety-alignment preserved Low-Rank Adaptation (SaLoRA). Unlike previous LoRA methods and their variants, SaLoRA enables targeted modifications to LLMs without disrupting their original alignments. Our experiments show that SaLoRA outperforms various adapters-based approaches across various evaluation metrics in different fine-tuning tasks.",
-      "pageDescription": "As advancements in large language models (LLMs) continue and the demand for personalized models increases, parameter-efficient fine-tuning (PEFT) methods (e.g., LoRA) will become essential due to their efficiency in reducing computation costs. However, recent studies have raised alarming concerns that LoRA fine-tuning could potentially compromise the safety alignment in LLMs, posing significant risks for the model owner. In this paper, we first investigate the underlying mechanism by analyzing the changes in safety alignment related features before and after fine-tuning. Then, we propose a fixed safety module calculated by safety data and a task-specific initialization for trainable parameters in low-rank adaptations, termed Safety-alignment preserved Low-Rank Adaptation (SaLoRA). Unlike previous LoRA methods and their variants, SaLoRA enables targeted modifications to LLMs without disrupting their original alignments. Our experiments show that SaLoRA outperforms various adapters-based approaches across various evaluation metrics in different fine-tuning tasks.",
-      "externalIds": {
-        "DBLP": "journals/corr/abs-2501-01765",
-        "ArXiv": "2501.01765",
-        "DOI": "10.48550/arXiv.2501.01765",
-        "CorpusId": 275323999
-      },
-      "matchedQueries": [
-        "AI safety",
-        "Computer Science",
-        "International Conference on Learning Representations",
-        "LLM"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=SaLoRA%3A%20Safety-Alignment%20Preserved%20Low-Rank%20Adaptation",
-      "score": 147,
-      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation相关内容，关注成本结构、定价策略和实际落地收益。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -838,53 +834,8 @@
         "AI safety"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Comparative%20Analysis%20of%20Agent%20Evaluation%20Frameworks%3A%20Stability%2C%20Detection%2C%20and%20Discovery%20in%20Enterprise%20Analytics%20Agents",
-      "score": 133,
+      "score": 112,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.LG、cs.SE、人工智能、AI Agent、AI 安全相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "semanticscholar:cf50519715f25b57b96c923feb7672ef611cb7cf",
-      "title": "Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)",
-      "url": "https://www.semanticscholar.org/paper/cf50519715f25b57b96c923feb7672ef611cb7cf",
-      "pdfUrl": "https://doi.org/10.1145/3779211.3795738",
-      "source": "Semantic Scholar",
-      "points": 1,
-      "comments": 0,
-      "authors": [
-        "Himanshu Joshi"
-      ],
-      "categories": [
-        "Computer Science",
-        "WSDM Companion",
-        "2026"
-      ],
-      "venue": "WSDM Companion",
-      "year": 2026,
-      "citations": 1,
-      "influentialCitations": 0,
-      "createdAt": "2026-02-22",
-      "updatedAt": "2026-02-22",
-      "abstract": "Evaluating the safety and alignment of AI systems remains a critical challenge as foundation models grow increasingly sophisticated. Traditional evaluation methods rely heavily on human expert review, creating bottlenecks that cannot scale with rapid AI development. We introduce Jo.E (Joint Evaluation), a multi-agent collaborative framework that systematically coordinates large language model evaluators, specialized adversarial agents, and strategic human expert involvement for comprehensive safety assessments. Our framework employs a five-phase evaluation pipeline with explicit mechanisms for conflict resolution, severity scoring, and adaptive escalation. Through extensive experiments on GPT-4o, Claude 3.5 Sonnet, Llama 3.1 70B, and Phi-3-medium, we demonstrate that Jo.E achieves 94.2% detection accuracy compared to 78.3% for single LLM-as-Judge approaches and 86.1% for Agent-as-Judge baselines, while reducing human expert time by 54% compared to pure human evaluation. We provide detailed computational cost analysis, showing Jo.E processes 1,000 evaluations at $47.30 compared to $312.50 for human-only approaches. Our ablation studies reveal the contribution of each component, and failure case analysis identifies systematic blind spots in current evaluation paradigms.",
-      "pageDescription": "Evaluating the safety and alignment of AI systems remains a critical challenge as foundation models grow increasingly sophisticated. Traditional evaluation methods rely heavily on human expert review, creating bottlenecks that cannot scale with rapid AI development. We introduce Jo.E (Joint Evaluation), a multi-agent collaborative framework that systematically coordinates large language model evaluators, specialized adversarial agents, and strategic human expert involvement for comprehensive safety assessments. Our framework employs a five-phase evaluation pipeline with explicit mechanisms for conflict resolution, severity scoring, and adaptive escalation. Through extensive experiments on GPT-4o, Claude 3.5 Sonnet, Llama 3.1 70B, and Phi-3-medium, we demonstrate that Jo.E achieves 94.2% detection accuracy compared to 78.3% for single LLM-as-Judge approaches and 86.1% for Agent-as-Judge baselines, while reducing human expert time by 54% compared to pure human evaluation. We provide detailed computational cost analysis, showing Jo.E processes 1,000 evaluations at $47.30 compared to $312.50 for human-only approaches. Our ablation studies reveal the contribution of each component, and failure case analysis identifies systematic blind spots in current evaluation paradigms.",
-      "externalIds": {
-        "DBLP": "conf/wsdm/Joshi26",
-        "DOI": "10.1145/3779211.3795738",
-        "CorpusId": 287949220
-      },
-      "matchedQueries": [
-        "AI safety",
-        "Computer Science",
-        "WSDM Companion",
-        "AI",
-        "LLM",
-        "AI agent",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Joint%20Evaluation%20%3A%20A%20Human%20%2B%20LLM%20%2B%20Multi-Agents%20Collaborative%20Framework%20for%20Comprehensive%20AI%20Safety%20(Jo.E)",
-      "score": 127,
-      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)相关内容，关注成本结构、定价策略和实际落地收益。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -920,258 +871,228 @@
         "AI safety"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Contrastive%20Discovery%3A%20Open-Ended%20Scientific%20Discovery%20over%20Competing%20Explanations",
-      "score": 120,
+      "score": 98,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.LG、人工智能、AI Agent、AI 安全相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "semanticscholar:3da31af50eb9081445bc0151acaafd09d431e836",
-      "title": "Enhancing Medical AI Safety Through Multi-Agent Evaluation and Iterative Refinement",
-      "url": "https://www.semanticscholar.org/paper/3da31af50eb9081445bc0151acaafd09d431e836",
-      "pdfUrl": "https://dl.acm.org/doi/pdf/10.1145/3765612.3768142",
-      "source": "Semantic Scholar",
-      "points": 2,
-      "comments": 0,
-      "authors": [
-        "Zainab Ghafoor",
-        "Md. Shafiqul Islam",
-        "Koushik Howlader",
-        "Md Rasel Khondokar",
-        "Tanusree Bhattacharjee",
-        "S. Chakroborty",
-        "Adrito Roy",
-        "Ushashi Bhattacharjee",
-        "Tirtho Roy"
-      ],
-      "categories": [
-        "Computer Science",
-        "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
-        "2025"
-      ],
-      "venue": "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
-      "year": 2025,
-      "citations": 2,
-      "influentialCitations": 0,
-      "createdAt": "2025-10-12",
-      "updatedAt": "2025-10-12",
-      "abstract": "Large Language Models (LLMs) show strong potential in healthcare but face critical challenges in ethical and safety compliance. We present a lightweight multi-agent refinement framework that enhances medical LLM safety through structured, iterative alignment. The system pairs DeepSeek R1 and Med-PaLM as generative models with LLaMA 3.1 and Phi-4 as evaluator agents that iteratively assess and refine responses against the American Medical Association's nine Principles (AMA-9) and a five-tier Safety Risk Assessment (SRA-5). Using 900 adversarial clinical prompts from the MedSafety-Eval subset, we measure convergence, violation reduction, and risk downgrading under a structured five-iteration refinement loop. The multi-agent pipeline reduced ethical violations by 89% and achieved a 92% risk-downgrade rate. DeepSeek R1 outperforms Med-PaLM in convergence efficiency (94.2% convergence; mean 2.34 iterations) compared with Med-PaLM (91.8% convergence; mean 2.67 iterations). Domain analyses reveal consistent gains across emergency, diagnostic, and therapeutic scenarios, while non-convergent cases highlight areas for improvement in legal and privacy domains. Our approach offers a scalable, cost-effective protocol for enhancing medical AI trustworthiness and provides a practical pathway toward regulator-aligned deployment of LLMs in clinical settings.",
-      "pageDescription": "Large Language Models (LLMs) show strong potential in healthcare but face critical challenges in ethical and safety compliance. We present a lightweight multi-agent refinement framework that enhances medical LLM safety through structured, iterative alignment. The system pairs DeepSeek R1 and Med-PaLM as generative models with LLaMA 3.1 and Phi-4 as evaluator agents that iteratively assess and refine responses against the American Medical Association's nine Principles (AMA-9) and a five-tier Safety Risk Assessment (SRA-5). Using 900 adversarial clinical prompts from the MedSafety-Eval subset, we measure convergence, violation reduction, and risk downgrading under a structured five-iteration refinement loop. The multi-agent pipeline reduced ethical violations by 89% and achieved a 92% risk-downgrade rate. DeepSeek R1 outperforms Med-PaLM in convergence efficiency (94.2% convergence; mean 2.34 iterations) compared with Med-PaLM (91.8% convergence; mean 2.67 iterations). Domain analyses reveal consistent gains across emergency, diagnostic, and therapeutic scenarios, while non-convergent cases highlight areas for improvement in legal and privacy domains. Our approach offers a scalable, cost-effective protocol for enhancing medical AI trustworthiness and provides a practical pathway toward regulator-aligned deployment of LLMs in clinical settings.",
-      "externalIds": {
-        "DBLP": "conf/bcb/GhafoorIHKBCRBR25",
-        "DOI": "10.1145/3765612.3768142",
-        "CorpusId": 283723192
-      },
-      "matchedQueries": [
-        "AI safety",
-        "Computer Science",
-        "ACM International Conference on Bioinformatics, Computational Biology and Biomedicine",
-        "AI",
-        "LLM",
-        "AI agent",
-        "prompt engineering",
-        "DeepSeek"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Enhancing%20Medical%20AI%20Safety%20Through%20Multi-Agent%20Evaluation%20and%20Iterative%20Refinement",
-      "score": 114,
-      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：Enhancing Medical AI Safety Through Multi-Agent Evaluation and Iterative Refinement相关内容，关注成本结构、定价策略和实际落地收益。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/11/509052.html",
-      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-      "url": "https://www.qbitai.com/2026/11/509052.html",
+      "id": "rss:qbitai:https://www.qbitai.com/2026/11/509146.html",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
       "source": "QbitAI",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-11-11T03:43:31.000Z",
-      "pageDescription": "L4无人化作业走向规模交付",
+      "createdAt": "2026-11-11T06:41:26.000Z",
+      "pageDescription": "价格、门槛全打穿",
       "categories": [
         "资讯",
-        "丘沃智能",
-        "拖拉机",
-        "自动驾驶"
+        "首页轮播",
+        "TRAE",
+        "罗永浩"
       ],
       "matchedQueries": [
         "资讯",
-        "丘沃智能",
-        "拖拉机"
-      ],
-      "score": 79,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光相关内容，聚焦资讯、丘沃智能、拖拉机相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "paperscool:2611.14515",
-      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-      "url": "https://arxiv.org/abs/2611.14515",
-      "pdfUrl": "https://arxiv.org/pdf/2611.14515",
-      "source": "papers.cool",
-      "points": 0,
-      "comments": 0,
-      "authors": [
-        "Zijian Zhang",
-        "Rizhen Hu",
-        "Jiangweizhi Peng",
-        "Shiyang Li",
-        "Sujay Bhatt",
-        "Sihan Zeng",
-        "Mingyi Hong"
-      ],
-      "categories": [
-        "cs.CL"
-      ],
-      "createdAt": "2026-11-10T18:58:46+00:00",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans ",
-      "pageDescription": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans ",
-      "matchedQueries": [
-        "papers.cool",
+        "首页轮播",
+        "TRAE",
         "AI",
-        "LLM",
-        "prompt engineering"
+        "AI coding"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=AutoScaffold%3A%20AI-Guided%20Scaffolding%20for%20Reinforcement%20Learning%20of%20Language%20Models",
-      "score": 78,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models相关内容，聚焦papers.cool、人工智能、大语言模型、提示词工程相关背景、功能和讨论点。",
+      "score": 70,
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI 编程的大众嘴替相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "hf:2611.12426",
-      "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
-      "url": "https://huggingface.co/papers/2611.12426",
+      "id": "hf:2610.39671",
+      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2610.39671",
       "source": "HF Papers",
-      "points": 27,
+      "points": 14,
       "comments": 0,
-      "upvotes": 27,
+      "upvotes": 14,
       "authors": [],
       "categories": [
         "HF Daily Papers"
       ],
-      "createdAt": "2026-11-09T00:00:00.000Z",
-      "abstract": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to converge on a unified framework, thereby fostering shared methodology and infrastructure. This work investigates a central question: how far can a finite discrete vocabulary go in representing the richnes",
-      "pageDescription": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to converge on a unified framework, thereby fostering shared methodology and infrastructure. This work investigates a central question: how far can a finite discrete vocabulary go in representing the richnes",
+      "createdAt": "2026-10-29T00:00:00.000Z",
+      "abstract": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupled knowledge acquisition and reasoning, beyond factual retrieval and aggregation or learning solely from a preassembled context. We study self-learning -- autonomously retrieving, studying, and applyi",
+      "pageDescription": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupled knowledge acquisition and reasoning, beyond factual retrieval and aggregation or learning solely from a preassembled context. We study self-learning -- autonomously retrieving, studying, and applyi",
+      "matchedQueries": [
+        "HF daily",
+        "LLM",
+        "RAG"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Incentivizing%20Self-Learning%20in%20Large%20Language%20Models%20via%20Reinforcement%20Learning",
+      "score": 58,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Incentivizing Self-Learning in Large Language Models via Reinforcement Learning相关内容，聚焦HF daily、大语言模型、RAG相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
+    },
+    {
+      "id": "hf:2610.40394",
+      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "url": "https://huggingface.co/papers/2610.40394",
+      "source": "HF Papers",
+      "points": 25,
+      "comments": 0,
+      "upvotes": 25,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-10-29T00:00:00.000Z",
+      "abstract": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K",
+      "pageDescription": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K",
       "matchedQueries": [
         "HF daily",
         "LLM"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=dNaViT%3A%20Discrete%20Codes%20are%20General-Purpose%20Visual%20Representations",
-      "score": 59,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：dNaViT: Discrete Codes are General-Purpose Visual Representations相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Scaling%20Mathematical%20Proof%20Supervision%20from%20Structured%20Textbooks",
+      "score": 57,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Scaling Mathematical Proof Supervision from Structured Textbooks相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "hf:2611.14210",
-      "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
-      "url": "https://huggingface.co/papers/2611.14210",
-      "source": "HF Papers",
-      "points": 2,
+      "id": "rss:solidot:https://www.solidot.org/story?sid=85865",
+      "title": "腾讯计划将半数员工部署到 AI 原生业务",
+      "url": "https://www.solidot.org/story?sid=85865",
+      "source": "Solidot",
+      "points": 0,
       "comments": 0,
-      "upvotes": 2,
-      "authors": [],
-      "categories": [
-        "HF Daily Papers"
-      ],
-      "createdAt": "2026-11-10T00:00:00.000Z",
-      "abstract": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem ov",
-      "pageDescription": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem ov",
+      "createdAt": "2026-11-12T06:49:27.000Z",
+      "pageDescription": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大航海时代”，他将腾讯的核心业务比作陆军，将新的 AI 业务比作海军。马化腾称，50% 的人要像陆军一样，守土有责，通过提效去做好现有的核心业务；另外 50% 的人像海军一样，拥抱浪潮，探索 AI Native、拓展新的发展空间。近期有传言称腾讯计划裁员50%，对此知情人士称，公司资源适应 AI 时代的重新调度，可能是所谓“裁员 50%”的谣言出处，该说法完全不属实。",
+      "categories": [],
       "matchedQueries": [
-        "HF daily",
-        "LLM",
-        "AI agent",
-        "OpenAI"
+        "AI"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Tree-Ising%3A%20Repairing%20Language%20Models%20with%20Bit-Level%20Ising%20Edits",
-      "score": 58,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Tree-Ising: Repairing Language Models with Bit-Level Ising Edits相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "score": 56,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：腾讯计划将半数员工部署到 AI 原生业务相关内容，聚焦人工智能相关背景、功能和讨论点。",
+      "reason": "fresh today"
+    },
+    {
+      "id": "paperscool:2611.13509",
+      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+      "url": "https://arxiv.org/abs/2611.13509",
+      "pdfUrl": "https://arxiv.org/pdf/2611.13509",
+      "source": "papers.cool",
+      "points": 0,
+      "comments": 0,
+      "authors": [
+        "Evan Li",
+        "Krishna Deshpande",
+        "Wen Cheng",
+        "Shyamnath Gollakota"
+      ],
+      "categories": [
+        "cs.CL"
+      ],
+      "createdAt": "2026-11-10T03:29:29+00:00",
+      "abstract": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\\it Mobile AI Factory}, an agentic system that builds a fine-tuned, quantized SLM for a given task and phone. Given a task sp",
+      "pageDescription": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\\it Mobile AI Factory}, an agentic system that builds a fine-tuned, quantized SLM for a given task and phone. Given a task sp",
+      "matchedQueries": [
+        "papers.cool",
+        "AI",
+        "LLM",
+        "AI agent"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Mobile%20AI%20Factory%3A%20Building%20Specialized%20Language%20Models%20for%20Your%20Mobile%20Device",
+      "score": 56,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Mobile AI Factory: Building Specialized Language Models for Your Mobile Device相关内容，聚焦papers.cool、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50441707",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50441707",
+      "id": "frontpage:hn:50459703",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "hnUrl": "https://news.ycombinator.com/item?id=50459703",
       "source": "Hacker News",
-      "points": 851,
-      "comments": 302,
-      "createdAt": "2026-11-10T15:25:20",
+      "points": 895,
+      "comments": 1244,
+      "createdAt": "2026-11-11T22:31:06",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1733,
-      "intro": "这篇来自 docodethatmatters.com 的帖子主要介绍了：Smart home devices should work without the internet相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 4056,
+      "intro": "这篇来自 wsj.com 的帖子主要介绍了：Nvidia is preparing to oust Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50438318",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50438318",
+      "id": "frontpage:hn:50452455",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "hnUrl": "https://news.ycombinator.com/item?id=50452455",
       "source": "Hacker News",
-      "points": 482,
-      "comments": 462,
-      "createdAt": "2026-11-10T10:25:58",
+      "points": 972,
+      "comments": 354,
+      "createdAt": "2026-11-11T12:05:22",
       "matchedQueries": [
         "front page",
-        "AI"
+        "AI",
+        "AI agent"
       ],
-      "score": 1697,
-      "intro": "这篇来自 evanxmerz.com 的帖子主要介绍了：AI usage generates a fragile codebase相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "score": 2017,
+      "intro": "这篇来自 pietromiotti.com 的帖子主要介绍了：My AI agents found an unmapped Maya site?相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50444129",
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
-      "hnUrl": "https://news.ycombinator.com/item?id=50444129",
+      "id": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50458900",
       "source": "Hacker News",
-      "points": 368,
-      "comments": 378,
-      "createdAt": "2026-11-10T18:22:32",
+      "points": 517,
+      "comments": 506,
+      "author": "herpderperator",
+      "createdAt": "2026-11-11T21:24:35Z",
+      "storyText": "",
       "matchedQueries": [
-        "front page"
+        "AI agents",
+        "AI",
+        "AI agent"
       ],
-      "score": 1365,
-      "intro": "这篇来自 starlink.com 的帖子主要介绍了：Starlink Mini 2相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
+      "score": 1876,
+      "intro": "这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50442736",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50442736",
+      "id": "frontpage:hn:50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50458900",
       "source": "Hacker News",
-      "points": 769,
-      "comments": 171,
-      "createdAt": "2026-11-10T16:37:44",
+      "points": 517,
+      "comments": 506,
+      "createdAt": "2026-11-11T21:24:35",
       "matchedQueries": [
-        "front page"
+        "front page",
+        "AI",
+        "AI agent"
       ],
-      "score": 1326,
-      "intro": "这篇来自 neil.fraser.name 的帖子主要介绍了：.name Grandfathered相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
+      "score": 1876,
+      "intro": "这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50445401",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50445401",
+      "id": "frontpage:hn:50450488",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "hnUrl": "https://news.ycombinator.com/item?id=50450488",
       "source": "Hacker News",
-      "points": 436,
-      "comments": 293,
-      "createdAt": "2026-11-10T19:50:46",
+      "points": 1101,
+      "comments": 122,
+      "createdAt": "2026-11-11T07:03:17",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1242,
-      "intro": "这篇来自 theautopian.com 的帖子主要介绍了：Scion is back and is going to sell a kei truck in America相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1573,
+      "intro": "这篇来自 discuss.python.org 的帖子主要介绍了：Tim Peters has died相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-11-11T06:58:52.278Z",
-    "totalFetched": 199,
-    "uniqueCount": 147,
+    "generatedAt": "2026-11-12T07:36:19.692Z",
+    "totalFetched": 179,
+    "uniqueCount": 134,
     "candidates": [
       {
         "id": "arxiv:2611.14493v1",
@@ -1213,7 +1134,7 @@
         "methodHint": "a three-phase comparative study",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 238,
+        "score": 230,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1253,7 +1174,7 @@
         "methodHint": "Contrastive Discovery",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1300,7 +1221,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, matched Multimodal, matched AI safety"
       },
@@ -1346,7 +1267,7 @@
         "methodHint": "EngineAgent",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1381,7 +1302,7 @@
         "methodHint": "ReFrain",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       },
@@ -1422,7 +1343,7 @@
         "methodHint": "AutoScaffold",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1466,7 +1387,7 @@
         "methodHint": "ReTrace",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1501,7 +1422,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1536,7 +1457,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1572,7 +1493,7 @@
         "methodHint": "look-ahead state readout",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched Multimodal, CS AI category"
       },
@@ -1610,7 +1531,7 @@
         "methodHint": "TIGA",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
       },
@@ -1645,7 +1566,7 @@
         "methodHint": "tritify",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 210,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched LLM, matched AI coding, CS AI category, has PDF"
       },
@@ -1683,7 +1604,7 @@
         "methodHint": "Bootstrapped On-Policy Distillation",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 210,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI coding, matched AI safety, CS AI category"
       },
@@ -1733,7 +1654,7 @@
         "methodHint": "PegasusAI Studio",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 215,
+        "score": 207,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched AI agent, matched AI coding, CS AI category, has PDF"
       },
@@ -1771,7 +1692,7 @@
         "methodHint": "Pyrite",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       }
@@ -1817,7 +1738,7 @@
         "methodHint": "a three-phase comparative study",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 238,
+        "score": 230,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1857,7 +1778,7 @@
         "methodHint": "Contrastive Discovery",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category"
       },
@@ -1904,7 +1825,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, matched Multimodal, matched AI safety"
       },
@@ -1950,7 +1871,7 @@
         "methodHint": "EngineAgent",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1985,7 +1906,7 @@
         "methodHint": "ReFrain",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       }
@@ -1995,33 +1916,33 @@
     {
       "name": "GitHub Trending",
       "url": "https://github.com/trending",
-      "status": "ok (12 parsed)",
-      "found": 12,
-      "observedAt": "2026-11-11T06:58:32.506Z",
-      "kept": 12
+      "status": "ok (10 parsed)",
+      "found": 10,
+      "observedAt": "2026-11-12T07:36:02.090Z",
+      "kept": 10
     },
     {
       "name": "HN Front Page",
       "url": "https://news.ycombinator.com/",
       "status": "ok (30 parsed)",
       "found": 30,
-      "observedAt": "2026-11-11T06:58:35.535Z",
+      "observedAt": "2026-11-12T07:36:04.860Z",
       "kept": 30
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (19 parsed)",
-      "found": 19,
-      "observedAt": "2026-11-11T06:58:37.218Z",
-      "kept": 19
+      "status": "ok (9 parsed)",
+      "found": 9,
+      "observedAt": "2026-11-12T07:36:06.570Z",
+      "kept": 9
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-11-11T06:58:38.900Z",
+      "observedAt": "2026-11-12T07:36:08.245Z",
       "kept": 10
     },
     {
@@ -2029,7 +1950,7 @@
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-11-11T06:58:41.957Z",
+      "observedAt": "2026-11-12T07:36:11.333Z",
       "kept": 20
     },
     {
@@ -2037,20 +1958,20 @@
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (112 parsed)",
       "found": 112,
-      "observedAt": "2026-11-11T06:58:44.669Z",
+      "observedAt": "2026-11-12T07:36:13.969Z",
       "kept": 112
     }
   ],
   "momentum": [
     {
+      "source": "Hacker News",
+      "count": 8,
+      "momentum": -0.014
+    },
+    {
       "source": "GitHub",
       "count": 8,
       "momentum": 0.038
-    },
-    {
-      "source": "Hacker News",
-      "count": 6,
-      "momentum": -0.014
     },
     {
       "source": "GitHub Trending",
@@ -2063,11 +1984,6 @@
       "momentum": 0
     },
     {
-      "source": "Semantic Scholar",
-      "count": 3,
-      "momentum": null
-    },
-    {
       "source": "HF Papers",
       "count": 2,
       "momentum": 0
@@ -2078,19 +1994,20 @@
       "momentum": 0
     },
     {
+      "source": "Solidot",
+      "count": 1,
+      "momentum": 0.01
+    },
+    {
       "source": "papers.cool",
       "count": 1,
       "momentum": 0
     }
   ],
   "diagnostics": {
-    "errors": [],
-    "warnings": [
-      "Semantic Scholar: LLM: HTTP 429",
-      "Semantic Scholar: RAG: HTTP 429",
-      "Semantic Scholar: AI agent: HTTP 429",
-      "Semantic Scholar: AI coding: HTTP 429",
-      "Semantic Scholar: Multimodal: HTTP 429"
-    ]
+    "errors": [
+      "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
+    ],
+    "warnings": []
   }
 }

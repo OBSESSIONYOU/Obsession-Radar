@@ -1,90 +1,8 @@
 {
-  "generatedAt": "2026-11-11T06:58:52.469Z",
+  "generatedAt": "2026-11-12T07:36:19.893Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-12",
-      "generatedAt": "2026-10-12T06:24:07.799Z",
-      "totalFetched": 280,
-      "uniqueCount": 213,
-      "recommendations": [
-        {
-          "title": "The gap in shared understanding of LLM capability is widening",
-          "url": "https://twitter.com/karpathy/status/2109361546505966046",
-          "source": "Hacker News",
-          "score": 1786,
-          "points": 388
-        },
-        {
-          "title": "From \"Ban It Till We Understand It\" to \"Resistance is Futile\": How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot",
-          "url": "https://www.semanticscholar.org/paper/a1f3a5f16faf9670f948f1e4e84d12f08dfe353b",
-          "source": "Semantic Scholar",
-          "score": 501,
-          "points": 306
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 252874
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 488,
-          "points": 207042
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187525
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-          "url": "https://arxiv.org/abs/2610.13935v1",
-          "source": "arXiv",
-          "score": 213
-        },
-        {
-          "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
-          "url": "https://arxiv.org/abs/2610.13663v1",
-          "source": "arXiv",
-          "score": 213
-        },
-        {
-          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
-          "url": "https://arxiv.org/abs/2610.13128v1",
-          "source": "arXiv",
-          "score": 210
-        },
-        {
-          "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
-          "url": "https://arxiv.org/abs/2610.12995v1",
-          "source": "arXiv",
-          "score": 210
-        },
-        {
-          "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
-          "url": "https://arxiv.org/abs/2610.13783v1",
-          "source": "arXiv",
-          "score": 208
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "Semantic Scholar": 4,
-        "GitHub": 12,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-13",
       "generatedAt": "2026-10-13T07:01:55.449Z",
@@ -3080,6 +2998,123 @@
           "name": "papers.cool",
           "status": "ok (78 parsed)",
           "found": 78
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "generatedAt": "2026-11-11T06:58:52.293Z",
+      "totalFetched": 533,
+      "uniqueCount": 437,
+      "recommendations": [
+        {
+          "title": "Smart home devices should work without the internet",
+          "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+          "source": "Hacker News",
+          "score": 1733,
+          "points": 851
+        },
+        {
+          "title": "AI usage generates a fragile codebase",
+          "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+          "source": "Hacker News",
+          "score": 1697,
+          "points": 482
+        },
+        {
+          "title": "Starlink Mini 2",
+          "url": "https://starlink.com/mini-2",
+          "source": "Hacker News",
+          "score": 1365,
+          "points": 368
+        },
+        {
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/",
+          "source": "Hacker News",
+          "score": 1326,
+          "points": 769
+        },
+        {
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+          "source": "Hacker News",
+          "score": 1242,
+          "points": 436
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+          "url": "https://arxiv.org/abs/2611.14493v1",
+          "source": "arXiv",
+          "score": 238
+        },
+        {
+          "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+          "url": "https://arxiv.org/abs/2611.14514v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+          "url": "https://arxiv.org/abs/2611.14432v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+          "url": "https://arxiv.org/abs/2611.14356v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Multimodal Abstention That Preserves Acquired Correct Answers",
+          "url": "https://arxiv.org/abs/2611.14311v1",
+          "source": "arXiv",
+          "score": 229
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "Semantic Scholar": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (12 parsed)",
+          "found": 12
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (19 parsed)",
+          "found": 19
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (112 parsed)",
+          "found": 112
         }
       ]
     }
