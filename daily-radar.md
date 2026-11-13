@@ -1,170 +1,170 @@
 # Obsession Radar
 
-Generated: 2026-11-12T07:36:19.706Z
-Fetched: 499 links | Unique: 410 | Candidates: 30
+Generated: 2026-11-13T07:07:25.144Z
+Fetched: 488 links | Unique: 412 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-   - 内容介绍：这篇来自 wsj.com 的帖子主要介绍了：Nvidia is preparing to oust Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 4056 | Points: 895 | Comments: 1244
+1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+   - 内容介绍：这篇来自 apnews.com 的帖子主要介绍了：Jensen Huang resigns相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 11138 | Points: 3343 | Comments: 3028
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50459703
+   - HN: https://news.ycombinator.com/item?id=50467087
 
-2. [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)
-   - 内容介绍：这篇来自 pietromiotti.com 的帖子主要介绍了：My AI agents found an unmapped Maya site?相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 2017 | Points: 972 | Comments: 354
+2. [Anthropic IPO](https://ipo.anthropic.com/us/)
+   - 内容介绍：这篇来自 ipo.anthropic.com 的帖子主要介绍了：Anthropic IPO相关内容，聚焦front page、Anthropic相关背景、功能和讨论点。
+   - Score: 3113 | Points: 899 | Comments: 851
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50452455
+   - HN: https://news.ycombinator.com/item?id=50465829
 
-3. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-   - 内容介绍：这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 1876 | Points: 517 | Comments: 506
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50458900
-
-4. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-   - 内容介绍：这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。
-   - Score: 1876 | Points: 517 | Comments: 506
-   - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50458900
-
-5. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
-   - 内容介绍：这篇来自 discuss.python.org 的帖子主要介绍了：Tim Peters has died相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1573 | Points: 1101 | Comments: 122
+3. [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
+   - 内容介绍：这篇来自 status.cloud.microsoft 的帖子主要介绍了：Service degradation on Microsoft 365相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 2519 | Points: 744 | Comments: 679
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50450488
+   - HN: https://news.ycombinator.com/item?id=50471731
+
+4. [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
+   - 内容介绍：这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Hydrogen相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。
+   - Score: 1425 | Points: 509 | Comments: 324
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50471431
+
+5. [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+   - 内容介绍：这篇来自 wired.com 的帖子主要介绍了：Nvidia employees petition to bring back Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1287 | Points: 420 | Comments: 315
+   - Why: high HN points, active discussion, fresh today
+   - HN: https://news.ycombinator.com/item?id=50477231
 
 ## 30-Link Candidate Pool
 
-1. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) - 4056 pts
-   - 内容介绍：这篇来自 wsj.com 的帖子主要介绍了：Nvidia is preparing to oust Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。
-2. [My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) - 2017 pts
-   - 内容介绍：这篇来自 pietromiotti.com 的帖子主要介绍了：My AI agents found an unmapped Maya site?相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。
-3. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - 1876 pts
-   - 内容介绍：这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-4. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - 1876 pts
-   - 内容介绍：这篇来自 cbsnews.com 的帖子主要介绍了：United Airlines bans AI agents from booking flights on behalf of travelers相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。
-5. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) - 1573 pts
-   - 内容介绍：这篇来自 discuss.python.org 的帖子主要介绍了：Tim Peters has died相关内容，聚焦front page相关背景、功能和讨论点。
-6. [AWS emulator](https://github.com/aws/aws-emulator) - 1536 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：AWS emulator相关内容，聚焦AI agents、人工智能、AI Agent相关背景、功能和讨论点。
-7. [AWS emulator](https://github.com/aws/aws-emulator) - 1508 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：AWS emulator相关内容，聚焦front page相关背景、功能和讨论点。
-8. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) - 1136 pts
-   - 内容介绍：这篇来自 michael.bacarella.com 的帖子主要介绍了：A false smoke alarm almost drowned Jane Street's only NYC datacenter相关内容，聚焦front page相关背景、功能和讨论点。
-9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 633 pts
+1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) - 11138 pts
+   - 内容介绍：这篇来自 apnews.com 的帖子主要介绍了：Jensen Huang resigns相关内容，聚焦front page相关背景、功能和讨论点。
+2. [Anthropic IPO](https://ipo.anthropic.com/us/) - 3113 pts
+   - 内容介绍：这篇来自 ipo.anthropic.com 的帖子主要介绍了：Anthropic IPO相关内容，聚焦front page、Anthropic相关背景、功能和讨论点。
+3. [Service degradation on Microsoft 365](https://status.cloud.microsoft/) - 2519 pts
+   - 内容介绍：这篇来自 status.cloud.microsoft 的帖子主要介绍了：Service degradation on Microsoft 365相关内容，聚焦front page相关背景、功能和讨论点。
+4. [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) - 1425 pts
+   - 内容介绍：这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Hydrogen相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。
+5. [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) - 1287 pts
+   - 内容介绍：这篇来自 wired.com 的帖子主要介绍了：Nvidia employees petition to bring back Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。
+6. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) - 1279 pts
+   - 内容介绍：这篇来自 blog.rust-lang.org 的帖子主要介绍了：Rust 1.100相关内容，聚焦front page相关背景、功能和讨论点。
+7. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) - 978 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：My $300 embroidery machine needed a subscription, so I built my own app相关内容，聚焦front page相关背景、功能和讨论点。
+8. [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/) - 859 pts
+   - 内容介绍：这篇来自 reuters.com 的帖子主要介绍了：Former Nvidia CEO Huang had a relationship with a second employee, sources say相关内容，聚焦front page相关背景、功能和讨论点。
+9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - 634 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：addyosmani/agent-skills相关内容，聚焦浏览器自动化、网页操作和编程代理。
-10. [meta/astryx](https://github.com/meta/astryx) - 589 pts
+10. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - 605 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Alishahryar1/free-claude-code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+11. [meta/astryx](https://github.com/meta/astryx) - 579 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：meta/astryx相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-11. [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - 586 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：vercel-labs/agent-browser相关内容，聚焦浏览器自动化、网页操作和编程代理。
-12. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - 585 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：ZhuLinsen/daily_stock_analysis相关内容，关注成本结构、定价策略和实际落地收益。
-13. [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - 539 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：homeassistant-ai/ha-mcp相关内容，聚焦trending、人工智能、MCP、OpenAI、Anthropic、Claude相关背景、功能和讨论点。
-14. [we-promise/sure](https://github.com/we-promise/sure) - 529 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：we-promise/sure相关内容，聚焦trending相关背景、功能和讨论点。
-15. [morluto/rea](https://github.com/morluto/rea) - 501 pts
+12. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - 577 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：ggml-org/llama.cpp相关内容，聚焦trending、大语言模型相关背景、功能和讨论点。
+13. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 550 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：QwenLM/qwen-code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+14. [openai/codex-security](https://github.com/openai/codex-security) - 543 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：openai/codex-security相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+15. [morluto/rea](https://github.com/morluto/rea) - 508 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
 16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 492 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
 17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 481 pts
+18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-19. [huggingface/transformers](https://github.com/huggingface/transformers) - 478 pts
+19. [huggingface/transformers](https://github.com/huggingface/transformers) - 476 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
 20. [langgenius/dify](https://github.com/langgenius/dify) - 474 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-21. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 467 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-22. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 466 pts
+21. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 467 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-23. [One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge](https://arxiv.org/abs/2611.14432v1) - 140 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-24. [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](https://arxiv.org/abs/2611.14493v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.LG、cs.SE、人工智能、AI Agent、AI 安全相关背景、功能和讨论点。
-25. [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations相关内容，聚焦大语言模型、cs.AI、cs.CL、cs.LG、人工智能、AI Agent、AI 安全相关背景、功能和讨论点。
-26. [双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替](https://www.qbitai.com/2026/11/509146.html) - 70 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI 编程的大众嘴替相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-27. [Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](https://huggingface.co/papers/2610.39671) - 58 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Incentivizing Self-Learning in Large Language Models via Reinforcement Learning相关内容，聚焦HF daily、大语言模型、RAG相关背景、功能和讨论点。
-28. [Scaling Mathematical Proof Supervision from Structured Textbooks](https://huggingface.co/papers/2610.40394) - 57 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Scaling Mathematical Proof Supervision from Structured Textbooks相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。
-29. [腾讯计划将半数员工部署到 AI 原生业务](https://www.solidot.org/story?sid=85865) - 56 pts
-   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：腾讯计划将半数员工部署到 AI 原生业务相关内容，聚焦人工智能相关背景、功能和讨论点。
-30. [Mobile AI Factory: Building Specialized Language Models for Your Mobile Device](https://arxiv.org/abs/2611.13509) - 56 pts
+22. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - 464 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+23. [Sketching Language Models for Context Attribution](https://arxiv.org/abs/2611.17313v1) - 133 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Sketching Language Models for Context Attribution相关内容，聚焦AI 安全、cs.DS、cs.AI、cs.LG、stat.ML、人工智能、大语言模型、提示词工程相关背景、功能和讨论点。
+24. [Goal Encoding in LLMs](https://arxiv.org/abs/2611.17297v1) - 119 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Goal Encoding in LLMs相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+25. [Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon](https://arxiv.org/abs/2611.17294v1) - 119 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon相关内容，聚焦浏览器自动化、网页操作和编程代理。
+26. [微软云服务全球宕机](https://www.solidot.org/story?sid=85875) - 82 pts
+   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：微软云服务全球宕机相关内容，聚焦人工智能、OpenAI、Anthropic相关背景、功能和讨论点。
+27. [Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors](https://huggingface.co/papers/2611.17060) - 75 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦HF daily、人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。
+28. [Mobile AI Factory: Building Specialized Language Models for Your Mobile Device](https://arxiv.org/abs/2611.13509) - 56 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Mobile AI Factory: Building Specialized Language Models for Your Mobile Device相关内容，聚焦papers.cool、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。
+29. [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](https://huggingface.co/papers/2611.05984) - 53 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：On the Design of Hyper-Connections: Simplification, Stability, and Scalability相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。
+30. [从通用大模型到学习过程智能，AI如何真正进入课堂？](https://www.qbitai.com/2026/11/509404.html) - 49 pts
+   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：从通用大模型到学习过程智能，AI如何真正进入课堂？相关内容，聚焦资讯、银河智学、人工智能相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](https://arxiv.org/abs/2611.14493v1)
+1. [Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon](https://arxiv.org/abs/2611.17294v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Howard Zhang, Chuck Arvin, Logan Brown, Mihir Bhatia, Neelu Choudhary, Lily Miao
-   - Categories: cs.AI, cs.CL, cs.LG, cs.SE
-   - Score: 230 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2611.14493v1
-   - PDF: https://arxiv.org/pdf/2611.14493v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Comparative%20Analysis%20of%20Agent%20Evaluation%20Frameworks%3A%20Stability%2C%20Detection%2C%20and%20Discovery%20in%20Enterprise%20Analytics%20Agents
+   - Authors: Haozhe Wang, Lina Chen, Fanqi Wan, Qi Han, Yinmin Zhang, Zheng Ge, Daxin Jiang, Junchi Yan
+   - Categories: cs.LG, cs.AI, cs.CL, cs.DC
+   - Score: 230 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.17294v1
+   - PDF: https://arxiv.org/pdf/2611.17294v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Metal%20Sandbox%3A%20Isolated%20Execution%20and%20Command%20Scheduling%20for%20GPU%20Coding%20Agents%20on%20Apple%20Silicon
 
-2. [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](https://arxiv.org/abs/2611.14514v1)
+2. [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](https://arxiv.org/abs/2611.17316v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Peiwen Li, Harshit Verma, Sophia Zhou, Haiwen Wang, Ngoc Bui, Heng Chang, Fei Fei, David van Dijk, Rex Ying
+   - Categories: cs.AI, cs.CL, cs.SE
+   - Score: 229 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.17316v1
+   - PDF: https://arxiv.org/pdf/2611.17316v1
+   - Google Scholar: https://scholar.google.com/scholar?q=CoReMem%3A%20Cost-Internalizing%20Memory%20for%20Successive%20Coding%20Tasks%20with%20Prospective%20Valuation
+
+3. [Goal Encoding in LLMs](https://arxiv.org/abs/2611.17297v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
-   - Authors: Ziang Liu, James J. Kim, Yijia Dai, Jennifer J. Sun
-   - Categories: cs.AI, cs.CL, cs.LG
-   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2611.14514v1
-   - PDF: https://arxiv.org/pdf/2611.14514v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Contrastive%20Discovery%3A%20Open-Ended%20Scientific%20Discovery%20over%20Competing%20Explanations
+   - Authors: Arnab Sen Sharma, Eric Todd, Sheridan Feucht, Andy Arditi, Rohit Gandikota, Natalie Shapira, Gabriele Sarti, Constanza Fierro, Lisa Schut, David Bau
+   - Categories: cs.CL, cs.AI, cs.LG
+   - Score: 229 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.17297v1
+   - PDF: https://arxiv.org/pdf/2611.17297v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Goal%20Encoding%20in%20LLMs
 
-3. [One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge](https://arxiv.org/abs/2611.14432v1)
+4. [RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication](https://arxiv.org/abs/2611.16425v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney, Vitaly Kleban, Mirko Kiefer, Anjana Yodaiken
-   - Categories: cs.RO, cs.AI, cs.CV, cs.LG
-   - Score: 221 | Why: fresh paper, matched RAG, matched AI agent, matched Multimodal, matched AI safety
-   - arXiv: https://arxiv.org/abs/2611.14432v1
-   - PDF: https://arxiv.org/pdf/2611.14432v1
-   - Google Scholar: https://scholar.google.com/scholar?q=One%20Policy%20for%20100%20Household%20Tasks%3A%20Our%20Solution%20for%20the%202026%20BEHAVIOR%20Challenge
+   - Authors: Oleg Zendel, Kun Ran, Chenglong Ma, Nguyen Khoi Vo, Shuai Wang
+   - Categories: cs.IR, cs.AI, cs.CL
+   - Score: 223 | Why: fresh paper, matched RAG, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.16425v1
+   - PDF: https://arxiv.org/pdf/2611.16425v1
+   - Google Scholar: https://scholar.google.com/scholar?q=RMIT-ADM%2BS%20at%20TREC%20RAG%202026%3A%20Research%20Agents%2C%20Retriever%20Ablations%2C%20and%20Open-Weight%20Replication
 
-4. [EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](https://arxiv.org/abs/2611.14356v1)
+5. [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](https://arxiv.org/abs/2611.17323v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Zhengxiang Huang, Yujie Sun, Shengheng Chen, Zhaode Wang, Chaoyue Niu, Zeyu Zhao, Chengfei Lv, Fan Wu, Guihai Chen
-   - Categories: cs.OS, cs.AI, cs.CL, cs.SE
-   - Score: 221 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.14356v1
-   - PDF: https://arxiv.org/pdf/2611.14356v1
-   - Google Scholar: https://scholar.google.com/scholar?q=EngineAgent%3A%20Agentizing%20On-Device%20LLM%20Inference%20Engines%20with%20Inference%20Stack%20Hierarchy%20Awareness%20and%20Hardware%20Abilities
-
-5. [Multimodal Abstention That Preserves Acquired Correct Answers](https://arxiv.org/abs/2611.14311v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Jinyuan Zhang
-   - Categories: cs.AI, cs.CV, cs.LG
-   - Score: 221 | Why: fresh paper, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.14311v1
-   - PDF: https://arxiv.org/pdf/2611.14311v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Multimodal%20Abstention%20That%20Preserves%20Acquired%20Correct%20Answers
+   - Authors: Ethan Lin, Akanksha Sarkar, Ziang Liu, Kristin Branson, Jennifer J. Sun
+   - Categories: cs.AI, cs.LG
+   - Score: 222 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.17323v1
+   - PDF: https://arxiv.org/pdf/2611.17323v1
+   - Google Scholar: https://scholar.google.com/scholar?q=AgentSSL%3A%20Can%20MLE%20Agents%20Leverage%20Unlabeled%20Data%3F
 
 
 ## 网页源覆盖
 
-- GitHub Trending: ok (10 parsed)（10 条）
+- GitHub Trending: ok (13 parsed)（13 条）
 - HN Front Page: ok (30 parsed)（30 条）
-- HF Daily Papers: ok (9 parsed)（9 条）
+- HF Daily Papers: ok (16 parsed)（16 条）
 - QbitAI: ok (10 parsed)（10 条）
 - Solidot: ok (20 parsed)（20 条）
 - papers.cool: ok (112 parsed)（112 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · → 持平
+- Hacker News：8 席 · ↓ -0.081
 - GitHub：8 席 · ↑ +0.038
 - GitHub Trending：6 席 · → 持平
 - arXiv：3 席 · → 持平
 - HF Papers：2 席 · → 持平
-- QbitAI：1 席 · → 持平
-- Solidot：1 席 · → 持平
+- Solidot：1 席 · 新增来源
 - papers.cool：1 席 · → 持平
+- QbitAI：1 席 · → 持平
 
 
 ## 执行告警

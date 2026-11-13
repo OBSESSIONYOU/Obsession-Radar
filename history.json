@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-12T07:36:19.893Z",
+  "generatedAt": "2026-11-13T07:07:25.357Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-13",
-      "generatedAt": "2026-10-13T07:01:55.449Z",
-      "totalFetched": 279,
-      "uniqueCount": 213,
-      "recommendations": [
-        {
-          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-          "url": "https://github.com/openai/codex/issues/48195",
-          "source": "Hacker News",
-          "score": 1314,
-          "points": 535
-        },
-        {
-          "title": "AI coding agents generate more code, but not more software",
-          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-          "source": "Hacker News",
-          "score": 1148,
-          "points": 331
-        },
-        {
-          "title": "Just say no to OpenAI and Anthropic",
-          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-          "source": "Hacker News",
-          "score": 586,
-          "points": 157
-        },
-        {
-          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-          "url": "https://news.ycombinator.com/item?id=50059096",
-          "source": "Hacker News",
-          "score": 494,
-          "points": 127
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 253239
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-          "url": "https://arxiv.org/abs/2610.13935v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models",
-          "url": "https://arxiv.org/abs/2610.13663v1",
-          "source": "arXiv",
-          "score": 205
-        },
-        {
-          "title": "Locate, Judge, Read: Role-Specialized Tool Agents over a Knowledge-Point Index for Open-Domain Multimodal Document QA",
-          "url": "https://arxiv.org/abs/2610.13128v1",
-          "source": "arXiv",
-          "score": 202
-        },
-        {
-          "title": "What Should SFT Learn? Conditional Information Gain for Generalizable Post-Training",
-          "url": "https://arxiv.org/abs/2610.12995v1",
-          "source": "arXiv",
-          "score": 201
-        },
-        {
-          "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
-          "url": "https://arxiv.org/abs/2610.13783v1",
-          "source": "arXiv",
-          "score": 200
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-14",
       "generatedAt": "2026-10-14T05:16:55.956Z",
@@ -3100,6 +3019,123 @@
           "name": "HF Daily Papers",
           "status": "ok (19 parsed)",
           "found": 19
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (112 parsed)",
+          "found": 112
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "generatedAt": "2026-11-12T07:36:19.706Z",
+      "totalFetched": 499,
+      "uniqueCount": 410,
+      "recommendations": [
+        {
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "source": "Hacker News",
+          "score": 4056,
+          "points": 895
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "source": "Hacker News",
+          "score": 2017,
+          "points": 972
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "source": "Hacker News",
+          "score": 1876,
+          "points": 517
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "source": "Hacker News",
+          "score": 1876,
+          "points": 517
+        },
+        {
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "source": "Hacker News",
+          "score": 1573,
+          "points": 1101
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+          "url": "https://arxiv.org/abs/2611.14493v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+          "url": "https://arxiv.org/abs/2611.14514v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+          "url": "https://arxiv.org/abs/2611.14432v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+          "url": "https://arxiv.org/abs/2611.14356v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "Multimodal Abstention That Preserves Acquired Correct Answers",
+          "url": "https://arxiv.org/abs/2611.14311v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "Solidot": 1,
+        "papers.cool": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (9 parsed)",
+          "found": 9
         },
         {
           "name": "QbitAI",
