@@ -1,253 +1,172 @@
 {
-  "generatedAt": "2026-11-13T07:07:25.144Z",
-  "totalFetched": 488,
-  "uniqueCount": 412,
+  "generatedAt": "2026-11-14T06:55:49.765Z",
+  "totalFetched": 519,
+  "uniqueCount": 435,
   "candidates": [
     {
-      "id": "frontpage:hn:50467087",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "hnUrl": "https://news.ycombinator.com/item?id=50467087",
+      "id": "frontpage:hn:50489641",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "hnUrl": "https://news.ycombinator.com/item?id=50489641",
       "source": "Hacker News",
-      "points": 3343,
-      "comments": 3028,
-      "createdAt": "2026-11-12T13:52:29",
+      "points": 1481,
+      "comments": 1138,
+      "createdAt": "2026-11-13T21:05:53",
       "matchedQueries": [
         "front page"
       ],
-      "score": 11138,
-      "intro": "这篇来自 apnews.com 的帖子主要介绍了：Jensen Huang resigns相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 4474,
+      "intro": "这篇来自 nbcnews.com 的帖子主要介绍了：FAA issues national ground stop – lifted 4.5 hours later相关内容，说明复现现象、影响范围和排查线索。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50465829",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50465829",
+      "id": "frontpage:hn:50474959",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "hnUrl": "https://news.ycombinator.com/item?id=50474959",
       "source": "Hacker News",
-      "points": 899,
-      "comments": 851,
-      "createdAt": "2026-11-12T11:46:41",
-      "matchedQueries": [
-        "front page",
-        "Anthropic"
-      ],
-      "score": 3113,
-      "intro": "这篇来自 ipo.anthropic.com 的帖子主要介绍了：Anthropic IPO相关内容，聚焦front page、Anthropic相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50471731",
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50471731",
-      "source": "Hacker News",
-      "points": 744,
-      "comments": 679,
-      "createdAt": "2026-11-12T18:20:48",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2519,
-      "intro": "这篇来自 status.cloud.microsoft 的帖子主要介绍了：Service degradation on Microsoft 365相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50471431",
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50471431",
-      "source": "Hacker News",
-      "points": 509,
-      "comments": 324,
-      "createdAt": "2026-11-12T18:01:48",
+      "points": 732,
+      "comments": 211,
+      "createdAt": "2026-11-12T22:03:09",
       "matchedQueries": [
         "front page",
         "AI",
-        "Gemini"
-      ],
-      "score": 1425,
-      "intro": "这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Hydrogen相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50477231",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50477231",
-      "source": "Hacker News",
-      "points": 420,
-      "comments": 315,
-      "createdAt": "2026-11-13T02:16:24",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1287,
-      "intro": "这篇来自 wired.com 的帖子主要介绍了：Nvidia employees petition to bring back Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, fresh today"
-    },
-    {
-      "id": "frontpage:hn:50472038",
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50472038",
-      "source": "Hacker News",
-      "points": 604,
-      "comments": 229,
-      "createdAt": "2026-11-12T18:39:05",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1279,
-      "intro": "这篇来自 blog.rust-lang.org 的帖子主要介绍了：Rust 1.100相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50470488",
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "hnUrl": "https://news.ycombinator.com/item?id=50470488",
-      "source": "Hacker News",
-      "points": 464,
-      "comments": 172,
-      "createdAt": "2026-11-12T17:02:42",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 978,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：My $300 embroidery machine needed a subscription, so I built my own app相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50473190",
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50473190",
-      "source": "Hacker News",
-      "points": 218,
-      "comments": 238,
-      "createdAt": "2026-11-12T19:51:33",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 859,
-      "intro": "这篇来自 reuters.com 的帖子主要介绍了：Former Nvidia CEO Huang had a relationship with a second employee, sources say相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "trending:github.com/addyosmani/agent-skills",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending",
-      "points": 116851,
-      "comments": 12219,
-      "stars": 116851,
-      "forks": 12219,
-      "starsToday": 816,
-      "language": "JavaScript",
-      "createdAt": "2026-11-13T07:07:07.983Z",
-      "pageDescription": "Production-grade engineering skills for AI coding agents.",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "AI",
-        "AI agent",
-        "AI coding"
-      ],
-      "score": 634,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：addyosmani/agent-skills相关内容，聚焦浏览器自动化、网页操作和编程代理。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/Alishahryar1/free-claude-code",
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "source": "GitHub Trending",
-      "points": 69538,
-      "comments": 10799,
-      "stars": 69538,
-      "forks": 10799,
-      "starsToday": 415,
-      "language": "Python",
-      "createdAt": "2026-11-13T07:07:07.984Z",
-      "pageDescription": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "Anthropic",
-        "Claude",
-        "Codex"
-      ],
-      "score": 605,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：Alishahryar1/free-claude-code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/meta/astryx",
-      "title": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "source": "GitHub Trending",
-      "points": 26883,
-      "comments": 2084,
-      "stars": 26883,
-      "forks": 2084,
-      "starsToday": 1830,
-      "language": "TypeScript",
-      "createdAt": "2026-11-13T07:07:07.983Z",
-      "pageDescription": "An open source design system that's fully customizable and agent ready",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
         "AI agent"
       ],
-      "score": 579,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：meta/astryx相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
+      "score": 1390,
+      "intro": "这篇来自 atg.science 的帖子主要介绍了：Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50493251",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "hnUrl": "https://news.ycombinator.com/item?id=50493251",
+      "source": "Hacker News",
+      "points": 344,
+      "comments": 175,
+      "createdAt": "2026-11-14T02:52:59",
+      "matchedQueries": [
+        "front page",
+        "AI"
+      ],
+      "score": 880,
+      "intro": "这篇来自 techpowerup.com 的帖子主要介绍了：Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
-      "id": "trending:github.com/ggml-org/llama.cpp",
-      "title": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
+      "id": "frontpage:hn:50487864",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "hnUrl": "https://news.ycombinator.com/item?id=50487864",
+      "source": "Hacker News",
+      "points": 335,
+      "comments": 185,
+      "createdAt": "2026-11-13T18:40:44",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 864,
+      "intro": "这篇来自 toninoble.com 的帖子主要介绍了：Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hnUrl": "https://news.ycombinator.com/item?id=50484658",
+      "source": "Hacker News",
+      "points": 227,
+      "comments": 226,
+      "author": "helloplanets",
+      "createdAt": "2026-11-13T15:08:44Z",
+      "storyText": "",
+      "matchedQueries": [
+        "AI coding",
+        "AI"
+      ],
+      "score": 846,
+      "intro": "这篇来自 youtube.com 的帖子主要介绍了：Jonathan Blow – If AI solved coding, why is my software still the same? [video]相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hnUrl": "https://news.ycombinator.com/item?id=50484658",
+      "source": "Hacker News",
+      "points": 227,
+      "comments": 226,
+      "createdAt": "2026-11-13T15:08:44",
+      "matchedQueries": [
+        "front page",
+        "AI"
+      ],
+      "score": 846,
+      "intro": "这篇来自 youtube.com 的帖子主要介绍了：Jonathan Blow – If AI solved coding, why is my software still the same? [video]相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
+    },
+    {
+      "id": "frontpage:hn:50488325",
+      "title": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "hnUrl": "https://news.ycombinator.com/item?id=50488325",
+      "source": "Hacker News",
+      "points": 216,
+      "comments": 137,
+      "createdAt": "2026-11-13T19:14:02",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 613,
+      "intro": "这篇来自 open.m-vave.com 的帖子主要介绍了：FM-1 Workbench相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "trending:github.com/ZhuLinsen/daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "source": "GitHub Trending",
-      "points": 134716,
-      "comments": 25524,
-      "stars": 134716,
-      "forks": 25524,
-      "starsToday": 176,
-      "language": "C++",
-      "createdAt": "2026-11-13T07:07:07.984Z",
-      "pageDescription": "LLM inference in C/C++",
+      "points": 71869,
+      "comments": 57365,
+      "stars": 71869,
+      "forks": 57365,
+      "starsToday": 256,
+      "language": "Python",
+      "createdAt": "2026-11-14T06:55:33.122Z",
+      "pageDescription": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "LLM"
       ],
-      "score": 577,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：ggml-org/llama.cpp相关内容，聚焦trending、大语言模型相关背景、功能和讨论点。",
+      "score": 583,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：ZhuLinsen/daily_stock_analysis相关内容，关注成本结构、定价策略和实际落地收益。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
-      "id": "trending:github.com/QwenLM/qwen-code",
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
+      "id": "trending:github.com/alibaba/open-code-review",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
-      "points": 29982,
-      "comments": 3409,
-      "stars": 29982,
-      "forks": 3409,
-      "starsToday": 151,
-      "language": "TypeScript",
-      "createdAt": "2026-11-13T07:07:07.983Z",
-      "pageDescription": "An open-source AI coding agent that lives in your terminal.",
+      "points": 50844,
+      "comments": 3786,
+      "stars": 50844,
+      "forks": 3786,
+      "starsToday": 215,
+      "language": "Go",
+      "createdAt": "2026-11-14T06:55:33.121Z",
+      "pageDescription": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
-        "AI",
+        "LLM",
         "AI agent",
-        "AI coding"
+        "OpenAI",
+        "Anthropic"
       ],
-      "score": 550,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：QwenLM/qwen-code相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "score": 570,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：alibaba/open-code-review相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -255,13 +174,13 @@
       "title": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "source": "GitHub Trending",
-      "points": 12659,
-      "comments": 989,
-      "stars": 12659,
-      "forks": 989,
-      "starsToday": 643,
+      "points": 13268,
+      "comments": 1028,
+      "stars": 13268,
+      "forks": 1028,
+      "starsToday": 751,
       "language": "TypeScript",
-      "createdAt": "2026-11-13T07:07:07.982Z",
+      "createdAt": "2026-11-14T06:55:33.121Z",
       "pageDescription": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "githubTopics": [],
       "matchedQueries": [
@@ -269,21 +188,108 @@
         "OpenAI",
         "Codex"
       ],
-      "score": 543,
+      "score": 549,
       "intro": "这篇来自 github.com 的帖子主要介绍了：openai/codex-security相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending",
+      "points": 55676,
+      "comments": 4614,
+      "stars": 55676,
+      "forks": 4614,
+      "starsToday": 67,
+      "language": "TypeScript",
+      "createdAt": "2026-11-14T06:55:33.122Z",
+      "pageDescription": "Chrome DevTools for coding agents",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI agent",
+        "MCP"
+      ],
+      "score": 530,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：ChromeDevTools/chrome-devtools-mcp相关内容，聚焦浏览器自动化、网页操作和编程代理。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/we-promise/sure",
+      "title": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "source": "GitHub Trending",
+      "points": 14885,
+      "comments": 1132,
+      "stars": 14885,
+      "forks": 1132,
+      "starsToday": 925,
+      "language": "Ruby",
+      "createdAt": "2026-11-14T06:55:33.122Z",
+      "pageDescription": "The personal finance app for everyone (by everyone)",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending"
+      ],
+      "score": 529,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：we-promise/sure相关内容，聚焦trending相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
+    },
+    {
+      "id": "trending:github.com/GoogleChrome/modern-web-guidance-src",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending",
+      "points": 5084,
+      "comments": 279,
+      "stars": 5084,
+      "forks": 279,
+      "starsToday": 1925,
+      "language": "TypeScript",
+      "createdAt": "2026-11-14T06:55:33.121Z",
+      "pageDescription": "Keep your coding agent up to date with the latest web best practices",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "AI agent"
+      ],
+      "score": 526,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：GoogleChrome/modern-web-guidance-src相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "trending:github.com/louislam/uptime-kuma",
+      "title": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "source": "GitHub Trending",
+      "points": 93964,
+      "comments": 8728,
+      "stars": 93964,
+      "forks": 8728,
+      "starsToday": 71,
+      "language": "JavaScript",
+      "createdAt": "2026-11-14T06:55:33.122Z",
+      "pageDescription": "A fancy self-hosted monitoring tool",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending"
+      ],
+      "score": 521,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：louislam/uptime-kuma相关内容，聚焦trending相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, fresh today"
     },
     {
       "id": "github:morluto/rea",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 455962,
-      "comments": 1793,
-      "stars": 455962,
-      "forks": 111970,
-      "openIssues": 1793,
-      "createdAt": "2026-11-13T05:52:37Z",
+      "points": 458176,
+      "comments": 1693,
+      "stars": 458176,
+      "forks": 112390,
+      "openIssues": 1693,
+      "createdAt": "2026-11-14T06:46:15Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -334,7 +340,7 @@
         "Anthropic",
         "Claude"
       ],
-      "score": 508,
+      "score": 510,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -343,12 +349,12 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 263041,
-      "comments": 53610,
-      "stars": 263041,
-      "forks": 59218,
-      "openIssues": 53610,
-      "createdAt": "2026-11-13T07:06:29Z",
+      "points": 263267,
+      "comments": 53371,
+      "stars": 263267,
+      "forks": 59308,
+      "openIssues": 53371,
+      "createdAt": "2026-11-14T06:43:54Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -396,12 +402,12 @@
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 210350,
-      "comments": 1237,
-      "stars": 210350,
-      "forks": 61492,
-      "openIssues": 1237,
-      "createdAt": "2026-11-13T06:55:27Z",
+      "points": 210432,
+      "comments": 1223,
+      "stars": 210432,
+      "forks": 61494,
+      "openIssues": 1223,
+      "createdAt": "2026-11-14T06:16:58Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -449,7 +455,7 @@
         "AI",
         "MCP"
       ],
-      "score": 488,
+      "score": 487,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -458,12 +464,12 @@
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 188011,
-      "comments": 707,
-      "stars": 188011,
-      "forks": 45870,
-      "openIssues": 707,
-      "createdAt": "2026-11-13T06:55:46Z",
+      "points": 188021,
+      "comments": 693,
+      "stars": 188021,
+      "forks": 45865,
+      "openIssues": 693,
+      "createdAt": "2026-11-14T06:41:25Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -502,77 +508,16 @@
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "points": 168938,
-      "comments": 1085,
-      "stars": 168938,
-      "forks": 35234,
-      "openIssues": 1085,
-      "createdAt": "2026-11-13T05:49:32Z",
-      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "githubTopics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
-      ],
-      "matchedQueries": [
-        "llm",
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm",
-        "machine learning",
-        "LLM",
-        "DeepSeek"
-      ],
-      "score": 476,
-      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
       "id": "github:langgenius/dify",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 161078,
-      "comments": 1253,
-      "stars": 161078,
-      "forks": 25473,
-      "openIssues": 1253,
-      "createdAt": "2026-11-13T07:06:50Z",
+      "points": 161129,
+      "comments": 1346,
+      "stars": 161129,
+      "forks": 25483,
+      "openIssues": 1346,
+      "createdAt": "2026-11-14T06:49:55Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -630,64 +575,119 @@
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:firecrawl/firecrawl",
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
+      "id": "github:open-webui/open-webui",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
       "source": "GitHub",
-      "points": 201354,
-      "comments": 798,
-      "stars": 201354,
-      "forks": 10565,
-      "openIssues": 798,
-      "createdAt": "2026-11-13T06:18:04Z",
-      "pageDescription": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "points": 158604,
+      "comments": 325,
+      "stars": 158604,
+      "forks": 23062,
+      "openIssues": 325,
+      "createdAt": "2026-11-14T05:31:06Z",
+      "pageDescription": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "githubTopics": [
         "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
         "llm",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping"
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
       ],
       "matchedQueries": [
         "llm",
         "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui",
         "AI",
         "LLM",
-        "AI agent"
+        "RAG",
+        "MCP",
+        "OpenAI"
+      ],
+      "score": 470,
+      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub",
+      "points": 168956,
+      "comments": 1127,
+      "stars": 168956,
+      "forks": 35193,
+      "openIssues": 1127,
+      "createdAt": "2026-11-14T00:53:09Z",
+      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "githubTopics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "matchedQueries": [
+        "llm",
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm",
+        "machine learning",
+        "LLM",
+        "DeepSeek"
       ],
       "score": 467,
-      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -695,12 +695,12 @@
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub",
-      "points": 113478,
-      "comments": 6650,
-      "stars": 113478,
-      "forks": 18839,
-      "openIssues": 6650,
-      "createdAt": "2026-11-13T07:06:46Z",
+      "points": 113749,
+      "comments": 6630,
+      "stars": 113749,
+      "forks": 18878,
+      "openIssues": 6630,
+      "createdAt": "2026-11-14T06:55:16Z",
       "pageDescription": "The open-source app everyone uses to manage agents at work",
       "githubTopics": [
         "acpx",
@@ -758,6 +758,85 @@
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
+      "id": "arxiv:2611.15596v1",
+      "title": "Bug Finding With Agentic Symbolic Execution",
+      "url": "https://arxiv.org/abs/2611.15596v1",
+      "pdfUrl": "https://arxiv.org/pdf/2611.15596v1",
+      "source": "arXiv",
+      "points": 0,
+      "comments": 0,
+      "authors": [
+        "George Granberry",
+        "Wolfgang Ahrendt",
+        "Andy Gordon",
+        "Moa Johansson"
+      ],
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.LO",
+        "cs.SC"
+      ],
+      "createdAt": "2026-11-11T15:15:01Z",
+      "updatedAt": "2026-11-11T15:15:01Z",
+      "abstract": "Symbolic execution, in tools such as CrossHair for Python, is a powerful technique for finding bugs, but two barriers hinder its adoption: the human effort of annotating code with assertions, and the need to model the execution environment outside Python, such as an external database. To overcome both, we design an agentic harness that orchestrates the symbolic execution tool CrossHair together with an AI coding agent. Without human intervention, it instruments a repository with assertions, synthesizes a constraint-aware symbolic environment for the database, runs symbolic execution, and constructs a concrete test as evidence for each bug it reports. We evaluate our harness on 1,156,044 lines of Python code over 11 popular open-source Python web applications (Zulip, NetBox, Apache Superset, and others). With the synthesized environment, CrossHair executes 81% of the 5,406 contracted functions, against 4.5% without it. Our pipeline finds 1,050 bugs, each reproduced by a test against the unmodified application, 221 of them by CrossHair, and 312 of them are missed by a baseline in which the same LLM inspects the code. The two find different kinds of bugs: CrossHair's are mostly crashes on input-domain corner cases that validation admits, such as empty strings, missing fields and unusual characters, while inspection's are mostly bugs that produce wrong output. Our framework thus lets symbolic execution supplement inspection-based bug finding.",
+      "pageDescription": "Symbolic execution, in tools such as CrossHair for Python, is a powerful technique for finding bugs, but two barriers hinder its adoption: the human effort of annotating code with assertions, and the need to model the execution environment outside Python, such as an external database. To overcome both, we design an agentic harness that orchestrates the symbolic execution tool CrossHair together with an AI coding agent. Without human intervention, it instruments a repository with assertions, synthesizes a constraint-aware symbolic environment for the database, runs symbolic execution, and constructs a concrete test as evidence for each bug it reports. We evaluate our harness on 1,156,044 lines of Python code over 11 popular open-source Python web applications (Zulip, NetBox, Apache Superset, and others). With the synthesized environment, CrossHair executes 81% of the 5,406 contracted functions, against 4.5% without it. Our pipeline finds 1,050 bugs, each reproduced by a test against the unmodified application, 221 of them by CrossHair, and 312 of them are missed by a baseline in which the same LLM inspects the code. The two find different kinds of bugs: CrossHair's are mostly crashes on input-domain corner cases that validation admits, such as empty strings, missing fields and unusual characters, while inspection's are mostly bugs that produce wrong output. Our framework thus lets symbolic execution supplement inspection-based bug finding.",
+      "matchedQueries": [
+        "AI coding",
+        "cs.SE",
+        "cs.AI",
+        "cs.LO",
+        "cs.SC",
+        "AI",
+        "LLM",
+        "AI agent"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Bug%20Finding%20With%20Agentic%20Symbolic%20Execution",
+      "score": 112,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Bug Finding With Agentic Symbolic Execution相关内容，说明复现现象、影响范围和排查线索。",
+      "reason": "matched multiple AI queries"
+    },
+    {
+      "id": "arxiv:2611.14881v1",
+      "title": "MLIRBench - A Benchmark and Dataset for Compiler and Hardware-Aware Reasoning",
+      "url": "https://arxiv.org/abs/2611.14881v1",
+      "pdfUrl": "https://arxiv.org/pdf/2611.14881v1",
+      "source": "arXiv",
+      "points": 0,
+      "comments": 0,
+      "authors": [
+        "Pranava Sai Maganti",
+        "Meghasyam Peddireddy",
+        "Muzakker Hossain",
+        "Kaining Gao",
+        "Farhan Ahmed",
+        "Ali Jannesari"
+      ],
+      "categories": [
+        "cs.PL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "createdAt": "2026-11-11T01:12:50Z",
+      "updatedAt": "2026-11-11T01:12:50Z",
+      "abstract": "In recent years, large language models (LLMs) have become increasingly popular in software engineering and have performed well on different programming tasks. However, it is still difficult to know whether these models truly understand program behavior or whether they mainly rely on patterns learned from their training data. This distinction is particularly important for intermediate representations (IRs), where operations, dataflow, and execution semantics are explicitly represented. In this paper, we introduce MLIRBench, a benchmark for evaluating how LLMs reason about MLIR programs. MLIRBench uses a multi-agent pipeline to generate program mutations, validate their behavior through execution, and construct reasoning tasks from torch and linalg program pairs. The dataset contains 1,768 validated pairs, including 888 linalg pairs and 880 torch pairs, labeled as EQUIV, DIVERGE, or ERROR. We evaluated nine models, including five open-weight and four proprietary models. Gemini 3.1 Pro achieved the highest hard-label accuracy of 92.65% across all 1,768 pairs, counting unsuccessful predictions as incorrect. Across its 1,768 scored predictions, it achieved an aggregate score of 74.18 and a judge-assigned result-behavior score of 5.04/10. These results show that strong semantic classification does not necessarily imply accurate prediction of detailed execution behavior, highlighting a gap in current LLM reasoning over compiler IRs. By exposing this gap through execution-validated program pairs, MLIRBench provides a reproducible foundation for studying semantic reasoning over compiler IRs and related tasks such as program repair and semantic classification.",
+      "pageDescription": "In recent years, large language models (LLMs) have become increasingly popular in software engineering and have performed well on different programming tasks. However, it is still difficult to know whether these models truly understand program behavior or whether they mainly rely on patterns learned from their training data. This distinction is particularly important for intermediate representations (IRs), where operations, dataflow, and execution semantics are explicitly represented. In this paper, we introduce MLIRBench, a benchmark for evaluating how LLMs reason about MLIR programs. MLIRBench uses a multi-agent pipeline to generate program mutations, validate their behavior through execution, and construct reasoning tasks from torch and linalg program pairs. The dataset contains 1,768 validated pairs, including 888 linalg pairs and 880 torch pairs, labeled as EQUIV, DIVERGE, or ERROR. We evaluated nine models, including five open-weight and four proprietary models. Gemini 3.1 Pro achieved the highest hard-label accuracy of 92.65% across all 1,768 pairs, counting unsuccessful predictions as incorrect. Across its 1,768 scored predictions, it achieved an aggregate score of 74.18 and a judge-assigned result-behavior score of 5.04/10. These results show that strong semantic classification does not necessarily imply accurate prediction of detailed execution behavior, highlighting a gap in current LLM reasoning over compiler IRs. By exposing this gap through execution-validated program pairs, MLIRBench provides a reproducible foundation for studying semantic reasoning over compiler IRs and related tasks such as program repair and semantic classification.",
+      "matchedQueries": [
+        "AI coding",
+        "cs.PL",
+        "cs.AI",
+        "cs.LG",
+        "AI",
+        "LLM",
+        "AI agent",
+        "Gemini"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=MLIRBench%20-%20A%20Benchmark%20and%20Dataset%20for%20Compiler%20and%20Hardware-Aware%20Reasoning",
+      "score": 112,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：MLIRBench - A Benchmark and Dataset for Compiler and Hardware-Aware Reasoning相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "reason": "matched multiple AI queries"
+    },
+    {
       "id": "arxiv:2611.17313v1",
       "title": "Sketching Language Models for Context Attribution",
       "url": "https://arxiv.org/abs/2611.17313v1",
@@ -792,93 +871,114 @@
         "prompt engineering"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Sketching%20Language%20Models%20for%20Context%20Attribution",
-      "score": 133,
+      "score": 112,
       "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Sketching Language Models for Context Attribution相关内容，聚焦AI 安全、cs.DS、cs.AI、cs.LG、stat.ML、人工智能、大语言模型、提示词工程相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "arxiv:2611.17297v1",
-      "title": "Goal Encoding in LLMs",
-      "url": "https://arxiv.org/abs/2611.17297v1",
-      "pdfUrl": "https://arxiv.org/pdf/2611.17297v1",
-      "source": "arXiv",
-      "points": 0,
+      "id": "hf:2611.15777",
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "url": "https://huggingface.co/papers/2611.15777",
+      "source": "HF Papers",
+      "points": 82,
       "comments": 0,
-      "authors": [
-        "Arnab Sen Sharma",
-        "Eric Todd",
-        "Sheridan Feucht",
-        "Andy Arditi",
-        "Rohit Gandikota",
-        "Natalie Shapira",
-        "Gabriele Sarti",
-        "Constanza Fierro",
-        "Lisa Schut",
-        "David Bau"
-      ],
+      "upvotes": 82,
+      "authors": [],
       "categories": [
-        "cs.CL",
-        "cs.AI",
-        "cs.LG"
+        "HF Daily Papers"
       ],
-      "createdAt": "2026-11-12T18:55:06Z",
-      "updatedAt": "2026-11-12T18:55:06Z",
-      "abstract": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this encoding is causal for next action and is plastic: transplanting it into a different environment, e.g., another programming language, triggers the same operation realized with a different sequence of tokens. The LM also sustains the encoding throughout the action's execution, which is puzzling because a transformer LM without recurrence cannot carry a state forward for more tokens than it has layers left. We propose that it does not need to. Under a non-recurrent goal-seeking (NRGS) account, the LM frequently re-reads the goal from the task specification, compares it with the progress visible in the growing context, and pursues what remains. We test the predictions of this account with targeted causal interventions.",
-      "pageDescription": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this encoding is causal for next action and is plastic: transplanting it into a different environment, e.g., another programming language, triggers the same operation realized with a different sequence of tokens. The LM also sustains the encoding throughout the action's execution, which is puzzling because a transformer LM without recurrence cannot carry a state forward for more tokens than it has layers left. We propose that it does not need to. Under a non-recurrent goal-seeking (NRGS) account, the LM frequently re-reads the goal from the task specification, compares it with the progress visible in the growing context, and pursues what remains. We test the predictions of this account with targeted causal interventions.",
+      "createdAt": "2026-11-11T00:00:00.000Z",
+      "abstract": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark",
+      "pageDescription": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark",
       "matchedQueries": [
-        "LLM",
-        "cs.CL",
-        "cs.AI",
-        "cs.LG",
-        "AI",
-        "machine learning",
-        "AI safety"
+        "HF daily"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Goal%20Encoding%20in%20LLMs",
-      "score": 119,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Goal Encoding in LLMs相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=SO-Arena%3A%20Benchmarking%20the%20Capability%20Spectrum%20and%20Reliability%20of%20System%20One%20Models",
+      "score": 108,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models相关内容，聚焦HF daily相关背景、功能和讨论点。",
+      "reason": "balanced activity signal"
+    },
+    {
+      "id": "hf:2611.17060",
+      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+      "url": "https://huggingface.co/papers/2611.17060",
+      "source": "HF Papers",
+      "points": 26,
+      "comments": 0,
+      "upvotes": 26,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-11-12T00:00:00.000Z",
+      "abstract": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments i",
+      "pageDescription": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments i",
+      "matchedQueries": [
+        "HF daily",
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Ropedia%20Xperience%202%3A%20A%20Gold%20Standard%20for%20Scaling%20Physical%20AI%20Environments%20and%20Behaviors",
+      "score": 100,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦HF daily、人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "arxiv:2611.17294v1",
-      "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
-      "url": "https://arxiv.org/abs/2611.17294v1",
-      "pdfUrl": "https://arxiv.org/pdf/2611.17294v1",
-      "source": "arXiv",
+      "id": "paperscool:2611.14935",
+      "title": "Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen",
+      "url": "https://arxiv.org/abs/2611.14935",
+      "pdfUrl": "https://arxiv.org/pdf/2611.14935",
+      "source": "papers.cool",
       "points": 0,
       "comments": 0,
       "authors": [
-        "Haozhe Wang",
-        "Lina Chen",
-        "Fanqi Wan",
-        "Qi Han",
-        "Yinmin Zhang",
-        "Zheng Ge",
-        "Daxin Jiang",
-        "Junchi Yan"
+        "Richard J. Young",
+        "Alice M. Matthews"
       ],
       "categories": [
-        "cs.LG",
-        "cs.AI",
-        "cs.CL",
-        "cs.DC"
+        "cs.CL"
       ],
-      "createdAt": "2026-11-12T18:54:42Z",
-      "updatedAt": "2026-11-12T18:54:42Z",
-      "abstract": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development environment. Parallel commands can run concurrently, while serial commands share one execution slot per node; eligible waiting commands can migrate to available Macs and return results to the original agent. Integration with Harbor supports task execution, automatic verification, and rollout collection through a common workflow. Controlled experiments on four Mac mini M4 nodes achieve $1.68\\times$--$2.05\\times$ gains in command throughput under concentrated demand. Sixteen static agent traces give an estimated $2.14\\times$ sustained-throughput gain for four sessions per node versus one, assuming continuously replenished sessions and unchanged mean durations. Replaying these measured traces under dynamic scheduling reduces mean tool waiting by 18.8% and batch elapsed time by 22.3%, assuming unchanged phase durations. Metal Sandbox and its Harbor integration are open-source on GitHub.",
-      "pageDescription": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development environment. Parallel commands can run concurrently, while serial commands share one execution slot per node; eligible waiting commands can migrate to available Macs and return results to the original agent. Integration with Harbor supports task execution, automatic verification, and rollout collection through a common workflow. Controlled experiments on four Mac mini M4 nodes achieve $1.68\\times$--$2.05\\times$ gains in command throughput under concentrated demand. Sixteen static agent traces give an estimated $2.14\\times$ sustained-throughput gain for four sessions per node versus one, assuming continuously replenished sessions and unchanged mean durations. Replaying these measured traces under dynamic scheduling reduces mean tool waiting by 18.8% and batch elapsed time by 22.3%, assuming unchanged phase durations. Metal Sandbox and its Harbor integration are open-source on GitHub.",
+      "createdAt": "2026-11-11T02:35:53+00:00",
+      "abstract": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias. Prior audits tested a few proprietary models, stated race explicitly and rarely measured the models' own response instability. In exploratory, non-preregistered analyses, Study 1 had four open-weight LLMs assess six acute-p",
+      "pageDescription": "Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias. Prior audits tested a few proprietary models, stated race explicitly and rarely measured the models' own response instability. In exploratory, non-preregistered analyses, Study 1 had four open-weight LLMs assess six acute-p",
       "matchedQueries": [
-        "AI agent",
-        "cs.LG",
-        "cs.AI",
-        "cs.CL",
-        "cs.DC",
+        "papers.cool",
         "AI",
-        "AI safety"
+        "LLM",
+        "Anthropic",
+        "Claude",
+        "Gemini",
+        "DeepSeek"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Metal%20Sandbox%3A%20Isolated%20Execution%20and%20Command%20Scheduling%20for%20GPU%20Coding%20Agents%20on%20Apple%20Silicon",
-      "score": 119,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon相关内容，聚焦浏览器自动化、网页操作和编程代理。",
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Do%20Large%20Language%20Models%20Show%20Racial%20and%20Sex%20Bias%20in%20Pain%20Management%3F%20A%20Counterfactual%20Audit%20of%20GPT%2C%20Claude%2C%20Gemini%2C%20Llama%2C%20DeepSeek%20and%20Qwen",
+      "score": 98,
+      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen相关内容，聚焦papers.cool、人工智能、大语言模型、Anthropic、Claude、Gemini、DeepSeek相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
+    },
+    {
+      "id": "rss:qbitai:https://www.qbitai.com/2026/11/509827.html",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "source": "QbitAI",
+      "points": 0,
+      "comments": 0,
+      "createdAt": "2026-11-13T07:51:08.000Z",
+      "pageDescription": "12.9 北京，来MEET2027现场",
+      "categories": [
+        "活动",
+        "资讯",
+        "MEET2027"
+      ],
+      "matchedQueries": [
+        "活动",
+        "资讯",
+        "MEET2027",
+        "AI"
+      ],
+      "score": 58,
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！相关内容，聚焦活动、资讯、MEET2027、人工智能相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     },
     {
@@ -896,204 +996,103 @@
         "OpenAI",
         "Anthropic"
       ],
-      "score": 82,
+      "score": 42,
       "intro": "这篇来自 solidot.org 的帖子主要介绍了：微软云服务全球宕机相关内容，聚焦人工智能、OpenAI、Anthropic相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "hf:2611.17060",
-      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
-      "url": "https://huggingface.co/papers/2611.17060",
-      "source": "HF Papers",
-      "points": 4,
-      "comments": 0,
-      "upvotes": 4,
-      "authors": [],
-      "categories": [
-        "HF Daily Papers"
-      ],
-      "createdAt": "2026-11-12T00:00:00.000Z",
-      "abstract": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments i",
-      "pageDescription": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments i",
-      "matchedQueries": [
-        "HF daily",
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Ropedia%20Xperience%202%3A%20A%20Gold%20Standard%20for%20Scaling%20Physical%20AI%20Environments%20and%20Behaviors",
-      "score": 75,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦HF daily、人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "paperscool:2611.13509",
-      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
-      "url": "https://arxiv.org/abs/2611.13509",
-      "pdfUrl": "https://arxiv.org/pdf/2611.13509",
-      "source": "papers.cool",
-      "points": 0,
-      "comments": 0,
-      "authors": [
-        "Evan Li",
-        "Krishna Deshpande",
-        "Wen Cheng",
-        "Shyamnath Gollakota"
-      ],
-      "categories": [
-        "cs.CL"
-      ],
-      "createdAt": "2026-11-10T03:29:29+00:00",
-      "abstract": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\\it Mobile AI Factory}, an agentic system that builds a fine-tuned, quantized SLM for a given task and phone. Given a task sp",
-      "pageDescription": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\\it Mobile AI Factory}, an agentic system that builds a fine-tuned, quantized SLM for a given task and phone. Given a task sp",
-      "matchedQueries": [
-        "papers.cool",
-        "AI",
-        "LLM",
-        "AI agent"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Mobile%20AI%20Factory%3A%20Building%20Specialized%20Language%20Models%20for%20Your%20Mobile%20Device",
-      "score": 56,
-      "intro": "这篇来自 arxiv.org 的帖子主要介绍了：Mobile AI Factory: Building Specialized Language Models for Your Mobile Device相关内容，聚焦papers.cool、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "hf:2611.05984",
-      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
-      "url": "https://huggingface.co/papers/2611.05984",
-      "source": "HF Papers",
-      "points": 22,
-      "comments": 0,
-      "upvotes": 22,
-      "authors": [],
-      "categories": [
-        "HF Daily Papers"
-      ],
-      "createdAt": "2026-11-04T00:00:00.000Z",
-      "abstract": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mi",
-      "pageDescription": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mi",
-      "matchedQueries": [
-        "HF daily",
-        "LLM"
-      ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=On%20the%20Design%20of%20Hyper-Connections%3A%20Simplification%2C%20Stability%2C%20and%20Scalability",
-      "score": 53,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：On the Design of Hyper-Connections: Simplification, Stability, and Scalability相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/11/509404.html",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
-      "source": "QbitAI",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-11-12T10:45:33.000Z",
-      "pageDescription": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "categories": [
-        "资讯",
-        "银河智学"
-      ],
-      "matchedQueries": [
-        "资讯",
-        "银河智学",
-        "AI"
-      ],
-      "score": 49,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：从通用大模型到学习过程智能，AI如何真正进入课堂？相关内容，聚焦资讯、银河智学、人工智能相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50467087",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "hnUrl": "https://news.ycombinator.com/item?id=50467087",
+      "id": "frontpage:hn:50489641",
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "hnUrl": "https://news.ycombinator.com/item?id=50489641",
       "source": "Hacker News",
-      "points": 3343,
-      "comments": 3028,
-      "createdAt": "2026-11-12T13:52:29",
+      "points": 1481,
+      "comments": 1138,
+      "createdAt": "2026-11-13T21:05:53",
       "matchedQueries": [
         "front page"
       ],
-      "score": 11138,
-      "intro": "这篇来自 apnews.com 的帖子主要介绍了：Jensen Huang resigns相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 4474,
+      "intro": "这篇来自 nbcnews.com 的帖子主要介绍了：FAA issues national ground stop – lifted 4.5 hours later相关内容，说明复现现象、影响范围和排查线索。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50465829",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50465829",
+      "id": "frontpage:hn:50474959",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "hnUrl": "https://news.ycombinator.com/item?id=50474959",
       "source": "Hacker News",
-      "points": 899,
-      "comments": 851,
-      "createdAt": "2026-11-12T11:46:41",
-      "matchedQueries": [
-        "front page",
-        "Anthropic"
-      ],
-      "score": 3113,
-      "intro": "这篇来自 ipo.anthropic.com 的帖子主要介绍了：Anthropic IPO相关内容，聚焦front page、Anthropic相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50471731",
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50471731",
-      "source": "Hacker News",
-      "points": 744,
-      "comments": 679,
-      "createdAt": "2026-11-12T18:20:48",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 2519,
-      "intro": "这篇来自 status.cloud.microsoft 的帖子主要介绍了：Service degradation on Microsoft 365相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50471431",
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50471431",
-      "source": "Hacker News",
-      "points": 509,
-      "comments": 324,
-      "createdAt": "2026-11-12T18:01:48",
+      "points": 732,
+      "comments": 211,
+      "createdAt": "2026-11-12T22:03:09",
       "matchedQueries": [
         "front page",
         "AI",
-        "Gemini"
+        "AI agent"
       ],
-      "score": 1425,
-      "intro": "这篇来自 blog.google 的帖子主要介绍了：Gemini 4 Hydrogen相关内容，聚焦front page、人工智能、Gemini相关背景、功能和讨论点。",
+      "score": 1390,
+      "intro": "这篇来自 atg.science 的帖子主要介绍了：Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth相关内容，聚焦front page、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50477231",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50477231",
+      "id": "frontpage:hn:50493251",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "hnUrl": "https://news.ycombinator.com/item?id=50493251",
       "source": "Hacker News",
-      "points": 420,
-      "comments": 315,
-      "createdAt": "2026-11-13T02:16:24",
+      "points": 344,
+      "comments": 175,
+      "createdAt": "2026-11-14T02:52:59",
+      "matchedQueries": [
+        "front page",
+        "AI"
+      ],
+      "score": 880,
+      "intro": "这篇来自 techpowerup.com 的帖子主要介绍了：Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
+      "id": "frontpage:hn:50487864",
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "hnUrl": "https://news.ycombinator.com/item?id=50487864",
+      "source": "Hacker News",
+      "points": 335,
+      "comments": 185,
+      "createdAt": "2026-11-13T18:40:44",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1287,
-      "intro": "这篇来自 wired.com 的帖子主要介绍了：Nvidia employees petition to bring back Jensen Huang相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, fresh today"
+      "score": 864,
+      "intro": "这篇来自 toninoble.com 的帖子主要介绍了：Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "hnUrl": "https://news.ycombinator.com/item?id=50484658",
+      "source": "Hacker News",
+      "points": 227,
+      "comments": 226,
+      "author": "helloplanets",
+      "createdAt": "2026-11-13T15:08:44Z",
+      "storyText": "",
+      "matchedQueries": [
+        "AI coding",
+        "AI"
+      ],
+      "score": 846,
+      "intro": "这篇来自 youtube.com 的帖子主要介绍了：Jonathan Blow – If AI solved coding, why is my software still the same? [video]相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-11-13T07:07:25.125Z",
-    "totalFetched": 186,
-    "uniqueCount": 138,
+    "generatedAt": "2026-11-14T06:55:49.745Z",
+    "totalFetched": 227,
+    "uniqueCount": 171,
     "candidates": [
       {
         "id": "arxiv:2611.17294v1",
@@ -1136,7 +1135,7 @@
         "methodHint": "Metal Sandbox",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1179,7 +1178,7 @@
         "methodHint": "Coding-Repository Memory",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1225,7 +1224,7 @@
         "methodHint": "that it does not",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1266,7 +1265,7 @@
         "methodHint": "",
         "datasetHint": "ClimbMix",
         "readingAdvice": "值得浏览",
-        "score": 223,
+        "score": 215,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, CS AI category, has PDF"
       },
@@ -1305,7 +1304,7 @@
         "methodHint": "Agentic Semi-Supervised Learning",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1347,7 +1346,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1391,7 +1390,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1426,9 +1425,48 @@
         "methodHint": "FedBrew",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
         "reason": "fresh paper, matched AI agent, matched AI coding, CS AI category, has PDF"
+      },
+      {
+        "id": "arxiv:2611.17115v1",
+        "title": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+        "url": "https://arxiv.org/abs/2611.17115v1",
+        "pdfUrl": "https://arxiv.org/pdf/2611.17115v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Zimo Xu",
+          "Wenzhuo Liu",
+          "Hideki Nakayama"
+        ],
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.CR"
+        ],
+        "createdAt": "2026-11-12T17:07:22Z",
+        "updatedAt": "2026-11-12T17:07:22Z",
+        "abstract": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attacks on 14 (Progent), 13 (IPIGuard) and 11 (DRIFT) of the models, and CaMeL's programs fail to run in up to 68% of episodes. We present CapLite, which derives its policy from the tool schemas, commits the write calls before any tool result is read, and admits a write only if every argument that decides whom or what it affects is stated in the user's request. This guarantees write integrity: injected text cannot add a write, and no write reaches a recipient, amount, object or destination that the user did not state. No attack succeeds in 13,935 attacked AgentDojo episodes. CapLite reaches utility under attack comparable to CaMeL's (29.0% vs. 27.2%) with fewer tokens than every other enforcement defense and than the undefended agent: 17.1k per episode, 18% of CaMeL's, and the highest utility per token of all enforcement defenses.",
+        "pageDescription": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attacks on 14 (Progent), 13 (IPIGuard) and 11 (DRIFT) of the models, and CaMeL's programs fail to run in up to 68% of episodes. We present CapLite, which derives its policy from the tool schemas, commits the write calls before any tool result is read, and admits a write only if every argument that decides whom or what it affects is stated in the user's request. This guarantees write integrity: injected text cannot add a write, and no write reaches a recipient, amount, object or destination that the user did not state. No attack succeeds in 13,935 attacked AgentDojo episodes. CapLite reaches utility under attack comparable to CaMeL's (29.0% vs. 27.2%) with fewer tokens than every other enforcement defense and than the undefended agent: 17.1k per episode, 18% of CaMeL's, and the highest utility per token of all enforcement defenses.",
+        "matchedQueries": [
+          "AI agent",
+          "cs.AI",
+          "cs.CL",
+          "cs.CR",
+          "AI",
+          "LLM",
+          "prompt engineering"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=CapLite%3A%20Prompt-Injection%20Defense%20for%20Small%20Language%20Model%20Agents%20without%20Model-Written%20Security%20Artifacts",
+        "methodHint": "CapLite",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 213,
+        "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
+        "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.17167v1",
@@ -1469,47 +1507,8 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
-        "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2611.17115v1",
-        "title": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
-        "url": "https://arxiv.org/abs/2611.17115v1",
-        "pdfUrl": "https://arxiv.org/pdf/2611.17115v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Zimo Xu",
-          "Wenzhuo Liu",
-          "Hideki Nakayama"
-        ],
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.CR"
-        ],
-        "createdAt": "2026-11-12T17:07:22Z",
-        "updatedAt": "2026-11-12T17:07:22Z",
-        "abstract": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attacks on 14 (Progent), 13 (IPIGuard) and 11 (DRIFT) of the models, and CaMeL's programs fail to run in up to 68% of episodes. We present CapLite, which derives its policy from the tool schemas, commits the write calls before any tool result is read, and admits a write only if every argument that decides whom or what it affects is stated in the user's request. This guarantees write integrity: injected text cannot add a write, and no write reaches a recipient, amount, object or destination that the user did not state. No attack succeeds in 13,935 attacked AgentDojo episodes. CapLite reaches utility under attack comparable to CaMeL's (29.0% vs. 27.2%) with fewer tokens than every other enforcement defense and than the undefended agent: 17.1k per episode, 18% of CaMeL's, and the highest utility per token of all enforcement defenses.",
-        "pageDescription": "Enforcement defenses against prompt injection, such as CaMeL, Progent, IPIGuard and DRIFT, ask the agent's own model to write a security artifact (a program, a privilege policy, a dependency graph or a constraint list) that code then enforces. We ask whether small language model (SLM) agents can be trusted to write these artifacts. Across 15 open-weight models, 13 of them between 1.7B and 12B parameters, they cannot: the policies, graphs and constraints that the agent's model writes admit attacks on 14 (Progent), 13 (IPIGuard) and 11 (DRIFT) of the models, and CaMeL's programs fail to run in up to 68% of episodes. We present CapLite, which derives its policy from the tool schemas, commits the write calls before any tool result is read, and admits a write only if every argument that decides whom or what it affects is stated in the user's request. This guarantees write integrity: injected text cannot add a write, and no write reaches a recipient, amount, object or destination that the user did not state. No attack succeeds in 13,935 attacked AgentDojo episodes. CapLite reaches utility under attack comparable to CaMeL's (29.0% vs. 27.2%) with fewer tokens than every other enforcement defense and than the undefended agent: 17.1k per episode, 18% of CaMeL's, and the highest utility per token of all enforcement defenses.",
-        "matchedQueries": [
-          "AI agent",
-          "cs.AI",
-          "cs.CL",
-          "cs.CR",
-          "AI",
-          "LLM",
-          "prompt engineering"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=CapLite%3A%20Prompt-Injection%20Defense%20for%20Small%20Language%20Model%20Agents%20without%20Model-Written%20Security%20Artifacts",
-        "methodHint": "CapLite",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 220,
-        "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
@@ -1546,7 +1545,7 @@
         "methodHint": "AgriSense",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, CS AI category, has PDF"
       },
@@ -1587,7 +1586,7 @@
         "methodHint": "a counterintuitive pilot study",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1626,7 +1625,7 @@
         "methodHint": "AutoOntic",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
       },
@@ -1664,7 +1663,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 217,
+        "score": 209,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1700,7 +1699,7 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 217,
+        "score": 209,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI coding, CS AI category"
       }
@@ -1747,7 +1746,7 @@
         "methodHint": "Metal Sandbox",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 230,
+        "score": 222,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1790,7 +1789,7 @@
         "methodHint": "Coding-Repository Memory",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1836,7 +1835,7 @@
         "methodHint": "that it does not",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 229,
+        "score": 221,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1877,7 +1876,7 @@
         "methodHint": "",
         "datasetHint": "ClimbMix",
         "readingAdvice": "值得浏览",
-        "score": 223,
+        "score": 215,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, CS AI category, has PDF"
       },
@@ -1916,7 +1915,7 @@
         "methodHint": "Agentic Semi-Supervised Learning",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       }
@@ -1926,33 +1925,33 @@
     {
       "name": "GitHub Trending",
       "url": "https://github.com/trending",
-      "status": "ok (13 parsed)",
-      "found": 13,
-      "observedAt": "2026-11-13T07:07:07.643Z",
-      "kept": 13
+      "status": "ok (12 parsed)",
+      "found": 12,
+      "observedAt": "2026-11-14T06:55:31.918Z",
+      "kept": 12
     },
     {
       "name": "HN Front Page",
       "url": "https://news.ycombinator.com/",
-      "status": "ok (30 parsed)",
-      "found": 30,
-      "observedAt": "2026-11-13T07:07:09.487Z",
-      "kept": 30
+      "status": "ok (29 parsed)",
+      "found": 29,
+      "observedAt": "2026-11-14T06:55:34.623Z",
+      "kept": 29
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (16 parsed)",
-      "found": 16,
-      "observedAt": "2026-11-13T07:07:11.186Z",
-      "kept": 16
+      "status": "ok (34 parsed)",
+      "found": 34,
+      "observedAt": "2026-11-14T06:55:36.375Z",
+      "kept": 34
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-11-13T07:07:12.784Z",
+      "observedAt": "2026-11-14T06:55:37.995Z",
       "kept": 10
     },
     {
@@ -1960,32 +1959,32 @@
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-11-13T07:07:16.210Z",
+      "observedAt": "2026-11-14T06:55:41.590Z",
       "kept": 20
     },
     {
       "name": "papers.cool",
       "url": "https://papers.cool/arxiv/cs.CL/feed",
-      "status": "ok (112 parsed)",
-      "found": 112,
-      "observedAt": "2026-11-13T07:07:19.453Z",
-      "kept": 112
+      "status": "ok (135 parsed)",
+      "found": 135,
+      "observedAt": "2026-11-14T06:55:44.631Z",
+      "kept": 135
     }
   ],
   "momentum": [
-    {
-      "source": "Hacker News",
-      "count": 8,
-      "momentum": -0.081
-    },
     {
       "source": "GitHub",
       "count": 8,
       "momentum": 0.038
     },
     {
+      "source": "Hacker News",
+      "count": 7,
+      "momentum": -0.005
+    },
+    {
       "source": "GitHub Trending",
-      "count": 6,
+      "count": 7,
       "momentum": -0.005
     },
     {
@@ -1999,11 +1998,6 @@
       "momentum": 0
     },
     {
-      "source": "Solidot",
-      "count": 1,
-      "momentum": null
-    },
-    {
       "source": "papers.cool",
       "count": 1,
       "momentum": 0
@@ -2012,12 +2006,21 @@
       "source": "QbitAI",
       "count": 1,
       "momentum": 0
+    },
+    {
+      "source": "Solidot",
+      "count": 1,
+      "momentum": 0.014
     }
   ],
   "diagnostics": {
     "errors": [
       "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
     ],
-    "warnings": []
+    "warnings": [
+      "GitHub: ai-agent: HTTP 403",
+      "GitHub: codex: HTTP 403",
+      "GitHub: ai-coding: HTTP 403"
+    ]
   }
 }
