@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-14T06:55:49.974Z",
+  "generatedAt": "2026-11-15T07:02:39.590Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-15",
-      "generatedAt": "2026-10-15T05:03:49.819Z",
-      "totalFetched": 320,
-      "uniqueCount": 238,
-      "recommendations": [
-        {
-          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-          "source": "Hacker News",
-          "score": 2233,
-          "points": 854
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 492,
-          "points": 248595
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 490,
-          "points": 253859
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 483,
-          "points": 187580
-        },
-        {
-          "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-          "url": "https://clova.email/",
-          "source": "Hacker News",
-          "score": 336,
-          "points": 95
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
-          "url": "https://arxiv.org/abs/2610.20538v1",
-          "source": "arXiv",
-          "score": 246
-        },
-        {
-          "title": "Cortex: Consolidating Context into Parametric Memory",
-          "url": "https://arxiv.org/abs/2610.20399v1",
-          "source": "arXiv",
-          "score": 234
-        },
-        {
-          "title": "ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps",
-          "url": "https://arxiv.org/abs/2610.20532v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
-          "url": "https://arxiv.org/abs/2610.20576v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR",
-          "url": "https://arxiv.org/abs/2610.20461v1",
-          "source": "arXiv",
-          "score": 228
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-16",
       "generatedAt": "2026-10-16T04:53:04.956Z",
@@ -3187,6 +3106,123 @@
           "name": "papers.cool",
           "status": "ok (112 parsed)",
           "found": 112
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "generatedAt": "2026-11-14T06:55:49.765Z",
+      "totalFetched": 519,
+      "uniqueCount": 435,
+      "recommendations": [
+        {
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "source": "Hacker News",
+          "score": 4474,
+          "points": 1481
+        },
+        {
+          "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "url": "https://atg.science/careers",
+          "source": "Hacker News",
+          "score": 1390,
+          "points": 732
+        },
+        {
+          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News",
+          "score": 880,
+          "points": 344
+        },
+        {
+          "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+          "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+          "source": "Hacker News",
+          "score": 864,
+          "points": 335
+        },
+        {
+          "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News",
+          "score": 846,
+          "points": 227
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+          "url": "https://arxiv.org/abs/2611.17294v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+          "url": "https://arxiv.org/abs/2611.17316v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "Goal Encoding in LLMs",
+          "url": "https://arxiv.org/abs/2611.17297v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication",
+          "url": "https://arxiv.org/abs/2611.16425v1",
+          "source": "arXiv",
+          "score": 215
+        },
+        {
+          "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+          "url": "https://arxiv.org/abs/2611.17323v1",
+          "source": "arXiv",
+          "score": 214
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 7,
+        "GitHub Trending": 7,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (12 parsed)",
+          "found": 12
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (34 parsed)",
+          "found": 34
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (135 parsed)",
+          "found": 135
         }
       ]
     }
