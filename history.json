@@ -1,90 +1,8 @@
 {
-  "generatedAt": "2026-11-15T07:02:39.590Z",
+  "generatedAt": "2026-11-16T07:09:22.913Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-16",
-      "generatedAt": "2026-10-16T04:53:04.956Z",
-      "totalFetched": 329,
-      "uniqueCount": 258,
-      "recommendations": [
-        {
-          "title": "Evaluating Object Hallucination in Large Vision-Language Models",
-          "url": "https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773",
-          "source": "Semantic Scholar",
-          "score": 3189,
-          "points": 2094
-        },
-        {
-          "title": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
-          "url": "https://www.semanticscholar.org/paper/f19db28a8fdcdc2eaa44c777c40714e2622bf0ff",
-          "source": "Semantic Scholar",
-          "score": 1083,
-          "points": 723
-        },
-        {
-          "title": "VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks",
-          "url": "https://www.semanticscholar.org/paper/0812f6b841a99b6ffb4fb114c04a090de956de6e",
-          "source": "Semantic Scholar",
-          "score": 621,
-          "points": 279
-        },
-        {
-          "title": "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning",
-          "url": "https://www.semanticscholar.org/paper/6f0f0d9f29586344ae6403fe906c24e4f16eaed8",
-          "source": "Semantic Scholar",
-          "score": 617,
-          "points": 370
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 495,
-          "points": 275299
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "FDE-Gym: The Last Mile of AI Delivery",
-          "url": "https://arxiv.org/abs/2610.22350v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-          "url": "https://arxiv.org/abs/2610.22344v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
-          "url": "https://arxiv.org/abs/2610.22234v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-          "url": "https://arxiv.org/abs/2610.22343v1",
-          "source": "arXiv",
-          "score": 228
-        },
-        {
-          "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-          "url": "https://arxiv.org/abs/2610.22372v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Semantic Scholar": 4,
-        "GitHub": 12,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-17",
       "generatedAt": "2026-10-17T04:55:47.070Z",
@@ -3203,6 +3121,123 @@
           "name": "HN Front Page",
           "status": "ok (29 parsed)",
           "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (34 parsed)",
+          "found": 34
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (135 parsed)",
+          "found": 135
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "generatedAt": "2026-11-15T07:02:39.428Z",
+      "totalFetched": 523,
+      "uniqueCount": 463,
+      "recommendations": [
+        {
+          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+          "source": "Semantic Scholar",
+          "score": 38467,
+          "points": 25915
+        },
+        {
+          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
+          "source": "Semantic Scholar",
+          "score": 31220,
+          "points": 23979
+        },
+        {
+          "title": "Evaluating Large Language Models Trained on Code",
+          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+          "source": "Semantic Scholar",
+          "score": 19415,
+          "points": 12836
+        },
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "source": "Hacker News",
+          "score": 2918,
+          "points": 1046
+        },
+        {
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "source": "Hacker News",
+          "score": 1624,
+          "points": 757
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+          "url": "https://arxiv.org/abs/2611.17294v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+          "url": "https://arxiv.org/abs/2611.17316v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "Goal Encoding in LLMs",
+          "url": "https://arxiv.org/abs/2611.17297v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication",
+          "url": "https://arxiv.org/abs/2611.16425v1",
+          "source": "arXiv",
+          "score": 207
+        },
+        {
+          "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+          "url": "https://arxiv.org/abs/2611.17323v1",
+          "source": "arXiv",
+          "score": 206
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 3,
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "QbitAI": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
         },
         {
           "name": "HF Daily Papers",
