@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-16T07:09:22.913Z",
+  "generatedAt": "2026-11-17T08:22:38.631Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-17",
-      "generatedAt": "2026-10-17T04:55:47.070Z",
-      "totalFetched": 257,
-      "uniqueCount": 185,
-      "recommendations": [
-        {
-          "title": "Claude reveals ECDSA curve origins",
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "Hacker News",
-          "score": 1656,
-          "points": 770
-        },
-        {
-          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-          "source": "Hacker News",
-          "score": 1495,
-          "points": 445
-        },
-        {
-          "title": "How the Claude Code team does code review",
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-          "source": "Hacker News",
-          "score": 1023,
-          "points": 280
-        },
-        {
-          "title": "Show HN: Gemini 4 Argon plays StarCraft",
-          "url": "https://starskirmish.com/bench/v0-2/",
-          "source": "Hacker News",
-          "score": 520,
-          "points": 201
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 497,
-          "points": 293580
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation",
-          "url": "https://www.semanticscholar.org/paper/ea693001245ba993cbd4387f21b41958a0948746",
-          "source": "Semantic Scholar",
-          "score": 105
-        },
-        {
-          "title": "Enhancing Medical AI Safety Through Multi-Agent Evaluation and Iterative Refinement",
-          "url": "https://www.semanticscholar.org/paper/3da31af50eb9081445bc0151acaafd09d431e836",
-          "source": "Semantic Scholar",
-          "score": 102
-        },
-        {
-          "title": "Bypassing Safety Alignment via API Design: A Systematic Risk Analysis of Response Prefill in LLM Systems",
-          "url": "https://www.semanticscholar.org/paper/24881b82821f08fd157f40513b071091cbc7b7de",
-          "source": "Semantic Scholar",
-          "score": 102
-        },
-        {
-          "title": "What Matters For Safety Alignment?",
-          "url": "https://www.semanticscholar.org/paper/63e4f788a3534734fbeb268409194cf261b59d45",
-          "source": "Semantic Scholar",
-          "score": 101
-        },
-        {
-          "title": "Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E)",
-          "url": "https://www.semanticscholar.org/paper/cf50519715f25b57b96c923feb7672ef611cb7cf",
-          "source": "Semantic Scholar",
-          "score": 100
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "Semantic Scholar": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-18",
       "generatedAt": "2026-10-18T05:01:26.210Z",
@@ -3258,6 +3177,123 @@
           "name": "papers.cool",
           "status": "ok (135 parsed)",
           "found": 135
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "generatedAt": "2026-11-16T07:09:22.761Z",
+      "totalFetched": 415,
+      "uniqueCount": 343,
+      "recommendations": [
+        {
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "source": "Hacker News",
+          "score": 4949,
+          "points": 1670
+        },
+        {
+          "title": "The MacBook Pro's OLED PWM problem",
+          "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "source": "Hacker News",
+          "score": 1178,
+          "points": 466
+        },
+        {
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "source": "Hacker News",
+          "score": 1105,
+          "points": 490
+        },
+        {
+          "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+          "source": "Hacker News",
+          "score": 1003,
+          "points": 410
+        },
+        {
+          "title": "What's Next for Nvidia?",
+          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+          "source": "Hacker News",
+          "score": 881,
+          "points": 193
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
+          "url": "https://arxiv.org/abs/2611.18516v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+          "url": "https://arxiv.org/abs/2611.18513v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agentic RL",
+          "url": "https://arxiv.org/abs/2611.18533v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning",
+          "url": "https://arxiv.org/abs/2611.18417v1",
+          "source": "arXiv",
+          "score": 213
+        },
+        {
+          "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+          "url": "https://arxiv.org/abs/2611.18397v1",
+          "source": "arXiv",
+          "score": 213
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (12 parsed)",
+          "found": 12
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (17 parsed)",
+          "found": 17
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (18 parsed)",
+          "found": 18
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (62 parsed)",
+          "found": 62
         }
       ]
     }
