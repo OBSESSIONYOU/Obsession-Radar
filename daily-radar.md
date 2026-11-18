@@ -1,172 +1,173 @@
 # Obsession Radar
 
-Generated: 2026-11-17T08:22:38.480Z
-Fetched: 481 links | Unique: 394 | Candidates: 30
+Generated: 2026-11-18T07:52:18.676Z
+Fetched: 501 links | Unique: 419 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
-   - 内容介绍：这篇来自 apnews.com 的帖子主要介绍了：Technical issue at JPMorgan Chase triggers online banking delays for US banks相关内容，说明复现现象、影响范围和排查线索。
-   - Score: 2440 | Points: 764 | Comments: 637
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50521045
-
-2. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-   - 内容介绍：这篇来自 cs.cmu.edu 的帖子主要介绍了：Carnegie Mellon is putting computer science courses on YouTube for free相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2060 | Points: 1363 | Comments: 190
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50522980
-
-3. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-   - 内容介绍：这篇来自 xusheng.dev 的帖子主要介绍了：Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use相关内容，聚焦浏览器自动化、网页操作和编程代理。
-   - Score: 1604 | Points: 546 | Comments: 384
+1. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT‑6.2 Astra and Sol相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+   - Score: 3305 | Points: 1233 | Comments: 767
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50524736
+   - HN: https://news.ycombinator.com/item?id=50535230
 
-4. [BugMeNot has closed](https://www.bugmenot.com/)
-   - 内容介绍：这篇来自 bugmenot.com 的帖子主要介绍了：BugMeNot has closed相关内容，说明复现现象、影响范围和排查线索。
-   - Score: 1146 | Points: 498 | Comments: 223
+2. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT‑6.2 Astra and Sol相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 3291 | Points: 1233 | Comments: 767
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50523601
+   - HN: https://news.ycombinator.com/item?id=50535230
 
-5. [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame)
-   - 内容介绍：这篇来自 trmnl.com 的帖子主要介绍了：Frame – 31.5" color ePaper display相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1140 | Points: 391 | Comments: 276
+3. [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+   - 内容介绍：这篇来自 cnn.com 的帖子主要介绍了：Highly classified US national security communications network goes down相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 2218 | Points: 558 | Comments: 645
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50519354
+   - HN: https://news.ycombinator.com/item?id=50532849
+
+4. [Web Browser Engineering (2021)](https://browser.engineering/)
+   - 内容介绍：这篇来自 browser.engineering 的帖子主要介绍了：Web Browser Engineering (2021)相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1736 | Points: 683 | Comments: 383
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=50535238
+
+5. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+   - 内容介绍：这篇来自 calif.io 的帖子主要介绍了：Java4Shell: RCE in OpenJDK when processing Base64相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1504 | Points: 826 | Comments: 215
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=50538240
 
 ## 30-Link Candidate Pool
 
-1. [Technical issue at JPMorgan Chase triggers online banking delays for US banks](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) - 2440 pts
-   - 内容介绍：这篇来自 apnews.com 的帖子主要介绍了：Technical issue at JPMorgan Chase triggers online banking delays for US banks相关内容，说明复现现象、影响范围和排查线索。
-2. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) - 2060 pts
-   - 内容介绍：这篇来自 cs.cmu.edu 的帖子主要介绍了：Carnegie Mellon is putting computer science courses on YouTube for free相关内容，聚焦front page相关背景、功能和讨论点。
-3. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) - 1604 pts
-   - 内容介绍：这篇来自 xusheng.dev 的帖子主要介绍了：Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use相关内容，聚焦浏览器自动化、网页操作和编程代理。
-4. [BugMeNot has closed](https://www.bugmenot.com/) - 1146 pts
-   - 内容介绍：这篇来自 bugmenot.com 的帖子主要介绍了：BugMeNot has closed相关内容，说明复现现象、影响范围和排查线索。
-5. [Frame – 31.5" color ePaper display](https://trmnl.com/blog/introducing-frame) - 1140 pts
-   - 内容介绍：这篇来自 trmnl.com 的帖子主要介绍了：Frame – 31.5" color ePaper display相关内容，聚焦front page相关背景、功能和讨论点。
-6. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) - 935 pts
-   - 内容介绍：这篇来自 news.cornell.edu 的帖子主要介绍了：Grazing sheep in fields with solar arrays相关内容，聚焦front page相关背景、功能和讨论点。
-7. [Microsoft blames monster email outage on software defect introduced in July fix](https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026) - 878 pts
-   - 内容介绍：这篇来自 theregister.com 的帖子主要介绍了：Microsoft blames monster email outage on software defect introduced in July fix相关内容，聚焦front page相关背景、功能和讨论点。
-8. [Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/) - 795 pts
-   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Strengthening the fight against online child sexual abuse相关内容，聚焦OpenAI相关背景、功能和讨论点。
-9. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - 612 pts
+1. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) - 3305 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT‑6.2 Astra and Sol相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+2. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) - 3291 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：GPT‑6.2 Astra and Sol相关内容，聚焦OpenAI相关背景、功能和讨论点。
+3. [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) - 2218 pts
+   - 内容介绍：这篇来自 cnn.com 的帖子主要介绍了：Highly classified US national security communications network goes down相关内容，聚焦front page相关背景、功能和讨论点。
+4. [Web Browser Engineering (2021)](https://browser.engineering/) - 1736 pts
+   - 内容介绍：这篇来自 browser.engineering 的帖子主要介绍了：Web Browser Engineering (2021)相关内容，聚焦front page相关背景、功能和讨论点。
+5. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) - 1504 pts
+   - 内容介绍：这篇来自 calif.io 的帖子主要介绍了：Java4Shell: RCE in OpenJDK when processing Base64相关内容，聚焦front page相关背景、功能和讨论点。
+6. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) - 1161 pts
+   - 内容介绍：这篇来自 ft.com 的帖子主要介绍了：Nvidia stopped disclosing Singapore sales as revenues hit $104B相关内容，聚焦front page相关背景、功能和讨论点。
+7. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) - 1008 pts
+   - 内容介绍：这篇来自 blog.cloudflare.com 的帖子主要介绍了：Quad9's withdrawal from France: A canary in the coal mine相关内容，聚焦front page相关背景、功能和讨论点。
+8. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) - 1004 pts
+   - 内容介绍：这篇来自 revscope.co 的帖子主要介绍了：Google's AI answers reducing search traffic by 40%相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+9. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 669 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：affaan-m/ECC相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+10. [obra/superpowers](https://github.com/obra/superpowers) - 657 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+11. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - 606 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：alibaba/open-code-review相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-10. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - 597 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：ChromeDevTools/chrome-devtools-mcp相关内容，聚焦浏览器自动化、网页操作和编程代理。
-11. [dream-num/univer](https://github.com/dream-num/univer) - 597 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：dream-num/univer相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
-12. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - 555 pts
+12. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - 598 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：mvanhorn/last30days-skill相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
-13. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - 551 pts
+13. [dream-num/univer](https://github.com/dream-num/univer) - 597 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：dream-num/univer相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
+14. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - 567 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：ag-ui-protocol/ag-ui相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-14. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 550 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：google-labs-code/stitch-skills相关内容，聚焦浏览器自动化、网页操作和编程代理。
-15. [morluto/rea](https://github.com/morluto/rea) - 511 pts
+15. [morluto/rea](https://github.com/morluto/rea) - 506 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
 16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 492 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
 17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-18. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 481 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-19. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 481 pts
+18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-20. [huggingface/transformers](https://github.com/huggingface/transformers) - 475 pts
+19. [langgenius/dify](https://github.com/langgenius/dify) - 474 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+20. [huggingface/transformers](https://github.com/huggingface/transformers) - 473 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-21. [langgenius/dify](https://github.com/langgenius/dify) - 474 pts
+21. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 471 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-22. [open-webui/open-webui](https://github.com/open-webui/open-webui) - 472 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-23. [SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents](https://arxiv.org/abs/2611.21541v1) - 144 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦AI Agent、cs.AI、cs.LG、physics.comp-ph、人工智能、OpenAI、Anthropic、Claude、AI 安全相关背景、功能和讨论点。
-24. [ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization](https://arxiv.org/abs/2611.21605v1) - 131 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization相关内容，聚焦AI Agent、cs.CV、cs.AI、人工智能、OpenAI、Anthropic、Claude、AI 安全相关背景、功能和讨论点。
-25. [Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers](https://arxiv.org/abs/2611.21449v1) - 129 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Replicating and Extending Weight-Space Programming: Frontier LLMs Compile Programs into Weights and Read Input Layers相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-26. [Windows 收集用户计算机安装的编程智能体和开发工具](https://www.solidot.org/story?sid=85908) - 96 pts
+22. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 466 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+23. [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://huggingface.co/papers/2611.22115) - 195 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks相关内容，聚焦HF daily、大语言模型、AI Agent相关背景、功能和讨论点。
+24. [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://huggingface.co/papers/2611.17621) - 139 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs相关内容，关注成本结构、定价策略和实际落地收益。
+25. [Do LLM Agents Still Need to Be Told How to Self-Improve?](https://arxiv.org/abs/2611.23219v1) - 118 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Do LLM Agents Still Need to Be Told How to Self-Improve?相关内容，聚焦大语言模型、cs.LG、cs.AI、人工智能、机器学习、AI Agent、AI 安全相关背景、功能和讨论点。
+26. [WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition](https://arxiv.org/abs/2611.23192v1) - 117 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition相关内容，聚焦AI Agent、cs.AI、cs.LG、cs.RO、人工智能、Multimodal、AI 安全相关背景、功能和讨论点。
+27. [Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance](https://arxiv.org/abs/2611.23142v1) - 116 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+28. [潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？](https://www.qbitai.com/2026/11/510737.html) - 90 pts
+   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？相关内容，聚焦资讯、小红书、校招、人工智能相关背景、功能和讨论点。
+29. [Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance](https://arxiv.org/abs/2611.23142) - 74 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+30. [Windows 收集用户计算机安装的编程智能体和开发工具](https://www.solidot.org/story?sid=85908) - 56 pts
    - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：Windows 收集用户计算机安装的编程智能体和开发工具相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-27. [K2-Horizon: A Frontier Fleet of Open Source Language Models](https://huggingface.co/papers/2611.21003) - 78 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：K2-Horizon: A Frontier Fleet of Open Source Language Models相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-28. [SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](https://huggingface.co/papers/2611.07222) - 78 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection相关内容，聚焦HF daily、大语言模型、AI Agent、提示词工程相关背景、功能和讨论点。
-29. [LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent](https://arxiv.org/abs/2611.17780) - 70 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent相关内容，关注成本结构、定价策略和实际落地收益。
-30. [今天截止！2026年度AI表彰，错过再等一年！](https://www.qbitai.com/2026/11/510382.html) - 56 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：今天截止！2026年度AI表彰，错过再等一年！相关内容，聚焦活动、资讯、MEET2027、人工智能相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [How VLMs Plan What's Next](https://arxiv.org/abs/2611.21600v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Rohit Gandikota, Arnab Sen Sharma, Adam Belfki, David Bau
-   - Categories: cs.CV, cs.CL, cs.LG
-   - Score: 230 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.21600v1
-   - PDF: https://arxiv.org/pdf/2611.21600v1
-   - Google Scholar: https://scholar.google.com/scholar?q=How%20VLMs%20Plan%20What's%20Next
+1. [Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance](https://arxiv.org/abs/2611.23142v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Lorenzo Masoero
+   - Categories: cs.SE, cs.AI, cs.CL
+   - Score: 229 | Why: fresh paper, matched LLM, matched AI agent, matched AI safety, CS AI category
+   - arXiv: https://arxiv.org/abs/2611.23142v1
+   - PDF: https://arxiv.org/pdf/2611.23142v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Mind%20the%20Gap%3A%20A%20Deployed%20Multi-Agent%20System%20for%20Documentation%20Maintenance
 
-2. [Seen but Unsaid: Locating and Repairing Cross-Image Comparison in Vision-Language Models](https://arxiv.org/abs/2611.21539v1)
+2. [The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?](https://arxiv.org/abs/2611.23127v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Basavaraj R M, Harshal Chandel
+   - Categories: cs.LG, cs.CL, cs.CV
+   - Score: 229 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.23127v1
+   - PDF: https://arxiv.org/pdf/2611.23127v1
+   - Google Scholar: https://scholar.google.com/scholar?q=The%20Illusion%20of%20Grounding%3A%20Do%20Vision-Language%20Models%20Weigh%20Retrieved%20Text%20and%20Images%20Like%20an%20Ideal%20Observer%3F
+
+3. [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](https://arxiv.org/abs/2611.23229v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Giannis Daras, Marios Papachristou, Adam Klivans, Antonio Torralba, Constantinos Daskalakis
+   - Categories: cs.LG, cs.AI, cs.CL
+   - Score: 228 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.23229v1
+   - PDF: https://arxiv.org/pdf/2611.23229v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Ambient%20LLMs%3A%20Data-Efficient%20Supervised%20Fine-tuning%20via%20Temperature%20Matching
+
+4. [Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](https://arxiv.org/abs/2611.23228v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Rui Ning, Om Chabra, Hari Balakrishnan
+   - Categories: cs.CV, cs.LG
+   - Score: 222 | Why: fresh paper, matched LLM, matched AI agent, matched Multimodal, CS AI category
+   - arXiv: https://arxiv.org/abs/2611.23228v1
+   - PDF: https://arxiv.org/pdf/2611.23228v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Spool%3A%20Low-Latency%20Streaming%20Inference%20for%20Hybrid%20Vision-Language%20Models
+
+5. [Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving](https://arxiv.org/abs/2611.23211v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Zhaoning Zhang
-   - Categories: cs.CV, cs.CL, cs.LG
-   - Score: 229 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.21539v1
-   - PDF: https://arxiv.org/pdf/2611.21539v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Seen%20but%20Unsaid%3A%20Locating%20and%20Repairing%20Cross-Image%20Comparison%20in%20Vision-Language%20Models
-
-3. [Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle](https://arxiv.org/abs/2611.21538v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。
-   - Authors: Arunkumar V, Manoranjan Gandhudi, Gangadharan G. R., Arun Prakash, S. Senthilkumar
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 229 | Why: fresh paper, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.21538v1
-   - PDF: https://arxiv.org/pdf/2611.21538v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Optimistic%20Verifiers%20Get%20Hacked%3A%20Reward%20Hacking%20Under%20an%20Exact%20Process%20Oracle
-
-4. [Procedure without Judgment: What Small Language Models Learn under an Exact Verifier](https://arxiv.org/abs/2611.21529v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
-   - Authors: Arunkumar V, Manoranjan Gandhudi, Gangadharan G. R., Arun Prakash, S. Senthilkumar
-   - Categories: cs.AI, cs.CL, cs.LG
-   - Score: 229 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.21529v1
-   - PDF: https://arxiv.org/pdf/2611.21529v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Procedure%20without%20Judgment%3A%20What%20Small%20Language%20Models%20Learn%20under%20an%20Exact%20Verifier
-
-5. [Estimating Outpatient Visit Prices from Hospital Price Transparency Data using Large Language Models](https://arxiv.org/abs/2611.20261v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Kurmanbek Kaiyrbekov, Nicholas J Dobbins, Sean D Mooney
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 222 | Why: fresh paper, matched RAG, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.20261v1
-   - PDF: https://arxiv.org/pdf/2611.20261v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Estimating%20Outpatient%20Visit%20Prices%20from%20Hospital%20Price%20Transparency%20Data%20using%20Large%20Language%20Models
+   - Authors: John Gideon, Anshul Gupta, Megan Applegate-Kenton, Kayli Battel, Todd J Rowell, Patricio Reyes Gomez, Laporsha Dees, Emily Sumner, Avinash Balachandran, Guy Rosman
+   - Categories: cs.CV, cs.LG, cs.RO
+   - Score: 222 | Why: fresh paper, matched Multimodal, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.23211v1
+   - PDF: https://arxiv.org/pdf/2611.23211v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Multimodal%20Masked%20Diffusion%20Autoencoder%20for%20Modeling%20Impaired%20Driving
 
 
 ## 网页源覆盖
 
 - GitHub Trending: ok (15 parsed)（15 条）
-- HN Front Page: ok (30 parsed)（30 条）
-- HF Daily Papers: ok (19 parsed)（19 条）
+- HN Front Page: ok (29 parsed)（29 条）
+- HF Daily Papers: ok (20 parsed)（20 条）
 - QbitAI: ok (10 parsed)（10 条）
 - Solidot: ok (20 parsed)（20 条）
-- papers.cool: ok (62 parsed)（62 条）
+- papers.cool: ok (102 parsed)（102 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · ↓ -0.043
+- Hacker News：8 席 · ↑ +0.024
 - GitHub：8 席 · → 持平
 - GitHub Trending：6 席 · → 持平
 - arXiv：3 席 · → 持平
 - HF Papers：2 席 · → 持平
-- Solidot：1 席 · 新增来源
-- papers.cool：1 席 · → 持平
 - QbitAI：1 席 · → 持平
+- papers.cool：1 席 · → 持平
+- Solidot：1 席 · → 持平
 
 
 ## 执行告警
 
 - 源失败: Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429
+- 查询告警: GitHub: codex: HTTP 403

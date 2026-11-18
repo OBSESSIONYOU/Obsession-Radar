@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-17T08:22:38.631Z",
+  "generatedAt": "2026-11-18T07:52:18.884Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-18",
-      "generatedAt": "2026-10-18T05:01:26.210Z",
-      "totalFetched": 279,
-      "uniqueCount": 204,
-      "recommendations": [
-        {
-          "title": "OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-          "source": "Hacker News",
-          "score": 530,
-          "points": 122
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 498,
-          "points": 310216
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 254733
-        },
-        {
-          "title": "Significant-Gravitas/AutoGPT",
-          "url": "https://github.com/Significant-Gravitas/AutoGPT",
-          "source": "GitHub",
-          "score": 482,
-          "points": 187630
-        },
-        {
-          "title": "Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News",
-          "score": 269,
-          "points": 110
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "FDE-Gym: The Last Mile of AI Delivery",
-          "url": "https://arxiv.org/abs/2610.22350v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-          "url": "https://arxiv.org/abs/2610.22344v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
-          "url": "https://arxiv.org/abs/2610.22234v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-          "url": "https://arxiv.org/abs/2610.22343v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-          "url": "https://arxiv.org/abs/2610.22372v1",
-          "source": "arXiv",
-          "score": 206
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-19",
       "generatedAt": "2026-10-19T05:10:11.766Z",
@@ -3289,6 +3208,123 @@
           "name": "Solidot",
           "status": "ok (18 parsed)",
           "found": 18
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (62 parsed)",
+          "found": 62
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "generatedAt": "2026-11-17T08:22:38.480Z",
+      "totalFetched": 481,
+      "uniqueCount": 394,
+      "recommendations": [
+        {
+          "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+          "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "source": "Hacker News",
+          "score": 2440,
+          "points": 764
+        },
+        {
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "url": "https://www.cs.cmu.edu/learn/",
+          "source": "Hacker News",
+          "score": 2060,
+          "points": 1363
+        },
+        {
+          "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+          "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+          "source": "Hacker News",
+          "score": 1604,
+          "points": 546
+        },
+        {
+          "title": "BugMeNot has closed",
+          "url": "https://www.bugmenot.com/",
+          "source": "Hacker News",
+          "score": 1146,
+          "points": 498
+        },
+        {
+          "title": "Frame – 31.5\" color ePaper display",
+          "url": "https://trmnl.com/blog/introducing-frame",
+          "source": "Hacker News",
+          "score": 1140,
+          "points": 391
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "How VLMs Plan What's Next",
+          "url": "https://arxiv.org/abs/2611.21600v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Seen but Unsaid: Locating and Repairing Cross-Image Comparison in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.21539v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Optimistic Verifiers Get Hacked: Reward Hacking Under an Exact Process Oracle",
+          "url": "https://arxiv.org/abs/2611.21538v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Procedure without Judgment: What Small Language Models Learn under an Exact Verifier",
+          "url": "https://arxiv.org/abs/2611.21529v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Estimating Outpatient Visit Prices from Hospital Price Transparency Data using Large Language Models",
+          "url": "https://arxiv.org/abs/2611.20261v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "Solidot": 1,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (19 parsed)",
+          "found": 19
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
         },
         {
           "name": "papers.cool",
