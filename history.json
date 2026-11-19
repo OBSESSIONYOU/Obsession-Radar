@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-18T07:52:18.884Z",
+  "generatedAt": "2026-11-19T07:48:38.974Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-19",
-      "generatedAt": "2026-10-19T05:10:11.766Z",
-      "totalFetched": 266,
-      "uniqueCount": 207,
-      "recommendations": [
-        {
-          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "url": "https://arxiv.org/abs/2610.18861",
-          "source": "Hacker News",
-          "score": 776,
-          "points": 296
-        },
-        {
-          "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "Hacker News",
-          "score": 629,
-          "points": 158
-        },
-        {
-          "title": "Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News",
-          "score": 532,
-          "points": 135
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 500,
-          "points": 325327
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 254996
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-          "url": "https://arxiv.org/abs/2610.23847v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems",
-          "url": "https://arxiv.org/abs/2610.22511v1",
-          "source": "arXiv",
-          "score": 212
-        },
-        {
-          "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-          "url": "https://arxiv.org/abs/2610.23854v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-          "url": "https://arxiv.org/abs/2610.23845v1",
-          "source": "arXiv",
-          "score": 206
-        },
-        {
-          "title": "GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search",
-          "url": "https://arxiv.org/abs/2610.23709v1",
-          "source": "arXiv",
-          "score": 206
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-20",
       "generatedAt": "2026-10-20T05:10:41.848Z",
@@ -3330,6 +3249,123 @@
           "name": "papers.cool",
           "status": "ok (62 parsed)",
           "found": 62
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "generatedAt": "2026-11-18T07:52:18.676Z",
+      "totalFetched": 501,
+      "uniqueCount": 419,
+      "recommendations": [
+        {
+          "title": "GPT‑6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "source": "Hacker News",
+          "score": 3305,
+          "points": 1233
+        },
+        {
+          "title": "GPT‑6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "source": "Hacker News",
+          "score": 3291,
+          "points": 1233
+        },
+        {
+          "title": "Highly classified US national security communications network goes down",
+          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+          "source": "Hacker News",
+          "score": 2218,
+          "points": 558
+        },
+        {
+          "title": "Web Browser Engineering (2021)",
+          "url": "https://browser.engineering/",
+          "source": "Hacker News",
+          "score": 1736,
+          "points": 683
+        },
+        {
+          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "url": "https://calif.io/java4shell/",
+          "source": "Hacker News",
+          "score": 1504,
+          "points": 826
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Mind the Gap: A Deployed Multi-Agent System for Documentation Maintenance",
+          "url": "https://arxiv.org/abs/2611.23142v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "The Illusion of Grounding: Do Vision-Language Models Weigh Retrieved Text and Images Like an Ideal Observer?",
+          "url": "https://arxiv.org/abs/2611.23127v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+          "url": "https://arxiv.org/abs/2611.23229v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.23228v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+          "url": "https://arxiv.org/abs/2611.23211v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "HF Papers": 2,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (15 parsed)",
+          "found": 15
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (102 parsed)",
+          "found": 102
         }
       ]
     }
