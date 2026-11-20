@@ -1,20 +1,16 @@
 {
-  "startedAt": "2026-11-19T07:48:21.121Z",
-  "finishedAt": "2026-11-19T07:48:38.770Z",
+  "startedAt": "2026-11-20T07:40:11.672Z",
+  "finishedAt": "2026-11-20T07:40:29.330Z",
   "ok": true,
   "exitCode": 0,
   "message": "Daily radar updated successfully.",
   "diagnostics": {
     "errors": [],
     "warnings": [
-      "GitHub: claude: HTTP 403",
-      "GitHub: mcp: HTTP 403",
-      "GitHub: codex: HTTP 403",
-      "GitHub: ai-coding: HTTP 403",
       "Semantic Scholar: LLM: HTTP 429",
       "Semantic Scholar: RAG: HTTP 429",
       "Semantic Scholar: AI agent: HTTP 429",
-      "Semantic Scholar: AI coding: HTTP 429",
+      "Semantic Scholar: Multimodal: HTTP 429",
       "Semantic Scholar: AI safety: HTTP 429"
     ]
   }

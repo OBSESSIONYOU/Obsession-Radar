@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-19T07:48:38.974Z",
+  "generatedAt": "2026-11-20T07:40:29.492Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-20",
-      "generatedAt": "2026-10-20T05:10:41.848Z",
-      "totalFetched": 295,
-      "uniqueCount": 219,
-      "recommendations": [
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 501,
-          "points": 338977
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 491,
-          "points": 255328
-        },
-        {
-          "title": "affaan-m/ECC",
-          "url": "https://github.com/affaan-m/ECC",
-          "source": "GitHub",
-          "score": 488,
-          "points": 284258
-        },
-        {
-          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-          "source": "Hacker News",
-          "score": 314,
-          "points": 166
-        },
-        {
-          "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-          "url": "https://3anddoneapp.com/try",
-          "source": "Hacker News",
-          "score": 289,
-          "points": 51
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-          "url": "https://arxiv.org/abs/2610.26860v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
-          "url": "https://arxiv.org/abs/2610.26828v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
-          "url": "https://arxiv.org/abs/2610.26817v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-          "url": "https://arxiv.org/abs/2610.26847v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
-          "url": "https://arxiv.org/abs/2610.26826v1",
-          "source": "arXiv",
-          "score": 229
-        }
-      ],
-      "sourceMix": {
-        "GitHub": 16,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-21",
       "generatedAt": "2026-10-21T05:12:22.542Z",
@@ -3366,6 +3285,123 @@
           "name": "papers.cool",
           "status": "ok (102 parsed)",
           "found": 102
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "generatedAt": "2026-11-19T07:48:38.766Z",
+      "totalFetched": 457,
+      "uniqueCount": 394,
+      "recommendations": [
+        {
+          "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+          "url": "https://www.semanticscholar.org/paper/206400aba5f12f734cdd2e4ab48ef6014ea60773",
+          "source": "Semantic Scholar",
+          "score": 3423,
+          "points": 2268
+        },
+        {
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "source": "Hacker News",
+          "score": 2909,
+          "points": 1310
+        },
+        {
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "source": "Hacker News",
+          "score": 2383,
+          "points": 731
+        },
+        {
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "source": "Hacker News",
+          "score": 1462,
+          "points": 518
+        },
+        {
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "source": "Hacker News",
+          "score": 1406,
+          "points": 653
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving",
+          "url": "https://arxiv.org/abs/2611.24719v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "When Does Continual Pre-Training Help? A Controlled Study of Dialectal Adaptation for Québec French",
+          "url": "https://arxiv.org/abs/2611.24699v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "The Elephant in the Question: Unified Models Picture the Concepts Behind Their Answers",
+          "url": "https://arxiv.org/abs/2611.24793v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "Option-GRPO: Hierarchical RL Against AI Slop in Code Generation for Unseen SDKs",
+          "url": "https://arxiv.org/abs/2611.23633v1",
+          "source": "arXiv",
+          "score": 223
+        },
+        {
+          "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+          "url": "https://arxiv.org/abs/2611.24932v1",
+          "source": "arXiv",
+          "score": 222
+        }
+      ],
+      "sourceMix": {
+        "Semantic Scholar": 3,
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (19 parsed)",
+          "found": 19
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (31 parsed)",
+          "found": 31
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (72 parsed)",
+          "found": 72
         }
       ]
     }
