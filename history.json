@@ -1,90 +1,8 @@
 {
-  "generatedAt": "2026-11-20T07:40:29.492Z",
+  "generatedAt": "2026-11-21T07:38:02.800Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-21",
-      "generatedAt": "2026-10-21T05:12:22.542Z",
-      "totalFetched": 313,
-      "uniqueCount": 239,
-      "recommendations": [
-        {
-          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
-          "source": "Semantic Scholar",
-          "score": 36522,
-          "points": 24566
-        },
-        {
-          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
-          "source": "Semantic Scholar",
-          "score": 30080,
-          "points": 23059
-        },
-        {
-          "title": "Evaluating Large Language Models Trained on Code",
-          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
-          "source": "Semantic Scholar",
-          "score": 18607,
-          "points": 12275
-        },
-        {
-          "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
-          "source": "Semantic Scholar",
-          "score": 13511,
-          "points": 9561
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 502,
-          "points": 350021
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-          "url": "https://arxiv.org/abs/2610.28632v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "Evolving Semantic Indexes for Generative Retrieval",
-          "url": "https://arxiv.org/abs/2610.28568v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "DISTRACT: Degradation-Indexed Study of Textual Reference Across Competing Targets",
-          "url": "https://arxiv.org/abs/2610.28419v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "From Tokens to Files: Multi-Granularity Detection and Localization of AI-Involved Code",
-          "url": "https://arxiv.org/abs/2610.27863v1",
-          "source": "arXiv",
-          "score": 227
-        },
-        {
-          "title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
-          "url": "https://arxiv.org/abs/2610.28160v1",
-          "source": "arXiv",
-          "score": 224
-        }
-      ],
-      "sourceMix": {
-        "Semantic Scholar": 4,
-        "GitHub": 12,
-        "Hacker News": 10,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-22",
       "generatedAt": "2026-10-22T05:15:31.929Z",
@@ -3402,6 +3320,123 @@
           "name": "papers.cool",
           "status": "ok (72 parsed)",
           "found": 72
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "generatedAt": "2026-11-20T07:40:29.326Z",
+      "totalFetched": 509,
+      "uniqueCount": 421,
+      "recommendations": [
+        {
+          "title": "Anthropic’s Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "source": "Hacker News",
+          "score": 6231,
+          "points": 1051
+        },
+        {
+          "title": "Garage Door Spam",
+          "url": "https://blog.harrison.page/garage-door-spam/",
+          "source": "Hacker News",
+          "score": 1815,
+          "points": 836
+        },
+        {
+          "title": "UK government forced to admit it issued Apple a secret encryption order",
+          "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+          "source": "Hacker News",
+          "score": 1400,
+          "points": 616
+        },
+        {
+          "title": "Pancreatic cancer halted by virus injection in three patients",
+          "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+          "source": "Hacker News",
+          "score": 1165,
+          "points": 737
+        },
+        {
+          "title": "Claude solves two open problems in the physics of black holes",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "source": "Hacker News",
+          "score": 1131,
+          "points": 470
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.26590v1",
+          "source": "arXiv",
+          "score": 230
+        },
+        {
+          "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+          "url": "https://arxiv.org/abs/2611.26531v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+          "url": "https://arxiv.org/abs/2611.26398v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Closing Performance Gap for Diffusion Language Models under Low Inference Budgets",
+          "url": "https://arxiv.org/abs/2611.25763v1",
+          "source": "arXiv",
+          "score": 226
+        },
+        {
+          "title": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+          "url": "https://arxiv.org/abs/2611.25582v1",
+          "source": "arXiv",
+          "score": 226
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "Semantic Scholar": 3,
+        "GitHub": 8,
+        "arXiv": 3,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "HF Papers": 2
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (23 parsed)",
+          "found": 23
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (96 parsed)",
+          "found": 96
         }
       ]
     }
