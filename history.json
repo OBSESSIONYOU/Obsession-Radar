@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-21T07:38:02.800Z",
+  "generatedAt": "2026-11-22T07:19:52.475Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-22",
-      "generatedAt": "2026-10-22T05:15:31.929Z",
-      "totalFetched": 304,
-      "uniqueCount": 208,
-      "recommendations": [
-        {
-          "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-          "source": "Hacker News",
-          "score": 723,
-          "points": 246
-        },
-        {
-          "title": "OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud/",
-          "source": "Hacker News",
-          "score": 602,
-          "points": 268
-        },
-        {
-          "title": "morluto/rea",
-          "url": "https://github.com/morluto/rea",
-          "source": "GitHub",
-          "score": 503,
-          "points": 359427
-        },
-        {
-          "title": "NousResearch/hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub",
-          "score": 489,
-          "points": 256014
-        },
-        {
-          "title": "n8n-io/n8n",
-          "url": "https://github.com/n8n-io/n8n",
-          "source": "GitHub",
-          "score": 486,
-          "points": 208269
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-          "url": "https://arxiv.org/abs/2610.30128v1",
-          "source": "arXiv",
-          "score": 238
-        },
-        {
-          "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
-          "url": "https://arxiv.org/abs/2610.30026v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-          "url": "https://arxiv.org/abs/2610.30125v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
-          "url": "https://arxiv.org/abs/2610.30116v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
-          "url": "https://arxiv.org/abs/2610.30108v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 10,
-        "GitHub": 16,
-        "arXiv": 4
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-23",
       "generatedAt": "2026-10-23T05:16:03.552Z",
@@ -3422,6 +3341,123 @@
           "name": "HF Daily Papers",
           "status": "ok (23 parsed)",
           "found": 23
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (96 parsed)",
+          "found": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "generatedAt": "2026-11-21T07:38:02.633Z",
+      "totalFetched": 500,
+      "uniqueCount": 429,
+      "recommendations": [
+        {
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "url": "https://alpo.ge/remark.pdf",
+          "source": "Hacker News",
+          "score": 7158,
+          "points": 2539
+        },
+        {
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "source": "Hacker News",
+          "score": 4313,
+          "points": 1897
+        },
+        {
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News",
+          "score": 1609,
+          "points": 258
+        },
+        {
+          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News",
+          "score": 1566,
+          "points": 641
+        },
+        {
+          "title": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+          "source": "Hacker News",
+          "score": 1498,
+          "points": 902
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.26590v1",
+          "source": "arXiv",
+          "score": 222
+        },
+        {
+          "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+          "url": "https://arxiv.org/abs/2611.26531v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+          "url": "https://arxiv.org/abs/2611.26398v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "Closing Performance Gap for Diffusion Language Models under Low Inference Budgets",
+          "url": "https://arxiv.org/abs/2611.25763v1",
+          "source": "arXiv",
+          "score": 218
+        },
+        {
+          "title": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+          "url": "https://arxiv.org/abs/2611.25582v1",
+          "source": "arXiv",
+          "score": 218
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (50 parsed)",
+          "found": 50
         },
         {
           "name": "QbitAI",

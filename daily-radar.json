@@ -1,140 +1,134 @@
 {
-  "generatedAt": "2026-11-21T07:38:02.633Z",
-  "totalFetched": 500,
-  "uniqueCount": 429,
+  "generatedAt": "2026-11-22T07:19:52.278Z",
+  "totalFetched": 486,
+  "uniqueCount": 411,
   "candidates": [
     {
-      "id": "frontpage:hn:50574968",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=50574968",
-      "source": "Hacker News",
-      "points": 2539,
-      "comments": 1755,
-      "createdAt": "2026-11-20T14:16:21",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 7158,
-      "intro": "这篇来自 alpo.ge 的帖子主要介绍了：Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
       "id": "frontpage:hn:50579568",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "url": "https://github.com/ItsNotRexed/Leonida",
       "hnUrl": "https://news.ycombinator.com/item?id=50579568",
       "source": "Hacker News",
-      "points": 1897,
-      "comments": 874,
+      "points": 2405,
+      "comments": 1169,
       "createdAt": "2026-11-20T18:33:14",
       "matchedQueries": [
         "front page"
       ],
-      "score": 4313,
-      "intro": "这篇来自 math216.wordpress.com 的帖子主要介绍了：Hurried Announcement: Alessandro Masullo GRH相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 5585,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：Leonida – PC Recompilation of the Xbox Version of GTA 6相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50574383",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "hnUrl": "https://news.ycombinator.com/item?id=50574383",
+      "id": "frontpage:hn:50589618",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50589618",
       "source": "Hacker News",
-      "points": 258,
-      "comments": 525,
-      "createdAt": "2026-11-20T13:29:59",
-      "matchedQueries": [
-        "front page",
-        "AI",
-        "Anthropic"
-      ],
-      "score": 1609,
-      "intro": "这篇来自 theguardian.com 的帖子主要介绍了：Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day相关内容，聚焦front page、人工智能、Anthropic相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "50572503",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "hnUrl": "https://news.ycombinator.com/item?id=50572503",
-      "source": "Hacker News",
-      "points": 641,
-      "comments": 332,
-      "author": "shioyama",
-      "createdAt": "2026-11-20T10:01:41Z",
-      "storyText": "",
-      "matchedQueries": [
-        "MCP",
-        "AI"
-      ],
-      "score": 1566,
-      "intro": "这篇来自 architectlabs.com 的帖子主要介绍了：Frostbite: A new CPU architecture discovered, designed and verified by AI相关内容，聚焦MCP、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50581260",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50581260",
-      "source": "Hacker News",
-      "points": 902,
-      "comments": 171,
-      "createdAt": "2026-11-20T20:12:19",
-      "matchedQueries": [
-        "front page",
-        "AI"
-      ],
-      "score": 1498,
-      "intro": "这篇来自 thinkingmachines.ai 的帖子主要介绍了：Inkling 2 Mini相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50579331",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "hnUrl": "https://news.ycombinator.com/item?id=50579331",
-      "source": "Hacker News",
-      "points": 389,
-      "comments": 224,
-      "createdAt": "2026-11-20T18:17:51",
+      "points": 958,
+      "comments": 813,
+      "createdAt": "2026-11-21T14:36:45",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1018,
-      "intro": "这篇来自 manidoraisamy.com 的帖子主要介绍了：We promoted developers into architects without informing them相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 3080,
+      "intro": "这篇来自 leanprover-community.github.io 的帖子主要介绍了：Lean verification of the Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50581084",
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "url": "https://scottaaronson.blog/?p=10344",
-      "hnUrl": "https://news.ycombinator.com/item?id=50581084",
+      "id": "frontpage:hn:50583761",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "hnUrl": "https://news.ycombinator.com/item?id=50583761",
       "source": "Hacker News",
-      "points": 270,
-      "comments": 244,
-      "createdAt": "2026-11-20T20:03:07",
+      "points": 675,
+      "comments": 766,
+      "createdAt": "2026-11-20T23:18:32",
       "matchedQueries": [
         "front page"
       ],
-      "score": 932,
-      "intro": "这篇来自 scottaaronson.blog 的帖子主要介绍了：The stochastic parrots have apparently proved the Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 2629,
+      "intro": "这篇来自 news.ycombinator.com 的帖子主要介绍了：I have been unemployed for 2y. 15 years of experience, US. What to do?相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50578358",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50578358",
+      "id": "frontpage:hn:50588982",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "hnUrl": "https://news.ycombinator.com/item?id=50588982",
       "source": "Hacker News",
-      "points": 410,
-      "comments": 171,
-      "createdAt": "2026-11-20T17:21:36",
+      "points": 591,
+      "comments": 379,
+      "createdAt": "2026-11-21T13:23:14",
       "matchedQueries": [
         "front page"
       ],
-      "score": 913,
-      "intro": "这篇来自 terrytao.wordpress.com 的帖子主要介绍了：Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1614,
+      "intro": "这篇来自 science.org 的帖子主要介绍了：Detonating a pile of lead azide相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50582069",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "hnUrl": "https://news.ycombinator.com/item?id=50582069",
+      "source": "Hacker News",
+      "points": 887,
+      "comments": 203,
+      "createdAt": "2026-11-20T21:03:12",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1521,
+      "intro": "这篇来自 theguardian.com 的帖子主要介绍了：Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50575644",
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50575644",
+      "source": "Hacker News",
+      "points": 547,
+      "comments": 290,
+      "createdAt": "2026-11-20T15:03:31",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1339,
+      "intro": "这篇来自 blog.mozilla.org 的帖子主要介绍了：Why there are still no non-WebKit browsers on iOS相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50587875",
+      "title": "My monitor was cutting my download speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50587875",
+      "source": "Hacker News",
+      "points": 555,
+      "comments": 265,
+      "createdAt": "2026-11-21T10:36:32",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1294,
+      "intro": "这篇来自 blog.tymscar.com 的帖子主要介绍了：My monitor was cutting my download speed by 75%相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50591853",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "hnUrl": "https://news.ycombinator.com/item?id=50591853",
+      "source": "Hacker News",
+      "points": 434,
+      "comments": 109,
+      "createdAt": "2026-11-21T18:02:19",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 794,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：Inkling-2-Mini in 5.4 GB Memory相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
@@ -142,20 +136,20 @@
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "points": 323010,
-      "comments": 28679,
-      "stars": 323010,
-      "forks": 28679,
-      "starsToday": 890,
+      "points": 323890,
+      "comments": 28730,
+      "stars": 323890,
+      "forks": 28730,
+      "starsToday": 883,
       "language": "Shell",
-      "createdAt": "2026-11-21T07:37:45.583Z",
+      "createdAt": "2026-11-22T07:19:34.978Z",
       "pageDescription": "An agentic skills framework & software development methodology that works.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 638,
+      "score": 637,
       "intro": "这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -164,20 +158,20 @@
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub Trending",
-      "points": 205530,
-      "comments": 10747,
-      "stars": 205530,
-      "forks": 10747,
-      "starsToday": 1241,
+      "points": 206413,
+      "comments": 10792,
+      "stars": 206413,
+      "forks": 10792,
+      "starsToday": 1006,
       "language": "TypeScript",
-      "createdAt": "2026-11-21T07:37:45.584Z",
+      "createdAt": "2026-11-22T07:19:34.978Z",
       "pageDescription": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 627,
+      "score": 621,
       "intro": "这篇来自 github.com 的帖子主要介绍了：firecrawl/firecrawl相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -186,13 +180,13 @@
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "GitHub Trending",
-      "points": 69452,
-      "comments": 4661,
-      "stars": 69452,
-      "forks": 4661,
-      "starsToday": 636,
+      "points": 69932,
+      "comments": 4691,
+      "stars": 69932,
+      "forks": 4691,
+      "starsToday": 583,
       "language": "HTML",
-      "createdAt": "2026-11-21T07:37:45.584Z",
+      "createdAt": "2026-11-22T07:19:34.978Z",
       "pageDescription": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "githubTopics": [],
       "matchedQueries": [
@@ -201,7 +195,7 @@
         "Claude",
         "Codex"
       ],
-      "score": 607,
+      "score": 605,
       "intro": "这篇来自 github.com 的帖子主要介绍了：cathrynlavery/diagram-design相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -210,13 +204,13 @@
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending",
-      "points": 71594,
-      "comments": 6342,
-      "stars": 71594,
-      "forks": 6342,
-      "starsToday": 681,
+      "points": 72192,
+      "comments": 6392,
+      "stars": 72192,
+      "forks": 6392,
+      "starsToday": 560,
       "language": "Python",
-      "createdAt": "2026-11-21T07:37:45.584Z",
+      "createdAt": "2026-11-22T07:19:34.978Z",
       "pageDescription": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "githubTopics": [],
       "matchedQueries": [
@@ -224,30 +218,8 @@
         "AI",
         "AI agent"
       ],
-      "score": 599,
+      "score": 594,
       "intro": "这篇来自 github.com 的帖子主要介绍了：mvanhorn/last30days-skill相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
-    },
-    {
-      "id": "trending:github.com/jingyaogong/minimind",
-      "title": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "source": "GitHub Trending",
-      "points": 67834,
-      "comments": 8868,
-      "stars": 67834,
-      "forks": 8868,
-      "starsToday": 847,
-      "language": "Python",
-      "createdAt": "2026-11-21T07:37:45.584Z",
-      "pageDescription": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "githubTopics": [],
-      "matchedQueries": [
-        "trending",
-        "LLM"
-      ],
-      "score": 593,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：jingyaogong/minimind相关内容，聚焦trending、大语言模型相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
@@ -255,13 +227,13 @@
       "title": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "source": "GitHub Trending",
-      "points": 61583,
-      "comments": 5585,
-      "stars": 61583,
-      "forks": 5585,
-      "starsToday": 773,
+      "points": 62251,
+      "comments": 5650,
+      "stars": 62251,
+      "forks": 5650,
+      "starsToday": 769,
       "language": "Python",
-      "createdAt": "2026-11-21T07:37:45.583Z",
+      "createdAt": "2026-11-22T07:19:34.978Z",
       "pageDescription": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "githubTopics": [],
       "matchedQueries": [
@@ -273,16 +245,39 @@
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
     {
+      "id": "trending:github.com/elementalsouls/Claude-BugHunter",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending",
+      "points": 16450,
+      "comments": 1867,
+      "stars": 16450,
+      "forks": 1867,
+      "starsToday": 1803,
+      "language": "Python",
+      "createdAt": "2026-11-22T07:19:34.978Z",
+      "pageDescription": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "githubTopics": [],
+      "matchedQueries": [
+        "trending",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 582,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：elementalsouls/Claude-BugHunter相关内容，说明复现现象、影响范围和排查线索。",
+      "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
+    },
+    {
       "id": "github:morluto/rea",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 471846,
-      "comments": 1388,
-      "stars": 471846,
-      "forks": 115192,
-      "openIssues": 1388,
-      "createdAt": "2026-11-21T07:33:23Z",
+      "points": 473105,
+      "comments": 1336,
+      "stars": 473105,
+      "forks": 115446,
+      "openIssues": 1336,
+      "createdAt": "2026-11-22T05:40:00Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -333,7 +328,7 @@
         "Anthropic",
         "Claude"
       ],
-      "score": 511,
+      "score": 508,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -342,12 +337,12 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 265051,
-      "comments": 54206,
-      "stars": 265051,
-      "forks": 59891,
-      "openIssues": 54206,
-      "createdAt": "2026-11-21T07:30:51Z",
+      "points": 265255,
+      "comments": 54292,
+      "stars": 265255,
+      "forks": 59960,
+      "openIssues": 54292,
+      "createdAt": "2026-11-22T06:44:32Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -391,16 +386,64 @@
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
+      "id": "github:Significant-Gravitas/AutoGPT",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "source": "GitHub",
+      "points": 188126,
+      "comments": 795,
+      "stars": 188126,
+      "forks": 45827,
+      "openIssues": 795,
+      "createdAt": "2026-11-22T07:09:37Z",
+      "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "githubTopics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "matchedQueries": [
+        "artificial-intelligence",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python",
+        "AI",
+        "LLM",
+        "AI agent",
+        "OpenAI",
+        "Anthropic",
+        "Claude"
+      ],
+      "score": 483,
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
       "id": "github:n8n-io/n8n",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 211567,
-      "comments": 1255,
-      "stars": 211567,
-      "forks": 61594,
-      "openIssues": 1255,
-      "createdAt": "2026-11-21T06:38:18Z",
+      "points": 211707,
+      "comments": 1263,
+      "stars": 211707,
+      "forks": 61612,
+      "openIssues": 1263,
+      "createdAt": "2026-11-22T03:11:20Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -448,117 +491,8 @@
         "AI",
         "MCP"
       ],
-      "score": 487,
+      "score": 481,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "github:Significant-Gravitas/AutoGPT",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "points": 188121,
-      "comments": 779,
-      "stars": 188121,
-      "forks": 45834,
-      "openIssues": 779,
-      "createdAt": "2026-11-21T04:39:48Z",
-      "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "githubTopics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "artificial-intelligence",
-        "autonomous-agents",
-        "claude",
-        "gpt",
-        "llama-api",
-        "llm",
-        "openai",
-        "python"
-      ],
-      "matchedQueries": [
-        "artificial-intelligence",
-        "agentic-ai",
-        "agents",
-        "ai",
-        "autonomous-agents",
-        "claude",
-        "gpt",
-        "llama-api",
-        "llm",
-        "openai",
-        "python",
-        "AI",
-        "LLM",
-        "AI agent",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
-      ],
-      "score": 478,
-      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "github:huggingface/transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "points": 169336,
-      "comments": 1097,
-      "stars": 169336,
-      "forks": 35251,
-      "openIssues": 1097,
-      "createdAt": "2026-11-21T07:23:16Z",
-      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-      "githubTopics": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm"
-      ],
-      "matchedQueries": [
-        "llm",
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing",
-        "nlp",
-        "pretrained-models",
-        "python",
-        "pytorch",
-        "pytorch-transformers",
-        "qwen",
-        "speech-recognition",
-        "transformer",
-        "vlm",
-        "machine learning",
-        "LLM",
-        "DeepSeek"
-      ],
-      "score": 478,
-      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -566,12 +500,12 @@
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 161598,
-      "comments": 1337,
-      "stars": 161598,
-      "forks": 25538,
-      "openIssues": 1337,
-      "createdAt": "2026-11-21T07:36:58Z",
+      "points": 161644,
+      "comments": 1350,
+      "stars": 161644,
+      "forks": 25532,
+      "openIssues": 1350,
+      "createdAt": "2026-11-22T07:17:25Z",
       "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
         "agent",
@@ -629,54 +563,125 @@
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:ollama/ollama",
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
+      "id": "github:huggingface/transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 187793,
-      "comments": 4703,
-      "stars": 187793,
-      "forks": 19112,
-      "openIssues": 4703,
-      "createdAt": "2026-11-21T04:05:50Z",
-      "pageDescription": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "points": 169346,
+      "comments": 1117,
+      "stars": 169346,
+      "forks": 35262,
+      "openIssues": 1117,
+      "createdAt": "2026-11-22T01:37:19Z",
+      "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
+        "audio",
+        "deep-learning",
         "deepseek",
         "gemma",
         "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
+        "hacktoberfest",
         "llm",
-        "llms",
-        "minimax",
-        "mistral",
-        "muse",
-        "ollama",
-        "qwen"
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
       ],
       "matchedQueries": [
         "llm",
+        "audio",
+        "deep-learning",
         "deepseek",
         "gemma",
         "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llms",
-        "minimax",
-        "mistral",
-        "muse",
-        "ollama",
+        "hacktoberfest",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
         "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm",
+        "machine learning",
         "LLM",
-        "OpenAI",
         "DeepSeek"
       ],
-      "score": 467,
+      "score": 468,
       "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:firecrawl/firecrawl",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub",
+      "points": 206413,
+      "comments": 911,
+      "stars": 206413,
+      "forks": 10792,
+      "openIssues": 911,
+      "createdAt": "2026-11-22T06:23:11Z",
+      "pageDescription": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "githubTopics": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping"
+      ],
+      "matchedQueries": [
+        "llm",
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping",
+        "AI",
+        "LLM",
+        "AI agent"
+      ],
+      "score": 467,
+      "intro": "这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -684,12 +689,12 @@
       "title": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub",
-      "points": 115547,
-      "comments": 6966,
-      "stars": 115547,
-      "forks": 19169,
-      "openIssues": 6966,
-      "createdAt": "2026-11-21T07:35:11Z",
+      "points": 115743,
+      "comments": 6992,
+      "stars": 115743,
+      "forks": 19210,
+      "openIssues": 6992,
+      "createdAt": "2026-11-22T06:58:57Z",
       "pageDescription": "The open-source app everyone uses to manage agents at work",
       "githubTopics": [
         "acpx",
@@ -842,9 +847,9 @@
       "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
       "url": "https://huggingface.co/papers/2611.21373",
       "source": "HF Papers",
-      "points": 49,
+      "points": 53,
       "comments": 0,
-      "upvotes": 49,
+      "upvotes": 53,
       "authors": [],
       "categories": [
         "HF Daily Papers"
@@ -858,7 +863,7 @@
         "AI agent"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=WeVisForensics%3A%20Self-Evolving%20Agent%20for%20Omni%20AI-Generated%20Video%20Detection",
-      "score": 98,
+      "score": 103,
       "intro": "这篇来自 huggingface.co 的帖子主要介绍了：WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
       "reason": "matched multiple AI queries"
     },
@@ -941,13 +946,37 @@
       "reason": "matched multiple AI queries"
     },
     {
+      "id": "rss:qbitai:https://www.qbitai.com/2026/11/511870.html",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "QbitAI",
+      "points": 0,
+      "comments": 0,
+      "createdAt": "2026-11-22T06:03:54.000Z",
+      "pageDescription": "",
+      "categories": [
+        "资讯",
+        "Claude",
+        "数学"
+      ],
+      "matchedQueries": [
+        "资讯",
+        "Claude",
+        "数学",
+        "Anthropic"
+      ],
+      "score": 97,
+      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿相关内容，聚焦资讯、Claude、数学、Anthropic相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries, fresh today"
+    },
+    {
       "id": "hf:2611.26595",
       "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
       "url": "https://huggingface.co/papers/2611.26595",
       "source": "HF Papers",
-      "points": 33,
+      "points": 35,
       "comments": 0,
-      "upvotes": 33,
+      "upvotes": 35,
       "authors": [],
       "categories": [
         "HF Daily Papers"
@@ -961,144 +990,114 @@
         "prompt engineering"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=Coda-DaVinci%3A%20Reimagining%20Video%20Generation%20with%20Code2Video",
-      "score": 80,
+      "score": 82,
       "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Coda-DaVinci: Reimagining Video Generation with Code2Video相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。",
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/11/511582.html",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "source": "QbitAI",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-11-20T05:24:11.000Z",
-      "pageDescription": "已开源Agnes Harness",
-      "categories": [
-        "资讯",
-        "首页轮播",
-        "Agnes"
-      ],
-      "matchedQueries": [
-        "资讯",
-        "首页轮播",
-        "Agnes",
-        "AI agent"
-      ],
-      "score": 56,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！相关内容，聚焦资讯、首页轮播、Agnes、AI Agent相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
-    },
-    {
-      "id": "rss:solidot:https://www.solidot.org/story?sid=85949",
-      "title": "Anthropic 的数论学家声称证明黎曼猜想",
-      "url": "https://www.solidot.org/story?sid=85949",
+      "id": "rss:solidot:https://www.solidot.org/story?sid=85952",
+      "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+      "url": "https://www.solidot.org/story?sid=85952",
       "source": "Solidot",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-11-20T15:14:05.000Z",
-      "pageDescription": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。",
+      "createdAt": "2026-11-21T11:09:59.000Z",
+      "pageDescription": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人类数学家不得不匆忙提前发布证明手稿。该证明手稿没有使用任何 AI 工具，完全由人类自己完成。",
       "categories": [],
       "matchedQueries": [
         "AI",
-        "Anthropic",
-        "Claude"
+        "OpenAI",
+        "Anthropic"
       ],
-      "score": 56,
-      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Anthropic 的数论学家声称证明黎曼猜想相关内容，聚焦人工智能、Anthropic、Claude相关背景、功能和讨论点。",
+      "score": 49,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：人类数学家匆忙发布广义黎曼猜想的证明手稿相关内容，聚焦人工智能、OpenAI、Anthropic相关背景、功能和讨论点。",
       "reason": "matched multiple AI queries"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50574968",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "hnUrl": "https://news.ycombinator.com/item?id=50574968",
-      "source": "Hacker News",
-      "points": 2539,
-      "comments": 1755,
-      "createdAt": "2026-11-20T14:16:21",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 7158,
-      "intro": "这篇来自 alpo.ge 的帖子主要介绍了：Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
       "id": "frontpage:hn:50579568",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "url": "https://github.com/ItsNotRexed/Leonida",
       "hnUrl": "https://news.ycombinator.com/item?id=50579568",
       "source": "Hacker News",
-      "points": 1897,
-      "comments": 874,
+      "points": 2405,
+      "comments": 1169,
       "createdAt": "2026-11-20T18:33:14",
       "matchedQueries": [
         "front page"
       ],
-      "score": 4313,
-      "intro": "这篇来自 math216.wordpress.com 的帖子主要介绍了：Hurried Announcement: Alessandro Masullo GRH相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 5585,
+      "intro": "这篇来自 github.com 的帖子主要介绍了：Leonida – PC Recompilation of the Xbox Version of GTA 6相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50574383",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "hnUrl": "https://news.ycombinator.com/item?id=50574383",
+      "id": "frontpage:hn:50589618",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50589618",
       "source": "Hacker News",
-      "points": 258,
-      "comments": 525,
-      "createdAt": "2026-11-20T13:29:59",
+      "points": 958,
+      "comments": 813,
+      "createdAt": "2026-11-21T14:36:45",
       "matchedQueries": [
-        "front page",
-        "AI",
-        "Anthropic"
+        "front page"
       ],
-      "score": 1609,
-      "intro": "这篇来自 theguardian.com 的帖子主要介绍了：Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day相关内容，聚焦front page、人工智能、Anthropic相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
+      "score": 3080,
+      "intro": "这篇来自 leanprover-community.github.io 的帖子主要介绍了：Lean verification of the Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     },
     {
-      "id": "50572503",
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "hnUrl": "https://news.ycombinator.com/item?id=50572503",
+      "id": "frontpage:hn:50583761",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "hnUrl": "https://news.ycombinator.com/item?id=50583761",
       "source": "Hacker News",
-      "points": 641,
-      "comments": 332,
-      "author": "shioyama",
-      "createdAt": "2026-11-20T10:01:41Z",
-      "storyText": "",
+      "points": 675,
+      "comments": 766,
+      "createdAt": "2026-11-20T23:18:32",
       "matchedQueries": [
-        "MCP",
-        "AI"
+        "front page"
       ],
-      "score": 1566,
-      "intro": "这篇来自 architectlabs.com 的帖子主要介绍了：Frostbite: A new CPU architecture discovered, designed and verified by AI相关内容，聚焦MCP、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
+      "score": 2629,
+      "intro": "这篇来自 news.ycombinator.com 的帖子主要介绍了：I have been unemployed for 2y. 15 years of experience, US. What to do?相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50581260",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50581260",
+      "id": "frontpage:hn:50588982",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "hnUrl": "https://news.ycombinator.com/item?id=50588982",
       "source": "Hacker News",
-      "points": 902,
-      "comments": 171,
-      "createdAt": "2026-11-20T20:12:19",
+      "points": 591,
+      "comments": 379,
+      "createdAt": "2026-11-21T13:23:14",
       "matchedQueries": [
-        "front page",
-        "AI"
+        "front page"
       ],
-      "score": 1498,
-      "intro": "这篇来自 thinkingmachines.ai 的帖子主要介绍了：Inkling 2 Mini相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
+      "score": 1614,
+      "intro": "这篇来自 science.org 的帖子主要介绍了：Detonating a pile of lead azide相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50582069",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "hnUrl": "https://news.ycombinator.com/item?id=50582069",
+      "source": "Hacker News",
+      "points": 887,
+      "comments": 203,
+      "createdAt": "2026-11-20T21:03:12",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1521,
+      "intro": "这篇来自 theguardian.com 的帖子主要介绍了：Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-11-21T07:38:02.621Z",
+    "generatedAt": "2026-11-22T07:19:52.256Z",
     "totalFetched": 205,
     "uniqueCount": 158,
     "candidates": [
@@ -1136,7 +1135,7 @@
         "methodHint": "Multimodal Concept Lens",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1180,7 +1179,7 @@
         "methodHint": "an end-to-end agentic system",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1219,7 +1218,7 @@
         "methodHint": "an Agentic AI Ecosystem",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, CS AI category, has PDF"
       },
@@ -1260,7 +1259,7 @@
         "methodHint": "CaRR",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI coding, CS AI category, has PDF"
       },
@@ -1313,9 +1312,9 @@
         "methodHint": "AutoRAGBench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 210,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+        "reason": "matched RAG, matched LLM, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.26613v1",
@@ -1359,7 +1358,7 @@
         "methodHint": "a systematic action-level analysis",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1400,9 +1399,46 @@
         "methodHint": "a framework that rates",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 214,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
+      },
+      {
+        "id": "arxiv:2611.26525v1",
+        "title": "Backtracking Agent Applications Security Incidents",
+        "url": "https://arxiv.org/abs/2611.26525v1",
+        "pdfUrl": "https://arxiv.org/pdf/2611.26525v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Yicheng Cai",
+          "Taegyu Kim",
+          "Peng Liu"
+        ],
+        "categories": [
+          "cs.CR",
+          "cs.AI",
+          "cs.SE"
+        ],
+        "createdAt": "2026-11-19T18:01:28Z",
+        "updatedAt": "2026-11-19T18:01:28Z",
+        "abstract": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function call logs are often fairly limited. However, trajectory logs are at the agent functionality abstraction layer, while the CEP candidates are function calls at the app code execution layer. Due to this semantic gap, the analyst needs to manually inspect the relevant code for each CEP candidate to infer its corresponding agent functionality. In this work, we present Origin, a backtracking tool for the analyst to submit a small number of queries to identify CEPs that existing tools cannot provide. Our approach poses two challenges: (1) define the intermediate abstraction that captures the mapping relationships between the two semantic layers; (2) determine the region-to-variable mapping for constructing the cross-layer graph defined in the intermediate abstraction. Each region is a specific group of agent functionalities. Origin addresses the challenges by (1) the cross-layer dependency graph (CLDG) that connects region-inferred functions at the semantic level to the variables in the low-level taint propagation subgraph, plus the associated query language, and (2) the region inference algorithm. Case studies on five popular agent applications across eight attack incidents show that an analyst using Origin correctly identifies all the CEPs.",
+        "pageDescription": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function call logs are often fairly limited. However, trajectory logs are at the agent functionality abstraction layer, while the CEP candidates are function calls at the app code execution layer. Due to this semantic gap, the analyst needs to manually inspect the relevant code for each CEP candidate to infer its corresponding agent functionality. In this work, we present Origin, a backtracking tool for the analyst to submit a small number of queries to identify CEPs that existing tools cannot provide. Our approach poses two challenges: (1) define the intermediate abstraction that captures the mapping relationships between the two semantic layers; (2) determine the region-to-variable mapping for constructing the cross-layer graph defined in the intermediate abstraction. Each region is a specific group of agent functionalities. Origin addresses the challenges by (1) the cross-layer dependency graph (CLDG) that connects region-inferred functions at the semantic level to the variables in the low-level taint propagation subgraph, plus the associated query language, and (2) the region inference algorithm. Case studies on five popular agent applications across eight attack incidents show that an analyst using Origin correctly identifies all the CEPs.",
+        "matchedQueries": [
+          "AI agent",
+          "cs.CR",
+          "cs.AI",
+          "cs.SE",
+          "AI"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=Backtracking%20Agent%20Applications%20Security%20Incidents",
+        "methodHint": "Origin",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 206,
+        "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
+        "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.26624v1",
@@ -1434,7 +1470,7 @@
         "methodHint": "PlayCraft",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1474,46 +1510,9 @@
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched Multimodal, matched AI safety, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2611.26525v1",
-        "title": "Backtracking Agent Applications Security Incidents",
-        "url": "https://arxiv.org/abs/2611.26525v1",
-        "pdfUrl": "https://arxiv.org/pdf/2611.26525v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Yicheng Cai",
-          "Taegyu Kim",
-          "Peng Liu"
-        ],
-        "categories": [
-          "cs.CR",
-          "cs.AI",
-          "cs.SE"
-        ],
-        "createdAt": "2026-11-19T18:01:28Z",
-        "updatedAt": "2026-11-19T18:01:28Z",
-        "abstract": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function call logs are often fairly limited. However, trajectory logs are at the agent functionality abstraction layer, while the CEP candidates are function calls at the app code execution layer. Due to this semantic gap, the analyst needs to manually inspect the relevant code for each CEP candidate to infer its corresponding agent functionality. In this work, we present Origin, a backtracking tool for the analyst to submit a small number of queries to identify CEPs that existing tools cannot provide. Our approach poses two challenges: (1) define the intermediate abstraction that captures the mapping relationships between the two semantic layers; (2) determine the region-to-variable mapping for constructing the cross-layer graph defined in the intermediate abstraction. Each region is a specific group of agent functionalities. Origin addresses the challenges by (1) the cross-layer dependency graph (CLDG) that connects region-inferred functions at the semantic level to the variables in the low-level taint propagation subgraph, plus the associated query language, and (2) the region inference algorithm. Case studies on five popular agent applications across eight attack incidents show that an analyst using Origin correctly identifies all the CEPs.",
-        "pageDescription": "Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack to identify the CEP (compromise entry point), remediate the damage, and prevent its recurrence. The main artifacts available for backtracking are trajectory logs, which record agent functionalities, and source code; app(lication)-specific function call logs are often fairly limited. However, trajectory logs are at the agent functionality abstraction layer, while the CEP candidates are function calls at the app code execution layer. Due to this semantic gap, the analyst needs to manually inspect the relevant code for each CEP candidate to infer its corresponding agent functionality. In this work, we present Origin, a backtracking tool for the analyst to submit a small number of queries to identify CEPs that existing tools cannot provide. Our approach poses two challenges: (1) define the intermediate abstraction that captures the mapping relationships between the two semantic layers; (2) determine the region-to-variable mapping for constructing the cross-layer graph defined in the intermediate abstraction. Each region is a specific group of agent functionalities. Origin addresses the challenges by (1) the cross-layer dependency graph (CLDG) that connects region-inferred functions at the semantic level to the variables in the low-level taint propagation subgraph, plus the associated query language, and (2) the region inference algorithm. Case studies on five popular agent applications across eight attack incidents show that an analyst using Origin correctly identifies all the CEPs.",
-        "matchedQueries": [
-          "AI agent",
-          "cs.CR",
-          "cs.AI",
-          "cs.SE",
-          "AI"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=Backtracking%20Agent%20Applications%20Security%20Incidents",
-        "methodHint": "Origin",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 213,
-        "intro": "这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。",
-        "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.26475v1",
@@ -1549,7 +1548,7 @@
         "methodHint": "a new adaptive stepsize",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1627,7 +1626,7 @@
         "methodHint": "Mind2Act World",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched AI agent, matched Multimodal, CS AI category, has PDF"
       },
@@ -1663,7 +1662,7 @@
         "methodHint": "SheetAlign",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 211,
+        "score": 203,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, matched AI coding, CS AI category"
       },
@@ -1702,7 +1701,7 @@
         "methodHint": "Verify the Verifier",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 207,
+        "score": 200,
         "intro": "这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。",
         "reason": "fresh paper, matched LLM, CS AI category, has PDF"
       },
@@ -1737,9 +1736,9 @@
         "methodHint": "a system for parametric",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 207,
+        "score": 199,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
+        "reason": "matched RAG, matched LLM, CS AI category, has PDF"
       }
     ],
     "recommendations": [
@@ -1777,7 +1776,7 @@
         "methodHint": "Multimodal Concept Lens",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 222,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1821,7 +1820,7 @@
         "methodHint": "an end-to-end agentic system",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI agent, CS AI category, has PDF"
       },
@@ -1860,7 +1859,7 @@
         "methodHint": "an Agentic AI Ecosystem",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI agent, CS AI category, has PDF"
       },
@@ -1901,7 +1900,7 @@
         "methodHint": "CaRR",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI coding, CS AI category, has PDF"
       },
@@ -1954,9 +1953,9 @@
         "methodHint": "AutoRAGBench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 218,
+        "score": 210,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, matched AI agent, CS AI category"
+        "reason": "matched RAG, matched LLM, matched AI agent, CS AI category, has PDF"
       }
     ]
   },
@@ -1966,23 +1965,23 @@
       "url": "https://github.com/trending",
       "status": "ok (16 parsed)",
       "found": 16,
-      "observedAt": "2026-11-21T07:37:44.971Z",
+      "observedAt": "2026-11-22T07:19:34.372Z",
       "kept": 16
     },
     {
       "name": "HN Front Page",
       "url": "https://news.ycombinator.com/",
-      "status": "ok (30 parsed)",
-      "found": 30,
-      "observedAt": "2026-11-21T07:37:47.086Z",
-      "kept": 30
+      "status": "ok (29 parsed)",
+      "found": 29,
+      "observedAt": "2026-11-22T07:19:36.479Z",
+      "kept": 29
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
       "status": "ok (50 parsed)",
       "found": 50,
-      "observedAt": "2026-11-21T07:37:48.791Z",
+      "observedAt": "2026-11-22T07:19:38.231Z",
       "kept": 50
     },
     {
@@ -1990,7 +1989,7 @@
       "url": "https://www.qbitai.com/feed",
       "status": "ok (10 parsed)",
       "found": 10,
-      "observedAt": "2026-11-21T07:37:50.547Z",
+      "observedAt": "2026-11-22T07:19:39.891Z",
       "kept": 10
     },
     {
@@ -1998,7 +1997,7 @@
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-11-21T07:37:53.603Z",
+      "observedAt": "2026-11-22T07:19:42.856Z",
       "kept": 20
     },
     {
@@ -2006,7 +2005,7 @@
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (96 parsed)",
       "found": 96,
-      "observedAt": "2026-11-21T07:37:56.425Z",
+      "observedAt": "2026-11-22T07:19:45.943Z",
       "kept": 96
     }
   ],
@@ -2014,7 +2013,7 @@
     {
       "source": "Hacker News",
       "count": 8,
-      "momentum": -0.052
+      "momentum": -0.043
     },
     {
       "source": "GitHub",
@@ -2056,8 +2055,6 @@
     "errors": [
       "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
     ],
-    "warnings": [
-      "GitHub: codex: HTTP 403"
-    ]
+    "warnings": []
   }
 }
