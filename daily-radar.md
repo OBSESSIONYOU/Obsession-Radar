@@ -1,172 +1,173 @@
 # Obsession Radar
 
-Generated: 2026-11-22T07:19:52.278Z
-Fetched: 486 links | Unique: 411 | Candidates: 30
+Generated: 2026-11-23T08:04:20.659Z
+Fetched: 415 links | Unique: 356 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Leonida – PC Recompilation of the Xbox Version of GTA 6相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 5585 | Points: 2405 | Comments: 1169
+1. [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
+   - 内容介绍：这篇来自 nango.dev 的帖子主要介绍了：What we learned operating auth for 1k APIs相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 3159 | Points: 1278 | Comments: 698
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50579568
+   - HN: https://news.ycombinator.com/item?id=50596133
 
-2. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-   - 内容介绍：这篇来自 leanprover-community.github.io 的帖子主要介绍了：Lean verification of the Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 3080 | Points: 958 | Comments: 813
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50589618
+2. [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Perplexity and Intelligence相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+   - Score: 1611 | Points: 563 | Comments: 383
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50601525
 
-3. [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：I have been unemployed for 2y. 15 years of experience, US. What to do?相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2629 | Points: 675 | Comments: 766
+3. [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Perplexity and Intelligence相关内容，聚焦OpenAI相关背景、功能和讨论点。
+   - Score: 1597 | Points: 563 | Comments: 383
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50583761
+   - HN: https://news.ycombinator.com/item?id=50601525
 
-4. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-   - 内容介绍：这篇来自 science.org 的帖子主要介绍了：Detonating a pile of lead azide相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1614 | Points: 591 | Comments: 379
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50588982
+4. [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+   - 内容介绍：这篇来自 claude.ai 的帖子主要介绍了：Progress map for the Lean formalization of Alessandro Masullo's manuscript相关内容，聚焦front page、人工智能、Anthropic、Claude相关背景、功能和讨论点。
+   - Score: 1567 | Points: 610 | Comments: 329
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50602947
 
-5. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-   - 内容介绍：这篇来自 theguardian.com 的帖子主要介绍了：Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1521 | Points: 887 | Comments: 203
+5. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+   - 内容介绍：这篇来自 audubon.org 的帖子主要介绍了：The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1130 | Points: 467 | Comments: 233
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50582069
+   - HN: https://news.ycombinator.com/item?id=50602843
 
 ## 30-Link Candidate Pool
 
-1. [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida) - 5585 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Leonida – PC Recompilation of the Xbox Version of GTA 6相关内容，聚焦front page相关背景、功能和讨论点。
-2. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) - 3080 pts
-   - 内容介绍：这篇来自 leanprover-community.github.io 的帖子主要介绍了：Lean verification of the Riemann Hypothesis相关内容，聚焦front page相关背景、功能和讨论点。
-3. [Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761) - 2629 pts
-   - 内容介绍：这篇来自 news.ycombinator.com 的帖子主要介绍了：I have been unemployed for 2y. 15 years of experience, US. What to do?相关内容，聚焦front page相关背景、功能和讨论点。
-4. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) - 1614 pts
-   - 内容介绍：这篇来自 science.org 的帖子主要介绍了：Detonating a pile of lead azide相关内容，聚焦front page相关背景、功能和讨论点。
-5. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) - 1521 pts
-   - 内容介绍：这篇来自 theguardian.com 的帖子主要介绍了：Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'相关内容，聚焦front page相关背景、功能和讨论点。
-6. [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) - 1339 pts
-   - 内容介绍：这篇来自 blog.mozilla.org 的帖子主要介绍了：Why there are still no non-WebKit browsers on iOS相关内容，聚焦front page相关背景、功能和讨论点。
-7. [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) - 1294 pts
-   - 内容介绍：这篇来自 blog.tymscar.com 的帖子主要介绍了：My monitor was cutting my download speed by 75%相关内容，聚焦front page相关背景、功能和讨论点。
-8. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) - 794 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Inkling-2-Mini in 5.4 GB Memory相关内容，聚焦front page相关背景、功能和讨论点。
-9. [obra/superpowers](https://github.com/obra/superpowers) - 637 pts
+1. [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/) - 3159 pts
+   - 内容介绍：这篇来自 nango.dev 的帖子主要介绍了：What we learned operating auth for 1k APIs相关内容，聚焦front page相关背景、功能和讨论点。
+2. [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) - 1611 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Perplexity and Intelligence相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+3. [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/) - 1597 pts
+   - 内容介绍：这篇来自 openai.com 的帖子主要介绍了：Perplexity and Intelligence相关内容，聚焦OpenAI相关背景、功能和讨论点。
+4. [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) - 1567 pts
+   - 内容介绍：这篇来自 claude.ai 的帖子主要介绍了：Progress map for the Lean formalization of Alessandro Masullo's manuscript相关内容，聚焦front page、人工智能、Anthropic、Claude相关背景、功能和讨论点。
+5. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) - 1130 pts
+   - 内容介绍：这篇来自 audubon.org 的帖子主要介绍了：The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife相关内容，聚焦front page相关背景、功能和讨论点。
+6. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) - 1010 pts
+   - 内容介绍：这篇来自 gpupartner.com 的帖子主要介绍了：A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
+7. [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/) - 840 pts
+   - 内容介绍：这篇来自 jeffgeerling.com 的帖子主要介绍了：I joined the NTP Pool, but not with my Stratum 1 Pi相关内容，聚焦front page相关背景、功能和讨论点。
+8. [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) - 720 pts
+   - 内容介绍：这篇来自 claude.ai 的帖子主要介绍了：Progress map for the Lean formalization of Alessandro Masullo's manuscript相关内容，聚焦MCP、人工智能、Anthropic、Claude相关背景、功能和讨论点。
+9. [obra/superpowers](https://github.com/obra/superpowers) - 634 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-10. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 621 pts
+10. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 619 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：firecrawl/firecrawl相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-11. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 605 pts
+11. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 602 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：cathrynlavery/diagram-design相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-12. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - 594 pts
+12. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - 599 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：mvanhorn/last30days-skill相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
-13. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - 584 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：HKUDS/CLI-Anything相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
-14. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - 582 pts
+13. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - 584 pts
    - 内容介绍：这篇来自 github.com 的帖子主要介绍了：elementalsouls/Claude-BugHunter相关内容，说明复现现象、影响范围和排查线索。
-15. [morluto/rea](https://github.com/morluto/rea) - 508 pts
+14. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - 582 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：HKUDS/CLI-Anything相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+15. [morluto/rea](https://github.com/morluto/rea) - 511 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 492 pts
+16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 493 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-17. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-18. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 481 pts
+17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 489 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-19. [langgenius/dify](https://github.com/langgenius/dify) - 474 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-20. [huggingface/transformers](https://github.com/huggingface/transformers) - 468 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-21. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 467 pts
+18. [affaan-m/ECC](https://github.com/affaan-m/ECC) - 486 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
+19. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
+20. [langgenius/dify](https://github.com/langgenius/dify) - 474 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+21. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 464 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
 22. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - 464 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-23. [Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)](https://arxiv.org/abs/2611.26553v1) - 154 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)相关内容，讨论股权安排、AI 收益分享和政策影响。
-24. [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](https://arxiv.org/abs/2611.25582v1) - 126 pts
+23. [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](https://arxiv.org/abs/2611.25582v1) - 126 pts
    - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-25. [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://huggingface.co/papers/2611.21373) - 103 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-26. [A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises](https://arxiv.org/abs/2611.24039v1) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：A Capability Framework for Evaluating Agentic AI Platforms in Regulated Enterprises相关内容，聚焦RAG、cs.AI、cs.MA、stat.ML、人工智能、大语言模型、AI Agent相关背景、功能和讨论点。
-27. [Frontier models need only one text to unmask its human or AI author](https://arxiv.org/abs/2611.26216) - 98 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Claude Fable 模型在付费订阅中的保留与容量问题，聚焦papers.cool、人工智能、提示词工程、OpenAI、Anthropic、Claude、Gemini相关背景、功能和讨论点。
-28. [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html) - 97 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿相关内容，聚焦资讯、Claude、数学、Anthropic相关背景、功能和讨论点。
-29. [Coda-DaVinci: Reimagining Video Generation with Code2Video](https://huggingface.co/papers/2611.26595) - 82 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Coda-DaVinci: Reimagining Video Generation with Code2Video相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-30. [人类数学家匆忙发布广义黎曼猜想的证明手稿](https://www.solidot.org/story?sid=85952) - 49 pts
-   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：人类数学家匆忙发布广义黎曼猜想的证明手稿相关内容，聚焦人工智能、OpenAI、Anthropic相关背景、功能和讨论点。
+24. [The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search](https://arxiv.org/abs/2611.27899v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+25. [LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT](https://arxiv.org/abs/2611.27876v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+26. [“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了](https://www.qbitai.com/2026/11/512004.html) - 97 pts
+   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了相关内容，聚焦资讯、人工智能、数学、AI Agent相关背景、功能和讨论点。
+27. [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://huggingface.co/papers/2611.27193) - 72 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction相关内容，聚焦HF daily相关背景、功能和讨论点。
+28. [Clover-35B-A3B-Preview Technical Report](https://huggingface.co/papers/2611.24636) - 61 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Clover-35B-A3B-Preview Technical Report相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。
+29. [Explicit Style Extraction for Personalized Long-Form Text Generation](https://arxiv.org/abs/2611.27211) - 56 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Explicit Style Extraction for Personalized Long-Form Text Generation相关内容，聚焦papers.cool、大语言模型、RAG、提示词工程相关背景、功能和讨论点。
+30. [GTA 6 如何在游戏中刻画电动汽车？](https://www.solidot.org/story?sid=85961) - 42 pts
+   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：GTA 6 如何在游戏中刻画电动汽车？相关内容，聚焦AI 信息雷达相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](https://arxiv.org/abs/2611.26590v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Jiahao Huang, Jun Wang
-   - Categories: cs.AI, cs.CV, cs.LG
-   - Score: 214 | Why: fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2611.26590v1
-   - PDF: https://arxiv.org/pdf/2611.26590v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Probing%20the%20%22Conscious%22%20Mind%3A%20Selective%20Access%20and%20Global%20Workspace%20in%20Vision-Language%20Models
+1. [TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?](https://arxiv.org/abs/2611.27895v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
+   - Authors: Marcio Andre de Souza Estevam
+   - Categories: cs.SE, cs.AI, cs.CL
+   - Score: 211 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.27895v1
+   - PDF: https://arxiv.org/pdf/2611.27895v1
+   - Google Scholar: https://scholar.google.com/scholar?q=TEA-Bench-BR%3A%20Can%20Coding%20Agents%20Turn%20a%20Branching%20Clinical%20Specification%20into%20Correct%20Code%3F
 
-2. [Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models](https://arxiv.org/abs/2611.26531v1)
+2. [RoSci: Exploring Robustness in Science VLMs](https://arxiv.org/abs/2611.27750v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Chang Yang, Yao Xuan, Wendan Yan, Nhat Le, Jiang Liu, Longhao Jin, Zhen Peggy Yao, Alireza Vahdatpour, Djordje Gligorijevic
-   - Categories: cs.IR, cs.AI, cs.LG
-   - Score: 212 | Why: fresh paper, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.26531v1
-   - PDF: https://arxiv.org/pdf/2611.26531v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Cost-Aware%20Agentic%20Feature%20Optimization%20System%20for%20Fleet-Scale%20Ranking%20Models
+   - Authors: Junying Wang, Yijin Guo, Yalun Wu, Ziheng Jiao, Farong Wen, Qihang Yan, Wenzhe Li, Ye Shen, Qi Jia, Chunyi Li, Zicheng Zhang, Guangtao Zhai
+   - Categories: cs.CL, cs.AI, cs.CV
+   - Score: 210 | Why: fresh paper, matched LLM, matched AI agent, matched Multimodal, CS AI category
+   - arXiv: https://arxiv.org/abs/2611.27750v1
+   - PDF: https://arxiv.org/pdf/2611.27750v1
+   - Google Scholar: https://scholar.google.com/scholar?q=RoSci%3A%20Exploring%20Robustness%20in%20Science%20VLMs
 
-3. [Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem](https://arxiv.org/abs/2611.26398v1)
+3. [Explicit Style Extraction for Personalized Long-Form Text Generation](https://arxiv.org/abs/2611.27211v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Oriol Alàs, Ian Palacín, Iván Cester, Edgar Rubión
-   - Categories: cs.IR, cs.AI, cs.CL
-   - Score: 212 | Why: fresh paper, matched RAG, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.26398v1
-   - PDF: https://arxiv.org/pdf/2611.26398v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Democratizing%20Cross-Project%20Knowledge%20for%20Transforming%20Water%20Governance%20and%20Climate%20Resilience%3A%20an%20Agentic%20AI%20Ecosystem
-
-4. [Closing Performance Gap for Diffusion Language Models under Low Inference Budgets](https://arxiv.org/abs/2611.25763v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Hao Wu, Sipeng Chen, Jingwen Fu, Yuwang Wang
-   - Categories: cs.CL, cs.AI, cs.LG, stat.ML
-   - Score: 211 | Why: fresh paper, matched LLM, matched AI coding, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.25763v1
-   - PDF: https://arxiv.org/pdf/2611.25763v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Closing%20Performance%20Gap%20for%20Diffusion%20Language%20Models%20under%20Low%20Inference%20Budgets
-
-5. [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](https://arxiv.org/abs/2611.25582v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Hang Zhang, Yuzhi Pan, Ziyao Zhong, Chaokun Wang, Shuo Cao, Zeyu Huang, Yue Xue, Fang Niu, Bofan Xie, Guanchen Ge, Zecheng Li, Leqi Zheng, Ziyang Liu, Wei Wang, Miao Gu
+   - Authors: Jenitha Reddy Patel, Sameeksha Kini, Amulya Rayasam, Anisa Dye, Abhinav Sharma, Sai Karthik Navuluru, Bo Ni, Li Li, Junda Wu, Tong Yu, Nedim Lipka, Xiaolei Huang, Tyler Derr, Yue Zhao, Zhengzhong Tu, Yu Wang, Hongjie Chen, Thien Huu Nguyen, Nesreen K. Ahmed, Franck Dernoncourt, Ryan A. Rossi
    - Categories: cs.CL, cs.AI, cs.IR
-   - Score: 210 | Why: matched RAG, matched LLM, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2611.25582v1
-   - PDF: https://arxiv.org/pdf/2611.25582v1
-   - Google Scholar: https://scholar.google.com/scholar?q=AutoRAGBench%3A%20A%20Benchmark%20for%20LLM%20Agents%20Automating%20RAG%20System%20Development
+   - Score: 210 | Why: matched RAG, matched LLM, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.27211v1
+   - PDF: https://arxiv.org/pdf/2611.27211v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Explicit%20Style%20Extraction%20for%20Personalized%20Long-Form%20Text%20Generation
+
+4. [Model Carving: Training Transformers That Optimize Their Own Topology](https://arxiv.org/abs/2611.27962v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Kaden Zheng, Pratyusha Sharma
+   - Categories: cs.LG, cs.AI
+   - Score: 206 | Why: fresh paper, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.27962v1
+   - PDF: https://arxiv.org/pdf/2611.27962v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Model%20Carving%3A%20Training%20Transformers%20That%20Optimize%20Their%20Own%20Topology
+
+5. [SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement](https://arxiv.org/abs/2611.27919v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Huaze Tang, Runqing Miao, Tianren Peng, Lam Nguyen, Chao Wang, Jairong Li, Wenbo Ding
+   - Categories: cs.LG, cs.AI
+   - Score: 205 | Why: fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.27919v1
+   - PDF: https://arxiv.org/pdf/2611.27919v1
+   - Google Scholar: https://scholar.google.com/scholar?q=SUAF%3A%20Spectral%20Universal%20Advantage%20Features%20for%20Zero-Shot%20Policy%20Improvement
 
 
 ## 网页源覆盖
 
 - GitHub Trending: ok (16 parsed)（16 条）
 - HN Front Page: ok (29 parsed)（29 条）
-- HF Daily Papers: ok (50 parsed)（50 条）
+- HF Daily Papers: ok (14 parsed)（14 条）
 - QbitAI: ok (10 parsed)（10 条）
 - Solidot: ok (20 parsed)（20 条）
-- papers.cool: ok (96 parsed)（96 条）
+- papers.cool: ok (91 parsed)（91 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · ↓ -0.043
+- Hacker News：8 席 · ↑ +0.033
 - GitHub：8 席 · → 持平
 - GitHub Trending：6 席 · → 持平
 - arXiv：3 席 · → 持平
 - HF Papers：2 席 · → 持平
-- papers.cool：1 席 · → 持平
 - QbitAI：1 席 · → 持平
-- Solidot：1 席 · 新增来源
+- papers.cool：1 席 · → 持平
+- Solidot：1 席 · → 持平
 
 
 ## 执行告警
 
 - 源失败: Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429
+- 查询告警: GitHub: generative-ai: HTTP 403; GitHub: llm: HTTP 403; GitHub: rag: HTTP 403; GitHub: codex: HTTP 403

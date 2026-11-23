@@ -1,89 +1,8 @@
 {
-  "generatedAt": "2026-11-22T07:19:52.475Z",
+  "generatedAt": "2026-11-23T08:04:20.824Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-23",
-      "generatedAt": "2026-10-23T05:16:03.552Z",
-      "totalFetched": 258,
-      "uniqueCount": 191,
-      "recommendations": [
-        {
-          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
-          "source": "Semantic Scholar",
-          "score": 36752,
-          "points": 24737
-        },
-        {
-          "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5",
-          "source": "Semantic Scholar",
-          "score": 30223,
-          "points": 23175
-        },
-        {
-          "title": "Evaluating Large Language Models Trained on Code",
-          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
-          "source": "Semantic Scholar",
-          "score": 18679,
-          "points": 12332
-        },
-        {
-          "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
-          "source": "Semantic Scholar",
-          "score": 13555,
-          "points": 9597
-        },
-        {
-          "title": "Large Language Models are Zero-Shot Reasoners",
-          "url": "https://www.semanticscholar.org/paper/e7ad08848d5d7c5c47673ffe0da06af443643bda",
-          "source": "Semantic Scholar",
-          "score": 10870,
-          "points": 8318
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "LoRA: Low-Rank Adaptation of Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/a8ca46b171467ceb2d7652fbfb67fe701ad86092",
-          "source": "Semantic Scholar",
-          "score": 185
-        },
-        {
-          "title": "Evaluating Large Language Models Trained on Code",
-          "url": "https://www.semanticscholar.org/paper/acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
-          "source": "Semantic Scholar",
-          "score": 175
-        },
-        {
-          "title": "Large language models encode clinical knowledge",
-          "url": "https://www.semanticscholar.org/paper/6052486bc9144dc1730c12bf35323af3792a1fd0",
-          "source": "Semantic Scholar",
-          "score": 169
-        },
-        {
-          "title": "Training Compute-Optimal Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/8342b592fe238f3d230e4959b06fd10153c45db1",
-          "source": "Semantic Scholar",
-          "score": 169
-        },
-        {
-          "title": "A Survey of Large Language Models",
-          "url": "https://www.semanticscholar.org/paper/36709000a9272e941338244ef80ff5ab1dd2bba1",
-          "source": "Semantic Scholar",
-          "score": 168
-        }
-      ],
-      "sourceMix": {
-        "Semantic Scholar": 8,
-        "Hacker News": 10,
-        "GitHub": 12
-      },
-      "coverage": []
-    },
     {
       "date": "2026-10-24",
       "generatedAt": "2026-10-24T14:11:33.439Z",
@@ -3453,6 +3372,123 @@
           "name": "HN Front Page",
           "status": "ok (30 parsed)",
           "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (50 parsed)",
+          "found": 50
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (96 parsed)",
+          "found": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "generatedAt": "2026-11-22T07:19:52.278Z",
+      "totalFetched": 486,
+      "uniqueCount": 411,
+      "recommendations": [
+        {
+          "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+          "url": "https://github.com/ItsNotRexed/Leonida",
+          "source": "Hacker News",
+          "score": 5585,
+          "points": 2405
+        },
+        {
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "source": "Hacker News",
+          "score": 3080,
+          "points": 958
+        },
+        {
+          "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+          "url": "https://news.ycombinator.com/item?id=50583761",
+          "source": "Hacker News",
+          "score": 2629,
+          "points": 675
+        },
+        {
+          "title": "Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News",
+          "score": 1614,
+          "points": 591
+        },
+        {
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+          "source": "Hacker News",
+          "score": 1521,
+          "points": 887
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.26590v1",
+          "source": "arXiv",
+          "score": 214
+        },
+        {
+          "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+          "url": "https://arxiv.org/abs/2611.26531v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Democratizing Cross-Project Knowledge for Transforming Water Governance and Climate Resilience: an Agentic AI Ecosystem",
+          "url": "https://arxiv.org/abs/2611.26398v1",
+          "source": "arXiv",
+          "score": 212
+        },
+        {
+          "title": "Closing Performance Gap for Diffusion Language Models under Low Inference Budgets",
+          "url": "https://arxiv.org/abs/2611.25763v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development",
+          "url": "https://arxiv.org/abs/2611.25582v1",
+          "source": "arXiv",
+          "score": 210
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "QbitAI": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
         },
         {
           "name": "HF Daily Papers",
