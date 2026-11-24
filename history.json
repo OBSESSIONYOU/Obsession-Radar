@@ -1,125 +1,8 @@
 {
-  "generatedAt": "2026-11-23T08:04:20.824Z",
+  "generatedAt": "2026-11-24T10:19:38.871Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-24",
-      "generatedAt": "2026-10-24T14:11:33.439Z",
-      "totalFetched": 511,
-      "uniqueCount": 436,
-      "recommendations": [
-        {
-          "title": "Today, we hacked what we'd set out to hack: the iPhone",
-          "url": "https://blog.calif.io/p/iphone",
-          "source": "Hacker News",
-          "score": 2608,
-          "points": 964
-        },
-        {
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News",
-          "score": 2553,
-          "points": 977
-        },
-        {
-          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-          "url": "https://edjefferson.com/localwiki/",
-          "source": "Hacker News",
-          "score": 2239,
-          "points": 1438
-        },
-        {
-          "title": "Apple Music 404 Not Found",
-          "url": "https://music.apple.com/this-url-doesnt-exist",
-          "source": "Hacker News",
-          "score": 1549,
-          "points": 821
-        },
-        {
-          "title": "Canadians are running out of time to oppose Bill C-22",
-          "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-          "source": "Hacker News",
-          "score": 1104,
-          "points": 453
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-          "url": "https://arxiv.org/abs/2610.31657v1",
-          "source": "arXiv",
-          "score": 219
-        },
-        {
-          "title": "MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models",
-          "url": "https://arxiv.org/abs/2610.31478v1",
-          "source": "arXiv",
-          "score": 219
-        },
-        {
-          "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
-          "url": "https://arxiv.org/abs/2610.31586v1",
-          "source": "arXiv",
-          "score": 217
-        },
-        {
-          "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-          "url": "https://arxiv.org/abs/2610.31670v1",
-          "source": "arXiv",
-          "score": 211
-        },
-        {
-          "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-          "url": "https://arxiv.org/abs/2610.31656v1",
-          "source": "arXiv",
-          "score": 211
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 8,
-        "GitHub Trending": 6,
-        "GitHub": 8,
-        "HF Papers": 2,
-        "arXiv": 3,
-        "QbitAI": 1,
-        "papers.cool": 1,
-        "Solidot": 1
-      },
-      "coverage": [
-        {
-          "name": "GitHub Trending",
-          "status": "ok (10 parsed)",
-          "found": 10
-        },
-        {
-          "name": "HN Front Page",
-          "status": "ok (30 parsed)",
-          "found": 30
-        },
-        {
-          "name": "HF Daily Papers",
-          "status": "ok (50 parsed)",
-          "found": 50
-        },
-        {
-          "name": "QbitAI",
-          "status": "ok (10 parsed)",
-          "found": 10
-        },
-        {
-          "name": "Solidot",
-          "status": "ok (20 parsed)",
-          "found": 20
-        },
-        {
-          "name": "papers.cool",
-          "status": "ok (117 parsed)",
-          "found": 117
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "generatedAt": "2026-10-25T05:09:10.691Z",
@@ -3509,6 +3392,123 @@
           "name": "papers.cool",
           "status": "ok (96 parsed)",
           "found": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "generatedAt": "2026-11-23T08:04:20.659Z",
+      "totalFetched": 415,
+      "uniqueCount": 356,
+      "recommendations": [
+        {
+          "title": "What we learned operating auth for 1k APIs",
+          "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+          "source": "Hacker News",
+          "score": 3159,
+          "points": 1278
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "Hacker News",
+          "score": 1611,
+          "points": 563
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "Hacker News",
+          "score": 1597,
+          "points": 563
+        },
+        {
+          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "Hacker News",
+          "score": 1567,
+          "points": 610
+        },
+        {
+          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+          "source": "Hacker News",
+          "score": 1130,
+          "points": 467
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?",
+          "url": "https://arxiv.org/abs/2611.27895v1",
+          "source": "arXiv",
+          "score": 211
+        },
+        {
+          "title": "RoSci: Exploring Robustness in Science VLMs",
+          "url": "https://arxiv.org/abs/2611.27750v1",
+          "source": "arXiv",
+          "score": 210
+        },
+        {
+          "title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
+          "url": "https://arxiv.org/abs/2611.27211v1",
+          "source": "arXiv",
+          "score": 210
+        },
+        {
+          "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+          "url": "https://arxiv.org/abs/2611.27962v1",
+          "source": "arXiv",
+          "score": 206
+        },
+        {
+          "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+          "url": "https://arxiv.org/abs/2611.27919v1",
+          "source": "arXiv",
+          "score": 205
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (29 parsed)",
+          "found": 29
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (14 parsed)",
+          "found": 14
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (91 parsed)",
+          "found": 91
         }
       ]
     }
