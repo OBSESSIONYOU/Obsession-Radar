@@ -1,125 +1,8 @@
 {
-  "generatedAt": "2026-11-25T09:00:43.879Z",
+  "generatedAt": "2026-11-26T08:48:46.677Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-26",
-      "generatedAt": "2026-10-26T05:11:17.297Z",
-      "totalFetched": 445,
-      "uniqueCount": 374,
-      "recommendations": [
-        {
-          "title": "We should be more ambitious with the software we build",
-          "url": "https://danluu.com/ambitious/",
-          "source": "Hacker News",
-          "score": 2576,
-          "points": 769
-        },
-        {
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News",
-          "score": 1164,
-          "points": 497
-        },
-        {
-          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "url": "https://lynchlab.net/llm-skin-cancer",
-          "source": "Hacker News",
-          "score": 1150,
-          "points": 497
-        },
-        {
-          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-          "url": "https://talkweb.eu/openweb/4558/",
-          "source": "Hacker News",
-          "score": 1029,
-          "points": 431
-        },
-        {
-          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-          "url": "https://minimaxir.com/2026/10/cheap-llms/",
-          "source": "Hacker News",
-          "score": 945,
-          "points": 222
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
-          "url": "https://arxiv.org/abs/2610.32866v1",
-          "source": "arXiv",
-          "score": 214
-        },
-        {
-          "title": "Every Edge Needs a Quote: Building a Quote-Grounded Knowledge Graph of Healthcare Software Adoption with Language-Model Agents",
-          "url": "https://arxiv.org/abs/2610.32781v1",
-          "source": "arXiv",
-          "score": 213
-        },
-        {
-          "title": "On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models",
-          "url": "https://arxiv.org/abs/2610.32770v1",
-          "source": "arXiv",
-          "score": 211
-        },
-        {
-          "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
-          "url": "https://arxiv.org/abs/2610.32332v1",
-          "source": "arXiv",
-          "score": 209
-        },
-        {
-          "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance",
-          "url": "https://arxiv.org/abs/2610.31863v1",
-          "source": "arXiv",
-          "score": 207
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 8,
-        "GitHub Trending": 6,
-        "GitHub": 8,
-        "arXiv": 3,
-        "QbitAI": 1,
-        "papers.cool": 1,
-        "HF Papers": 2,
-        "Solidot": 1
-      },
-      "coverage": [
-        {
-          "name": "GitHub Trending",
-          "status": "ok (11 parsed)",
-          "found": 11
-        },
-        {
-          "name": "HN Front Page",
-          "status": "ok (30 parsed)",
-          "found": 30
-        },
-        {
-          "name": "HF Daily Papers",
-          "status": "ok (13 parsed)",
-          "found": 13
-        },
-        {
-          "name": "QbitAI",
-          "status": "ok (10 parsed)",
-          "found": 10
-        },
-        {
-          "name": "Solidot",
-          "status": "ok (20 parsed)",
-          "found": 20
-        },
-        {
-          "name": "papers.cool",
-          "status": "ok (106 parsed)",
-          "found": 106
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "generatedAt": "2026-10-27T05:28:19.803Z",
@@ -3509,6 +3392,123 @@
           "name": "papers.cool",
           "status": "ok (204 parsed)",
           "found": 204
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "generatedAt": "2026-11-25T09:00:43.675Z",
+      "totalFetched": 417,
+      "uniqueCount": 343,
+      "recommendations": [
+        {
+          "title": "GTA 6 Running on Windows",
+          "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+          "source": "Hacker News",
+          "score": 1578,
+          "points": 383
+        },
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "source": "Hacker News",
+          "score": 1407,
+          "points": 579
+        },
+        {
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+          "source": "Hacker News",
+          "score": 1394,
+          "points": 580
+        },
+        {
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "source": "Hacker News",
+          "score": 867,
+          "points": 438
+        },
+        {
+          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "Hacker News",
+          "score": 845,
+          "points": 266
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "OmniAct: One Policy, One Million Embodiments",
+          "url": "https://arxiv.org/abs/2611.33158v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+          "url": "https://arxiv.org/abs/2611.33036v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Efficient Video Retrieval Augmented Generation via Token Allocation",
+          "url": "https://arxiv.org/abs/2611.32938v1",
+          "source": "arXiv",
+          "score": 226
+        },
+        {
+          "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+          "url": "https://arxiv.org/abs/2611.33151v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance",
+          "url": "https://arxiv.org/abs/2611.33098v1",
+          "source": "arXiv",
+          "score": 221
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 6,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "Semantic Scholar": 3,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "HF Papers": 2,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (39 parsed)",
+          "found": 39
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "unreachable: fetch failed",
+          "found": 0
         }
       ]
     }
