@@ -1,125 +1,8 @@
 {
-  "generatedAt": "2026-11-26T08:48:46.677Z",
+  "generatedAt": "2026-11-27T08:58:44.064Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-27",
-      "generatedAt": "2026-10-27T05:28:19.803Z",
-      "totalFetched": 623,
-      "uniqueCount": 539,
-      "recommendations": [
-        {
-          "title": "Anthropic S-1",
-          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-          "source": "Hacker News",
-          "score": 5405,
-          "points": 1544
-        },
-        {
-          "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-          "source": "Hacker News",
-          "score": 2911,
-          "points": 855
-        },
-        {
-          "title": "Three new discoveries in mathematics, computer science, and physics",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-          "source": "Hacker News",
-          "score": 1560,
-          "points": 683
-        },
-        {
-          "title": "Three new discoveries in mathematics, computer science, and physics",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-          "source": "Hacker News",
-          "score": 1546,
-          "points": 683
-        },
-        {
-          "title": "GPT-6.1 Terra",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-          "source": "Hacker News",
-          "score": 1533,
-          "points": 559
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
-          "url": "https://arxiv.org/abs/2610.35817v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
-          "url": "https://arxiv.org/abs/2610.35804v1",
-          "source": "arXiv",
-          "score": 229
-        },
-        {
-          "title": "Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives",
-          "url": "https://arxiv.org/abs/2610.35240v1",
-          "source": "arXiv",
-          "score": 223
-        },
-        {
-          "title": "Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents",
-          "url": "https://arxiv.org/abs/2610.35767v1",
-          "source": "arXiv",
-          "score": 221
-        },
-        {
-          "title": "ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps",
-          "url": "https://arxiv.org/abs/2610.35606v1",
-          "source": "arXiv",
-          "score": 221
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 8,
-        "GitHub Trending": 6,
-        "GitHub": 8,
-        "arXiv": 3,
-        "HF Papers": 2,
-        "papers.cool": 1,
-        "QbitAI": 1,
-        "Solidot": 1
-      },
-      "coverage": [
-        {
-          "name": "GitHub Trending",
-          "status": "ok (14 parsed)",
-          "found": 14
-        },
-        {
-          "name": "HN Front Page",
-          "status": "ok (30 parsed)",
-          "found": 30
-        },
-        {
-          "name": "HF Daily Papers",
-          "status": "ok (24 parsed)",
-          "found": 24
-        },
-        {
-          "name": "QbitAI",
-          "status": "ok (10 parsed)",
-          "found": 10
-        },
-        {
-          "name": "Solidot",
-          "status": "ok (13 parsed)",
-          "found": 13
-        },
-        {
-          "name": "papers.cool",
-          "status": "ok (232 parsed)",
-          "found": 232
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "generatedAt": "2026-10-28T06:10:06.098Z",
@@ -3509,6 +3392,122 @@
           "name": "papers.cool",
           "status": "unreachable: fetch failed",
           "found": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "generatedAt": "2026-11-26T08:48:46.465Z",
+      "totalFetched": 429,
+      "uniqueCount": 385,
+      "recommendations": [
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "source": "Hacker News",
+          "score": 4717,
+          "points": 1446
+        },
+        {
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "source": "Hacker News",
+          "score": 3048,
+          "points": 1392
+        },
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "source": "Hacker News",
+          "score": 1193,
+          "points": 359
+        },
+        {
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "source": "Hacker News",
+          "score": 1090,
+          "points": 438
+        },
+        {
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+          "source": "Hacker News",
+          "score": 692,
+          "points": 362
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+          "url": "https://arxiv.org/abs/2611.34899v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+          "url": "https://arxiv.org/abs/2611.34813v1",
+          "source": "arXiv",
+          "score": 229
+        },
+        {
+          "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL",
+          "url": "https://arxiv.org/abs/2611.34777v1",
+          "source": "arXiv",
+          "score": 228
+        },
+        {
+          "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+          "url": "https://arxiv.org/abs/2611.34928v1",
+          "source": "arXiv",
+          "score": 227
+        },
+        {
+          "title": "Can image generation help visual reasoning? An empirical study",
+          "url": "https://arxiv.org/abs/2611.34935v1",
+          "source": "arXiv",
+          "score": 224
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 9,
+        "GitHub Trending": 13,
+        "arXiv": 3,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "HF Papers": 2,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (38 parsed)",
+          "found": 38
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (116 parsed)",
+          "found": 116
         }
       ]
     }
