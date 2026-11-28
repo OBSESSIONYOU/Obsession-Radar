@@ -1,143 +1,104 @@
 window.AGENTS_RADAR_LITE = {
-  "generatedAt": "2026-11-27T08:58:43.886Z",
-  "totalFetched": 487,
-  "uniqueCount": 404,
+  "generatedAt": "2026-11-28T08:19:41.240Z",
+  "totalFetched": 497,
+  "uniqueCount": 424,
   "candidates": [
     {
-      "id": "frontpage:hn:50644817",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "hnUrl": "https://news.ycombinator.com/item?id=50644817",
+      "id": "frontpage:hn:50670757",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50670757",
       "source": "Hacker News",
-      "points": 1661,
-      "comments": 712,
-      "createdAt": "2026-11-25T17:18:26",
+      "points": 502,
+      "comments": 311,
+      "createdAt": "2026-11-27T19:31:01",
       "matchedQueries": [
         "front page"
       ],
-      "score": 3633,
-      "intro": "这篇来自 1password.com 的帖子主要介绍了：1Password Security Incident相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1358,
+      "intro": "这篇来自 neuralnetworksanddeeplearning.com 的帖子主要介绍了：Michael Nielsen took down his book on neural nets相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50660180",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "hnUrl": "https://news.ycombinator.com/item?id=50660180",
+      "id": "frontpage:hn:50668145",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "hnUrl": "https://news.ycombinator.com/item?id=50668145",
       "source": "Hacker News",
-      "points": 638,
-      "comments": 328,
-      "createdAt": "2026-11-26T21:47:45",
+      "points": 507,
+      "comments": 264,
+      "createdAt": "2026-11-27T15:40:31",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1244,
+      "intro": "这篇来自 infohawk.com 的帖子主要介绍了：Credit card skimming scripts using WebRTC found on popular shopping sites相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50643158",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "hnUrl": "https://news.ycombinator.com/item?id=50643158",
+      "source": "Hacker News",
+      "points": 428,
+      "comments": 268,
+      "createdAt": "2026-11-25T15:16:53",
       "matchedQueries": [
         "front page",
-        "AI"
+        "OpenAI"
       ],
-      "score": 1572,
-      "intro": "这篇来自 janlukas.blog 的帖子主要介绍了：AI made self-hosting fun again相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "score": 1163,
+      "intro": "这篇来自 generativehistory.substack.com 的帖子主要介绍了：GPT 6.2 Astra Solves a Historical Mystery相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50657530",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "hnUrl": "https://news.ycombinator.com/item?id=50657530",
+      "id": "frontpage:hn:50670855",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "hnUrl": "https://news.ycombinator.com/item?id=50670855",
       "source": "Hacker News",
-      "points": 382,
-      "comments": 449,
-      "createdAt": "2026-11-26T17:36:47",
+      "points": 369,
+      "comments": 217,
+      "createdAt": "2026-11-27T19:42:25",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1546,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 980,
+      "intro": "这篇来自 oag.state.va.us 的帖子主要介绍了：States sue SpaceX to stop Grok from generating child sex images, revenge porn相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50653667",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "hnUrl": "https://news.ycombinator.com/item?id=50653667",
+      "id": "frontpage:hn:50672565",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50672565",
       "source": "Hacker News",
-      "points": 517,
-      "comments": 250,
-      "createdAt": "2026-11-26T10:11:01",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1211,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：Intel One Mono font (2023)相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50655664",
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "hnUrl": "https://news.ycombinator.com/item?id=50655664",
-      "source": "Hacker News",
-      "points": 692,
-      "comments": 145,
-      "createdAt": "2026-11-26T14:26:54",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1168,
-      "intro": "这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: Happy Thanksgiving相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "50653477",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50653477",
-      "source": "Hacker News",
-      "points": 323,
-      "comments": 289,
-      "author": "ritzaco",
-      "createdAt": "2026-11-26T09:44:23Z",
-      "storyText": "",
-      "matchedQueries": [
-        "AI agents",
-        "AI",
-        "AI agent",
-        "MCP"
-      ],
-      "score": 1122,
-      "intro": "这篇来自 techstackups.com 的帖子主要介绍了：Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email相关内容，聚焦AI agents、人工智能、AI Agent、MCP相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion, matched multiple AI queries"
-    },
-    {
-      "id": "frontpage:hn:50653477",
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50653477",
-      "source": "Hacker News",
-      "points": 323,
-      "comments": 289,
-      "createdAt": "2026-11-26T09:44:23",
+      "points": 343,
+      "comments": 134,
+      "createdAt": "2026-11-27T23:06:29",
       "matchedQueries": [
         "front page",
-        "AI",
-        "AI agent",
-        "MCP"
+        "machine learning"
       ],
-      "score": 1122,
-      "intro": "这篇来自 techstackups.com 的帖子主要介绍了：Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email相关内容，聚焦front page、人工智能、AI Agent、MCP相关背景、功能和讨论点。",
+      "score": 771,
+      "intro": "这篇来自 research.google 的帖子主要介绍了：Google's DeepCrossAttention achieves comparable model quality up to 3x faster相关内容，聚焦front page、机器学习相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50654289",
-      "title": "Nextcloud Office Desktop app",
-      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "hnUrl": "https://news.ycombinator.com/item?id=50654289",
+      "id": "frontpage:hn:50667726",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50667726",
       "source": "Hacker News",
-      "points": 431,
-      "comments": 221,
-      "createdAt": "2026-11-26T11:50:49",
+      "points": 367,
+      "comments": 124,
+      "createdAt": "2026-11-27T15:01:50",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1045,
-      "intro": "这篇来自 nextcloud.com 的帖子主要介绍了：Nextcloud Office Desktop app相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 746,
+      "intro": "这篇来自 bouncemarket.minhanhday.com 的帖子主要介绍了：bouncemarket – a live prediction market game for a bouncing ball相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
@@ -145,20 +106,20 @@ window.AGENTS_RADAR_LITE = {
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "points": 327799,
-      "comments": 29087,
-      "stars": 327799,
-      "forks": 29087,
-      "starsToday": 854,
+      "points": 328557,
+      "comments": 29203,
+      "stars": 328557,
+      "forks": 29203,
+      "starsToday": 922,
       "language": "Shell",
-      "createdAt": "2026-11-27T08:58:26.766Z",
+      "createdAt": "2026-11-28T08:19:25.419Z",
       "pageDescription": "An agentic skills framework & software development methodology that works.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 637,
+      "score": 639,
       "intro": "这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -167,20 +128,20 @@ window.AGENTS_RADAR_LITE = {
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "source": "GitHub Trending",
-      "points": 211210,
-      "comments": 11073,
-      "stars": 211210,
-      "forks": 11073,
-      "starsToday": 1046,
+      "points": 211870,
+      "comments": 11155,
+      "stars": 211870,
+      "forks": 11155,
+      "starsToday": 822,
       "language": "TypeScript",
-      "createdAt": "2026-11-27T08:58:26.767Z",
+      "createdAt": "2026-11-28T08:19:25.420Z",
       "pageDescription": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "AI agent"
       ],
-      "score": 623,
+      "score": 617,
       "intro": "这篇来自 github.com 的帖子主要介绍了：firecrawl/firecrawl相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -189,13 +150,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "GitHub Trending",
-      "points": 74135,
-      "comments": 4966,
-      "stars": 74135,
-      "forks": 4966,
-      "starsToday": 955,
+      "points": 74597,
+      "comments": 5039,
+      "stars": 74597,
+      "forks": 5039,
+      "starsToday": 725,
       "language": "HTML",
-      "createdAt": "2026-11-27T08:58:26.767Z",
+      "createdAt": "2026-11-28T08:19:25.420Z",
       "pageDescription": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "githubTopics": [],
       "matchedQueries": [
@@ -204,7 +165,7 @@ window.AGENTS_RADAR_LITE = {
         "Claude",
         "Codex"
       ],
-      "score": 620,
+      "score": 613,
       "intro": "这篇来自 github.com 的帖子主要介绍了：cathrynlavery/diagram-design相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -213,13 +174,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending",
-      "points": 76012,
-      "comments": 6714,
-      "stars": 76012,
-      "forks": 6714,
-      "starsToday": 759,
+      "points": 76503,
+      "comments": 6807,
+      "stars": 76503,
+      "forks": 6807,
+      "starsToday": 675,
       "language": "Python",
-      "createdAt": "2026-11-27T08:58:26.767Z",
+      "createdAt": "2026-11-28T08:19:25.420Z",
       "pageDescription": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "githubTopics": [],
       "matchedQueries": [
@@ -227,7 +188,7 @@ window.AGENTS_RADAR_LITE = {
         "AI",
         "AI agent"
       ],
-      "score": 603,
+      "score": 601,
       "intro": "这篇来自 github.com 的帖子主要介绍了：mvanhorn/last30days-skill相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -236,13 +197,13 @@ window.AGENTS_RADAR_LITE = {
       "title": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "source": "GitHub Trending",
-      "points": 25158,
-      "comments": 2559,
-      "stars": 25158,
-      "forks": 2559,
-      "starsToday": 1597,
+      "points": 26497,
+      "comments": 2709,
+      "stars": 26497,
+      "forks": 2709,
+      "starsToday": 1608,
       "language": "Python",
-      "createdAt": "2026-11-27T08:58:26.766Z",
+      "createdAt": "2026-11-28T08:19:25.419Z",
       "pageDescription": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "githubTopics": [],
       "matchedQueries": [
@@ -250,7 +211,7 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Claude"
       ],
-      "score": 591,
+      "score": 592,
       "intro": "这篇来自 github.com 的帖子主要介绍了：elementalsouls/Claude-BugHunter相关内容，说明复现现象、影响范围和排查线索。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -259,20 +220,20 @@ window.AGENTS_RADAR_LITE = {
       "title": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending",
-      "points": 71941,
-      "comments": 9354,
-      "stars": 71941,
-      "forks": 9354,
-      "starsToday": 702,
+      "points": 72346,
+      "comments": 9462,
+      "stars": 72346,
+      "forks": 9462,
+      "starsToday": 660,
       "language": "Python",
-      "createdAt": "2026-11-27T08:58:26.767Z",
+      "createdAt": "2026-11-28T08:19:25.420Z",
       "pageDescription": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "githubTopics": [],
       "matchedQueries": [
         "trending",
         "LLM"
       ],
-      "score": 590,
+      "score": 588,
       "intro": "这篇来自 github.com 的帖子主要介绍了：jingyaogong/minimind相关内容，聚焦trending、大语言模型相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries, fresh today"
     },
@@ -281,12 +242,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "source": "GitHub",
-      "points": 480316,
-      "comments": 1132,
-      "stars": 480316,
-      "forks": 116710,
-      "openIssues": 1132,
-      "createdAt": "2026-11-27T08:53:50Z",
+      "points": 481461,
+      "comments": 1090,
+      "stars": 481461,
+      "forks": 116914,
+      "openIssues": 1090,
+      "createdAt": "2026-11-28T08:18:30Z",
       "pageDescription": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "githubTopics": [
         "agent-skills",
@@ -337,7 +298,7 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Claude"
       ],
-      "score": 511,
+      "score": 512,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -346,12 +307,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub",
-      "points": 266493,
-      "comments": 54708,
-      "stars": 266493,
-      "forks": 60468,
-      "openIssues": 54708,
-      "createdAt": "2026-11-27T08:54:34Z",
+      "points": 266643,
+      "comments": 54940,
+      "stars": 266643,
+      "forks": 60530,
+      "openIssues": 54940,
+      "createdAt": "2026-11-28T08:18:02Z",
       "pageDescription": "The agent that grows with you",
       "githubTopics": [
         "ai",
@@ -399,12 +360,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "source": "GitHub",
-      "points": 212376,
-      "comments": 1307,
-      "stars": 212376,
-      "forks": 61688,
-      "openIssues": 1307,
-      "createdAt": "2026-11-27T08:57:51Z",
+      "points": 212355,
+      "comments": 1298,
+      "stars": 212355,
+      "forks": 61691,
+      "openIssues": 1298,
+      "createdAt": "2026-11-28T08:07:46Z",
       "pageDescription": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "githubTopics": [
         "ai",
@@ -452,7 +413,7 @@ window.AGENTS_RADAR_LITE = {
         "AI",
         "MCP"
       ],
-      "score": 489,
+      "score": 488,
       "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
@@ -461,12 +422,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "source": "GitHub",
-      "points": 188203,
-      "comments": 794,
-      "stars": 188203,
-      "forks": 45833,
-      "openIssues": 794,
-      "createdAt": "2026-11-27T08:52:01Z",
+      "points": 188215,
+      "comments": 773,
+      "stars": 188215,
+      "forks": 45826,
+      "openIssues": 773,
+      "createdAt": "2026-11-28T08:08:04Z",
       "pageDescription": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "githubTopics": [
         "agentic-ai",
@@ -509,12 +470,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "source": "GitHub",
-      "points": 169392,
-      "comments": 1179,
-      "stars": 169392,
-      "forks": 35320,
-      "openIssues": 1179,
-      "createdAt": "2026-11-27T08:45:02Z",
+      "points": 169320,
+      "comments": 1196,
+      "stars": 169320,
+      "forks": 35329,
+      "openIssues": 1196,
+      "createdAt": "2026-11-28T06:00:15Z",
       "pageDescription": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "githubTopics": [
         "audio",
@@ -561,75 +522,8 @@ window.AGENTS_RADAR_LITE = {
         "LLM",
         "DeepSeek"
       ],
-      "score": 478,
-      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
-      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
-    },
-    {
-      "id": "github:langgenius/dify",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "source": "GitHub",
-      "points": 161988,
-      "comments": 1313,
-      "stars": 161988,
-      "forks": 25565,
-      "openIssues": 1313,
-      "createdAt": "2026-11-27T08:52:59Z",
-      "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "githubTopics": [
-        "agent",
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "automation",
-        "claude",
-        "deepseek",
-        "genai",
-        "gpt",
-        "llm",
-        "low-code",
-        "mcp",
-        "nextjs",
-        "no-code",
-        "openai",
-        "python",
-        "skills",
-        "workflow"
-      ],
-      "matchedQueries": [
-        "llm",
-        "agent",
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "ai",
-        "automation",
-        "claude",
-        "deepseek",
-        "genai",
-        "gpt",
-        "low-code",
-        "mcp",
-        "nextjs",
-        "no-code",
-        "openai",
-        "python",
-        "skills",
-        "workflow",
-        "AI",
-        "LLM",
-        "RAG",
-        "AI agent",
-        "MCP",
-        "OpenAI",
-        "Anthropic",
-        "Claude",
-        "DeepSeek"
-      ],
       "score": 474,
-      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
@@ -637,12 +531,12 @@ window.AGENTS_RADAR_LITE = {
       "title": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "source": "GitHub",
-      "points": 150063,
-      "comments": 783,
-      "stars": 150063,
-      "forks": 25182,
-      "openIssues": 783,
-      "createdAt": "2026-11-27T08:21:12Z",
+      "points": 150095,
+      "comments": 788,
+      "stars": 150095,
+      "forks": 25185,
+      "openIssues": 788,
+      "createdAt": "2026-11-28T08:17:36Z",
       "pageDescription": "The agent engineering platform.",
       "githubTopics": [
         "agents",
@@ -695,76 +589,178 @@ window.AGENTS_RADAR_LITE = {
         "Anthropic",
         "Gemini"
       ],
-      "score": 471,
+      "score": 472,
       "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
     },
     {
-      "id": "github:paperclipai/paperclip",
-      "title": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
+      "id": "github:langgenius/dify",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
       "source": "GitHub",
-      "points": 117460,
-      "comments": 6808,
-      "stars": 117460,
-      "forks": 19543,
-      "openIssues": 6808,
-      "createdAt": "2026-11-27T08:38:35Z",
-      "pageDescription": "The open-source app everyone uses to manage agents at work",
+      "points": 162038,
+      "comments": 1324,
+      "stars": 162038,
+      "forks": 25571,
+      "openIssues": 1324,
+      "createdAt": "2026-11-28T06:15:49Z",
+      "pageDescription": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "githubTopics": [
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
+        "agent",
         "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
         "claude",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
+        "deepseek",
+        "genai",
+        "gpt",
         "llm",
+        "low-code",
         "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation"
+        "nextjs",
+        "no-code",
+        "openai",
+        "python",
+        "skills",
+        "workflow"
       ],
       "matchedQueries": [
-        "claude",
-        "acpx",
-        "agent-orchestration",
-        "agent-skills",
-        "agentic-ai",
-        "ai-agents",
-        "ai-engineering",
-        "ai-governance",
-        "ai-tools",
-        "autonomous-agents",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "hermes",
         "llm",
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "claude",
+        "deepseek",
+        "genai",
+        "gpt",
+        "low-code",
         "mcp",
-        "multi-agent",
-        "openclaw",
-        "project-management",
-        "workflow-automation",
+        "nextjs",
+        "no-code",
+        "openai",
+        "python",
+        "skills",
+        "workflow",
         "AI",
         "LLM",
+        "RAG",
         "AI agent",
         "MCP",
+        "OpenAI",
         "Anthropic",
         "Claude",
-        "Codex"
+        "DeepSeek"
       ],
-      "score": 464,
-      "intro": "这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。",
+      "score": 470,
+      "intro": "这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。",
       "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "github:ollama/ollama",
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "source": "GitHub",
+      "points": 188351,
+      "comments": 4814,
+      "stars": 188351,
+      "forks": 19251,
+      "openIssues": 4814,
+      "createdAt": "2026-11-28T04:13:22Z",
+      "pageDescription": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "githubTopics": [
+        "deepseek",
+        "gemma",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llm",
+        "llms",
+        "minimax",
+        "mistral",
+        "muse",
+        "ollama",
+        "qwen"
+      ],
+      "matchedQueries": [
+        "llm",
+        "deepseek",
+        "gemma",
+        "glm",
+        "go",
+        "golang",
+        "gpt-oss",
+        "llama",
+        "llms",
+        "minimax",
+        "mistral",
+        "muse",
+        "ollama",
+        "qwen",
+        "LLM",
+        "OpenAI",
+        "DeepSeek"
+      ],
+      "score": 466,
+      "intro": "这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。",
+      "reason": "popular GitHub repo, active issue tracker, matched multiple AI topics, recently pushed"
+    },
+    {
+      "id": "semanticscholar:8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8",
+      "title": "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows",
+      "url": "https://www.semanticscholar.org/paper/8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8",
+      "pdfUrl": "",
+      "source": "Semantic Scholar",
+      "points": 74,
+      "comments": 6,
+      "authors": [
+        "R. Souza",
+        "Amal Gueroudji",
+        "Stephen Dewitt",
+        "Daniel Rosendo",
+        "Tirthankar Ghosal",
+        "Robert B. Ross",
+        "Prasanna Balaprakash",
+        "Rafael Ferreira da Silva"
+      ],
+      "categories": [
+        "Computer Science",
+        "eScience",
+        "2025"
+      ],
+      "venue": "eScience",
+      "year": 2025,
+      "citations": 74,
+      "influentialCitations": 6,
+      "createdAt": "2025-08-04",
+      "updatedAt": "2025-08-04",
+      "abstract": "Large Language Models (LLMs) and other foundation models are increasingly used as the core of AI agents. In agentic workflows, these agents plan tasks, interact with humans and peers, and influence scientific outcomes across federated and heterogeneous environments. However, agents can hallucinate or reason incorrectly, propagating errors when one agent’s output becomes another’s input. Thus, assuring that agents’ actions are transparent, traceable, reproducible, and reliable is critical to assess hallucination risks and mitigate their workflow impacts. While provenance techniques have long supported these principles, existing methods fail to capture and relate agent-centric metadata such as prompts, responses, and decisions with the broader workflow context and downstream outcomes. In this paper, we introduce PROV-AGENT, a provenance model that extends W3C PROV and leverages the Model Context Protocol (MCP) and data observability to integrate agent interactions into end-to-end workflow provenance. Our contributions include: (1) a provenance model tailored for agentic workflows, (2) a near real-time, open-source system for capturing agentic provenance, and (3) a cross-facility evaluation spanning edge, cloud, and HPC environments, demonstrating support for critical provenance queries and agent reliability analysis.",
+      "pageDescription": "Large Language Models (LLMs) and other foundation models are increasingly used as the core of AI agents. In agentic workflows, these agents plan tasks, interact with humans and peers, and influence scientific outcomes across federated and heterogeneous environments. However, agents can hallucinate or reason incorrectly, propagating errors when one agent’s output becomes another’s input. Thus, assuring that agents’ actions are transparent, traceable, reproducible, and reliable is critical to assess hallucination risks and mitigate their workflow impacts. While provenance techniques have long supported these principles, existing methods fail to capture and relate agent-centric metadata such as prompts, responses, and decisions with the broader workflow context and downstream outcomes. In this paper, we introduce PROV-AGENT, a provenance model that extends W3C PROV and leverages the Model Context Protocol (MCP) and data observability to integrate agent interactions into end-to-end workflow provenance. Our contributions include: (1) a provenance model tailored for agentic workflows, (2) a near real-time, open-source system for capturing agentic provenance, and (3) a cross-facility evaluation spanning edge, cloud, and HPC environments, demonstrating support for critical provenance queries and agent reliability analysis.",
+      "externalIds": {
+        "DBLP": "conf/eScience/0001GDRGRBS25",
+        "ArXiv": "2508.02866",
+        "DOI": "10.1109/eScience65000.2025.00093",
+        "CorpusId": 280526642
+      },
+      "matchedQueries": [
+        "AI agent",
+        "Computer Science",
+        "eScience",
+        "AI",
+        "LLM",
+        "prompt engineering",
+        "MCP"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=PROV-AGENT%3A%20Unified%20Provenance%20for%20Tracking%20AI%20Agent%20Interactions%20in%20Agentic%20Workflows",
+      "score": 198,
+      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦 MCP 服务部署、测试、监控和商店发布。",
+      "reason": "matched multiple AI queries"
     },
     {
       "id": "arxiv:2611.34813v1",
@@ -820,13 +816,36 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
+      "id": "hf:2611.34051",
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "url": "https://huggingface.co/papers/2611.34051",
+      "source": "HF Papers",
+      "points": 129,
+      "comments": 0,
+      "upvotes": 129,
+      "authors": [],
+      "categories": [
+        "HF Daily Papers"
+      ],
+      "createdAt": "2026-11-25T00:00:00.000Z",
+      "abstract": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry betw",
+      "pageDescription": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry betw",
+      "matchedQueries": [
+        "HF daily"
+      ],
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Stable%20Gated%20DeltaNet-2%3A%20Understanding%20and%20Mitigating%20Recurrent%20State%20Instability",
+      "score": 162,
+      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability相关内容，聚焦HF daily相关背景、功能和讨论点。",
+      "reason": "high HN points"
+    },
+    {
       "id": "hf:2611.34232",
       "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
       "url": "https://huggingface.co/papers/2611.34232",
       "source": "HF Papers",
-      "points": 89,
+      "points": 107,
       "comments": 0,
-      "upvotes": 89,
+      "upvotes": 107,
       "authors": [],
       "categories": [
         "HF Daily Papers"
@@ -839,32 +858,57 @@ window.AGENTS_RADAR_LITE = {
         "AI agent"
       ],
       "googleScholarUrl": "https://scholar.google.com/scholar?q=OS-Omni%3A%20Benchmarking%20Generalist%20Computer-Using%20Agents%20on%20Long-Horizon%20Workflows%20Across%20Platforms",
-      "score": 130,
+      "score": 151,
       "intro": "这篇来自 huggingface.co 的帖子主要介绍了：OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms相关内容，聚焦HF daily、AI Agent相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
+      "reason": "high HN points, matched multiple AI queries"
     },
     {
-      "id": "hf:2611.34051",
-      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
-      "url": "https://huggingface.co/papers/2611.34051",
-      "source": "HF Papers",
-      "points": 85,
-      "comments": 0,
-      "upvotes": 85,
-      "authors": [],
+      "id": "semanticscholar:f8acab9a1a16b7e7a0a2d4f288a0e9817f61e812",
+      "title": "Evolution of AI in Education: Agentic Workflows",
+      "url": "https://www.semanticscholar.org/paper/f8acab9a1a16b7e7a0a2d4f288a0e9817f61e812",
+      "pdfUrl": "",
+      "source": "Semantic Scholar",
+      "points": 45,
+      "comments": 3,
+      "authors": [
+        "F. Kamalov",
+        "D. Santandreu Calonge",
+        "Linda Smail",
+        "D. Azizov",
+        "Dimple R. Thadani",
+        "T. Kwong",
+        "Amara Atif"
+      ],
       "categories": [
-        "HF Daily Papers"
+        "Computer Science",
+        "arXiv.org",
+        "2025"
       ],
-      "createdAt": "2026-11-25T00:00:00.000Z",
-      "abstract": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry betw",
-      "pageDescription": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry betw",
+      "venue": "arXiv.org",
+      "year": 2025,
+      "citations": 45,
+      "influentialCitations": 3,
+      "createdAt": "2025-04-25",
+      "updatedAt": "2025-04-25",
+      "abstract": "The primary goal of this study is to analyze agentic workflows in education according to the proposed four major technological paradigms: reflection, planning, tool use, and multi-agent collaboration. We critically examine the role of AI agents in education through these key design paradigms, exploring their advantages, applications, and challenges. Second, to illustrate the practical potential of agentic systems, we present a proof-of-concept application: a multi-agent framework for automated essay scoring. Preliminary results suggest this agentic approach may offer improved consistency compared to stand-alone LLMs. Our findings highlight the transformative potential of AI agents in educational settings while underscoring the need for further research into their interpretability and trustworthiness.",
+      "pageDescription": "The primary goal of this study is to analyze agentic workflows in education according to the proposed four major technological paradigms: reflection, planning, tool use, and multi-agent collaboration. We critically examine the role of AI agents in education through these key design paradigms, exploring their advantages, applications, and challenges. Second, to illustrate the practical potential of agentic systems, we present a proof-of-concept application: a multi-agent framework for automated essay scoring. Preliminary results suggest this agentic approach may offer improved consistency compared to stand-alone LLMs. Our findings highlight the transformative potential of AI agents in educational settings while underscoring the need for further research into their interpretability and trustworthiness.",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2504-20082",
+        "ArXiv": "2504.20082",
+        "DOI": "10.48550/arXiv.2504.20082",
+        "CorpusId": 278171621
+      },
       "matchedQueries": [
-        "HF daily"
+        "AI agent",
+        "Computer Science",
+        "arXiv.org",
+        "AI",
+        "LLM"
       ],
-      "googleScholarUrl": "https://scholar.google.com/scholar?q=Stable%20Gated%20DeltaNet-2%3A%20Understanding%20and%20Mitigating%20Recurrent%20State%20Instability",
-      "score": 112,
-      "intro": "这篇来自 huggingface.co 的帖子主要介绍了：Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability相关内容，聚焦HF daily相关背景、功能和讨论点。",
-      "reason": "balanced activity signal"
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=Evolution%20of%20AI%20in%20Education%3A%20Agentic%20Workflows",
+      "score": 129,
+      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：Evolution of AI in Education: Agentic Workflows相关内容，聚焦AI Agent、Computer Science、arXiv.org、人工智能、大语言模型相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
     },
     {
       "id": "arxiv:2611.32266v1",
@@ -945,30 +989,47 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:qbitai:https://www.qbitai.com/2026/11/513163.html",
-      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-      "url": "https://www.qbitai.com/2026/11/513163.html",
-      "source": "QbitAI",
-      "points": 0,
-      "comments": 0,
-      "createdAt": "2026-11-27T03:53:49.000Z",
-      "pageDescription": "Quickwit查询总耗时降31%，最高降87%",
+      "id": "semanticscholar:7c26f028e67cb4614c189279e9a3afabc192dab6",
+      "title": "AI Agents and Agentic Systems: Redefining Global it Management",
+      "url": "https://www.semanticscholar.org/paper/7c26f028e67cb4614c189279e9a3afabc192dab6",
+      "pdfUrl": "",
+      "source": "Semantic Scholar",
+      "points": 36,
+      "comments": 2,
+      "authors": [
+        "Laurie Hughes",
+        "Y. Dwivedi",
+        "Keyao Li",
+        "Mandanna Appanderanda",
+        "M. Albashrawi",
+        "Inyoung Chae"
+      ],
       "categories": [
-        "资讯",
-        "AI Engineering",
-        "ClickBench",
-        "TabbyML"
+        "Journal of Global Information Technology Management",
+        "2025"
       ],
+      "venue": "Journal of Global Information Technology Management",
+      "year": 2025,
+      "citations": 36,
+      "influentialCitations": 2,
+      "createdAt": "2025-06-27",
+      "updatedAt": "2025-06-27",
+      "abstract": "ABSTRACT Artificial Intelligence (AI) agents represent a transformative advancement in global Information Technology (IT) management, introducing autonomous, goal-driven systems capable of reasoning, adapting, and executing decisions across distributed IT ecosystems. By leveraging Large Language Models (LLMs) and advanced AI frameworks, they enhance operational efficiency, decision-making, and cross-border IT collaboration. Their impact spans finance, healthcare, supply chain management, and enterprise IT services, where they act as virtual team members, automating infrastructure management, optimizing workflows, and ensuring 24/7 global system continuity. Despite these benefits, challenges persist in trust management, ethical accountability, and legacy system integration. As AI agents take on complex roles, concerns over safety, security, transparency, bias, and decision-making accountability become critical for many organizations. This study examines these complexities from a global IT perspective. We review the recent research and propose a research agenda that explores the ethical, operational, and strategic implications of AI agents in modern IT ecosystems.",
+      "pageDescription": "ABSTRACT Artificial Intelligence (AI) agents represent a transformative advancement in global Information Technology (IT) management, introducing autonomous, goal-driven systems capable of reasoning, adapting, and executing decisions across distributed IT ecosystems. By leveraging Large Language Models (LLMs) and advanced AI frameworks, they enhance operational efficiency, decision-making, and cross-border IT collaboration. Their impact spans finance, healthcare, supply chain management, and enterprise IT services, where they act as virtual team members, automating infrastructure management, optimizing workflows, and ensuring 24/7 global system continuity. Despite these benefits, challenges persist in trust management, ethical accountability, and legacy system integration. As AI agents take on complex roles, concerns over safety, security, transparency, bias, and decision-making accountability become critical for many organizations. This study examines these complexities from a global IT perspective. We review the recent research and propose a research agenda that explores the ethical, operational, and strategic implications of AI agents in modern IT ecosystems.",
+      "externalIds": {
+        "DOI": "10.1080/1097198X.2025.2524286",
+        "CorpusId": 279622407
+      },
       "matchedQueries": [
-        "资讯",
-        "AI Engineering",
-        "ClickBench",
+        "AI agent",
+        "Journal of Global Information Technology Management",
         "AI",
-        "AI agent"
+        "LLM"
       ],
-      "score": 104,
-      "intro": "这篇来自 qbitai.com 的帖子主要介绍了：20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩相关内容，聚焦资讯、AI Engineering、ClickBench、人工智能、AI Agent相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries, fresh today"
+      "googleScholarUrl": "https://scholar.google.com/scholar?q=AI%20Agents%20and%20Agentic%20Systems%3A%20Redefining%20Global%20it%20Management",
+      "score": 102,
+      "intro": "这篇来自 semanticscholar.org 的帖子主要介绍了：AI Agents and Agentic Systems: Redefining Global it Management相关内容，聚焦AI Agent、Journal of Global Information Technology Management、人工智能、大语言模型相关背景、功能和讨论点。",
+      "reason": "matched multiple AI queries"
     },
     {
       "id": "paperscool:2611.34785",
@@ -1002,113 +1063,111 @@ window.AGENTS_RADAR_LITE = {
       "reason": "matched multiple AI queries"
     },
     {
-      "id": "rss:solidot:https://www.solidot.org/story?sid=85992",
-      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-      "url": "https://www.solidot.org/story?sid=85992",
+      "id": "rss:solidot:https://www.solidot.org/story?sid=86015",
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "url": "https://www.solidot.org/story?sid=86015",
       "source": "Solidot",
       "points": 0,
       "comments": 0,
-      "createdAt": "2026-11-25T15:26:31.000Z",
-      "pageDescription": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练过的专门工具。他与哈佛医学院的 Leo Chen 分享的这一发现在计算生物学界引发了热议。本周二 OpenAI 宣布其最新大模型成功设计出新蛋白质，在实验室合成和测试时部分新蛋白质的行为和预期一样。该研究引发了 生物 AI 未来的讨论，部分科学家预测 Claude 和 ChatGPT 之类的通用模型在蛋白质结构预测和设计等任务上可能会超越 AlphaFold 等专用工具。也有研究人员对此提出质疑，认为大模型展现出的部分能力可能只是训练数据的机械重复。",
+      "createdAt": "2026-11-27T16:14:48.000Z",
+      "pageDescription": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，帮助研究者突破时间、资源与研究方法的局限，让更多大胆而富有想象力的科学构想从可能走向现实。”月之暗面将向入选的研究人员提供最高 20,000 美元的 Kimi API 额度（约 70 亿 token），具体金额将根据研究需求及评估结果确定。",
       "categories": [],
       "matchedQueries": [
-        "AI",
-        "OpenAI",
-        "Anthropic",
-        "Claude"
+        "AI"
       ],
-      "score": 56,
-      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold相关内容，聚焦人工智能、OpenAI、Anthropic、Claude相关背景、功能和讨论点。",
-      "reason": "matched multiple AI queries"
+      "score": 28,
+      "intro": "这篇来自 solidot.org 的帖子主要介绍了：Kimi 向科学家提供最高 2 万美元 API 免费额度相关内容，聚焦人工智能相关背景、功能和讨论点。",
+      "reason": "balanced activity signal"
     }
   ],
   "recommendations": [
     {
-      "id": "frontpage:hn:50644817",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "hnUrl": "https://news.ycombinator.com/item?id=50644817",
+      "id": "frontpage:hn:50670757",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50670757",
       "source": "Hacker News",
-      "points": 1661,
-      "comments": 712,
-      "createdAt": "2026-11-25T17:18:26",
+      "points": 502,
+      "comments": 311,
+      "createdAt": "2026-11-27T19:31:01",
       "matchedQueries": [
         "front page"
       ],
-      "score": 3633,
-      "intro": "这篇来自 1password.com 的帖子主要介绍了：1Password Security Incident相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 1358,
+      "intro": "这篇来自 neuralnetworksanddeeplearning.com 的帖子主要介绍了：Michael Nielsen took down his book on neural nets相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50660180",
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "hnUrl": "https://news.ycombinator.com/item?id=50660180",
+      "id": "frontpage:hn:50668145",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "hnUrl": "https://news.ycombinator.com/item?id=50668145",
       "source": "Hacker News",
-      "points": 638,
-      "comments": 328,
-      "createdAt": "2026-11-26T21:47:45",
+      "points": 507,
+      "comments": 264,
+      "createdAt": "2026-11-27T15:40:31",
+      "matchedQueries": [
+        "front page"
+      ],
+      "score": 1244,
+      "intro": "这篇来自 infohawk.com 的帖子主要介绍了：Credit card skimming scripts using WebRTC found on popular shopping sites相关内容，聚焦front page相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion"
+    },
+    {
+      "id": "frontpage:hn:50643158",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "hnUrl": "https://news.ycombinator.com/item?id=50643158",
+      "source": "Hacker News",
+      "points": 428,
+      "comments": 268,
+      "createdAt": "2026-11-25T15:16:53",
       "matchedQueries": [
         "front page",
-        "AI"
+        "OpenAI"
       ],
-      "score": 1572,
-      "intro": "这篇来自 janlukas.blog 的帖子主要介绍了：AI made self-hosting fun again相关内容，聚焦front page、人工智能相关背景、功能和讨论点。",
+      "score": 1163,
+      "intro": "这篇来自 generativehistory.substack.com 的帖子主要介绍了：GPT 6.2 Astra Solves a Historical Mystery相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion, matched multiple AI queries"
     },
     {
-      "id": "frontpage:hn:50657530",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "hnUrl": "https://news.ycombinator.com/item?id=50657530",
+      "id": "frontpage:hn:50670855",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "hnUrl": "https://news.ycombinator.com/item?id=50670855",
       "source": "Hacker News",
-      "points": 382,
-      "comments": 449,
-      "createdAt": "2026-11-26T17:36:47",
+      "points": 369,
+      "comments": 217,
+      "createdAt": "2026-11-27T19:42:25",
       "matchedQueries": [
         "front page"
       ],
-      "score": 1546,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays相关内容，聚焦front page相关背景、功能和讨论点。",
+      "score": 980,
+      "intro": "这篇来自 oag.state.va.us 的帖子主要介绍了：States sue SpaceX to stop Grok from generating child sex images, revenge porn相关内容，聚焦front page相关背景、功能和讨论点。",
       "reason": "high HN points, active discussion"
     },
     {
-      "id": "frontpage:hn:50653667",
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
-      "hnUrl": "https://news.ycombinator.com/item?id=50653667",
+      "id": "frontpage:hn:50672565",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "hnUrl": "https://news.ycombinator.com/item?id=50672565",
       "source": "Hacker News",
-      "points": 517,
-      "comments": 250,
-      "createdAt": "2026-11-26T10:11:01",
+      "points": 343,
+      "comments": 134,
+      "createdAt": "2026-11-27T23:06:29",
       "matchedQueries": [
-        "front page"
+        "front page",
+        "machine learning"
       ],
-      "score": 1211,
-      "intro": "这篇来自 github.com 的帖子主要介绍了：Intel One Mono font (2023)相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
-    },
-    {
-      "id": "frontpage:hn:50655664",
-      "title": "Tell HN: Happy Thanksgiving",
-      "url": "https://news.ycombinator.com/item?id=50655664",
-      "hnUrl": "https://news.ycombinator.com/item?id=50655664",
-      "source": "Hacker News",
-      "points": 692,
-      "comments": 145,
-      "createdAt": "2026-11-26T14:26:54",
-      "matchedQueries": [
-        "front page"
-      ],
-      "score": 1168,
-      "intro": "这篇来自 news.ycombinator.com 的帖子主要介绍了：Tell HN: Happy Thanksgiving相关内容，聚焦front page相关背景、功能和讨论点。",
-      "reason": "high HN points, active discussion"
+      "score": 771,
+      "intro": "这篇来自 research.google 的帖子主要介绍了：Google's DeepCrossAttention achieves comparable model quality up to 3x faster相关内容，聚焦front page、机器学习相关背景、功能和讨论点。",
+      "reason": "high HN points, active discussion, matched multiple AI queries"
     }
   ],
   "paperRadar": {
-    "generatedAt": "2026-11-27T08:58:43.871Z",
-    "totalFetched": 191,
-    "uniqueCount": 154,
+    "generatedAt": "2026-11-28T08:19:41.221Z",
+    "totalFetched": 207,
+    "uniqueCount": 168,
     "candidates": [
       {
         "id": "arxiv:2611.34899v1",
@@ -1148,7 +1207,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "a novel application of",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI safety, CS AI category, has PDF"
       },
@@ -1204,7 +1263,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1242,7 +1301,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "SPLICE",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1285,7 +1344,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Diverse Alternative Reasoning Traces",
         "datasetHint": "AIME",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1327,7 +1386,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 216,
+        "score": 208,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       },
@@ -1367,9 +1426,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 216,
+        "score": 208,
         "intro": "这篇 arXiv 论文主要介绍了：AI 编程与代码生成方法，关注开发任务自动化、程序理解和工程评测。",
-        "reason": "fresh paper, matched AI agent, matched AI coding, CS AI category, has PDF"
+        "reason": "matched AI agent, matched AI coding, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.34934v1",
@@ -1408,7 +1467,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 206,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1451,7 +1510,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Bench",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1490,7 +1549,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Anchor-Atypicality Sampling",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category"
       },
@@ -1526,9 +1585,46 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 213,
+        "score": 205,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
+      },
+      {
+        "id": "arxiv:2611.33497v1",
+        "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+        "url": "https://arxiv.org/abs/2611.33497v1",
+        "pdfUrl": "https://arxiv.org/pdf/2611.33497v1",
+        "source": "arXiv",
+        "points": 0,
+        "comments": 0,
+        "authors": [
+          "Vimal Kumar Kumar",
+          "Meghana Kshirsagar",
+          "Conor Ryan"
+        ],
+        "categories": [
+          "cs.AI",
+          "cs.CL",
+          "cs.IR"
+        ],
+        "createdAt": "2026-11-24T22:18:26Z",
+        "updatedAt": "2026-11-24T22:18:26Z",
+        "abstract": "Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontology-derived structural constraints and policy-grounded knowledge-graph relations before evidence selection. Retrieval-only evaluation with manually annotated evidence shows consistent improvements across retrieval budgets. At $k=6$, CA-RAG increases Precision@$k$ from $0.5268$ to $0.5692$, pooled Recall@$k$ from $0.5402$ to $0.5950$, and F1@$k$ from $0.5389$ to $0.5672$ over standard RAG. Generation experiments further show improvements in compliance and reliability in several model--domain settings, while generation-only constraints achieve higher clause coverage but lower overall compliance and reliability. These results indicate that structurally aligned retrieval can improve evidence sufficiency in compliance-sensitive long-form generation.",
+        "pageDescription": "Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontology-derived structural constraints and policy-grounded knowledge-graph relations before evidence selection. Retrieval-only evaluation with manually annotated evidence shows consistent improvements across retrieval budgets. At $k=6$, CA-RAG increases Precision@$k$ from $0.5268$ to $0.5692$, pooled Recall@$k$ from $0.5402$ to $0.5950$, and F1@$k$ from $0.5389$ to $0.5672$ over standard RAG. Generation experiments further show improvements in compliance and reliability in several model--domain settings, while generation-only constraints achieve higher clause coverage but lower overall compliance and reliability. These results indicate that structurally aligned retrieval can improve evidence sufficiency in compliance-sensitive long-form generation.",
+        "matchedQueries": [
+          "RAG",
+          "cs.AI",
+          "cs.CL",
+          "cs.IR",
+          "AI"
+        ],
+        "googleScholarUrl": "https://scholar.google.com/scholar?q=CA-RAG%3A%20Constraint-Aligned%20Retrieval%20for%20Structurally%20Faithful%20Long-Form%20Generation",
+        "methodHint": "Constraint-Aligned RAG",
+        "datasetHint": "",
+        "readingAdvice": "值得浏览",
+        "score": 205,
+        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
+        "reason": "matched RAG, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.34852v1",
@@ -1567,7 +1663,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "DRBench Pro",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 212,
+        "score": 204,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched AI agent, matched AI safety, CS AI category, has PDF"
       },
@@ -1605,46 +1701,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "a targeted repair framework",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 212,
+        "score": 204,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
-      },
-      {
-        "id": "arxiv:2611.33497v1",
-        "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
-        "url": "https://arxiv.org/abs/2611.33497v1",
-        "pdfUrl": "https://arxiv.org/pdf/2611.33497v1",
-        "source": "arXiv",
-        "points": 0,
-        "comments": 0,
-        "authors": [
-          "Vimal Kumar Kumar",
-          "Meghana Kshirsagar",
-          "Conor Ryan"
-        ],
-        "categories": [
-          "cs.AI",
-          "cs.CL",
-          "cs.IR"
-        ],
-        "createdAt": "2026-11-24T22:18:26Z",
-        "updatedAt": "2026-11-24T22:18:26Z",
-        "abstract": "Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontology-derived structural constraints and policy-grounded knowledge-graph relations before evidence selection. Retrieval-only evaluation with manually annotated evidence shows consistent improvements across retrieval budgets. At $k=6$, CA-RAG increases Precision@$k$ from $0.5268$ to $0.5692$, pooled Recall@$k$ from $0.5402$ to $0.5950$, and F1@$k$ from $0.5389$ to $0.5672$ over standard RAG. Generation experiments further show improvements in compliance and reliability in several model--domain settings, while generation-only constraints achieve higher clause coverage but lower overall compliance and reliability. These results indicate that structurally aligned retrieval can improve evidence sufficiency in compliance-sensitive long-form generation.",
-        "pageDescription": "Retrieval-augmented generation (RAG) typically optimises evidence selection for semantic relevance, whereas compliance-sensitive long-form generation also requires evidence supporting explicit structural obligations. Semantically relevant retrieval may therefore omit information needed for mandatory downstream clauses. We propose Constraint-Aligned RAG (CA-RAG), a retrieval-conditioning framework that augments section-specific queries with ontology-derived structural constraints and policy-grounded knowledge-graph relations before evidence selection. Retrieval-only evaluation with manually annotated evidence shows consistent improvements across retrieval budgets. At $k=6$, CA-RAG increases Precision@$k$ from $0.5268$ to $0.5692$, pooled Recall@$k$ from $0.5402$ to $0.5950$, and F1@$k$ from $0.5389$ to $0.5672$ over standard RAG. Generation experiments further show improvements in compliance and reliability in several model--domain settings, while generation-only constraints achieve higher clause coverage but lower overall compliance and reliability. These results indicate that structurally aligned retrieval can improve evidence sufficiency in compliance-sensitive long-form generation.",
-        "matchedQueries": [
-          "RAG",
-          "cs.AI",
-          "cs.CL",
-          "cs.IR",
-          "AI"
-        ],
-        "googleScholarUrl": "https://scholar.google.com/scholar?q=CA-RAG%3A%20Constraint-Aligned%20Retrieval%20for%20Structurally%20Faithful%20Long-Form%20Generation",
-        "methodHint": "Constraint-Aligned RAG",
-        "datasetHint": "",
-        "readingAdvice": "值得浏览",
-        "score": 212,
-        "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.32938v1",
@@ -1682,9 +1741,9 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Lembas",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 210,
+        "score": 202,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
-        "reason": "fresh paper, matched RAG, matched LLM, CS AI category, has PDF"
+        "reason": "matched RAG, matched LLM, CS AI category, has PDF"
       },
       {
         "id": "arxiv:2611.34862v1",
@@ -1734,7 +1793,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "BOP-Refer",
         "datasetHint": "BOP",
         "readingAdvice": "值得浏览",
-        "score": 209,
+        "score": 201,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI safety, CS AI category, has PDF"
       }
@@ -1778,7 +1837,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "a novel application of",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 214,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched RAG, matched AI safety, CS AI category, has PDF"
       },
@@ -1834,7 +1893,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 221,
+        "score": 213,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1872,7 +1931,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "SPLICE",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 220,
+        "score": 212,
         "intro": "这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。",
         "reason": "fresh paper, matched AI agent, CS AI category, has PDF"
       },
@@ -1915,7 +1974,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "Diverse Alternative Reasoning Traces",
         "datasetHint": "AIME",
         "readingAdvice": "值得浏览",
-        "score": 219,
+        "score": 211,
         "intro": "这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。",
         "reason": "fresh paper, matched LLM, matched AI safety, CS AI category, has PDF"
       },
@@ -1957,7 +2016,7 @@ window.AGENTS_RADAR_LITE = {
         "methodHint": "",
         "datasetHint": "",
         "readingAdvice": "值得浏览",
-        "score": 216,
+        "score": 208,
         "intro": "这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。",
         "reason": "fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF"
       }
@@ -1969,7 +2028,7 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://github.com/trending",
       "status": "ok (16 parsed)",
       "found": 16,
-      "observedAt": "2026-11-27T08:58:26.489Z",
+      "observedAt": "2026-11-28T08:19:23.823Z",
       "kept": 16
     },
     {
@@ -1977,31 +2036,31 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://news.ycombinator.com/",
       "status": "ok (30 parsed)",
       "found": 30,
-      "observedAt": "2026-11-27T08:58:28.270Z",
+      "observedAt": "2026-11-28T08:19:26.921Z",
       "kept": 30
     },
     {
       "name": "HF Daily Papers",
       "url": "https://huggingface.co/papers",
-      "status": "ok (16 parsed)",
-      "found": 16,
-      "observedAt": "2026-11-27T08:58:30.029Z",
-      "kept": 16
+      "status": "ok (22 parsed)",
+      "found": 22,
+      "observedAt": "2026-11-28T08:19:28.605Z",
+      "kept": 22
     },
     {
       "name": "QbitAI",
       "url": "https://www.qbitai.com/feed",
-      "status": "ok (10 parsed)",
-      "found": 10,
-      "observedAt": "2026-11-27T08:58:31.641Z",
-      "kept": 10
+      "status": "unreachable: fetch failed",
+      "found": 0,
+      "observedAt": "2026-11-28T08:19:30.371Z",
+      "kept": 0
     },
     {
       "name": "Solidot",
       "url": "https://www.solidot.org/index.rss",
       "status": "ok (20 parsed)",
       "found": 20,
-      "observedAt": "2026-11-27T08:58:35.817Z",
+      "observedAt": "2026-11-28T08:19:34.876Z",
       "kept": 20
     },
     {
@@ -2009,25 +2068,30 @@ window.AGENTS_RADAR_LITE = {
       "url": "https://papers.cool/arxiv/cs.CL/feed",
       "status": "ok (116 parsed)",
       "found": 116,
-      "observedAt": "2026-11-27T08:58:39.020Z",
+      "observedAt": "2026-11-28T08:19:37.436Z",
       "kept": 116
     }
   ],
   "momentum": [
     {
-      "source": "Hacker News",
-      "count": 8,
-      "momentum": -0.048
-    },
-    {
       "source": "GitHub",
       "count": 8,
-      "momentum": 0
+      "momentum": null
+    },
+    {
+      "source": "Hacker News",
+      "count": 6,
+      "momentum": 0.062
     },
     {
       "source": "GitHub Trending",
       "count": 6,
-      "momentum": 0
+      "momentum": 0.233
+    },
+    {
+      "source": "Semantic Scholar",
+      "count": 3,
+      "momentum": null
     },
     {
       "source": "arXiv",
@@ -2040,14 +2104,9 @@ window.AGENTS_RADAR_LITE = {
       "momentum": 0
     },
     {
-      "source": "QbitAI",
-      "count": 1,
-      "momentum": 0
-    },
-    {
       "source": "papers.cool",
       "count": 1,
-      "momentum": null
+      "momentum": 0.005
     },
     {
       "source": "Solidot",
@@ -2056,9 +2115,14 @@ window.AGENTS_RADAR_LITE = {
     }
   ],
   "diagnostics": {
-    "errors": [
-      "Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429"
-    ],
-    "warnings": []
+    "errors": [],
+    "warnings": [
+      "GitHub: ai-coding: HTTP 403",
+      "Semantic Scholar: LLM: HTTP 429",
+      "Semantic Scholar: RAG: HTTP 429",
+      "Semantic Scholar: AI coding: HTTP 429",
+      "Semantic Scholar: Multimodal: HTTP 429",
+      "Semantic Scholar: AI safety: HTTP 429"
+    ]
   }
 };

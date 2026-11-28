@@ -1,125 +1,8 @@
 {
-  "generatedAt": "2026-11-27T08:58:44.064Z",
+  "generatedAt": "2026-11-28T08:19:41.445Z",
   "retentionDays": 30,
   "timezone": "Asia/Shanghai",
   "days": [
-    {
-      "date": "2026-10-28",
-      "generatedAt": "2026-10-28T06:10:06.098Z",
-      "totalFetched": 481,
-      "uniqueCount": 418,
-      "recommendations": [
-        {
-          "title": "Genie 4",
-          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "source": "Hacker News",
-          "score": 2150,
-          "points": 819
-        },
-        {
-          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-          "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-          "source": "Hacker News",
-          "score": 1804,
-          "points": 887
-        },
-        {
-          "title": "Ghostty 1.4",
-          "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-          "source": "Hacker News",
-          "score": 1732,
-          "points": 895
-        },
-        {
-          "title": "New 14‑inch MacBook Pro with M6",
-          "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-          "source": "Hacker News",
-          "score": 1402,
-          "points": 325
-        },
-        {
-          "title": "New iMac with M6",
-          "url": "https://www.apple.com/imac/",
-          "source": "Hacker News",
-          "score": 1353,
-          "points": 323
-        }
-      ],
-      "paperRecommendations": [
-        {
-          "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-          "url": "https://arxiv.org/abs/2610.37668v1",
-          "source": "arXiv",
-          "score": 230
-        },
-        {
-          "title": "SpectRAG: Weighted Chunk Graphs for Token-Budgeted Context Selection in Multi-Hop Retrieval-Augmented Generation",
-          "url": "https://arxiv.org/abs/2610.36991v1",
-          "source": "arXiv",
-          "score": 227
-        },
-        {
-          "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-          "url": "https://arxiv.org/abs/2610.37657v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
-          "url": "https://arxiv.org/abs/2610.37647v1",
-          "source": "arXiv",
-          "score": 222
-        },
-        {
-          "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-          "url": "https://arxiv.org/abs/2610.37624v1",
-          "source": "arXiv",
-          "score": 222
-        }
-      ],
-      "sourceMix": {
-        "Hacker News": 8,
-        "GitHub Trending": 6,
-        "GitHub": 8,
-        "HF Papers": 2,
-        "arXiv": 3,
-        "papers.cool": 1,
-        "Solidot": 1,
-        "QbitAI": 1
-      },
-      "coverage": [
-        {
-          "name": "GitHub Trending",
-          "status": "ok (11 parsed)",
-          "found": 11
-        },
-        {
-          "name": "HN Front Page",
-          "status": "ok (30 parsed)",
-          "found": 30
-        },
-        {
-          "name": "HF Daily Papers",
-          "status": "ok (31 parsed)",
-          "found": 31
-        },
-        {
-          "name": "QbitAI",
-          "status": "ok (10 parsed)",
-          "found": 10
-        },
-        {
-          "name": "Solidot",
-          "status": "ok (20 parsed)",
-          "found": 20
-        },
-        {
-          "name": "papers.cool",
-          "status": "ok (108 parsed)",
-          "found": 108
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "generatedAt": "2026-10-29T06:19:33.889Z",
@@ -3493,6 +3376,123 @@
           "name": "HF Daily Papers",
           "status": "ok (38 parsed)",
           "found": 38
+        },
+        {
+          "name": "QbitAI",
+          "status": "ok (10 parsed)",
+          "found": 10
+        },
+        {
+          "name": "Solidot",
+          "status": "ok (20 parsed)",
+          "found": 20
+        },
+        {
+          "name": "papers.cool",
+          "status": "ok (116 parsed)",
+          "found": 116
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "generatedAt": "2026-11-27T08:58:43.886Z",
+      "totalFetched": 487,
+      "uniqueCount": 404,
+      "recommendations": [
+        {
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "source": "Hacker News",
+          "score": 3633,
+          "points": 1661
+        },
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News",
+          "score": 1572,
+          "points": 638
+        },
+        {
+          "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "source": "Hacker News",
+          "score": 1546,
+          "points": 382
+        },
+        {
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono",
+          "source": "Hacker News",
+          "score": 1211,
+          "points": 517
+        },
+        {
+          "title": "Tell HN: Happy Thanksgiving",
+          "url": "https://news.ycombinator.com/item?id=50655664",
+          "source": "Hacker News",
+          "score": 1168,
+          "points": 692
+        }
+      ],
+      "paperRecommendations": [
+        {
+          "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+          "url": "https://arxiv.org/abs/2611.34899v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+          "url": "https://arxiv.org/abs/2611.34813v1",
+          "source": "arXiv",
+          "score": 221
+        },
+        {
+          "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL",
+          "url": "https://arxiv.org/abs/2611.34777v1",
+          "source": "arXiv",
+          "score": 220
+        },
+        {
+          "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+          "url": "https://arxiv.org/abs/2611.34928v1",
+          "source": "arXiv",
+          "score": 219
+        },
+        {
+          "title": "Can image generation help visual reasoning? An empirical study",
+          "url": "https://arxiv.org/abs/2611.34935v1",
+          "source": "arXiv",
+          "score": 216
+        }
+      ],
+      "sourceMix": {
+        "Hacker News": 8,
+        "GitHub Trending": 6,
+        "GitHub": 8,
+        "arXiv": 3,
+        "HF Papers": 2,
+        "QbitAI": 1,
+        "papers.cool": 1,
+        "Solidot": 1
+      },
+      "coverage": [
+        {
+          "name": "GitHub Trending",
+          "status": "ok (16 parsed)",
+          "found": 16
+        },
+        {
+          "name": "HN Front Page",
+          "status": "ok (30 parsed)",
+          "found": 30
+        },
+        {
+          "name": "HF Daily Papers",
+          "status": "ok (16 parsed)",
+          "found": 16
         },
         {
           "name": "QbitAI",
