@@ -1,172 +1,172 @@
 # Obsession Radar
 
-Generated: 2026-10-24T14:11:33.439Z
-Fetched: 511 links | Unique: 436 | Candidates: 30
+Generated: 2026-11-28T08:19:41.240Z
+Fetched: 497 links | Unique: 424 | Candidates: 30
 
 ## Top 5 Recommendations
 
-1. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-   - 内容介绍：这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2608 | Points: 964 | Comments: 619
+1. [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/)
+   - 内容介绍：这篇来自 neuralnetworksanddeeplearning.com 的帖子主要介绍了：Michael Nielsen took down his book on neural nets相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1358 | Points: 502 | Comments: 311
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50211474
+   - HN: https://news.ycombinator.com/item?id=50670757
 
-2. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-   - 内容介绍：这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-   - Score: 2553 | Points: 977 | Comments: 584
+2. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+   - 内容介绍：这篇来自 infohawk.com 的帖子主要介绍了：Credit card skimming scripts using WebRTC found on popular shopping sites相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 1244 | Points: 507 | Comments: 264
+   - Why: high HN points, active discussion
+   - HN: https://news.ycombinator.com/item?id=50668145
+
+3. [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+   - 内容介绍：这篇来自 generativehistory.substack.com 的帖子主要介绍了：GPT 6.2 Astra Solves a Historical Mystery相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+   - Score: 1163 | Points: 428 | Comments: 268
    - Why: high HN points, active discussion, matched multiple AI queries
-   - HN: https://news.ycombinator.com/item?id=50212065
+   - HN: https://news.ycombinator.com/item?id=50643158
 
-3. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-   - 内容介绍：这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 2239 | Points: 1438 | Comments: 238
+4. [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
+   - 内容介绍：这篇来自 oag.state.va.us 的帖子主要介绍了：States sue SpaceX to stop Grok from generating child sex images, revenge porn相关内容，聚焦front page相关背景、功能和讨论点。
+   - Score: 980 | Points: 369 | Comments: 217
    - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50202285
+   - HN: https://news.ycombinator.com/item?id=50670855
 
-4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-   - 内容介绍：这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1549 | Points: 821 | Comments: 246
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50207910
-
-5. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill)
-   - 内容介绍：这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。
-   - Score: 1104 | Points: 453 | Comments: 237
-   - Why: high HN points, active discussion
-   - HN: https://news.ycombinator.com/item?id=50202114
+5. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+   - 内容介绍：这篇来自 research.google 的帖子主要介绍了：Google's DeepCrossAttention achieves comparable model quality up to 3x faster相关内容，聚焦front page、机器学习相关背景、功能和讨论点。
+   - Score: 771 | Points: 343 | Comments: 134
+   - Why: high HN points, active discussion, matched multiple AI queries
+   - HN: https://news.ycombinator.com/item?id=50672565
 
 ## 30-Link Candidate Pool
 
-1. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 2608 pts
-   - 内容介绍：这篇来自 blog.calif.io 的帖子主要介绍了：Today, we hacked what we'd set out to hack: the iPhone相关内容，聚焦front page相关背景、功能和讨论点。
-2. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 2553 pts
-   - 内容介绍：这篇来自 kimi.ai 的帖子主要介绍了：Kimi K3.1 Pro and K3.1 Pro Highspeed相关内容，聚焦front page、人工智能相关背景、功能和讨论点。
-3. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 2239 pts
-   - 内容介绍：这篇来自 edjefferson.com 的帖子主要介绍了：Local Wikipedia: Wikipedia, but only for things a half hour walk from you相关内容，聚焦front page相关背景、功能和讨论点。
-4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 1549 pts
-   - 内容介绍：这篇来自 music.apple.com 的帖子主要介绍了：Apple Music 404 Not Found相关内容，聚焦front page相关背景、功能和讨论点。
-5. [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) - 1104 pts
-   - 内容介绍：这篇来自 eff.org 的帖子主要介绍了：Canadians are running out of time to oppose Bill C-22相关内容，聚焦front page相关背景、功能和讨论点。
-6. [Dessa: Conversation Model trained only on speech](https://block.xyz/dessa) - 882 pts
-   - 内容介绍：这篇来自 block.xyz 的帖子主要介绍了：Dessa: Conversation Model trained only on speech相关内容，聚焦front page相关背景、功能和讨论点。
-7. [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) - 638 pts
-   - 内容介绍：这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦OpenAI、人工智能相关背景、功能和讨论点。
-8. [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/) - 637 pts
-   - 内容介绍：这篇来自 reddit.com 的帖子主要介绍了：Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended相关内容，聚焦front page、人工智能、OpenAI相关背景、功能和讨论点。
-9. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - 613 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：luongnv89/claude-howto相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-10. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - 597 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：cloudflare/security-audit-skill相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-11. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - 580 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：pbakaus/impeccable相关内容，聚焦trending、人工智能相关背景、功能和讨论点。
-12. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - 577 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：Nutlope/hallmark相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
-13. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - 567 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：NVIDIA/OpenShell相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
-14. [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 555 pts
-   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：google-gemini/gemini-cli相关内容，聚焦trending、人工智能、AI Agent、Gemini相关背景、功能和讨论点。
-15. [morluto/rea](https://github.com/morluto/rea) - 504 pts
+1. [Michael Nielsen took down his book on neural nets](https://neuralnetworksanddeeplearning.com/) - 1358 pts
+   - 内容介绍：这篇来自 neuralnetworksanddeeplearning.com 的帖子主要介绍了：Michael Nielsen took down his book on neural nets相关内容，聚焦front page相关背景、功能和讨论点。
+2. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) - 1244 pts
+   - 内容介绍：这篇来自 infohawk.com 的帖子主要介绍了：Credit card skimming scripts using WebRTC found on popular shopping sites相关内容，聚焦front page相关背景、功能和讨论点。
+3. [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) - 1163 pts
+   - 内容介绍：这篇来自 generativehistory.substack.com 的帖子主要介绍了：GPT 6.2 Astra Solves a Historical Mystery相关内容，聚焦front page、OpenAI相关背景、功能和讨论点。
+4. [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform) - 980 pts
+   - 内容介绍：这篇来自 oag.state.va.us 的帖子主要介绍了：States sue SpaceX to stop Grok from generating child sex images, revenge porn相关内容，聚焦front page相关背景、功能和讨论点。
+5. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) - 771 pts
+   - 内容介绍：这篇来自 research.google 的帖子主要介绍了：Google's DeepCrossAttention achieves comparable model quality up to 3x faster相关内容，聚焦front page、机器学习相关背景、功能和讨论点。
+6. [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/) - 746 pts
+   - 内容介绍：这篇来自 bouncemarket.minhanhday.com 的帖子主要介绍了：bouncemarket – a live prediction market game for a bouncing ball相关内容，聚焦front page相关背景、功能和讨论点。
+7. [obra/superpowers](https://github.com/obra/superpowers) - 639 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：obra/superpowers相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+8. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 617 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：firecrawl/firecrawl相关内容，聚焦trending、AI Agent相关背景、功能和讨论点。
+9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 613 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：cathrynlavery/diagram-design相关内容，讨论 AI 编程工具的使用体验、限制和工作流变化。
+10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - 601 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：mvanhorn/last30days-skill相关内容，聚焦trending、人工智能、AI Agent相关背景、功能和讨论点。
+11. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - 592 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：elementalsouls/Claude-BugHunter相关内容，说明复现现象、影响范围和排查线索。
+12. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 588 pts
+   - 内容介绍：这篇来自 github.com 的帖子主要介绍了：jingyaogong/minimind相关内容，聚焦trending、大语言模型相关背景、功能和讨论点。
+13. [morluto/rea](https://github.com/morluto/rea) - 512 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-16. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 491 pts
+14. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - 493 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI 编程的开源项目，关注代码生成、开发工作流和工程自动化。
-17. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 486 pts
+15. [n8n-io/n8n](https://github.com/n8n-io/n8n) - 488 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：围绕 MCP 生态的开源项目，关注工具接入、上下文协议和 agent 集成。
-18. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
+16. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 483 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-19. [langgenius/dify](https://github.com/langgenius/dify) - 473 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-20. [huggingface/transformers](https://github.com/huggingface/transformers) - 469 pts
+17. [huggingface/transformers](https://github.com/huggingface/transformers) - 474 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
-21. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 467 pts
-   - 内容介绍：这个 GitHub 项目主要介绍了：面向 AI Agent 的开源框架，关注任务编排、工具调用和自动化执行。
-22. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 462 pts
+18. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 472 pts
    - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
-23. [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) - 293 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：WeVisOne-VL: Unified Visual Perception from Objects to Pixels相关内容，聚焦HF daily、大语言模型相关背景、功能和讨论点。
-24. [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://huggingface.co/papers/2610.30926) - 232 pts
-   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation相关内容，涵盖视频帧提取、转录、本地运行和多模态理解。
-25. [DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination](https://arxiv.org/abs/2610.31511v1) - 126 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination相关内容，聚焦浏览器自动化、网页操作和编程代理。
-26. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Cost-Aware Abstention for LLM-Based IT Ticket Classification相关内容，关注成本结构、定价策略和实际落地收益。
-27. [Training Small Language Models for Transferable Tool Selection](https://arxiv.org/abs/2610.31483v1) - 112 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Training Small Language Models for Transferable Tool Selection相关内容，聚焦AI Agent、cs.LG、cs.AI、人工智能、大语言模型、OpenAI、Anthropic、Claude相关背景、功能和讨论点。
-28. [企业AI需要两个世界模型](https://www.qbitai.com/2026/10/505032.html) - 70 pts
-   - 内容介绍：这篇来自 qbitai.com 的帖子主要介绍了：企业AI需要两个世界模型相关内容，聚焦资讯、世界模型、特赞、人工智能、AI Agent相关背景、功能和讨论点。
-29. [Low-Bit N-Gram Embeddings for Language Models](https://arxiv.org/abs/2610.31646) - 56 pts
-   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Low-Bit N-Gram Embeddings for Language Models相关内容，聚焦papers.cool、大语言模型、RAG、DeepSeek相关背景、功能和讨论点。
-30. [Google 修改隐私条款将 Gmail 和照片数据用于个性化广告](https://www.solidot.org/story?sid=85698) - 41 pts
-   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：Google 修改隐私条款将 Gmail 和照片数据用于个性化广告相关内容，聚焦AI 信息雷达相关背景、功能和讨论点。
+19. [langgenius/dify](https://github.com/langgenius/dify) - 470 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：面向 RAG 的开源工具，关注向量检索、知识库接入和工程集成。
+20. [ollama/ollama](https://github.com/ollama/ollama) - 466 pts
+   - 内容介绍：这个 GitHub 项目主要介绍了：大语言模型相关开源项目，关注模型应用、推理能力和工程落地。
+21. [PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows](https://www.semanticscholar.org/paper/8aee282cc6fd93cc7ef2abfc36b7d80d82f9edb8) - 198 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：MCP 云服务 Manufact 以及 MCP 应用生产化，聚焦 MCP 服务部署、测试、监控和商店发布。
+22. [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813v1) - 168 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models相关内容，聚焦浏览器自动化、网页操作和编程代理。
+23. [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://huggingface.co/papers/2611.34051) - 162 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability相关内容，聚焦HF daily相关背景、功能和讨论点。
+24. [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://huggingface.co/papers/2611.34232) - 151 pts
+   - 内容介绍：这篇来自 huggingface.co 的帖子主要介绍了：OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms相关内容，聚焦HF daily、AI Agent相关背景、功能和讨论点。
+25. [Evolution of AI in Education: Agentic Workflows](https://www.semanticscholar.org/paper/f8acab9a1a16b7e7a0a2d4f288a0e9817f61e812) - 129 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：Evolution of AI in Education: Agentic Workflows相关内容，聚焦AI Agent、Computer Science、arXiv.org、人工智能、大语言模型相关背景、功能和讨论点。
+26. [Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant](https://arxiv.org/abs/2611.32266v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：Unjamming Deferrals: Supporting Students Through JAMN Bot, a Mobile RAG-Grounded Policy Assistant相关内容，聚焦RAG、cs.CL、cs.CY、cs.IR、大语言模型、OpenAI、Gemini、AI 安全相关背景、功能和讨论点。
+27. [How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches](https://arxiv.org/abs/2611.33639v1) - 112 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches相关内容，聚焦浏览器自动化、网页操作和编程代理。
+28. [AI Agents and Agentic Systems: Redefining Global it Management](https://www.semanticscholar.org/paper/7c26f028e67cb4614c189279e9a3afabc192dab6) - 102 pts
+   - 内容介绍：这篇来自 semanticscholar.org 的帖子主要介绍了：AI Agents and Agentic Systems: Redefining Global it Management相关内容，聚焦AI Agent、Journal of Global Information Technology Management、人工智能、大语言模型相关背景、功能和讨论点。
+29. [PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank](https://arxiv.org/abs/2611.34785) - 70 pts
+   - 内容介绍：这篇来自 arxiv.org 的帖子主要介绍了：PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank相关内容，聚焦papers.cool、人工智能、大语言模型、提示词工程、AI 安全相关背景、功能和讨论点。
+30. [Kimi 向科学家提供最高 2 万美元 API 免费额度](https://www.solidot.org/story?sid=86015) - 28 pts
+   - 内容介绍：这篇来自 solidot.org 的帖子主要介绍了：Kimi 向科学家提供最高 2 万美元 API 免费额度相关内容，聚焦人工智能相关背景、功能和讨论点。
 
 ## Research Papers
 
-1. [Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1)
+1. [Enhancing Maritime Domain Awareness using Latent Space Representations](https://arxiv.org/abs/2611.34899v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Sachin Gupta
-   - Categories: cs.LG, cs.AI, cs.CL
-   - Score: 219 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31657v1
-   - PDF: https://arxiv.org/pdf/2610.31657v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Cost-Aware%20Abstention%20for%20LLM-Based%20IT%20Ticket%20Classification
-
-2. [MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models](https://arxiv.org/abs/2610.31478v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
-   - Authors: Khaled Waleed Dawoud, Muhammad Zaigham Zaheer, Khan Muhammad, Muhammad Haris Khan
+   - Authors: Rikard Vinge, Miguel A. Belenguer-Plomer, Isabelle Wittmann, Octavian Dumitru, Michele Lazzarini, Sergio Albani, Conrad M Albrecht
    - Categories: cs.CV, cs.AI, cs.LG
-   - Score: 219 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31478v1
-   - PDF: https://arxiv.org/pdf/2610.31478v1
-   - Google Scholar: https://scholar.google.com/scholar?q=MoG-VLM%3A%20Efficient%20Video%20Anomaly%20Detection%20through%20Motion-Guided%20Vision-Language%20Models
+   - Score: 214 | Why: fresh paper, matched RAG, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.34899v1
+   - PDF: https://arxiv.org/pdf/2611.34899v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Enhancing%20Maritime%20Domain%20Awareness%20using%20Latent%20Space%20Representations
 
-3. [Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination](https://arxiv.org/abs/2610.31586v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：大语言模型相关方法，关注模型能力、训练策略、推理表现和落地应用。
-   - Authors: Miguel Fernandez-de-Retana, Unai Zulaika, Ruben Sanchez-Corcuera, Aritz Bilbao-Jayo, Aitor Almeida
-   - Categories: cs.CL, cs.AI, cs.CY, cs.LG
-   - Score: 217 | Why: fresh paper, matched LLM, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31586v1
-   - PDF: https://arxiv.org/pdf/2610.31586v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Would%20an%20LLM%20Match%20into%20a%20Residency%3F%20Uncertainty%2C%20Reasoning%20and%20Image%20Use%20of%20Open%20Language%20Models%20on%20the%20Spanish%20MIR%20Examination
+2. [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Dezhi Luo, Fengyuan Yu, Haotian Zhang, Zehong Zhao, Ran Ji, Siyuan An, Huayi Qin, Qingying Gao, Zhongang Cai, Lei Yang, Ziqi Huang, Ruisi Wang, Maijunxian Wang, Hokin Deng
+   - Categories: cs.CV, cs.AI, cs.LG, cs.MM
+   - Score: 213 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.34813v1
+   - PDF: https://arxiv.org/pdf/2611.34813v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Solve%20Vision%20with%20Code%3A%20Coding%20Agents%20Are%20Stronger%20Visual%20Reasoners%20Than%20Video%20Models
 
-4. [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](https://arxiv.org/abs/2610.31670v1)
+3. [When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL](https://arxiv.org/abs/2611.34777v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：AI 安全与模型评测方向，关注对齐、可靠性、风险识别和评测基准。
+   - Authors: Haowen Hou, Yicheng Liu, Zhen Huang, Jiaqi Wang
+   - Categories: cs.LG, cs.AI, cs.CL
+   - Score: 212 | Why: fresh paper, matched AI agent, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.34777v1
+   - PDF: https://arxiv.org/pdf/2611.34777v1
+   - Google Scholar: https://scholar.google.com/scholar?q=When%20Every%20Rollout%20Fails%3A%20Splicing%20Learner-Conditioned%20Options%20into%20Long-Horizon%20Agent%20RL
+
+4. [Diverse Alternative Reasoning Traces for Hard Math Problems](https://arxiv.org/abs/2611.34928v1)
+   - 内容介绍：这篇 arXiv 论文主要介绍了：面向科研文献综述的 RAG/Agent 方法，关注检索增强、引用依据和论文阅读流程。
+   - Authors: Lukas Aichberger, Adam Golinski, Arno Blaas, Arwen Bradley, Jacob Springer, Mehrdad Farajtabar, Michael Kirchhof, Sinead Williamson
+   - Categories: cs.CL, cs.AI, cs.LG
+   - Score: 211 | Why: fresh paper, matched LLM, matched AI safety, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.34928v1
+   - PDF: https://arxiv.org/pdf/2611.34928v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Diverse%20Alternative%20Reasoning%20Traces%20for%20Hard%20Math%20Problems
+
+5. [Can image generation help visual reasoning? An empirical study](https://arxiv.org/abs/2611.34935v1)
    - 内容介绍：这篇 arXiv 论文主要介绍了：多模态模型的训练与应用，关注视觉语言理解、跨模态推理和评测方法。
-   - Authors: Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei
-   - Categories: cs.CV, cs.LG, cs.RO
-   - Score: 211 | Why: fresh paper, matched LLM, matched Multimodal, matched AI safety, CS AI category
-   - arXiv: https://arxiv.org/abs/2610.31670v1
-   - PDF: https://arxiv.org/pdf/2610.31670v1
-   - Google Scholar: https://scholar.google.com/scholar?q=Sensorimotor%20Alignment%3A%20A%20Platonic%20Proxy%20for%20Embodied%20Policy%20Success
-
-5. [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](https://arxiv.org/abs/2610.31656v1)
-   - 内容介绍：这篇 arXiv 论文主要介绍了：AI Agent 方法，关注任务规划、工具调用、多步骤推理和实际应用场景。
-   - Authors: Ali Najar, Hosein Hasani, Amir Kooshan Fattah, Yasamin Rajabi, Mahdieh Soleymani Baghshah
-   - Categories: cs.LG, cs.AI
-   - Score: 211 | Why: fresh paper, matched AI agent, CS AI category, has PDF
-   - arXiv: https://arxiv.org/abs/2610.31656v1
-   - PDF: https://arxiv.org/pdf/2610.31656v1
-   - Google Scholar: https://scholar.google.com/scholar?q=METTA%3A%20Memory-Enhanced%20Test-Time%20Adaptation%20for%20Meta-Reinforcement%20Learning
+   - Authors: Xueyang Yu, Yifan Jing, Taiming Lu, Linrong Cai, Zhipeng Cai, Yunyang Xiong, Gabriel Sarch, Zhuang Liu
+   - Categories: cs.LG, cs.CL, cs.CV
+   - Score: 208 | Why: fresh paper, matched LLM, matched Multimodal, CS AI category, has PDF
+   - arXiv: https://arxiv.org/abs/2611.34935v1
+   - PDF: https://arxiv.org/pdf/2611.34935v1
+   - Google Scholar: https://scholar.google.com/scholar?q=Can%20image%20generation%20help%20visual%20reasoning%3F%20An%20empirical%20study
 
 
 ## 网页源覆盖
 
-- GitHub Trending: ok (10 parsed)（10 条）
+- GitHub Trending: ok (16 parsed)（16 条）
 - HN Front Page: ok (30 parsed)（30 条）
-- HF Daily Papers: ok (50 parsed)（50 条）
-- QbitAI: ok (10 parsed)（10 条）
+- HF Daily Papers: ok (22 parsed)（22 条）
+- QbitAI: unreachable: fetch failed（0 条）
 - Solidot: ok (20 parsed)（20 条）
-- papers.cool: ok (117 parsed)（117 条）
+- papers.cool: ok (116 parsed)（116 条）
 
 ## 主题动量（来源份额 7 日变化）
 
-- Hacker News：8 席 · ↓ -0.133
-- GitHub：8 席 · ↓ -0.229
-- GitHub Trending：6 席 · ↑ +0.2
+- GitHub：8 席 · 新增来源
+- Hacker News：6 席 · ↑ +0.062
+- GitHub Trending：6 席 · ↑ +0.233
+- Semantic Scholar：3 席 · 新增来源
 - arXiv：3 席 · → 持平
-- HF Papers：2 席 · ↑ +0.067
-- QbitAI：1 席 · ↑ +0.033
-- papers.cool：1 席 · ↑ +0.033
-- Solidot：1 席 · 新增来源
+- HF Papers：2 席 · → 持平
+- papers.cool：1 席 · → 持平
+- Solidot：1 席 · → 持平
 
 
 ## 执行告警
 
-- 源失败: Semantic Scholar: Semantic Scholar queries failed: LLM: HTTP 429; RAG: HTTP 429; AI agent: HTTP 429; AI coding: HTTP 429; Multimodal: HTTP 429; AI safety: HTTP 429
+- 查询告警: GitHub: ai-coding: HTTP 403; Semantic Scholar: LLM: HTTP 429; Semantic Scholar: RAG: HTTP 429; Semantic Scholar: AI coding: HTTP 429; Semantic Scholar: Multimodal: HTTP 429; Semantic Scholar: AI safety: HTTP 429
